@@ -1,0 +1,103 @@
+---
+---
+@import "{{ site.theme }}";
+
+/* ==========================================================================
+   FINE-TUNING GRAFICO PER RELAZIONE ACCADEMICA
+   ========================================================================== */
+
+/* 1. TIPOGRAFIA: Font Serif per una lettura più confortevole della prosa */
+body {
+  font-family: "Georgia", "Times New Roman", serif;
+  color: #2c3e50; /* Grigio antracite scuro, meno aggressivo del nero puro */
+  line-height: 1.7; /* Interlinea aumentata per ridurre l'affaticamento visivo */
+}
+
+/* 2. HEADER: Palette elegante ispirata ai colori accademici (Bordeaux/Unibo) */
+.page-header {
+  background-image: linear-gradient(135deg, #721c24, #a94442); /* Sfumatura bordeaux scuro */
+  padding: 3.5rem 2rem; /* Riduce leggermente l'altezza dell'header per dare spazio al testo */
+}
+
+.project-title {
+  font-family: "Georgia", serif;
+  font-weight: 700;
+  font-size: 2.5rem;
+}
+
+.project-tagline {
+  font-style: italic;
+  opacity: 0.9;
+  font-size: 1.15rem;
+}
+
+/* Modifica i bottoni "View on GitHub" per abbinarli alla nuova palette */
+.btn {
+  color: rgba(255, 255, 255, 0.85);
+  background-color: rgba(255, 255, 255, 0.08);
+  border-color: rgba(255, 255, 255, 0.3);
+  transition: all 0.2s ease-in-out;
+}
+.btn:hover {
+  color: #fff;
+  background-color: rgba(255, 255, 255, 0.2);
+  border-color: rgba(255, 255, 255, 0.5);
+}
+
+/* 3. CORPO DEL TESTO E TITOLI */
+.main-content {
+  max-width: 48rem; /* Stringe leggermente la colonna del testo (ottimale per la lettura) */
+  font-size: 1.1rem;
+}
+
+/* Stile per i titoli di sezione (H2) */
+.main-content h2 {
+  color: #721c24; /* Bordeaux coordinato con l'header */
+  border-bottom: 1px solid #eee;
+  padding-bottom: 0.3rem;
+  margin-top: 2.5rem;
+  font-weight: 600;
+}
+
+/* Stile per i sotto-titoli (H3 o elenchi puntati importanti) */
+.main-content h3 {
+  color: #962d35;
+  margin-top: 1.8rem;
+}
+
+/* Evidenzia i blocchi di citazione (Blockquotes) se deciderai di usarli */
+blockquote {
+  border-left: 4px solid #a94442;
+  color: #666;
+  font-style: italic;
+  background-color: #fcf8f2; /* Sfondo leggermente avorio/carta antica */
+  padding: 0.5rem 1rem;
+}
+
+/* 4. NOTE A PIÈ DI PAGINA (Footnotes)
+   GitHub Pages le genera alla fine. Rendiamole eleganti e discrete */
+.footnotes {
+  font-size: 0.9rem;
+  color: #555;
+  border-top: 2px solid #721c24;
+  margin-top: 4rem;
+  padding-top: 1.5rem;
+}
+
+.footnotes ol {
+  padding-left: 1.5rem;
+}
+
+.footnotes li {
+  margin-bottom: 0.5rem;
+}
+
+/* Link di ritorno alla nota (la freccetta ↩) */
+.footnote-backref {
+  color: #a94442;
+  text-decoration: none;
+  font-weight: bold;
+}
+.footnote-backref:hover {
+  text-decoration: underline;
+}
