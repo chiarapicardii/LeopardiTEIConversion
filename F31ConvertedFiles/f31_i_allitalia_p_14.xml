@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>I. ALL'ITALIA.</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoded by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Progetto Canti - Edizione F31</publisher>
+          <date when="2024">2024</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>Edizione Fiorentina - F31 (1831)</bibl>
+        <listWit>
+          <witness xml:id="B24">B24</witness>
+          <witness xml:id="B26">B26</witness>
+          <witness xml:id="F31">F31</witness>
+          <witness xml:id="N35">N35</witness>
+          <witness xml:id="R18">R18</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <variantEncoding method="parallel-segmentation" location="internal"/>
+      </encodingDesc>
+    </teiHeader>
+
+  <facsimile>
+    <surface xml:id="F31014">
+      <graphic url="./assets/img/F31014.JPG"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="poem" xml:id="f31_i_allitalia_p_14">
+        <pb n="14" facs="#F31014"/>
+                <head>I. ALL'ITALIA.</head>
+        <lg>
+<l n="65">O <app><lem wit="#F31">tessaliche strette,</lem><rdg wit="#B24 #B26 #N35 #R18">Tessaliche strette,</rdg></app></l>
+        <l n="66">Dove la Persia <app><lem wit="#F31">e ’l</lem><rdg wit="#B24 #B26 #N35 #R18">E il fato</rdg></app> fato assai men forte</l>
+        <l n="67">Fu di poch’alme franche e <app><lem wit="#F31">generose.</lem><rdg wit="#B24 #B26 #N35 #R18">Generose!</rdg></app></l>
+        <l n="68">Io credo che le piante e i sassi e l’<app><lem wit="#F31">onda</lem><rdg wit="#B24 #B26 #N35 #R18">Onda</rdg></app></l>
+        <l n="69">E le montagne vostre al passeggere</l>
+        <l n="70">Con indistinta voce</l>
+        <l n="71">Narrin siccome tutta quella sponda</l>
+        <l n="72">Coprìr le invitte schiere</l>
+        <l n="73">De’ corpi ch’<app><lem wit="#F31">a la</lem><rdg wit="#B24 #B26 #N35 #R18">Alla Grecia</rdg></app> Grecia eran devoti.</l>
+        <l n="74">Allor, vile e feroce,</l>
+        <l n="75">Serse per l’Ellesponto si <app><lem wit="#F31">fuggia,</lem><rdg wit="#B24 #B26 #N35 #R18">Fuggia,</rdg></app></l>
+        <l n="76">Fatto ludibrio <app><lem wit="#F31">a gli</lem><rdg wit="#B24 #B26 #N35 #R18">Agli ultimi</rdg></app> ultimi <app><lem wit="#F31">nepoti;</lem><rdg wit="#B24 #B26 #N35 #R18">Nepoti;</rdg></app></l>
+        <l n="77">E sul colle d’Antela, ove morendo</l>
+        <l n="78">Si sottrasse da morte il santo <app><lem wit="#F31">stuolo,</lem><rdg wit="#B24 #B26 #N35 #R18">Stuolo,</rdg></app></l>
+        <l n="79">Simonide (<app><lem wit="#F31">salia,</lem><rdg wit="#B24 #B26 #N35 #R18">Salia,</rdg></app></l>
+        <l n="80">Guardando l’etra e la marina <app><lem wit="#F31">e ’l</lem><rdg wit="#B24 #B26 #N35 #R18">E il suolo</rdg></app> suolo.</l>
+        <l n="81">E di <app><lem wit="#F31">lagrime</lem><rdg wit="#B24 #B26 #N35 #R18">Lacrime sparso</rdg></app> sparso ambe le <app><lem wit="#F31">guance,</lem><rdg wit="#B24 #B26 #N35 #R18">Guance,</rdg></app></l>
+        <l n="82"><app><lem wit="#F31">E ’l petto ansante,</lem><rdg wit="#B24 #B26 #N35 #R18">E il petto ansante</rdg></app> e vacillante il piede,</l>
+        <l n="83">Toglieasi in man la lira:</l>
+        <l n="84">Beatissimi <app><lem wit="#F31">voi,</lem><rdg wit="#B24 #B26 #N35 #R18">Voi,</rdg></app></l>
+        <l n="85">Ch’offriste il petto <app><lem wit="#F31">a le</lem><rdg wit="#B24 #B26 #N35 #R18">Alle nemiche</rdg></app> nemiche lance</l>
+        <l n="86">Per amor di costei ch’al <app><lem wit="#F31">Sol</lem><rdg wit="#B24 #B26 #N35 #R18">Sol vi</rdg></app> vi <app><lem wit="#F31">diede;</lem><rdg wit="#B24 #B26 #N35 #R18">Diede;</rdg></app></l>
+        <l n="87">Voi che la Grecia cole, <app><lem wit="#F31">e ’l</lem><rdg wit="#B24 #B26 #N35 #R18">E il mondo</rdg></app> mondo <app><lem wit="#F31">ammira.</lem><rdg wit="#B24 #B26 #N35 #R18">Ammira.</rdg></app></l>
+        <l n="88"><app><lem wit="#F31">Ne l’armi e ne’ perigli</lem><rdg wit="#B24 #B26 #N35 #R18">Nell’armi e ne’ perigli</rdg></app> </poem></l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

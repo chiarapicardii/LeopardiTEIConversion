@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>CANTO XVIII Il risorgimento</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoded by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Progetto Canti - Edizione F31</publisher>
+          <date when="2024">2024</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>Edizione Fiorentina - F31 (1831)</bibl>
+        <listWit>
+          <witness xml:id="B24">B24</witness>
+          <witness xml:id="B26">B26</witness>
+          <witness xml:id="F31">F31</witness>
+          <witness xml:id="N35">N35</witness>
+          <witness xml:id="R18">R18</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <variantEncoding method="parallel-segmentation" location="internal"/>
+      </encodingDesc>
+    </teiHeader>
+
+  <facsimile>
+    <surface xml:id="F31130">
+      <graphic url="./assets/img/F31130.JPG"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="poem" xml:id="f31_canto_xviii_il_risorgimento_p_130">
+        <pb n="130" facs="#F31130"/>
+                <head>CANTO XVIII Il risorgimento</head>
+        <lg>
+<l n="113">Non l’<app><lem wit="#F31">estirpar: non</lem><rdg wit="#B24 #B26 #N35 #R18">annullàr: non</rdg></app> vinsela</l>
+        <l n="114">Il fato e la <app><lem wit="#F31">sventura:</lem><rdg wit="#B24 #B26 #N35 #R18">sventura;</rdg></app></l>
+        <l n="115">Non <app><lem wit="#F31">la domò la dura</lem><rdg wit="#B24 #B26 #N35 #R18">con la vista impura L’infausta</rdg></app></l>
+        <l n="116"><app><lem wit="#F31">Tua forza, o</lem><rdg wit="#B24 #B26 #N35 #R18">con la vista impura L’infausta</rdg></app> verità.</l>
+        <l n="117"><app><lem wit="#F31">Da le</lem><rdg wit="#B24 #B26 #N35 #R18">Dalle mie</rdg></app> mie vaghe immagini</l>
+        <l n="118"><app><lem wit="#F31">Ben so che il ver</lem><rdg wit="#B24 #B26 #N35 #R18">So ben ch’ella</rdg></app> discorda:</l>
+        <l n="119">So che natura è sorda,</l>
+        <l n="120">Che miserar non sa.</l>
+        <l n="121"><app><lem wit="#F31">Del nostro ben sollecita</lem><rdg wit="#B24 #B26 #N35 #R18">Che non del ben sollecita Fu, ma dell’</rdg></app></l>
+        <l n="122"><app><lem wit="#F31">Non fu; de l’</lem><rdg wit="#B24 #B26 #N35 #R18">Che non del ben sollecita Fu, ma dell’</rdg></app> esser solo:</l>
+        <l n="123"><app><lem wit="#F31">Fuor che serbarci</lem><rdg wit="#B24 #B26 #N35 #R18">Purchè ci serbi</rdg></app> al duolo,</l>
+        <l n="124">Or d’altro a lei non cal.</l>
+        <l n="125">So che pietà fra gli uomini</l>
+        <l n="126">Il misero non trova;</l>
+        <l n="127">Che lui, fuggendo, a prova</l>
+        <l n="128">Schernisce ogni mortal.</l>
+        <l n="129">Che ignora il tristo secolo</l>
+        <l n="130">Gl’ingegni e le virtudi;</l>
+        <l n="131">Che manca <app><lem wit="#F31">a i</lem><rdg wit="#B24 #B26 #N35 #R18">ai degni</rdg></app> degni studi</l>
+        <l n="132">L’ignuda gloria ancor.</l>
+        <l n="133">E voi, pupille tremule,</l>
+        <l n="134">Voi, raggio sovrumano,</l>
+        <l n="135">So che splendete invano,</l>
+        <l n="136">Che in voi non brilla amor. </poem></l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

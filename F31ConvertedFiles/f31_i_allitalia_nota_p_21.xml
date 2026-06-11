@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>I. ALL'ITALIA. (NOTA.)</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoded by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Progetto Canti - Edizione F31</publisher>
+          <date when="2024">2024</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>Edizione Fiorentina - F31 (1831)</bibl>
+        <listWit>
+          <witness xml:id="B24">B24</witness>
+          <witness xml:id="B26">B26</witness>
+          <witness xml:id="F31">F31</witness>
+          <witness xml:id="N35">N35</witness>
+          <witness xml:id="R18">R18</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <variantEncoding method="parallel-segmentation" location="internal"/>
+      </encodingDesc>
+    </teiHeader>
+
+  <facsimile>
+    <surface xml:id="F31021">
+      <graphic url="./assets/img/F31021.JPG"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="note" xml:id="f31_i_allitalia_nota_p_21" corresp="#f31_i_allitalia_nota">
+        <pb n="21" facs="#F31021"/>
+        <head>NOTA</head>
+                <p>tempo, e con questo mezzo, salva la disuguaglianza degl’ingegni, tornare a fare la sua canzone; della quale io porto questo parere, che o fosse maravigliosa, o la fama di Simonide fosse vana e gli scritti perissero con poca ingiuria." <hi rend="italic">Lettera de-</hi> <hi rend="italic">dicatoria premessa alle edizioni di Roma</hi> <hi rend="italic">e di Bologna.</hi> <</p>
+      </div>
+    </body>
+  </text>
+</TEI>

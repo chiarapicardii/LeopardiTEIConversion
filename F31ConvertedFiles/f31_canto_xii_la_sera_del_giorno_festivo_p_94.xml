@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>CANTO XII. La sera del giorno festivo</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoded by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Progetto Canti - Edizione F31</publisher>
+          <date when="2024">2024</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>Edizione Fiorentina - F31 (1831)</bibl>
+        <listWit>
+          <witness xml:id="B24">B24</witness>
+          <witness xml:id="B26">B26</witness>
+          <witness xml:id="F31">F31</witness>
+          <witness xml:id="N35">N35</witness>
+          <witness xml:id="R18">R18</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <variantEncoding method="parallel-segmentation" location="internal"/>
+      </encodingDesc>
+    </teiHeader>
+
+  <facsimile>
+    <surface xml:id="F31094">
+      <graphic url="./assets/img/F31094.JPG"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="poem" xml:id="f31_canto_xii_la_sera_del_giorno_festivo_p_94">
+        <pb n="94" facs="#F31094"/>
+                <head>CANTO XII. La sera del giorno festivo</head>
+        <lg>
+<l n="18">Prendi riposo; e forse ti rimembra</l>
+        <l n="19">In sogno a quanti oggi piacesti, e quanti</l>
+        <l n="20">Piacquero a te: <app><lem wit="#F31">non io certo giammai</lem><rdg wit="#B24 #B26 #N35 #R18">Non io, non già, ch’io speri,</rdg></app></l>
+        <l n="21"><app><lem wit="#F31">Ti ricorro al pensiero.</lem><rdg wit="#B24 #B26 #N35 #R18">al pensier ti ricorro.</rdg></app> Intanto io chieggo</l>
+        <l n="22">Quanto a viver mi resti, e qui per terra</l>
+        <l n="23">Mi getto, e grido, e fremo. Oh giorni orrendi</l>
+        <l n="24">In così verde etate! Ahi, per la via</l>
+        <l n="25"><app><lem wit="#F31">Sento</lem><rdg wit="#B24 #B26 #N35 #R18">Odo</rdg></app> non lunge il solitario canto</l>
+        <l n="26"><app><lem wit="#F31">De l’</lem><rdg wit="#B24 #B26 #N35 #R18">Dell’</rdg></app> artigian, che riede a tarda notte,</l>
+        <l n="27">Dopo i sollazzi, al suo povero ostello;</l>
+        <l n="28">E fieramente mi si stringe il <app><lem wit="#F31">core,</lem><rdg wit="#B24 #B26 #N35 #R18">il core,</rdg></app></l>
+        <l n="29">A pensar come tutto al mondo <app><lem wit="#F31">passa</lem><rdg wit="#B24 #B26 #N35 #R18">passa,</rdg></app></l>
+        <l n="30">E quasi orma non lascia. Ecco è fuggito</l>
+        <l n="31">Il dì festivo, ed al festivo il giorno</l>
+        <l n="32">Volgar succede, e <app><lem wit="#F31">si travolge</lem><rdg wit="#B24 #B26 #N35 #R18">se ne porta</rdg></app> il tempo</l>
+        <l n="33">Ogni umano accidente. Or dov’è <app><lem wit="#F31">’l</lem><rdg wit="#B24 #B26 #N35 #R18">il suono</rdg></app> suono</l>
+        <l n="34">Di que’ popoli antichi? or dov’è <app><lem wit="#F31">’l</lem><rdg wit="#B24 #B26 #N35 #R18">il grido</rdg></app> grido</l>
+        <l n="35">De’ nostri avi famosi, e <app><lem wit="#F31">’l</lem><rdg wit="#B24 #B26 #N35 #R18">il grande</rdg></app> grande impero</l>
+        <l n="36">Di quella Roma, e l’armi, e <app><lem wit="#F31">’l</lem><rdg wit="#B24 #B26 #N35 #R18">il fragorio</rdg></app> fragorio</l>
+        <l n="37">Che n’andò per la terra e l’oceano?</l>
+        <l n="38">Tutto è pace e silenzio, e tutto posa</l>
+        <l n="39"><app><lem wit="#F31">’l</lem><rdg wit="#B24 #B26 #N35 #R18">Il mondo,</rdg></app> mondo, e più di lor non si <app><lem wit="#F31">favella</lem><rdg wit="#B24 #B26 #N35 #R18">ragiona</rdg></app>.</l>
+        <l n="40"><app><lem wit="#F31">Ne la</lem><rdg wit="#B24 #B26 #N35 #R18">Nella mia prima</rdg></app> mia prima età, quando s’aspetta</l>
+        <l n="41">Bramosamente <app><lem wit="#F31">il</lem><rdg wit="#B24 #B26 #N35 #R18">il dì</rdg></app> dì festivo, or poscia</l>
+        <l n="42">Ch’egli era spento, io doloroso, in veglia, </poem></l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

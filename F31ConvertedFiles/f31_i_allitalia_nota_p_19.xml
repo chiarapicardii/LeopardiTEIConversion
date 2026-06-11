@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>I. ALL'ITALIA. (NOTA.)</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoded by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Progetto Canti - Edizione F31</publisher>
+          <date when="2024">2024</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>Edizione Fiorentina - F31 (1831)</bibl>
+        <listWit>
+          <witness xml:id="B24">B24</witness>
+          <witness xml:id="B26">B26</witness>
+          <witness xml:id="F31">F31</witness>
+          <witness xml:id="N35">N35</witness>
+          <witness xml:id="R18">R18</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <variantEncoding method="parallel-segmentation" location="internal"/>
+      </encodingDesc>
+    </teiHeader>
+
+  <facsimile>
+    <surface xml:id="F31019">
+      <graphic url="./assets/img/F31019.JPG"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="note" xml:id="f31_i_allitalia_nota_p_19" corresp="#f31_i_allitalia_nota">
+        <pb n="19" facs="#F31019"/>
+        <head>NOTA</head>
+                <p>"Il successo delle Termopile fu celebrato veramente da quello che in essa Canzone s’introduce a poetare, cioè da Simonide, tenuto dall’antichità fra gli ottimi poeti lirici, vissuto, che più rileva, ai medesimi tempi della scesa di Serse, e greco di patria. Questo suo fatto, lasciando l’epitaffio riportato da Cicerone e da altri, si dimostra da quello che scrive Diodoro nell’undecimo libro, dove recita anche certe parole d’esso poeta in questo proposito, due o tre delle quali sono espresse nel quinto verso dell’ultima strofe. Rispetto dunque alle predette circostanze del tempo e della persona, e d’altra parte riguardando alle qualità della materia per se medesima, io non credo che mai si trovasse argomento più degno di poema lirico e più fortunato di questo che fu scelto o più veramente sortito da Simonide. Perocchè se l’impresa delle Termo</p>
+      </div>
+    </body>
+  </text>
+</TEI>

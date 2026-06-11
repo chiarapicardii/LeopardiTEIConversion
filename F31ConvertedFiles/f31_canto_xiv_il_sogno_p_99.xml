@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>IL SOGNO.</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoded by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Progetto Canti - Edizione F31</publisher>
+          <date when="2024">2024</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>Edizione Fiorentina - F31 (1831)</bibl>
+        <listWit>
+          <witness xml:id="B24">B24</witness>
+          <witness xml:id="B26">B26</witness>
+          <witness xml:id="F31">F31</witness>
+          <witness xml:id="N35">N35</witness>
+          <witness xml:id="R18">R18</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <variantEncoding method="parallel-segmentation" location="internal"/>
+      </encodingDesc>
+    </teiHeader>
+
+  <facsimile>
+    <surface xml:id="F31099">
+      <graphic url="./assets/img/F31099.JPG"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="poem" xml:id="f31_canto_xiv_il_sogno_p_99">
+        <pb n="99" facs="#F31099"/>
+                <head>XIV. IL SOGNO.</head>
+        <lg>
+<l n="1">Era il mattino, e tra le chiuse imposte</l>
+        <l n="2">Per lo balcone insinuava il sole</l>
+        <l n="3"><app><lem wit="#F31">Ne la</lem><rdg wit="#B24 #B26 #N35 #R18">Nella mia cieca stanza</rdg></app> mia cieca stanza il primo albore;</l>
+        <l n="4">Quando in sul tempo che più leve il sonno</l>
+        <l n="5">E più soave le pupille adombra,</l>
+        <l n="6">Stettemi allato e riguardommi in viso</l>
+        <l n="7">Il simulacro di colei che amore</l>
+        <l n="8">Prima insegnommi, e poi lasciommi in pianto.</l>
+        <l n="9">Morta non mi parea, ma <app><lem wit="#F31">trista</lem><rdg wit="#B24 #B26 #N35 #R18">trista,</rdg></app> e quale</l>
+        <l n="10"><app><lem wit="#F31">De gl’</lem><rdg wit="#B24 #B26 #N35 #R18">Degl’infelici</rdg></app> infelici è la sembianza. Al capo</l>
+        <l n="11">Appressommi la destra, e sospirando,</l>
+        <l n="12">Vivi, mi disse, e ricordanza alcuna</l>
+        <l n="13">Serbi di noi? Donde, risposi, e come</l>
+        <l n="14"><app><lem wit="#F31">Vieni</lem><rdg wit="#B24 #B26 #N35 #R18">Vieni,</rdg></app> o cara beltà? Quanto, deh quanto</l>
+        <l n="15">Di te mi duolse e duol: nè mi credea</l>
+        <l n="16">Che risaper tu lo dovessi e <app><lem wit="#F31">questo</lem><rdg wit="#B24 #B26 #N35 #R18">questa facea</rdg></app></l>
+        <l n="17">Facea più sconsolato il dolor mio.</l>
+        <l n="18">Ma <app><lem wit="#F31">se’</lem><rdg wit="#B24 #B26 #N35 #R18">sei tu per lasciarmi</rdg></app> tu per lasciarmi un’altra volta? </poem></l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

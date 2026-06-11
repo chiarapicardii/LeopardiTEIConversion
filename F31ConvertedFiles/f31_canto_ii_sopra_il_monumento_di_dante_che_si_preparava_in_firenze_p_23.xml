@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>II.</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoded by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Progetto Canti - Edizione F31</publisher>
+          <date when="2024">2024</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>Edizione Fiorentina - F31 (1831)</bibl>
+        <listWit>
+          <witness xml:id="B24">B24</witness>
+          <witness xml:id="F31">F31</witness>
+          <witness xml:id="N35">N35</witness>
+          <witness xml:id="R18">R18</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <variantEncoding method="parallel-segmentation" location="internal"/>
+      </encodingDesc>
+    </teiHeader>
+
+  <facsimile>
+    <surface xml:id="F31023">
+      <graphic url="./assets/img/F31023.JPG"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="poem" xml:id="f31_canto_ii_sopra_il_monumento_di_dante_che_si_preparava_in_firenze_p_23">
+        <pb n="23" facs="#F31023"/>
+                <head>CANTO II. Sopra il monumento di Dante che si preparava in Firenze</head>
+        <lg>
+<l n="1">Perchè le nostre genti</l>
+        <l n="2">Pace sotto le bianche ali raccolga,</l>
+        <l n="3">Non fien da’ lacci sciolte</l>
+        <l n="4"><app><lem wit="#F31">De l’antico</lem><rdg wit="#B24 #N35 #R18">Dell’antico</rdg></app> sopor l’itale menti</l>
+        <l n="5">S’<app><lem wit="#F31">a i</lem><rdg wit="#B24 #N35 #R18">S’ai</rdg></app> <app><lem wit="#F31">patri</lem><rdg wit="#B24 #N35 #R18">patrii esempi</rdg></app> esempi <app><lem wit="#F31">de la</lem><rdg wit="#B24 #N35 #R18">della prisca</rdg></app> prisca etade</l>
+        <l n="6">Questa terra fatal non si rivolga.</l>
+        <l n="7">O Italia, a cor ti stia</l>
+        <l n="8">Far <app><lem wit="#F31">a i</lem><rdg wit="#B24 #N35 #R18">ai passati</rdg></app> passati <app><lem wit="#F31">onor,</lem><rdg wit="#B24 #N35 #R18">onor;</rdg></app> che d’altrettali</l>
+        <l n="9">Oggi vedove son le tue contrade,</l>
+        <l n="10">Nè <app><lem wit="#F31">c’è</lem><rdg wit="#B24 #N35 #R18">v’è</rdg></app> chi d’onorar ti si convegna.</l>
+        <l n="11">Volgiti indietro, e guarda, o patria mia,</l>
+        <l n="12">Quella schiera infinita d’immortali,</l>
+        <l n="13">E piangi e di te stessa ti disdegna;</l>
+        <l n="14"><app><lem wit="#F31">Che se non piangi, ogni speranza è stolta:</lem><rdg wit="#B24 #N35 #R18">Che senza sdegno omai la doglia è stolta:</rdg></app> </poem></l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>CANTO X. Il primo amore.</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoded by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Progetto Canti - Edizione F31</publisher>
+          <date when="2024">2024</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>Edizione Fiorentina - F31 (1831)</bibl>
+        <listWit>
+          <witness xml:id="B26">B26</witness>
+          <witness xml:id="N35">N35</witness>
+          <witness xml:id="F31">F31</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <variantEncoding method="parallel-segmentation" location="internal"/>
+      </encodingDesc>
+    </teiHeader>
+
+  <facsimile>
+    <surface xml:id="F31088">
+      <graphic url="./assets/img/F31088.JPG"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="poem" xml:id="f31_canto_x_il_primo_amore_p_88">
+        <pb n="88" facs="#F31088"/>
+                <head>CANTO X. Il primo amore.</head>
+        <lg>
+<l n="67"><app><lem wit="#F31">Ned’io</lem><rdg wit="#B26 #N35">Ned io</rdg></app> ti conoscea, garzon di nove</l>
+        <l n="68">E nove Soli, in questo a pianger nato</l>
+        <l n="69">Quando facevi, amor, le prime prove.</l>
+        <l n="70">Quando in ispregio ogni piacer, nè grato</l>
+        <l n="71">M’era <app><lem wit="#F31">de gli astri</lem><rdg wit="#B26 #N35">degli astri</rdg></app> il riso, o <app><lem wit="#F31">de l’aurora</lem><rdg wit="#B26 #N35">dell’aurora</rdg></app></l>
+        <l n="72">Queta il silenzio, o il verdeggiar del prato.</l>
+        <l n="73">Anche di gloria amor taceami allora</l>
+        <l n="74">Nel petto, cui scaldar tanto solea,</l>
+        <l n="75"><app><lem wit="#F31">Chè di beltade</lem><rdg wit="#B26 #N35">Che di beltade</rdg></app> amor vi fea dimora.</l>
+        <l n="76">Nè <app><lem wit="#F31">gli occhi a i noti</lem><rdg wit="#B26 #N35">gli occhi ai noti</rdg></app> studi io rivolgea,</l>
+        <l n="77">E quelli m’apparian vani per cui</l>
+        <l n="78">Vano ogni altro desir creduto avea.</l>
+        <l n="79">Deh come mai da me sì vario <app><lem wit="#F31">fui;</lem><rdg wit="#B26 #N35">sì vario fui,</rdg></app></l>
+        <l n="80">E tanto amor mi tolse un altro amore?</l>
+        <l n="81">Deh quanto, in verità, vani siam nui!</l>
+        <l n="82">Solo il mio cor piaceami, e col mio <app><lem wit="#F31">core,</lem><rdg wit="#B26 #N35">e col mio core</rdg></app></l>
+        <l n="83">In un <app><lem wit="#F31">perenne</lem><rdg wit="#B26 #N35">perenne ragionar</rdg></app> ragionar sepolto</l>
+        <l n="84"><app><lem wit="#F31">A la</lem><rdg wit="#B26 #N35">Alla guardia</rdg></app> guardia seder del mio dolore.</l>
+        <l n="85">E l’occhio a terra chino o in se raccolto</l>
+        <l n="86">Di riscontrarsi fuggitivo e vago</l>
+        <l n="87">Nè in leggiadro soffria nè in turpe volto:</l>
+        <l n="88"><app><lem wit="#F31">Chè la illibata,</lem><rdg wit="#B26 #N35">Che la illibata,</rdg></app> la candida imago</l>
+        <l n="89"><app><lem wit="#F31">Contaminar temea sculta</lem><rdg wit="#B26 #N35">Turbare egli temea pinta</rdg></app> nel <app><lem wit="#F31">seno;</lem><rdg wit="#B26 #N35">nel seno,</rdg></app></l>
+        <l n="90">Come <app><lem wit="#F31">per soffio tersa</lem><rdg wit="#B26 #N35">all’aure si turba</rdg></app> onda di lago. </poem></l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

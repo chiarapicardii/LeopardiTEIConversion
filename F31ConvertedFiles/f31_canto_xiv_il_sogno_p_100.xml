@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>CANTO XIV. Il sogno</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoded by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Progetto Canti - Edizione F31</publisher>
+          <date when="2024">2024</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>Edizione Fiorentina - F31 (1831)</bibl>
+        <listWit>
+          <witness xml:id="B24">B24</witness>
+          <witness xml:id="B26">B26</witness>
+          <witness xml:id="F31">F31</witness>
+          <witness xml:id="N35">N35</witness>
+          <witness xml:id="R18">R18</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <variantEncoding method="parallel-segmentation" location="internal"/>
+      </encodingDesc>
+    </teiHeader>
+
+  <facsimile>
+    <surface xml:id="F31100">
+      <graphic url="./assets/img/F31100.JPG"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="poem" xml:id="f31_canto_xiv_il_sogno_p_100">
+        <pb n="100" facs="#F31100"/>
+                <head>CANTO XIV. Il sogno</head>
+        <lg>
+<l n="19">Io n’ho gran tema. Or dimmi, e che <app><lem wit="#F31">t’</lem><rdg wit="#B24 #B26 #N35 #R18">ti avvenne</rdg></app> avvenne?</l>
+        <l n="20"><app><lem wit="#F31">Se’ tu quella di prima</lem><rdg wit="#B24 #B26 #N35 #R18">Sei tu quella di prima</rdg></app>? <app><lem wit="#F31">E</lem><rdg wit="#B24 #B26 #N35 #R18">e che ti strugge</rdg></app> che ti strugge</l>
+        <l n="21">Internamente? Obblivione ingombra</l>
+        <l n="22">I tuoi pensieri, e gli avviluppa il sonno;</l>
+        <l n="23">Disse colei. Son morta, e mi vedesti</l>
+        <l n="24">L’ultima volta, or son più lune. Immensa</l>
+        <l n="25">Doglia m’oppresse a queste voci il petto.</l>
+        <l n="26">Ella seguì: nel fior <app><lem wit="#F31">de gli</lem><rdg wit="#B24 #B26 #N35 #R18">degli anni estinta</rdg></app> anni estinta,</l>
+        <l n="27">Quand’è <app><lem wit="#F31">’l</lem><rdg wit="#B24 #B26 #N35 #R18">il viver</rdg></app> viver più dolce, e pria che <app><lem wit="#F31">’l</lem><rdg wit="#B24 #B26 #N35 #R18">il core</rdg></app> core</l>
+        <l n="28">Certo si renda com’è tutta indarno</l>
+        <l n="29">L’umana speme. A desiar colei</l>
+        <l n="30">Che d’ogni affanno il tragge, ha poco andare</l>
+        <l n="31">L’egro mortal; ma sconsolata arriva</l>
+        <l n="32">La morte <app><lem wit="#F31">a i</lem><rdg wit="#B24 #B26 #N35 #R18">ai giovanetti</rdg></app> giovanetti, e duro è <app><lem wit="#F31">’l</lem><rdg wit="#B24 #B26 #N35 #R18">il fato</rdg></app> fato</l>
+        <l n="33">Di quella speme <app><lem wit="#F31">cui la terra opprime</lem><rdg wit="#B24 #B26 #N35 #R18">che sotterra è spenta</rdg></app>.</l>
+        <l n="34">Vano è <app><lem wit="#F31">’l saper</lem><rdg wit="#B24 #B26 #N35 #R18">saper</rdg></app> quel che natura asconde</l>
+        <l n="35"><app><lem wit="#F31">A gl’inesperti</lem><rdg wit="#B24 #B26 #N35 #R18">Agl’inesperti</rdg></app><app><lem wit="#F31">de la</lem><rdg wit="#B24 #B26 #N35 #R18">della vita,</rdg></app> vita, e molto</l>
+        <l n="36"><app><lem wit="#F31">A l’immatura</lem><rdg wit="#B24 #B26 #N35 #R18">All’immatura</rdg></app> sapienza il cieco</l>
+        <l n="37">Dolor prevale. Oh sfortunata, oh cara,</l>
+        <l n="38">Taci, taci, diss’io, <app><lem wit="#F31">chè</lem><rdg wit="#B24 #B26 #N35 #R18">che tu mi schianti</rdg></app> tu mi schianti</l>
+        <l n="39">Con questi detti il cor. Dunque <app><lem wit="#F31">se’</lem><rdg wit="#B24 #B26 #N35 #R18">sei morta</rdg></app> morta</l>
+        <l n="40">O mia diletta, ed io son vivo, ed era</l>
+        <l n="41">Pur fisso in ciel che quei sudori estremi</l>
+        <l n="42">Cotesta cara e tenerella salma</l>
+        <l n="43">Provar dovesse, a me restasse intera </poem></l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

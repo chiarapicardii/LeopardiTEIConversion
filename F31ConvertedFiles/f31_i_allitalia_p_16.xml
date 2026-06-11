@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>I. ALL'ITALIA.</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoded by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Progetto Canti - Edizione F31</publisher>
+          <date when="2024">2024</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>Edizione Fiorentina - F31 (1831)</bibl>
+        <listWit>
+          <witness xml:id="B24">B24</witness>
+          <witness xml:id="B26">B26</witness>
+          <witness xml:id="F31">F31</witness>
+          <witness xml:id="N35">N35</witness>
+          <witness xml:id="R18">R18</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <variantEncoding method="parallel-segmentation" location="internal"/>
+      </encodingDesc>
+    </teiHeader>
+
+  <facsimile>
+    <surface xml:id="F31016">
+      <graphic url="./assets/img/F31016.JPG"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="poem" xml:id="f31_i_allitalia_p_16">
+        <pb n="16" facs="#F31016"/>
+                <head>I. ALL'ITALIA.</head>
+        <lg>
+<l n="113">Pallido e scapigliato esso tiranno;</l>
+        <l n="114">Ve’ come <app><lem wit="#F31">infusi e tinti</lem><rdg wit="#B24 #B26 #N35 #R18">Infusi e tinti</rdg></app></l>
+        <l n="115">Del barbarico sangue i greci <app><lem wit="#F31">eroi,</lem><rdg wit="#B24 #B26 #N35 #R18">Eroi,</rdg></app></l>
+        <l n="116">Cagione <app><lem wit="#F31">a i</lem><rdg wit="#B24 #B26 #N35 #R18">Ai</rdg></app> Persi d’infinito affanno,</l>
+        <l n="117">A poco a poco vinti <app><lem wit="#F31">da le</lem><rdg wit="#B24 #B26 #N35 #R18">Dalle</rdg></app> piaghe,</l>
+        <l n="118">L’un sopra l’altro cade. Oh viva, oh viva:</l>
+        <l n="119">Beatissimi voi</l>
+        <l n="120">Mentre nel mondo si favelli o scriva.</l>
+        <l n="121">Prima divelte, in mar precipitando,</l>
+        <l n="122">Spente <app><lem wit="#F31">ne l’imo</lem><rdg wit="#B24 #B26 #N35 #R18">Nell’imo</rdg></app> strideran le stelle,</l>
+        <l n="123">Che la memoria <app><lem wit="#F31">e ’l</lem><rdg wit="#B24 #B26 #N35 #R18">E il vostro</rdg></app> vostro</l>
+        <l n="124">Amor trascorra o scemi.</l>
+        <l n="125"><app><lem wit="#F31">La tomba vostra è un’ara;</lem><rdg wit="#B24 #B26 #N35 #R18">La vostra tomba è un’ara;</rdg></app> e qua mostrando</l>
+        <l n="126">Verran le madri <app><lem wit="#F31">a i</lem><rdg wit="#B24 #B26 #N35 #R18">Ai parvoli</rdg></app> parvoli le belle</l>
+        <l n="127">Orme del vostro sangue. Ecco <app><lem wit="#F31">i’</lem><rdg wit="#B24 #B26 #N35 #R18">Io mi</rdg></app> mi <app><lem wit="#F31">prostro,</lem><rdg wit="#B24 #B26 #N35 #R18">Prostro,</rdg></app></l>
+        <l n="128">O benedetti, al suolo,</l>
+        <l n="129">E bacio questi sassi e queste <app><lem wit="#F31">zolle,</lem><rdg wit="#B24 #B26 #N35 #R18">Zolle,</rdg></app></l>
+        <l n="130">Che fien lodate e chiare eternamente</l>
+        <l n="131"><app><lem wit="#F31">Da l’uno a l’altro</lem><rdg wit="#B24 #B26 #N35 #R18">Dall’uno all’altro</rdg></app> polo.</l>
+        <l n="132">Deh foss’io pur con voi qui sotto, e molle</l>
+        <l n="133">Fosse del sangue mio quest’alma <app><lem wit="#F31">terra.</lem><rdg wit="#B24 #B26 #N35 #R18">Terra.</rdg></app></l>
+        <l n="134">Che se <app><lem wit="#F31">’l fato è diverso,</lem><rdg wit="#B24 #B26 #N35 #R18">Il fato è diverso,</rdg></app> e non consente</l>
+        <l n="135">Ch’io per la Grecia i moribondi lumi</l>
+        <l n="136">Chiuda prostrato in guerra, </poem></l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

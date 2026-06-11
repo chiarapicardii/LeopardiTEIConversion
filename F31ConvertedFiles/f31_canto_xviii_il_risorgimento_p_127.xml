@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>CANTO XVIII Il risorgimento</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoded by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Progetto Canti - Edizione F31</publisher>
+          <date when="2024">2024</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>Edizione Fiorentina - F31 (1831)</bibl>
+        <listWit>
+          <witness xml:id="B24">B24</witness>
+          <witness xml:id="B26">B26</witness>
+          <witness xml:id="F31">F31</witness>
+          <witness xml:id="N35">N35</witness>
+          <witness xml:id="R18">R18</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <variantEncoding method="parallel-segmentation" location="internal"/>
+      </encodingDesc>
+    </teiHeader>
+
+  <facsimile>
+    <surface xml:id="F31127">
+      <graphic url="./assets/img/F31127.JPG"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="poem" xml:id="f31_canto_xviii_il_risorgimento_p_127">
+        <pb n="127" facs="#F31127"/>
+                <head>CANTO XVIII Il risorgimento</head>
+        <lg>
+<l n="41">Qual fui! quanto dissimile</l>
+        <l n="42">Da quel che tanto ardore,</l>
+        <l n="43">Che sì beato errore</l>
+        <l n="44"><app><lem wit="#F31">Nutrì ne l’</lem><rdg wit="#B24 #B26 #N35 #R18">Nutrii nell’</rdg></app> alma un dì!</l>
+        <l n="45">La rondinella vigile,</l>
+        <l n="46"><app><lem wit="#F31">A le fenestre</lem><rdg wit="#B24 #B26 #N35 #R18">Alle finestre</rdg></app> intorno</l>
+        <l n="47">Cantando al novo giorno,</l>
+        <l n="48">Il cor non mi ferì:</l>
+        <l n="49">Non <app><lem wit="#F31">a l’autunno</lem><rdg wit="#B24 #B26 #N35 #R18">all’autunno</rdg></app> pallido</l>
+        <l n="50">In solitaria villa,</l>
+        <l n="51">La vespertina squilla,</l>
+        <l n="52">Il fuggitivo Sol.</l>
+        <l n="53">Invan brillare il vespero</l>
+        <l n="54">Vidi per muto <app><lem wit="#F31">calle;</lem><rdg wit="#B24 #B26 #N35 #R18">calle,</rdg></app></l>
+        <l n="55">Invan sonò la valle</l>
+        <l n="56">Del flebile usignol.</l>
+        <l n="57">E voi, pupille tenere,</l>
+        <l n="58">Sguardi furtivi, erranti,</l>
+        <l n="59">Voi de’ gentili amanti</l>
+        <l n="60">Primo, immortale amor,</l>
+        <l n="61">Ed <app><lem wit="#F31">a la</lem><rdg wit="#B24 #B26 #N35 #R18">alla mano</rdg></app> mano offertami</l>
+        <l n="62">Candida ignuda <app><lem wit="#F31">mano;</lem><rdg wit="#B24 #B26 #N35 #R18">mano,</rdg></app></l>
+        <l n="63">Foste voi pure invano</l>
+        <l n="64">Al duro mio sopor. </poem></l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>
