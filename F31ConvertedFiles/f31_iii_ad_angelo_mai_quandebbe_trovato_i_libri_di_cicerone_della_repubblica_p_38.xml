@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>III. AD ANGELO MAI, QUAND’EBBE TROVATO I LIBRI DI CICERONE DELLA REPUBBLICA.</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoded by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Progetto Canti - Edizione F31</publisher>
+          <date when="2024">2024</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>Edizione Fiorentina - F31 (1831)</bibl>
+        <listWit>
+          <witness xml:id="B24">B24</witness>
+          <witness xml:id="B26">B26</witness>
+          <witness xml:id="F31">F31</witness>
+          <witness xml:id="N35">N35</witness>
+          <witness xml:id="R18">R18</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <variantEncoding method="parallel-segmentation" location="internal"/>
+      </encodingDesc>
+    </teiHeader>
+
+  <facsimile>
+    <surface xml:id="F31038">
+      <graphic url="./assets/img/F31038.JPG"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="poem" xml:id="f31_iii_ad_angelo_mai_quandebbe_trovato_i_libri_di_cicerone_della_repubblica_p_38">
+        <pb n="38" facs="#F31038"/>
+                <head>III. AD ANGELO MAI, QUAND’EBBE TROVATO I LIBRI DI CICERONE DELLA REPUBBLICA.</head>
+        <lg>
+<l n="63"><app><lem wit="#F31">De la</lem><rdg wit="#B24 #B26 #N35 #R18">Della fortuna</rdg></app> fortuna, al cui sdegno e dolore</l>
+        <l n="64">Fu più l’averno che la terra amico.</l>
+        <l n="65">L’averno: e qual non è parte migliore</l>
+        <l n="66">Di questa nostra? E le tue dolci corde</l>
+        <l n="67">Susurravano ancora</l>
+        <l n="68">Dal tocco di tua destra, o sfortunato</l>
+        <l n="69">Amante. Ahi dal dolor comincia e nasce</l>
+        <l n="70">L’italo canto. E pur <app><lem wit="#F31">mèn</lem><rdg wit="#B24 #B26 #N35 #R18">men</rdg></app> grava e morde</l>
+        <l n="71">Il mal che n’addolora</l>
+        <l n="72">Del tedio che n’affoga. Oh te beato,</l>
+        <l n="73">A cui fu vita il <app><lem wit="#F31">pianto.</lem><rdg wit="#B24 #B26 #N35 #R18">pianto!</rdg></app> A noi le fasce</l>
+        <l n="74">Cinse <app><lem wit="#F31">il fastidio; a noi presso la culla</lem><rdg wit="#B24 #B26 #N35 #R18">il fastidio... nulla.</rdg></app></l>
+        <l n="75"><app><lem wit="#F31">Immoto siede, e su la tomba, il nulla.</lem><rdg wit="#B24 #B26 #N35 #R18">il fastidio... nulla.</rdg></app></l>
+        <l n="76">Ma tua vita era allor con gli astri e <app><lem wit="#F31">’l</lem><rdg wit="#B24 #B26 #N35 #R18">il mare</rdg></app> mare,</l>
+        <l n="77">Ligure ardita prole,</l>
+        <l n="78">Quand’oltre <app><lem wit="#F31">a le</lem><rdg wit="#B24 #B26 #N35 #R18">alle colonne</rdg></app> colonne, ed oltre <app><lem wit="#F31">a i</lem><rdg wit="#B24 #B26 #N35 #R18">ai liti</rdg></app> liti</l>
+        <l n="79">Cui strider <app><lem wit="#F31">parve in seno a l’onda il sole</lem><rdg wit="#B24 #B26 #N35 #R18">l’onde... sera,</rdg></app> ,</l>
+        <l n="80"><app><lem wit="#F31">Novo di prore incarco</lem><rdg wit="#B24 #B26 #N35 #R18">l’onde... sera,</rdg></app> <app><lem wit="#F31">a gl’infiniti</lem><rdg wit="#B24 #B26 #N35 #R18">agl’infiniti</rdg></app></l>
+        <l n="81">Flutti commesso, ritrovasti il raggio</l>
+        <l n="82">Del <app><lem wit="#F31">Sol</lem><rdg wit="#B24 #B26 #N35 #R18">Sol caduto</rdg></app> caduto, e <app><lem wit="#F31">’l</lem><rdg wit="#B24 #B26 #N35 #R18">il giorno</rdg></app> giorno</l>
+        <l n="83">Che nasce allor ch’<app><lem wit="#F31">a i</lem><rdg wit="#B24 #B26 #N35 #R18">ai nostri è</rdg></app> nostri è giunto al fondo;</l>
+        <l n="84">E rotto di <app><lem wit="#F31">natura</lem><rdg wit="#B24 #B26 #N35 #R18">natura ogni</rdg></app> ogni contrasto,</l>
+        <l n="85">Ignota immensa terra al tuo viaggio</l>
+        <l n="86">Fu gloria, e del ritorno </poem></l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

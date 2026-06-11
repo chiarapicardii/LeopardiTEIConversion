@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>III. AD ANGELO MAI, QUAND’EBBE TROVATO I LIBRI DI CICERONE DELLA REPUBBLICA.</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoded by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Progetto Canti - Edizione F31</publisher>
+          <date when="2024">2024</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>Edizione Fiorentina - F31 (1831)</bibl>
+        <listWit>
+          <witness xml:id="B24">B24</witness>
+          <witness xml:id="B26">B26</witness>
+          <witness xml:id="F31">F31</witness>
+          <witness xml:id="N35">N35</witness>
+          <witness xml:id="R18">R18</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <variantEncoding method="parallel-segmentation" location="internal"/>
+      </encodingDesc>
+    </teiHeader>
+
+  <facsimile>
+    <surface xml:id="F31041">
+      <graphic url="./assets/img/F31041.JPG"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="poem" xml:id="f31_iii_ad_angelo_mai_quandebbe_trovato_i_libri_di_cicerone_della_repubblica_p_41">
+        <pb n="41" facs="#F31041"/>
+                <head>III. AD ANGELO MAI, QUAND’EBBE TROVATO I LIBRI DI CICERONE DELLA REPUBBLICA.</head>
+        <lg>
+<l n="134"><app><lem wit="#F31">L’estrema ora</lem><rdg wit="#B24 #B26 #N35 #R18">L’ora estrema</rdg></app> ti fu. Morte domanda</l>
+        <l n="135">Chi <app><lem wit="#F31">nostro</lem><rdg wit="#B24 #B26 #N35 #R18">nostro mal</rdg></app> mal conobbe, e non ghirlanda .</l>
+        <l n="136">Torna torna fra noi, sorgi dal muto</l>
+        <l n="137">E sconsolato avello,</l>
+        <l n="138">Se <app><lem wit="#F31">d’angoscia se’ vago,</lem><rdg wit="#B24 #B26 #N35 #R18">d’angoscia sei vago,</rdg></app> o miserando</l>
+        <l n="139">Esemplo di <app><lem wit="#F31">sciaura</lem><rdg wit="#B24 #B26 #N35 #R18">sciagura.</rdg></app> Assai da <app><lem wit="#F31">quello,</lem><rdg wit="#B24 #B26 #N35 #R18">quello Che</rdg></app></l>
+        <l n="140">Che ti parve sì mesto e sì nefando,</l>
+        <l n="141">È peggiorato il viver nostro. O caro,</l>
+        <l n="142">Chi ti compiangeria,</l>
+        <l n="143">Se, fuor che di se stesso, altri non cura?</l>
+        <l n="144">Chi stolto non direbbe il tuo mortale</l>
+        <l n="145">Affanno anche oggidì, se <app><lem wit="#F31">’l grande e ’l</lem><rdg wit="#B24 #B26 #N35 #R18">il... il</rdg></app> raro</l>
+        <l n="146">Ha nome di follia;</l>
+        <l n="147">Nè livor più, ma ben di lui più dura</l>
+        <l n="148">La noncuranza avviene <app><lem wit="#F31">a i</lem><rdg wit="#B24 #B26 #N35 #R18">ai sommi</rdg></app> sommi? o quale,</l>
+        <l n="149">Se più de’ carmi, il computar s’ascolta,</l>
+        <l n="150">Ti appresterebbe il lauro un’altra volta?</l>
+        <l n="151">Da te fino a quest’ora uom non è <app><lem wit="#F31">sorto</lem><rdg wit="#B24 #B26 #N35 #R18">sorto,</rdg></app></l>
+        <l n="152"><app><lem wit="#F31">(O sventurato ingegno),</lem><rdg wit="#B24 #B26 #N35 #R18">O sventurato ingegno,</rdg></app></l>
+        <l n="153">Pari <app><lem wit="#F31">a l’italo</lem><rdg wit="#B24 #B26 #N35 #R18">all’italo</rdg></app> nome, altro ch’un solo,</l>
+        <l n="154">Solo di sua codarda etate indegno</l>
+        <l n="155">Allobrogo feroce, a cui dal polo</l>
+        <l n="156"><app><lem wit="#F31">Disusata virtù</lem><rdg wit="#B24 #B26 #N35 #R18">Maschia virtù</rdg></app>, non <app><lem wit="#F31">da la</lem><rdg wit="#B24 #B26 #N35 #R18">già da questa</rdg></app> mia </poem></l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

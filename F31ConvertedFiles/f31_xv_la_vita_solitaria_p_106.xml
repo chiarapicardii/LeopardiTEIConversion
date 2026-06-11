@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>XV. LA VITA SOLITARIA.</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoded by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Progetto Canti - Edizione F31</publisher>
+          <date when="2024">2024</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>Edizione Fiorentina - F31 (1831)</bibl>
+        <listWit>
+          <witness xml:id="B24">B24</witness>
+          <witness xml:id="B26">B26</witness>
+          <witness xml:id="F31">F31</witness>
+          <witness xml:id="N35">N35</witness>
+          <witness xml:id="R18">R18</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <variantEncoding method="parallel-segmentation" location="internal"/>
+      </encodingDesc>
+    </teiHeader>
+
+  <facsimile>
+    <surface xml:id="F31106">
+      <graphic url="./assets/img/F31106.JPG"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="poem" xml:id="f31_xv_la_vita_solitaria_p_106">
+        <pb n="106" facs="#F31106"/>
+                <head>XV. LA VITA SOLITARIA.</head>
+        <lg>
+<l n="19">Le <app><lem wit="#F31">sciaure</lem><rdg wit="#B24 #B26 #N35 #R18">sciagure</rdg></app> e gli affanni, <app><lem wit="#F31">a la</lem><rdg wit="#B24 #B26 #N35 #R18">alla reina</rdg></app> reina</l>
+        <l n="20">Felicità <app><lem wit="#F31">servi o natura.</lem><rdg wit="#B24 #B26 #N35 #R18">servi, o natura.</rdg></app> In cielo,</l>
+        <l n="21">In terra amico <app><lem wit="#F31">a gl’infelici</lem><rdg wit="#B24 #B26 #N35 #R18">Agl’infelici</rdg></app> alcuno</l>
+        <l n="22">E rifugio non resta altro che il ferro.</l>
+        <l n="23">Talor m’assido in solitaria parte,</l>
+        <l n="24">Sovra un rialto, al margine d’un lago</l>
+        <l n="25">Di taciturne piante incoronato.</l>
+        <l n="26">Ivi, quando il meriggio in ciel si volve,</l>
+        <l n="27">La sua tranquilla imago il <app><lem wit="#F31">Sol</lem><rdg wit="#B24 #B26 #N35 #R18">Sol dipinge</rdg></app> dipinge,</l>
+        <l n="28">Ed erba o foglia non si crolla al vento,</l>
+        <l n="29">E non onda incresparsi, e non cicala</l>
+        <l n="30">Strider, nè batter penna augello in ramo,</l>
+        <l n="31">Nè farfalla ronzar, nè voce o moto</l>
+        <l n="32">Da presso nè da lunge odi nè vedi.</l>
+        <l n="33">Tien quelle rive altissima quiete;</l>
+        <l n="34">Ond’io quasi me stesso e <app><lem wit="#F31">’l</lem><rdg wit="#B24 #B26 #N35 #R18">il mondo obblio</rdg></app> mondo obblio</l>
+        <l n="35">Sedendo immoto; e già mi par che sciolte</l>
+        <l n="36">Giaccian le membra mie, nè spirto o senso</l>
+        <l n="37">Più le commova, e lor quiete antica</l>
+        <l n="38">Co’ silenzi del loco si confonda.</l>
+        <l n="39"><app><lem wit="#F31">Amore</lem><rdg wit="#B24 #B26 #N35 #R18">Amore,</rdg></app> amore, assai lungi volasti</l>
+        <l n="40">Dal petto <app><lem wit="#F31">mio,</lem><rdg wit="#B24 #B26 #N35 #R18">mio, che</rdg></app> che fu sì caldo un giorno,</l>
+        <l n="41">Anzi rovente. Con sua fredda mano</l>
+        <l n="42">Lo strinse la sciaura, e in ghiaccio è <app><lem wit="#F31">volto</lem><rdg wit="#B24 #B26 #N35 #R18">Volto Nel fior</rdg></app></l>
+        <l n="43">Nel fior <app><lem wit="#F31">de gli</lem><rdg wit="#B24 #B26 #N35 #R18">degli anni.</rdg></app> anni. Mi <app><lem wit="#F31">sovviene il</lem><rdg wit="#B24 #B26 #N35 #R18">sovvien del</rdg></app> tempo </poem></l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

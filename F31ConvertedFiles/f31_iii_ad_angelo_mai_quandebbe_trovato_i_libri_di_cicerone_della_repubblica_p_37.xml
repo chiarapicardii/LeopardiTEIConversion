@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>III. AD ANGELO MAI, QUAND’EBBE TROVATO I LIBRI DI CICERONE DELLA REPUBBLICA.</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoded by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Progetto Canti - Edizione F31</publisher>
+          <date when="2024">2024</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>Edizione Fiorentina - F31 (1831)</bibl>
+        <listWit>
+          <witness xml:id="B24">B24</witness>
+          <witness xml:id="B26">B26</witness>
+          <witness xml:id="F31">F31</witness>
+          <witness xml:id="N35">N35</witness>
+          <witness xml:id="R18">R18</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <variantEncoding method="parallel-segmentation" location="internal"/>
+      </encodingDesc>
+    </teiHeader>
+
+  <facsimile>
+    <surface xml:id="F31037">
+      <graphic url="./assets/img/F31037.JPG"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="poem" xml:id="f31_iii_ad_angelo_mai_quandebbe_trovato_i_libri_di_cicerone_della_repubblica_p_37">
+        <pb n="37" facs="#F31037"/>
+                <head>III. AD ANGELO MAI, QUAND’EBBE TROVATO I LIBRI DI CICERONE DELLA REPUBBLICA.</head>
+        <lg>
+<l n="40"><app><lem wit="#F31">Plebe successe; al vostro sangue</lem><rdg wit="#B24 #B26 #N35 #R18">Ai tetti... sangue</rdg></app> è scherno</l>
+        <l n="41">E d’opra e di parola</l>
+        <l n="42">Ogni valor; di vostre <app><lem wit="#F31">inclite lodi</lem><rdg wit="#B24 #B26 #N35 #R18">eterne lodi... etade</rdg></app></l>
+        <l n="43"><app><lem wit="#F31">Tace l’itala riva; egro circonda</lem><rdg wit="#B24 #B26 #N35 #R18">eterne lodi... etade</rdg></app></l>
+        <l n="44"><app><lem wit="#F31">Ozio le tombe vostre; e di viltade</lem><rdg wit="#B24 #B26 #N35 #R18">eterne lodi... etade</rdg></app></l>
+        <l n="45"><app><lem wit="#F31">Siam fatti esempio a la futura etade.</lem><rdg wit="#B24 #B26 #N35 #R18">eterne lodi... etade</rdg></app></l>
+        <l n="46">Bennato ingegno, or quando altrui non cale</l>
+        <l n="47">De’ nostri alti parenti,</l>
+        <l n="48">A te ne caglia, a te cui fato aspira</l>
+        <l n="49">Benigno sì che per tua man presenti</l>
+        <l n="50">Paion que’ giorni allor che <app><lem wit="#F31">da la</lem><rdg wit="#B24 #B26 #N35 #R18">dalla dira</rdg></app> dira</l>
+        <l n="51"><app><lem wit="#F31">Obblivíone</lem><rdg wit="#B24 #B26 #N35 #R18">Obblivione antica</rdg></app> antica ergean la chioma,</l>
+        <l n="52">Con gli studi sepolti,</l>
+        <l n="53">I vetusti <app><lem wit="#F31">Divini</lem><rdg wit="#B24 #B26 #N35 #R18">divini,</rdg></app> a cui <app><lem wit="#F31">natura</lem><rdg wit="#B24 #B26 #N35 #R18">natura Parlò</rdg></app></l>
+        <l n="54">Parlò senza svelarsi, onde i riposi</l>
+        <l n="55">Magnanimi allegràr d’Atene e Roma.</l>
+        <l n="56">Oh tempi, oh tempi avvolti</l>
+        <l n="57">In sonno <app><lem wit="#F31">eterno. Allora</lem><rdg wit="#B24 #B26 #N35 #R18">eterno! Allora</rdg></app> anco immatura</l>
+        <l n="58">La ruina d’Italia, anco sdegnosi</l>
+        <l n="59">Eravam d’ozio turpe, e l’<app><lem wit="#F31">aere</lem><rdg wit="#B24 #B26 #N35 #R18">aura</rdg></app> a volo</l>
+        <l n="60"><app><lem wit="#F31">Qualche favilla ergea</lem><rdg wit="#B24 #B26 #N35 #R18">Più faville rapia</rdg></app> da questo suolo.</l>
+        <l n="61">Eran calde le tue ceneri sante,</l>
+        <l n="62">Non domito nemico </poem></l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

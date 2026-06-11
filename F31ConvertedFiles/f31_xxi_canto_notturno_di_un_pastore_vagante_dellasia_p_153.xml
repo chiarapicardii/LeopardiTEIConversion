@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>XXI. CANTO NOTTURNO DI UN PASTORE VAGANTE DELL'ASIA</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoded by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Progetto Canti - Edizione F31</publisher>
+          <date when="2024">2024</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>Edizione Fiorentina - F31 (1831)</bibl>
+        <listWit>
+          <witness xml:id="B24">B24</witness>
+          <witness xml:id="B26">B26</witness>
+          <witness xml:id="F31">F31</witness>
+          <witness xml:id="N35">N35</witness>
+          <witness xml:id="R18">R18</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <variantEncoding method="parallel-segmentation" location="internal"/>
+      </encodingDesc>
+    </teiHeader>
+
+  <facsimile>
+    <surface xml:id="F31153">
+      <graphic url="./assets/img/F31153.JPG"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="note" xml:id="f31_xxi_canto_notturno_di_un_pastore_vagante_dellasia_p_153" corresp="#f31_xxi_canto_notturno_di_un_pastore_vagante_dellasia">
+        <pb n="153" facs="#F31153"/>
+        <head>NOTA</head>
+                <p><hi rend="italic">Plusieurs d’entre eux</hi> (parla di una delle nazioni erranti dell’Asia) <hi rend="italic">passent la</hi> <hi rend="italic">nuit assis sur une pierre à regarder la</hi> <hi rend="italic">lune, et à improviser des paroles assez</hi> <hi rend="italic">tristes sur des airs qui ne le sont pas moins.</hi> Il Barone di Meyendorff, <hi rend="italic">Voyage d’Oren</hi><hi rend="italic">bourg à Boukhara, fait en</hi> 1820; appres so il Giornale dei dotti, 1826, <hi rend="italic">septembre</hi>, <hi rend="italic">p</hi>. 518. <</p>
+      </div>
+    </body>
+  </text>
+</TEI>

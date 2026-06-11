@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>XIX. A SILVIA.</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoded by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Progetto Canti - Edizione F31</publisher>
+          <date when="2024">2024</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>Edizione Fiorentina - F31 (1831)</bibl>
+        <listWit>
+          <witness xml:id="B24">B24</witness>
+          <witness xml:id="B26">B26</witness>
+          <witness xml:id="F31">F31</witness>
+          <witness xml:id="N35">N35</witness>
+          <witness xml:id="R18">R18</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <variantEncoding method="parallel-segmentation" location="internal"/>
+      </encodingDesc>
+    </teiHeader>
+
+  <facsimile>
+    <surface xml:id="F31135">
+      <graphic url="./assets/img/F31135.JPG"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="poem" xml:id="f31_xix_a_silvia_p_135">
+        <pb n="135" facs="#F31135"/>
+                <head>XIX. A SILVIA.</head>
+        <lg>
+<l n="40">Tu pria che l’erbe inaridisse il verno,</l>
+        <l n="41">Da chiuso morbo <app><lem wit="#F31">consumata</lem><rdg wit="#B24 #B26 #N35 #R18">combattuta</rdg></app> e vinta,</l>
+        <l n="42">Perivi, o tenerella. E non vedevi</l>
+        <l n="43">Il fior <app><lem wit="#F31">de gli</lem><rdg wit="#B24 #B26 #N35 #R18">degli anni tuoi</rdg></app> anni tuoi;</l>
+        <l n="44">Non ti molceva il core</l>
+        <l n="45">La dolce lode or <app><lem wit="#F31">de le</lem><rdg wit="#B24 #B26 #N35 #R18">delle negre</rdg></app> negre chiome,</l>
+        <l n="46">Or <app><lem wit="#F31">de gli</lem><rdg wit="#B24 #B26 #N35 #R18">degli sguardi</rdg></app> sguardi innamorati e schivi;</l>
+        <l n="47">Nè teco le compagne <app><lem wit="#F31">a i</lem><rdg wit="#B24 #B26 #N35 #R18">ai dì</rdg></app> dì festivi</l>
+        <l n="48">Ragionavan d’amore.</l>
+        <l n="49"><app><lem wit="#F31">Anco</lem><rdg wit="#B24 #B26 #N35 #R18">Anche</rdg></app> peria fra poco</l>
+        <l n="50">La speranza mia dolce: <app><lem wit="#F31">a gli</lem><rdg wit="#B24 #B26 #N35 #R18">agli anni</rdg></app> anni miei</l>
+        <l n="51"><app><lem wit="#F31">Anco</lem><rdg wit="#B24 #B26 #N35 #R18">Anche negaro</rdg></app> negaro i fati</l>
+        <l n="52">La giovanezza. Ahi come,</l>
+        <l n="53">Come passata sei,</l>
+        <l n="54">Cara compagna <app><lem wit="#F31">de l’età</lem><rdg wit="#B24 #B26 #N35 #R18">dell’età</rdg></app> mia nova,</l>
+        <l n="55">Mia <app><lem wit="#F31">lagrimata</lem><rdg wit="#B24 #B26 #N35 #R18">lacrimata</rdg></app> speme!</l>
+        <l n="56">Questo è quel mondo? questi</l>
+        <l n="57">I diletti, l’amor, l’opre, gli eventi</l>
+        <l n="58">Onde cotanto ragionammo insieme?</l>
+        <l n="59">Questa la sorte <app><lem wit="#F31">de l’umane</lem><rdg wit="#B24 #B26 #N35 #R18">dell’umane</rdg></app> genti?</l>
+        <l n="60"><app><lem wit="#F31">A l’apparir</lem><rdg wit="#B24 #B26 #N35 #R18">All’apparir</rdg></app> del <app><lem wit="#F31">vero,</lem><rdg wit="#B24 #B26 #N35 #R18">Vero</rdg></app></l>
+        <l n="61">Tu, misera, cadesti: e con la mano</l>
+        <l n="62">La fredda morte ed una tomba ignuda</l>
+        <l n="63">Mostravi di lontano. </poem></l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

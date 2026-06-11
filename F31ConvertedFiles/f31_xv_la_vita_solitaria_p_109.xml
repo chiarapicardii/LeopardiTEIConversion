@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>XV. LA VITA SOLITARIA.</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoded by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Progetto Canti - Edizione F31</publisher>
+          <date when="2024">2024</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>Edizione Fiorentina - F31 (1831)</bibl>
+        <listWit>
+          <witness xml:id="B24">B24</witness>
+          <witness xml:id="B26">B26</witness>
+          <witness xml:id="F31">F31</witness>
+          <witness xml:id="N35">N35</witness>
+          <witness xml:id="R18">R18</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <variantEncoding method="parallel-segmentation" location="internal"/>
+      </encodingDesc>
+    </teiHeader>
+
+  <facsimile>
+    <surface xml:id="F31109">
+      <graphic url="./assets/img/F31109.JPG"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="poem" xml:id="f31_xv_la_vita_solitaria_p_109">
+        <pb n="109" facs="#F31109"/>
+                <head>XV. LA VITA SOLITARIA.</head>
+        <lg>
+<l n="94">Che lieti colli e spaziosi campi</l>
+        <l n="95">M’apri <app><lem wit="#F31">a la</lem><rdg wit="#B24 #B26 #N35 #R18">alla vista</rdg></app> vista. Ed <app><lem wit="#F31">io soleva ancora</lem><rdg wit="#B24 #B26 #N35 #R18">ancor io soleva</rdg></app>,</l>
+        <l n="96">Bench’innocente io fossi, il tuo vezzoso</l>
+        <l n="97">Raggio accusar <app><lem wit="#F31">ne gli</lem><rdg wit="#B24 #B26 #N35 #R18">negli abitati</rdg></app> abitati lochi,</l>
+        <l n="98">Quand’ei m’offriva al guardo <app><lem wit="#F31">umano</lem><rdg wit="#B24 #B26 #N35 #R18">umano,</rdg></app> e quando</l>
+        <l n="99">Scopriva umani aspetti al guardo mio.</l>
+        <l n="100">Or sempre loderollo, o ch’io ti miri</l>
+        <l n="101">Veleggiar tra le nubi, o che serena</l>
+        <l n="102">Dominatrice <app><lem wit="#F31">de l’etereo</lem><rdg wit="#B24 #B26 #N35 #R18">dell’etereo</rdg></app>campo,</l>
+        <l n="103">Questa flebil riguardi umana sede.</l>
+        <l n="104">Me spesso rivedrai solingo e muto</l>
+        <l n="105">Errar pe’ boschi e per le verdi rive,</l>
+        <l n="106">O seder sovra l’erbe, assai contento</l>
+        <l n="107">Se <app><lem wit="#F31">lena e core</lem><rdg wit="#B24 #B26 #N35 #R18">core e lena</rdg></app> a sospirar m’avanza. </poem></l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

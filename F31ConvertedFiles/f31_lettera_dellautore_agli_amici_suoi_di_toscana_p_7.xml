@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>Lettera dell'Autore agli amici suoi di Toscana</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoded by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Progetto Canti - Edizione F31</publisher>
+          <date when="2024">2024</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>Edizione Fiorentina - F31 (1831)</bibl>
+        <listWit>
+          <witness xml:id="B24">B24</witness>
+          <witness xml:id="B26">B26</witness>
+          <witness xml:id="F31">F31</witness>
+          <witness xml:id="N35">N35</witness>
+          <witness xml:id="R18">R18</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <variantEncoding method="parallel-segmentation" location="internal"/>
+      </encodingDesc>
+    </teiHeader>
+
+  <facsimile>
+    <surface xml:id="F31005">
+      <graphic url="./assets/img/F31005.JPG"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="letter" xml:id="f31_lettera_dellautore_agli_amici_suoi_di_toscana_p_7">
+        <pb n="7"/>
+        <head>LETTERA</head>
+                <p rend="indent">Firenze 15 Dicembre 1830. Sia dedicato a voi questo libro, dove io cercava, come si cerca spesso colla poesia, di consacrare il mio dolore, e col quale al presente (nè posso già dirlo senza lacrime) prendo comiato dalle lettere e dagli studi. Sperai <</p>
+      </div>
+    </body>
+  </text>
+</TEI>

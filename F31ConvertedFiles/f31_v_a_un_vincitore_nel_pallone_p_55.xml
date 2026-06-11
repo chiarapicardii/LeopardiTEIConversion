@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>V. A UN VINCITORE NEL PALLONE.</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoded by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Progetto Canti - Edizione F31</publisher>
+          <date when="2024">2024</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>Edizione Fiorentina - F31 (1831)</bibl>
+        <listWit>
+          <witness xml:id="B24">B24</witness>
+          <witness xml:id="B26">B26</witness>
+          <witness xml:id="F31">F31</witness>
+          <witness xml:id="N35">N35</witness>
+          <witness xml:id="R18">R18</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <variantEncoding method="parallel-segmentation" location="internal"/>
+      </encodingDesc>
+    </teiHeader>
+
+  <facsimile>
+    <surface xml:id="F31055">
+      <graphic url="./assets/img/F31055.JPG"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="poem" xml:id="f31_v_a_un_vincitore_nel_pallone_p_55">
+        <pb n="55" facs="#F31055"/>
+                <head>V. A UN VINCITORE NEL PALLONE.</head>
+        <lg>
+<l n="41"><app><lem wit="#F31">De le</lem><rdg wit="#B24 #B26 #N35 #R18">Delle italiche</rdg></app> italiche moli</l>
+        <l n="42">Insultino gli armenti, <app><lem wit="#F31">e ’l greve</lem><rdg wit="#B24 #B26 #N35 #R18">e che l’</rdg></app> aratro</l>
+        <l n="43">Sentano i sette colli; e pochi Soli</l>
+        <l n="44"><app><lem wit="#F31">Forse fien vòlti,</lem><rdg wit="#B24 #B26 #N35 #R18">Forse fien volti,</rdg></app> e le città latine</l>
+        <l n="45">Abiterà la cauta volpe, e l’atro</l>
+        <l n="46">Bosco mormorerà fra <app><lem wit="#F31">le</lem><rdg wit="#B24 #B26 #N35 #R18">le alte</rdg></app> alte mura;</l>
+        <l n="47">Se la funesta <app><lem wit="#F31">de le</lem><rdg wit="#B24 #B26 #N35 #R18">delle patrie</rdg></app> patrie cose</l>
+        <l n="48">Obblivion <app><lem wit="#F31">da le</lem><rdg wit="#B24 #B26 #N35 #R18">dalle perverse</rdg></app> perverse menti</l>
+        <l n="49">Non <app><lem wit="#F31">isvelgono</lem><rdg wit="#B24 #B26 #N35 #R18">isgombrano</rdg></app> i fati, e la matura</l>
+        <l n="50">Clade non <app><lem wit="#F31">torce da le abbiette</lem><rdg wit="#B24 #B26 #N35 #R18">torce dalle abbiette</rdg></app> genti</l>
+        <l n="51">Il <app><lem wit="#F31">ciel</lem><rdg wit="#B24 #B26 #N35 #R18">ciel fatto</rdg></app> fatto cortese</l>
+        <l n="52"><app><lem wit="#F31">Dal sovvenir</lem><rdg wit="#B24 #B26 #N35 #R18">Dal rimembrar</rdg></app> <app><lem wit="#F31">de le</lem><rdg wit="#B24 #B26 #N35 #R18">delle passate imprese</rdg></app> passate imprese.</l>
+        <l n="53"><app><lem wit="#F31">A la</lem><rdg wit="#B24 #B26 #N35 #R18">Alla patria infelice</rdg></app> patria infelice, o buon garzone,</l>
+        <l n="54">Sopravviver ti doglia.</l>
+        <l n="55">Chiaro per lei stato saresti allora</l>
+        <l n="56">Che del serto <app><lem wit="#F31">fulgea</lem><rdg wit="#B24 #B26 #N35 #R18">fulgea,</rdg></app> di ch’ella è spoglia,</l>
+        <l n="57">Nostra colpa e fatal. Passò <app><lem wit="#F31">stagione,</lem><rdg wit="#B24 #B26 #N35 #R18">stagione;</rdg></app></l>
+        <l n="58"><app><lem wit="#F31">Chè</lem><rdg wit="#B24 #B26 #N35 #R18">Che nullo</rdg></app> nullo di tal madre oggi s’onora:</l>
+        <l n="59">Ma per te stesso al polo ergi la mente.</l>
+        <l n="60">Nostra vita a che val? solo a <app><lem wit="#F31">spregiarla;</lem><rdg wit="#B24 #B26 #N35 #R18">spregiarla:</rdg></app></l>
+        <l n="61">Beata allor che ne’ perigli avvolta,</l>
+        <l n="62">Se stessa <app><lem wit="#F31">obblia</lem><rdg wit="#B24 #B26 #N35 #R18">obblia,</rdg></app> nè <app><lem wit="#F31">de le</lem><rdg wit="#B24 #B26 #N35 #R18">delle putri</rdg></app> putri e lente</l>
+        <l n="63">Ore il danno misura e <app><lem wit="#F31">’l</lem><rdg wit="#B24 #B26 #N35 #R18">e il flutto</rdg></app> flutto ascolta;</l>
+        <l n="64">Beata allor che <app><lem wit="#F31">’l</lem><rdg wit="#B24 #B26 #N35 #R18">il piede</rdg></app> piede</l>
+        <l n="65">Spinto al varco leteo, più grata riede.</l>
+        <l></poem></l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

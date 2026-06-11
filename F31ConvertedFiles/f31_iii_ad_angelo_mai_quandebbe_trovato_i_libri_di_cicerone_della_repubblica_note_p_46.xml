@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>III. AD ANGELO MAI, QUAND’EBBE TROVATO I LIBRI DI CICERONE DELLA REPUBBLICA. (Note)</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoded by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Progetto Canti - Edizione F31</publisher>
+          <date when="2024">2024</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>Edizione Fiorentina - F31 (1831)</bibl>
+        <listWit>
+          <witness xml:id="B24">B24</witness>
+          <witness xml:id="B26">B26</witness>
+          <witness xml:id="F31">F31</witness>
+          <witness xml:id="N35">N35</witness>
+          <witness xml:id="R18">R18</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <variantEncoding method="parallel-segmentation" location="internal"/>
+      </encodingDesc>
+    </teiHeader>
+
+  <facsimile>
+    <surface xml:id="F31046">
+      <graphic url="./assets/img/F31046.JPG"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="note" xml:id="f31_iii_ad_angelo_mai_quandebbe_trovato_i_libri_di_cicerone_della_repubblica_note_p_46" corresp="#f31_iii_ad_angelo_mai_quandebbe_trovato_i_libri_di_cicerone_della_repubblica">
+        <pb n="46" facs="#F31046"/>
+        <head>NOTA</head>
+                <p><hi rend="italic">i raggi Del gran pianeta al nido ov’egli</hi> <hi rend="italic">alberga</hi>. Siccome in questi altri (1) seguì la sentenza di quei filosofi che per via di raziocinio e di congettura indovinavano gli antipodi: <hi rend="italic">Ne la stagion che ’l ciel rapido</hi> <hi rend="italic">inchina Verso occidente, e che ’l dì no</hi><hi rend="italic">stro vola A gente che di là forse l’aspet</hi><hi rend="italic">ta</hi>. Dove quel forse, che oggi non si potrebbe dire, è bilissimo e poetichissimo, perocchè lasciava libero all’immaginazione di figurarsi a modo suo quella gente sconosciuta, o d’averla in tutto per favolosa; dal che si dee credere che, leggendo questi versi, nascessero di quelle concezioni vaghe e indeterminate, che sono effetto principalissimo ed essenzialissimo delle bellezze poetiche, anzi di tutte le maggiori bellezze del mondo.” <hi rend="italic">Dall’edizio</hi><hi rend="italic">ne di Bologna.</hi> "Si ha rispetto alla congiuntura della morte del Tasso accaduta in tempo che disponevano d’incoronarlo in Campidoglio." <hi rend="italic">Dall’edizione di Bologna</hi>. (1) st. 1. <</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>VII. ALLA PRIMAVERA, O DELLE FAVOLE ANTICHE</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoded by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Progetto Canti - Edizione F31</publisher>
+          <date when="2024">2024</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>Edizione Fiorentina - F31 (1831)</bibl>
+        <listWit>
+          <witness xml:id="B24">B24</witness>
+          <witness xml:id="B26">B26</witness>
+          <witness xml:id="F31">F31</witness>
+          <witness xml:id="N35">N35</witness>
+          <witness xml:id="R18">R18</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <variantEncoding method="parallel-segmentation" location="internal"/>
+      </encodingDesc>
+    </teiHeader>
+
+  <text>
+    <body>
+      <div type="poem" xml:id="f31_vii_alla_primavera_o_delle_favole_antiche_p_65">
+        <pb n="65"/>
+                <head>VII. ALLA PRIMAVERA, O DELLE FAVOLE ANTICHE</head>
+        <lg>
+<l n="1">Per che i celesti danni</l>
+        <l n="2">Ristori il sole, e per che l’aure inferme</l>
+        <l n="3">Zefiro avvivi, onde fugata e sparta</l>
+        <l n="4">De le nubi la grave ombra s’avvalla;</l>
+        <l n="5">Credano il petto inerme</l>
+        <l n="6">Gli augelli al vento, e la diurna luce</l>
+        <l n="7">Novo d’amor desio nova speranza</l>
+        <l n="8">Ne’ penetrati boschi e fra le sciolte</l>
+        <l n="9">Pruine induca a le commosse belve;</l>
+        <l n="10">Forse a le stanche e nel dolor sepolte</l>
+        <l n="11">Umane menti riede</l>
+        <l n="12">La bella età, cui la sciagura e l’atra</l>
+        <l n="13">Face del ver consunse</l>
+        <l n="14">Innanzi tempo? Ottenebrati e spenti</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

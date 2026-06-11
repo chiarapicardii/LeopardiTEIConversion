@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>III. AD ANGELO MAI, QUAND’EBBE TROVATO I LIBRI DI CICERONE DELLA REPUBBLICA.</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoded by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Progetto Canti - Edizione F31</publisher>
+          <date when="2024">2024</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>Edizione Fiorentina - F31 (1831)</bibl>
+        <listWit>
+          <witness xml:id="B24">B24</witness>
+          <witness xml:id="B26">B26</witness>
+          <witness xml:id="F31">F31</witness>
+          <witness xml:id="N35">N35</witness>
+          <witness xml:id="R18">R18</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <variantEncoding method="parallel-segmentation" location="internal"/>
+      </encodingDesc>
+    </teiHeader>
+
+  <facsimile>
+    <surface xml:id="F31039">
+      <graphic url="./assets/img/F31039.JPG"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="poem" xml:id="f31_iii_ad_angelo_mai_quandebbe_trovato_i_libri_di_cicerone_della_repubblica_p_39">
+        <pb n="39" facs="#F31039"/>
+                <head>III. AD ANGELO MAI, QUAND’EBBE TROVATO I LIBRI DI CICERONE DELLA REPUBBLICA.</head>
+        <lg>
+<l n="87"><app><lem wit="#F31">A i</lem><rdg wit="#B24 #B26 #N35 #R18">Ai rischi</rdg></app> rischi. Ahi <app><lem wit="#F31">ahi, ma conosciuto il mondo</lem><rdg wit="#B24 #B26 #N35 #R18">ahi... anzi</rdg></app></l>
+        <l n="88"><app><lem wit="#F31">Non cresce, anzi</lem><rdg wit="#B24 #B26 #N35 #R18">ahi... anzi</rdg></app> si scema, e assai più vasto</l>
+        <l n="89"><app><lem wit="#F31">L’etra sonante e l’alma terra e ’l mare</lem><rdg wit="#B24 #B26 #N35 #R18">L’etra... appare.</rdg></app></l>
+        <l n="90"><app><lem wit="#F31">Al fanciullin, che non al saggio, appare.</lem><rdg wit="#B24 #B26 #N35 #R18">L’etra... appare.</rdg></app></l>
+        <l n="91">Nostri <app><lem wit="#F31">beati sogni</lem><rdg wit="#B24 #B26 #N35 #R18">sogni leggiadri</rdg></app> ove son giti</l>
+        <l n="92"><app><lem wit="#F31">De l’ignoto</lem><rdg wit="#B24 #B26 #N35 #R18">Dell’ignoto</rdg></app> ricetto</l>
+        <l n="93">D’ignoti abitatori, o del diurno</l>
+        <l n="94"><app><lem wit="#F31">De gli</lem><rdg wit="#B24 #B26 #N35 #R18">Degli astri albergo</rdg></app> astri albergo, e del rimoto letto</l>
+        <l n="95"><app><lem wit="#F31">De la</lem><rdg wit="#B24 #B26 #N35 #R18">Della giovane</rdg></app> giovane Aurora, e del notturno</l>
+        <l n="96">Occulto sonno del maggior pianeta ?</l>
+        <l n="97">Ecco svaniro a un punto,</l>
+        <l n="98"><app><lem wit="#F31">E figurato è ’l</lem><rdg wit="#B24 #B26 #N35 #R18">E figurato è il</rdg></app> mondo in breve <app><lem wit="#F31">carta,</lem><rdg wit="#B24 #B26 #N35 #R18">carta;</rdg></app></l>
+        <l n="99">Ecco tutto è <app><lem wit="#F31">simìle,</lem><rdg wit="#B24 #B26 #N35 #R18">simile,</rdg></app> e discoprendo,</l>
+        <l n="100">Solo il nulla s’accresce. A noi ti vieta</l>
+        <l n="101">Il vero appena è giunto,</l>
+        <l n="102">O caro immaginar; da te s’apparta</l>
+        <l n="103">Nostra mente in eterno; <app><lem wit="#F31">a lo stupendo</lem><rdg wit="#B24 #B26 #N35 #R18">allo stupendo</rdg></app></l>
+        <l n="104">Poter tuo primo ne sottraggon gli <app><lem wit="#F31">anni,</lem><rdg wit="#B24 #B26 #N35 #R18">anni;</rdg></app></l>
+        <l n="105">E il conforto perì de’ nostri affanni.</l>
+        <l n="106">Nascevi <app><lem wit="#F31">a’</lem><rdg wit="#B24 #B26 #N35 #R18">ai dolci</rdg></app> dolci sogni intanto, e <app><lem wit="#F31">’l</lem><rdg wit="#B24 #B26 #N35 #R18">il primo Sole</rdg></app> primo</l>
+        <l n="107">Sole splendeati in vista,</l>
+        <l n="108">Cantor vago <app><lem wit="#F31">de l’arme</lem><rdg wit="#B24 #B26 #N35 #R18">dell’arme</rdg></app> e <app><lem wit="#F31">de gli amori</lem><rdg wit="#B24 #B26 #N35 #R18">degli amori,</rdg></app></l>
+        <l n="109">Che in età <app><lem wit="#F31">de la</lem><rdg wit="#B24 #B26 #N35 #R18">della nostra</rdg></app> nostra assai men trista </poem></l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

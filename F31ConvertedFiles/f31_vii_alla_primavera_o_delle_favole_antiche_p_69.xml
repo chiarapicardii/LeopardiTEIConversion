@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>VII. ALLA PRIMAVERA, O DELLE FAVOLE ANTICHE.</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoded by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Progetto Canti - Edizione F31</publisher>
+          <date when="2024">2024</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>Edizione Fiorentina - F31 (1831)</bibl>
+        <listWit>
+          <witness xml:id="B24">B24</witness>
+          <witness xml:id="B26">B26</witness>
+          <witness xml:id="F31">F31</witness>
+          <witness xml:id="N35">N35</witness>
+          <witness xml:id="R18">R18</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <variantEncoding method="parallel-segmentation" location="internal"/>
+      </encodingDesc>
+    </teiHeader>
+
+  <facsimile>
+    <surface xml:id="F31069">
+      <graphic url="./assets/img/F31069.JPG"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="poem" xml:id="f31_vii_alla_primavera_o_delle_favole_antiche_p_69">
+        <pb n="69" facs="#F31069"/>
+                <head>VII. ALLA PRIMAVERA, O DELLE FAVOLE ANTICHE.</head>
+        <lg>
+<l n="87">Le meste anime educa;</l>
+        <l n="88">Tu le cure infelici e i fati indegni</l>
+        <l n="89">Tu de’ mortali ascolta,</l>
+        <l n="90">Vaga <app><lem wit="#F31">natura,</lem><rdg wit="#B24 #B26 #N35 #R18">Vaga natura,</rdg></app> e la favilla antica</l>
+        <l n="91">Rendi <app><lem wit="#F31">a lo spirto</lem><rdg wit="#B24 #B26 #N35 #R18">allo spirto</rdg></app> mio; se tu pur vivi,</l>
+        <l n="92">E se de’ nostri affanni</l>
+        <l n="93">Cosa veruna in ciel, se <app><lem wit="#F31">ne l’aprica</lem><rdg wit="#B24 #B26 #N35 #R18">nell’aprica</rdg></app></l>
+        <l n="94">Terra s’alberga o <app><lem wit="#F31">ne l’equoreo</lem><rdg wit="#B24 #B26 #N35 #R18">nell’equoreo</rdg></app> seno,</l>
+        <l n="95">Pietosa no, ma spettatrice almeno. </poem></l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>
