@@ -15,9 +15,9 @@ Within this framework, and responding to the specific need for a common standard
 
 ## Methodology
 The pipeline of the project is structured into three sequential Python scripts designed to incrementally process the data; this choice allows for systematic error-checking at each stage. Specifically, they are divided into:
-1. **Data Extraction**: The script programmatically queries the WikiLeopardi API to collect and download the raw textual files from the source platform.
-2. **Pre-cleaning and Normalization**: The second script isolates and normalizes most of the anomalies of MediaWiki’s syntax, significantly simplifying the complexity of the core conversion script.
-3. **TEI Conversion**: The main script transforms the pre-processed wiki components into compliant XML/TEI elements and attributes.
+1. [**Data Extraction**](https://github.com/chiarapicardii/LeopardiTEIConversion/blob/main/scripts/LeopardiParsing.py): The script programmatically queries the WikiLeopardi API to collect and download the raw textual files from the source platform.
+2. [**Pre-cleaning and Normalization**](https://github.com/chiarapicardii/LeopardiTEIConversion/blob/main/scripts/cleaning.py): The second script isolates and normalizes most of the anomalies of MediaWiki’s syntax, significantly simplifying the complexity of the core conversion script.
+3. [**TEI Conversion**](https://github.com/chiarapicardii/LeopardiTEIConversion/blob/main/scripts/teiconversion.py): The main script transforms the pre-processed wiki components into compliant XML/TEI elements and attributes.
 
 To guarantee transparency and data reusability, the detailed technical challenges encountered and their relative programmatic solutions are documented within the repository’s GitHub README file. Additionally, it is important to note that Large Language Models (Gemini, Claude) were used as coding assistants to navigate wiki-specific syntax and to ensure compliance of the XML structure with TEI guidelines, while all methodological and philological decisions remained strictly with the author.
 
