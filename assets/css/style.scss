@@ -77,8 +77,9 @@ h1{
 
 /* 5. CORPO DEL TESTO */
 .main-content {
-  max-width: 46rem;
-  font-size: 1.1rem;
+  max-width: 100% !important; /* Rimuove il blocco stretto e usa tutto lo spazio disponibile */
+  padding: 2rem 4rem;          /* Aggiunge un bel margine elegante ai lati (destra e sinistra) */
+  font-size: 1.15rem;          /* Alza leggermente il font per proporzionarlo alla nuova larghezza */
 }
 
 /* 6. TITOLI DI SEZIONE */
@@ -158,8 +159,8 @@ h1{
 
 /* 8. PARAGRAFI */
 .main-content p {
-  margin-bottom: 1.1rem;
-  max-width: 42rem;
+  margin-bottom: 1.3rem;
+  max-width: 100%;            /* Permette ai paragrafi di distendersi liberamente */
 }
 
 /* 9. CITAZIONI / BLOCKQUOTE */
