@@ -285,11 +285,5 @@ Metrically indented lines preserve `rend="indent"` as a TEI attribute.
 
 ---
 
-## Limitations
-
-WikiLeopardi's syntax does not systematically require specifying the witness associated with each variant. As a result, a substantial portion of the apparatus lacks explicit witness attribution. The script addresses this by assigning such variants to the full set of declared witnesses; however, **a manual review remains necessary for full philological reliability**.
-
----
-
 *Scripts and data are openly available under CC BY 4.0.*  
 *Encoded by Chiara Picardi — University of Bologna, 2025–26.*
