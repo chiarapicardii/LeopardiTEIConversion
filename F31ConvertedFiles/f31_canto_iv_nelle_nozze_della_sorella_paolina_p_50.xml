@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>CANTO IV. NELLE NOZZE DELLA SORELLA PAOLINA</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoding and conversion by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>LeopardiTEIConversion project</publisher>
+          <date when="2026">2026</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <title>Wikileopardi</title>
+            <date>2020</date>
+            <note>Corpus of Canti extracted from Wikileopardi's platform.</note>
+          </bibl>
+        <listWit>
+          <witness xml:id="B24">B24</witness>
+          <witness xml:id="F31">F31</witness>
+          <witness xml:id="N35">N35</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <projectDesc>
+            <p>This project aims at standardizing the text and critical apparatus of Leopardi's Canti.</p>
+        </projectDesc>
+      </encodingDesc>
+    </teiHeader>
+
+  <facsimile>
+    <surface xml:id="F31050">
+      <graphic url="./assets/img/F31050.JPG"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="poem" xml:id="f31_canto_iv_nelle_nozze_della_sorella_paolina_p_50">
+        <pb n="50" facs="#F31050"/>
+                <head>CANTO IV. NELLE NOZZE DELLA SORELLA PAOLINA</head>
+        <lg>
+<l n="63"><app><lem wit="#F31">De la</lem><rdg wit="#B24 #N35">Della virtude</rdg></app> virtude a tollerar s’avvezzi</l>
+        <l n="64">La stirpe vostra, e quel che pregia e cole</l>
+        <l n="65"><app><lem wit="#F31">Il vergognoso tempo</lem><rdg wit="#B24 #N35">La vergognosa età</rdg></app>, <app><lem wit="#F31">abborra</lem><rdg wit="#B24 #N35">condanni</rdg></app> e sprezzi;</l>
+        <l n="66">Cresca <app><lem wit="#F31">a la</lem><rdg wit="#B24 #N35">alla patria</rdg></app> patria, e gli alti gesti, e quanto</l>
+        <l n="67"><app><lem wit="#F31">A gli</lem><rdg wit="#B24 #N35">Agli avi</rdg></app> avi suoi deggia la terra impari.</l>
+        <l n="68">Qual de’ vetusti eroi</l>
+        <l n="69">Tra le memorie <app><lem wit="#F31">e ’l</lem><rdg wit="#B24 #N35">e il grido</rdg></app> grido</l>
+        <l n="70">Crescean di Sparta i figli al greco nome;</l>
+        <l n="71"><app><lem wit="#F31">Fin che</lem><rdg wit="#B24 #N35">Finchè la sposa</rdg></app> la sposa giovanetta il fido</l>
+        <l n="72">Brando cingeva al caro lato, e poi</l>
+        <l n="73">Spandea le negre chiome</l>
+        <l n="74">Sul corpo esangue e nudo</l>
+        <l n="75">Quando e’ reddia nel conservato scudo.</l>
+        <l n="76">Virginia, a te la molle</l>
+        <l n="77">Gota molcea con le celesti dita</l>
+        <l n="78">Beltade onnipossente, e <app><lem wit="#F31">de gli</lem><rdg wit="#B24 #N35">degli alteri</rdg></app> alteri</l>
+        <l n="79">Disdegni tuoi si sconsolava il folle</l>
+        <l n="80">Signor di Roma. Eri pur vaga, ed eri</l>
+        <l n="81"><app><lem wit="#F31">Ne la</lem><rdg wit="#B24 #N35">Nella stagion</rdg></app> stagion <app><lem wit="#F31">ch’ a i</lem><rdg wit="#B24 #N35">ch’ ai dolci</rdg></app> dolci sogni invita,</l>
+        <l n="82">Quando il rozzo paterno acciar ti ruppe</l>
+        <l n="83">Il bianchissimo petto,</l>
+        <l n="84">E <app><lem wit="#F31">a l’Erebo</lem><rdg wit="#B24 #N35">all’Erebo</rdg></app> scendesti</l>
+        <l n="85">Volonterosa. A me disfiori e scioglia</l>
+        <l n="86">Vecchiezza i membri, o padre; a me s’appresti, </poem></l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

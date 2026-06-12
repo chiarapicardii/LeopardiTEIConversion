@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>VII. ALLA PRIMAVERA, O DELLE FAVOLE ANTICHE. (NOTA.)</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoding and conversion by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>LeopardiTEIConversion project</publisher>
+          <date when="2026">2026</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <title>Wikileopardi</title>
+            <date>2020</date>
+            <note>Corpus of Canti extracted from Wikileopardi's platform.</note>
+          </bibl>
+        <listWit>
+          <witness xml:id="B24">B24</witness>
+          <witness xml:id="B26">B26</witness>
+          <witness xml:id="F31">F31</witness>
+          <witness xml:id="N35">N35</witness>
+          <witness xml:id="R18">R18</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <projectDesc>
+            <p>This project aims at standardizing the text and critical apparatus of Leopardi's Canti.</p>
+        </projectDesc>
+      </encodingDesc>
+    </teiHeader>
+
+  <facsimile>
+    <surface xml:id="F31071">
+      <graphic url="./assets/img/F31071.JPG"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="note" xml:id="f31_vii_alla_primavera_o_delle_favole_antiche_nota_p_71" corresp="#f31_vii_alla_primavera_o_delle_favole_antiche_nota">
+        <pb n="71" facs="#F31071"/>
+        <head>NOTA</head>
+                <p>(1) “Anticamente correvano parecchie false immaginazioni appartenenti all’ora del mezzogiorno, e fra l’altre, che gli Dei, le ninfe, i silvani, i fauni e simili, aggiunto le anime de’ morti, si lasciassero vedere o sentire particolarmente su quell’ora; secondo che si raccoglie da Teocrito (1), Lucano (2), Filostrato (3), Porfirio (4), Servio (5) ed altri, e dalla Vita di san Paolo primo eremita (6) che va con quelle de’ Padri e fra le cose di san Girolamo. Anche puoi vedere il Meur- (1) Idyll. 1, v. 15 e sequent. (2) l. 3, v. 422 et sequent. (3) Heroic. c. 1, art. 4; op. Philostr. ed Olear. p. 671. (4) De antro nymph. c. 26 et 27. (5) ad Georg. l. 4, v. 401. (6) c. 6; in Vit. Patr. Rosveydi, Antuerp. 1615, l. 1, p. 18. <</p>
+      </div>
+    </body>
+  </text>
+</TEI>

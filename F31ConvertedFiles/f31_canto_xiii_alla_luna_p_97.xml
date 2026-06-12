@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>ALLA LUNA.</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoding and conversion by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>LeopardiTEIConversion project</publisher>
+          <date when="2026">2026</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <title>Wikileopardi</title>
+            <date>2020</date>
+            <note>Corpus of Canti extracted from Wikileopardi's platform.</note>
+          </bibl>
+        <listWit>
+          <witness xml:id="B24">B24</witness>
+          <witness xml:id="B26">B26</witness>
+          <witness xml:id="F31">F31</witness>
+          <witness xml:id="N35">N35</witness>
+          <witness xml:id="R18">R18</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <projectDesc>
+            <p>This project aims at standardizing the text and critical apparatus of Leopardi's Canti.</p>
+        </projectDesc>
+      </encodingDesc>
+    </teiHeader>
+
+  <facsimile>
+    <surface xml:id="F31097">
+      <graphic url="./assets/img/F31097.JPG"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="poem" xml:id="f31_canto_xiii_alla_luna_p_97">
+        <pb n="97" facs="#F31097"/>
+                <head>XIII. ALLA LUNA.</head>
+        <lg>
+<l n="1">O graziosa luna, io mi rammento</l>
+        <l n="2">Che, or volge <app><lem wit="#F31">l’anno, io sovra questo colle</lem><rdg wit="#B24 #B26 #N35 #R18">L’anno, sovra questo colle</rdg></app></l>
+        <l n="3"><app><lem wit="#F31">Venia carco</lem><rdg wit="#B24 #B26 #N35 #R18">Io venia pien</rdg></app> d’angoscia a rimirarti:</l>
+        <l n="4">E tu pendevi allor su quella selva</l>
+        <l n="5">Siccome or fai, che tutta la rischiari.</l>
+        <l n="6">Ma nebuloso e tremulo dal pianto</l>
+        <l n="7">Che mi sorgea sul ciglio, <app><lem wit="#F31">a le</lem><rdg wit="#B24 #B26 #N35 #R18">Alle mie</rdg></app> mie luci</l>
+        <l n="8">Il tuo volto <app><lem wit="#F31">apparia; chè</lem><rdg wit="#B24 #B26 #N35 #R18">Apparia, che</rdg></app> travagliosa</l>
+        <l n="9">Era mia vita: ed è, nè cangia stile,</l>
+        <l n="10">O mia diletta luna. E pur mi giova</l>
+        <l n="11">La ricordanza, e <app><lem wit="#F31">’l</lem><rdg wit="#B24 #B26 #N35 #R18">Il noverar</rdg></app> noverar l’etate</l>
+        <l n="12">Del mio dolore. Oh come grato <app><lem wit="#F31">occorre</lem><rdg wit="#B24 #B26 #N35 #R18">Occorre Nel tempo… il corso, Il rimembrar</rdg></app></l>
+        <l n="13"><app><lem wit="#F31">Il sovvenir</lem><rdg wit="#B24 #B26 #N35 #R18">Occorre Nel tempo… il corso, Il rimembrar</rdg></app> <app><lem wit="#F31">de le</lem><rdg wit="#B24 #B26 #N35 #R18">Delle passate</rdg></app> passate cose,</l>
+        <l n="14">Ancor che triste, e <app><lem wit="#F31">ancor che il pianto duri.</lem><rdg wit="#B24 #B26 #N35 #R18">E che l’affanno duri!</rdg></app> </poem></l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

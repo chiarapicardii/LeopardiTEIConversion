@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>VII. ALLA PRIMAVERA, O DELLE FAVOLE ANTICHE.</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoding and conversion by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>LeopardiTEIConversion project</publisher>
+          <date when="2026">2026</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <title>Wikileopardi</title>
+            <date>2020</date>
+            <note>Corpus of Canti extracted from Wikileopardi's platform.</note>
+          </bibl>
+        <listWit>
+          <witness xml:id="B24">B24</witness>
+          <witness xml:id="B26">B26</witness>
+          <witness xml:id="F31">F31</witness>
+          <witness xml:id="N35">N35</witness>
+          <witness xml:id="R18">R18</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <projectDesc>
+            <p>This project aims at standardizing the text and critical apparatus of Leopardi's Canti.</p>
+        </projectDesc>
+      </encodingDesc>
+    </teiHeader>
+
+  <facsimile>
+    <surface xml:id="F31068">
+      <graphic url="./assets/img/F31068.JPG"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="poem" xml:id="f31_vii_alla_primavera_o_delle_favole_antiche_p_68">
+        <pb n="68" facs="#F31068"/>
+                <head>VII. ALLA PRIMAVERA, O DELLE FAVOLE ANTICHE.</head>
+        <lg>
+<l n="63">Ma di ninfa abitò misero spirto,</l>
+        <l n="64">Cui grave amor, cui duro fato escluse</l>
+        <l n="65"><app><lem wit="#F31">De le</lem><rdg wit="#B24 #B26 #N35 #R18">Delle tenere</rdg></app> tenere membra. Ella per grotte,</l>
+        <l n="66">Per nudi scogli <app><lem wit="#F31">e desolati alberghi</lem><rdg wit="#B24 #B26 #N35 #R18">e desolati alberghi,</rdg></app></l>
+        <l n="67">Le non ignote ambasce e l’alte e rotte</l>
+        <l n="68">Nostre querele al curvo</l>
+        <l n="69">Etra insegnava. E te d’umani eventi</l>
+        <l n="70">Disse la fama esperto,</l>
+        <l n="71">Musico augel che tra chiomato bosco</l>
+        <l n="72">Or vieni il rinascente anno cantando,</l>
+        <l n="73">E lamentar <app><lem wit="#F31">ne l’alto</lem><rdg wit="#B24 #B26 #N35 #R18">nell’alto</rdg></app></l>
+        <l n="74">Ozio de’ campi, <app><lem wit="#F31">e l’aer</lem><rdg wit="#B24 #B26 #N35 #R18">all’aer</rdg></app> muto e fosco,</l>
+        <l n="75">Antichi danni e <app><lem wit="#F31">scelerato</lem><rdg wit="#B24 #B26 #N35 #R18">scellerato</rdg></app> scorno,</l>
+        <l n="76">E d’ira e di pietà pallido il giorno.</l>
+        <l n="77">Ma non cognato <app><lem wit="#F31">al nostro</lem><rdg wit="#B24 #B26 #N35 #R18">Al nostro Il gener tuo; quelle tue</rdg></app></l>
+        <l n="78"><app><lem wit="#F31">Il gener tuo; quelle tue</lem><rdg wit="#B24 #B26 #N35 #R18">Al nostro Il gener tuo; quelle tue</rdg></app> varie note</l>
+        <l n="79">Dolor non forma, e te di colpa ignudo,</l>
+        <l n="80">Men caro assai la bruna valle asconde.</l>
+        <l n="81">Ahi ahi, poscia che vote</l>
+        <l n="82">Son le stanze d’Olimpo, e cieco il tuono</l>
+        <l n="83">Per l’atre nubi e le montagne errando,</l>
+        <l n="84">Gl’iniqui petti e gl’innocenti a paro</l>
+        <l n="85">In freddo orror dissolve; e poi ch’estrano</l>
+        <l n="86">Il suol nativo, e di sua prole ignaro </poem></l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

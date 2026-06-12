@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>LA QUIETE
+DOPO LA TEMPESTA.</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoding and conversion by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>LeopardiTEIConversion project</publisher>
+          <date when="2026">2026</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <title>Wikileopardi</title>
+            <date>2020</date>
+            <note>Corpus of Canti extracted from Wikileopardi's platform.</note>
+          </bibl>
+        <listWit>
+          <witness xml:id="F31">F31</witness>
+          <witness xml:id="N35">N35</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <projectDesc>
+            <p>This project aims at standardizing the text and critical apparatus of Leopardi's Canti.</p>
+        </projectDesc>
+      </encodingDesc>
+    </teiHeader>
+
+  <facsimile>
+    <surface xml:id="F31155">
+      <graphic url="./assets/img/F31155.JPG"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="poem" xml:id="f31_canto_xxii_la_quiete_dopo_la_tempesta_p_155">
+        <pb n="155" facs="#F31155"/>
+                <head>XXII. LA QUIETE
+DOPO LA TEMPESTA.</head>
+        <lg>
+<l n="1">Passata è la tempesta:</l>
+        <l n="2">Odo augelli far festa, e la gallina,</l>
+        <l n="3">Tornata in su la via,</l>
+        <l n="4">Che ripete il suo verso. Ecco il sereno</l>
+        <l n="5">Rompe là da ponente, <app><lem wit="#F31">a la</lem><rdg wit="#N35">alla montagna</rdg></app> montagna;</l>
+        <l n="6">Sgombrasi la campagna,</l>
+        <l n="7">E chiaro <app><lem wit="#F31">ne la</lem><rdg wit="#N35">nella valle</rdg></app> valle il fiume appare.</l>
+        <l n="8">Ogni cor si rallegra, in ogni lato</l>
+        <l n="9">Risorge il romorio</l>
+        <l n="10">Torna il lavoro usato.</l>
+        <l n="11">L’artigiano a mirar l’umido cielo,</l>
+        <l n="12">Con l’opra in man, cantando,</l>
+        <l n="13">Fassi in su l’uscio; a prova</l>
+        <l n="14">Vien fuor la femminetta a còr <app><lem wit="#F31">de l’acqua</lem><rdg wit="#N35">dell’acqua</rdg></app></l>
+        <l n="15"><app><lem wit="#F31">De la</lem><rdg wit="#N35">Della novella</rdg></app> novella piova;</l>
+        <l n="16">E l’erbaiuol rinnova</l>
+        <l n="17">Di sentiero in sentiero </poem></l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

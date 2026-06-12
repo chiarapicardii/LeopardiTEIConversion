@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>I. ALL'ITALIA.</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoding and conversion by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>LeopardiTEIConversion project</publisher>
+          <date when="2026">2026</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <title>Wikileopardi</title>
+            <date>2020</date>
+            <note>Corpus of Canti extracted from Wikileopardi's platform.</note>
+          </bibl>
+        <listWit>
+          <witness xml:id="B24">B24</witness>
+          <witness xml:id="B26">B26</witness>
+          <witness xml:id="F31">F31</witness>
+          <witness xml:id="N35">N35</witness>
+          <witness xml:id="R18">R18</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <projectDesc>
+            <p>This project aims at standardizing the text and critical apparatus of Leopardi's Canti.</p>
+        </projectDesc>
+      </encodingDesc>
+    </teiHeader>
+
+  <facsimile>
+    <surface xml:id="F31015">
+      <graphic url="./assets/img/F31015.JPG"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="poem" xml:id="f31_i_allitalia_p_15">
+        <pb n="15" facs="#F31015"/>
+                <head>I. ALL'ITALIA.</head>
+        <lg>
+<l n="89"><app><lem wit="#F31">Qual tanto amor le giovanette menti;</lem><rdg wit="#B24 #B26 #N35 #R18">Nell’armi e ne’ perigli</rdg></app></l>
+        <l n="90"><app><lem wit="#F31">Qual ne l’acerbo fato amor vi trasse?</lem><rdg wit="#B24 #B26 #N35 #R18">Nell’armi e ne’ perigli</rdg></app></l>
+        <l n="91">Come <app><lem wit="#F31">sì lieta, o figli,</lem><rdg wit="#B24 #B26 #N35 #R18">Sì lieta, o figli,</rdg></app></l>
+        <l n="92">L’ora estrema <app><lem wit="#F31">vi parve,</lem><rdg wit="#B24 #B26 #N35 #R18">Vi parve,</rdg></app> onde ridenti</l>
+        <l n="93">Correste al <app><lem wit="#F31">passo lagrimoso</lem><rdg wit="#B24 #B26 #N35 #R18">Passo lacrimoso</rdg></app> e duro?</l>
+        <l n="94">Parea ch’a danza e non a morte andasse</l>
+        <l n="95">Ciascun de’ <app><lem wit="#F31">vostri</lem><rdg wit="#B24 #B26 #N35 #R18">Vostri,</rdg></app> o a splendido convito:</l>
+        <l n="96">Ma v’attendea lo scuro</l>
+        <l n="97">Tartaro, e l’onda morta;</l>
+        <l n="98">Nè le spose vi <app><lem wit="#F31">fòro</lem><rdg wit="#B24 #B26 #N35 #R18">Foro</rdg></app> o i figli accanto</l>
+        <l n="99">Quando su l’aspro lito</l>
+        <l n="100">Senza baci moriste e senza pianto.</l>
+        <l n="101">Ma non senza de’ Persi orrida pena</l>
+        <l n="102">Ed immortale angoscia.</l>
+        <l n="103">Come lion di tori entro una mandra</l>
+        <l n="104">Or salta a quello in tergo e sì gli scava</l>
+        <l n="105">Con le zanne la schiena,</l>
+        <l n="106">Or questo fianco addenta or quella coscia;</l>
+        <l n="107">Tal fra le <app><lem wit="#F31">pérse</lem><rdg wit="#B24 #B26 #N35 #R18">Perse</rdg></app> torme infuriava</l>
+        <l n="108">L’ira de’ greci petti e la virtute.</l>
+        <l n="109">Ve’ cavalli supini e <app><lem wit="#F31">cavalieri;</lem><rdg wit="#B24 #B26 #N35 #R18">Cavalieri;</rdg></app></l>
+        <l n="110">Vedi <app><lem wit="#F31">ingombrar de’ vinti</lem><rdg wit="#B24 #B26 #N35 #R18">Intralciare ai vinti</rdg></app></l>
+        <l n="111">La fuga i carri e le tende cadute,</l>
+        <l n="112">E correr fra’ primieri </poem></l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

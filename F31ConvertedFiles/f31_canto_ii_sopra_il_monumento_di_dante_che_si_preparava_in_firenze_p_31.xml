@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>CANTO II. Sopra il monumento di Dante che si preparava in Firenze</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoding and conversion by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>LeopardiTEIConversion project</publisher>
+          <date when="2026">2026</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <title>Wikileopardi</title>
+            <date>2020</date>
+            <note>Corpus of Canti extracted from Wikileopardi's platform.</note>
+          </bibl>
+        <listWit>
+          <witness xml:id="B24">B24</witness>
+          <witness xml:id="F31">F31</witness>
+          <witness xml:id="N35">N35</witness>
+          <witness xml:id="R18">R18</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <projectDesc>
+            <p>This project aims at standardizing the text and critical apparatus of Leopardi's Canti.</p>
+        </projectDesc>
+      </encodingDesc>
+    </teiHeader>
+
+  <facsimile>
+    <surface xml:id="F31031">
+      <graphic url="./assets/img/F31031.JPG"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="poem" xml:id="f31_canto_ii_sopra_il_monumento_di_dante_che_si_preparava_in_firenze_p_31">
+        <pb n="31" facs="#F31031"/>
+                <head>CANTO II. Sopra il monumento di Dante che si preparava in Firenze</head>
+        <lg>
+<l n="181"><app><lem wit="#F31">Dimmi:</lem><rdg wit="#B24 #N35 #R18">Dimmi: d’Italia</rdg></app> d’Italia tua morto è l’amore?</l>
+        <l n="182">Dì: quella fiamma che t’accese, è spenta?</l>
+        <l n="183">Dì: nè più mai rinverdirà quel mirto</l>
+        <l n="184">Ch’alleggiò per gran tempo il nostro male?</l>
+        <l n="185"><app><lem wit="#F31">E saran tue fatiche a l’aria</lem><rdg wit="#B24 #N35 #R18">Nostre corone al suol fien tutte</rdg></app> sparte?</l>
+        <l n="186">Nè sorgerà mai tale</l>
+        <l n="187">Che ti rassembri in qualsivoglia parte?</l>
+        <l n="188"><app><lem wit="#F31">In eterno perì la gloria nostra?</lem><rdg wit="#B24 #N35 #R18">In eterno... confine?</rdg></app></l>
+        <l n="189"><app><lem wit="#F31">E non d’Italia il pianto e non lo scorno</lem><rdg wit="#B24 #N35 #R18">In eterno... confine?</rdg></app></l>
+        <l n="190"><app><lem wit="#F31">Ebbe verun confine?</lem><rdg wit="#B24 #N35 #R18">In eterno... confine?</rdg></app></l>
+        <l n="191">Io mentre viva andrò sclamando intorno,</l>
+        <l n="192">Volgiti <app><lem wit="#F31">a gli avi</lem><rdg wit="#B24 #N35 #R18">agli avi tuoi</rdg></app> tuoi, guasto legnaggio;</l>
+        <l n="193">Mira queste ruine</l>
+        <l n="194">E le carte e le tele e i marmi e i templi;</l>
+        <l n="195"><app><lem wit="#F31">Pensa qual terra premi; e se destarti</lem><rdg wit="#B24 #N35 #R18">Pensa qual... cotanti esempli.</rdg></app></l>
+        <l n="196"><app><lem wit="#F31">Non può la luce di cotanti esempli,</lem><rdg wit="#B24 #N35 #R18">Pensa qual... cotanti esempli.</rdg></app></l>
+        <l n="197">Che stai? <app><lem wit="#F31">lévati</lem><rdg wit="#B24 #N35 #R18">levati</rdg></app> e parti.</l>
+        <l n="198">Non si <app><lem wit="#F31">conviene</lem><rdg wit="#B24 #N35 #R18">conviene a</rdg></app> a sì corrotta usanza</l>
+        <l n="199">Questa <app><lem wit="#F31">di prodi ingegni</lem><rdg wit="#B24 #N35 #R18">d’animi eccelsi</rdg></app> altrice e scola:</l>
+        <l n="200">Se <app><lem wit="#F31">d’infingardi</lem><rdg wit="#B24 #N35 #R18">di codardi</rdg></app> è stanza,</l>
+        <l n="201">Meglio l’è rimaner vedova e sola. </poem></l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

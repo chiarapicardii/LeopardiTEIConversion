@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>V. A UN VINCITORE NEL PALLONE.</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoding and conversion by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>LeopardiTEIConversion project</publisher>
+          <date when="2026">2026</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <title>Wikileopardi</title>
+            <date>2020</date>
+            <note>Corpus of Canti extracted from Wikileopardi's platform.</note>
+          </bibl>
+        <listWit>
+          <witness xml:id="B24">B24</witness>
+          <witness xml:id="B26">B26</witness>
+          <witness xml:id="F31">F31</witness>
+          <witness xml:id="N35">N35</witness>
+          <witness xml:id="R18">R18</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <projectDesc>
+            <p>This project aims at standardizing the text and critical apparatus of Leopardi's Canti.</p>
+        </projectDesc>
+      </encodingDesc>
+    </teiHeader>
+
+  <facsimile>
+    <surface xml:id="F31054">
+      <graphic url="./assets/img/F31054.JPG"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="poem" xml:id="f31_v_a_un_vincitore_nel_pallone_p_54">
+        <pb n="54" facs="#F31054"/>
+                <head>V. A UN VINCITORE NEL PALLONE.</head>
+        <lg>
+<l n="17">Che stupido mirò l’ardua palestra,</l>
+        <l n="18">Nè la palma beata e la corona</l>
+        <l n="19">D’emula brama il punse. E <app><lem wit="#F31">ne l’Alfeo</lem><rdg wit="#B24 #B26 #N35 #R18">nell’Alfeo</rdg></app></l>
+        <l n="20">Forse le chiome polverose e i fianchi</l>
+        <l n="21"><app><lem wit="#F31">De le</lem><rdg wit="#B24 #B26 #N35 #R18">Delle cavalle</rdg></app> cavalle vincitrici asterse</l>
+        <l n="22">Tal che le greche insegne <app><lem wit="#F31">e ’l</lem><rdg wit="#B24 #B26 #N35 #R18">e il greco</rdg></app> greco acciaro</l>
+        <l n="23">Guidò de’ Medi fuggitivi e stanchi</l>
+        <l n="24"><app><lem wit="#F31">Ne le</lem><rdg wit="#B24 #B26 #N35 #R18">Nelle pallide</rdg></app> pallide torme; onde sonaro</l>
+        <l n="25">Di sconsolato grido</l>
+        <l n="26"><app><lem wit="#F31">Gli alti gorghi d’</lem><rdg wit="#B24 #B26 #N35 #R18">L’alto sen dell’</rdg></app> Eufrate <app><lem wit="#F31">e ’l</lem><rdg wit="#B24 #B26 #N35 #R18">e il servo</rdg></app> servo lido.</l>
+        <l n="27">Vano dirai quel che disserra e scote</l>
+        <l n="28"><app><lem wit="#F31">De la</lem><rdg wit="#B24 #B26 #N35 #R18">Della virtù</rdg></app> virtù nativa</l>
+        <l n="29">Le riposte faville? e che del fioco</l>
+        <l n="30">Spirto vital <app><lem wit="#F31">ne gli</lem><rdg wit="#B24 #B26 #N35 #R18">negli egri</rdg></app> egri petti avviva</l>
+        <l n="31">Il caduco fervor? Le meste rote</l>
+        <l n="32">Da poi che Febo instiga, altro che gioco</l>
+        <l n="33">Son <app><lem wit="#F31">le cure</lem><rdg wit="#B24 #B26 #N35 #R18">l’opre de’</rdg></app> mortali? ed è men vano</l>
+        <l n="34"><app><lem wit="#F31">De la</lem><rdg wit="#B24 #B26 #N35 #R18">Della menzogna</rdg></app> menzogna il vero? A noi di lieti</l>
+        <l n="35">Inganni e di felici ombre soccorse</l>
+        <l n="36">Natura <app><lem wit="#F31">istessa;</lem><rdg wit="#B24 #B26 #N35 #R18">stessa:</rdg></app> e là dove l’insano</l>
+        <l n="37">Costume <app><lem wit="#F31">a i</lem><rdg wit="#B24 #B26 #N35 #R18">ai forti</rdg></app> forti errori esca non porse,</l>
+        <l n="38"><app><lem wit="#F31">Ne gli</lem><rdg wit="#B24 #B26 #N35 #R18">Negli ozi</rdg></app> ozi <app><lem wit="#F31">infermi</lem><rdg wit="#B24 #B26 #N35 #R18">oscuri</rdg></app> e nudi</l>
+        <l n="39">Mutò la gente i gloriosi studi.</l>
+        <l n="40">Tempo forse verrà ch’<app><lem wit="#F31">a le</lem><rdg wit="#B24 #B26 #N35 #R18">ch’alle</rdg></app> ruine </poem></l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>CANTO XIV. Il sogno</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoding and conversion by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>LeopardiTEIConversion project</publisher>
+          <date when="2026">2026</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <title>Wikileopardi</title>
+            <date>2020</date>
+            <note>Corpus of Canti extracted from Wikileopardi's platform.</note>
+          </bibl>
+        <listWit>
+          <witness xml:id="B24">B24</witness>
+          <witness xml:id="B26">B26</witness>
+          <witness xml:id="F31">F31</witness>
+          <witness xml:id="N35">N35</witness>
+          <witness xml:id="R18">R18</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <projectDesc>
+            <p>This project aims at standardizing the text and critical apparatus of Leopardi's Canti.</p>
+        </projectDesc>
+      </encodingDesc>
+    </teiHeader>
+
+  <facsimile>
+    <surface xml:id="F31102">
+      <graphic url="./assets/img/F31102.JPG"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="poem" xml:id="f31_canto_xiv_il_sogno_p_102">
+        <pb n="102" facs="#F31102"/>
+                <head>CANTO XIV. Il sogno</head>
+        <lg>
+<l n="69"><app><lem wit="#F31">Consentimi ch’io ’l sappia</lem><rdg wit="#B24 #B26 #N35 #R18">Non mel celar, ti prego,</rdg></app> e mi soccorra</l>
+        <l n="70">La rimembranza or che <app><lem wit="#F31">il</lem><rdg wit="#B24 #B26 #N35 #R18">il futuro</rdg></app> futuro è tolto</l>
+        <l n="71"><app><lem wit="#F31">A i</lem><rdg wit="#B24 #B26 #N35 #R18">Ai nostri giorni.</rdg></app> nostri giorni. E quella: ti conforta,</l>
+        <l n="72">O sventurato. Io di pietade avara</l>
+        <l n="73">Non ti fui mentre vissi, ed or non sono,</l>
+        <l n="74"><app><lem wit="#F31">Chè</lem><rdg wit="#B24 #B26 #N35 #R18">Che fui misera</rdg></app> fui misera anch’io. Non far querela</l>
+        <l n="75">Di questa infelicissima fanciulla.</l>
+        <l n="76">Per le sventure nostre, e per l’amore</l>
+        <l n="77">Che mi strugge, esclamai; per lo diletto</l>
+        <l n="78">Nome di giovanezza e la perduta</l>
+        <l n="79">Speme <app><lem wit="#F31">de i</lem><rdg wit="#B24 #B26 #N35 #R18">dei nostri dì</rdg></app> nostri dì, <app><lem wit="#F31">concedi</lem><rdg wit="#B24 #B26 #N35 #R18">concedi,</rdg></app> o cara,</l>
+        <l n="80">Che la tua destra io tocchi. Ed ella, in atto</l>
+        <l n="81">Soave e tristo, la porgeva. Or mentre</l>
+        <l n="82">Di baci la ricopro, e d’affannosa</l>
+        <l n="83">Dolcezza palpitando <app><lem wit="#F31">a l’anelante</lem><rdg wit="#B24 #B26 #N35 #R18">all’anelante</rdg></app></l>
+        <l n="84">Seno la stringo, di sudore il volto</l>
+        <l n="85">Ferveva e <app><lem wit="#F31">’l</lem><rdg wit="#B24 #B26 #N35 #R18">il petto,</rdg></app> petto, <app><lem wit="#F31">ne le</lem><rdg wit="#B24 #B26 #N35 #R18">nelle fauci</rdg></app> fauci stava</l>
+        <l n="86">La voce, al guardo traballava il giorno.</l>
+        <l n="87">Quando colei teneramente affissi</l>
+        <l n="88">Gli occhi <app><lem wit="#F31">ne gli</lem><rdg wit="#B24 #B26 #N35 #R18">negli occhi miei</rdg></app> occhi miei, già <app><lem wit="#F31">scordi</lem><rdg wit="#B24 #B26 #N35 #R18">scordi,</rdg></app> o caro,</l>
+        <l n="89">Disse, che di beltà son fatta ignuda?</l>
+        <l n="90">E tu d’amore, o sfortunato, indarno</l>
+        <l n="91">Ti scaldi e fremi. Or finalmente addio.</l>
+        <l n="92">Nostre misere menti e nostre salme</l>
+        <l n="93">Son disgiunte in eterno. A me non vivi </poem></l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

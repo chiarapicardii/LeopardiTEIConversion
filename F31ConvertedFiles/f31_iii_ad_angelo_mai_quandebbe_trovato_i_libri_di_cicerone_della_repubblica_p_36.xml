@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>III. AD ANGELO MAI, QUAND’EBBE TROVATO I LIBRI DI CICERONE DELLA REPUBBLICA.</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoding and conversion by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>LeopardiTEIConversion project</publisher>
+          <date when="2026">2026</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <title>Wikileopardi</title>
+            <date>2020</date>
+            <note>Corpus of Canti extracted from Wikileopardi's platform.</note>
+          </bibl>
+        <listWit>
+          <witness xml:id="B24">B24</witness>
+          <witness xml:id="B26">B26</witness>
+          <witness xml:id="F31">F31</witness>
+          <witness xml:id="N35">N35</witness>
+          <witness xml:id="R18">R18</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <projectDesc>
+            <p>This project aims at standardizing the text and critical apparatus of Leopardi's Canti.</p>
+        </projectDesc>
+      </encodingDesc>
+    </teiHeader>
+
+  <facsimile>
+    <surface xml:id="F31036">
+      <graphic url="./assets/img/F31036.JPG"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="poem" xml:id="f31_iii_ad_angelo_mai_quandebbe_trovato_i_libri_di_cicerone_della_repubblica_p_36">
+        <pb n="36" facs="#F31036"/>
+                <head>III. AD ANGELO MAI, QUAND’EBBE TROVATO I LIBRI DI CICERONE DELLA REPUBBLICA.</head>
+        <lg>
+<l n="16">Certo senza de’ numi alto consiglio</l>
+        <l n="17">Non è ch’ove più lento</l>
+        <l n="18">E grave è <app><lem wit="#F31">’l</lem><rdg wit="#B24 #B26 #N35 #R18">il nostro</rdg></app> nostro disperato obblio,</l>
+        <l n="19">A percoter ne rieda ogni momento</l>
+        <l n="20">Novo grido de’ padri. Ancora è pio</l>
+        <l n="21">Dunque <app><lem wit="#F31">a l’</lem><rdg wit="#B24 #B26 #N35 #R18">all’Italia il</rdg></app><app><lem wit="#F31">Italia</lem><rdg wit="#B24 #B26 #N35 #R18">Italia il</rdg></app> il cielo; anco si cura</l>
+        <l n="22">Di noi qualche immortale:</l>
+        <l n="23">Ch’essendo questa o nessun’altra poi</l>
+        <l n="24">L’ora da ripor mano <app><lem wit="#F31">a la</lem><rdg wit="#B24 #B26 #N35 #R18">alla virtude</rdg></app> virtude</l>
+        <l n="25">Rugginosa <app><lem wit="#F31">de l’itala</lem><rdg wit="#B24 #B26 #N35 #R18">dell’itala</rdg></app> natura,</l>
+        <l n="26"><app><lem wit="#F31">Veggiam che tanto e tale</lem><rdg wit="#B24 #B26 #N35 #R18">Veggiam... dischiude,</rdg></app></l>
+        <l n="27"><app><lem wit="#F31">È il clamor de’ sepolti, e che gli eroi</lem><rdg wit="#B24 #B26 #N35 #R18">Veggiam... dischiude,</rdg></app></l>
+        <l n="28"><app><lem wit="#F31">Dimenticati il suol quasi dischiude,</lem><rdg wit="#B24 #B26 #N35 #R18">Veggiam... dischiude,</rdg></app></l>
+        <l n="29"><app><lem wit="#F31">A ricercar s’a questa età sì tarda</lem><rdg wit="#B24 #B26 #N35 #R18">A ricercar... codarda.</rdg></app></l>
+        <l n="30"><app><lem wit="#F31">Anco ti giovi, o patria, esser codarda.</lem><rdg wit="#B24 #B26 #N35 #R18">A ricercar... codarda.</rdg></app></l>
+        <l n="31"><app><lem wit="#F31">Di noi serbate, o gloriosi, ancora</lem><rdg wit="#B24 #B26 #N35 #R18">Di noi... speranza</rdg></app></l>
+        <l n="32"><app><lem wit="#F31">Qualche speranza?</lem><rdg wit="#B24 #B26 #N35 #R18">Di noi... speranza</rdg></app> in tutto</l>
+        <l n="33">Non siam periti? A voi <app><lem wit="#F31">certo</lem><rdg wit="#B24 #B26 #N35 #R18">forse il</rdg></app> il futuro</l>
+        <l n="34"><app><lem wit="#F31">Ignoranza non copre: io son distrutto</lem><rdg wit="#B24 #B26 #N35 #R18">Conoscer... scuro</rdg></app></l>
+        <l n="35"><app><lem wit="#F31">Ed annullato dal dolor, chè scuro</lem><rdg wit="#B24 #B26 #N35 #R18">Conoscer... scuro</rdg></app></l>
+        <l n="36">M’è l’avvenire, e tutto quanto io scerno</l>
+        <l n="37">È tal che sogno e fola</l>
+        <l n="38">Fa parer la speranza. Anime prodi,</l>
+        <l n="39"><app><lem wit="#F31">A i tetti vostri inonorata, immonda</lem><rdg wit="#B24 #B26 #N35 #R18">Ai tetti... sangue</rdg></app> </poem></l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

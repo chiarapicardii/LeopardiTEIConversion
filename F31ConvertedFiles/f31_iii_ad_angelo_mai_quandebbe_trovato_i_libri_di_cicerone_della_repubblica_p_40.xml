@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>III. AD ANGELO MAI, QUAND’EBBE TROVATO I LIBRI DI CICERONE DELLA REPUBBLICA.</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoding and conversion by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>LeopardiTEIConversion project</publisher>
+          <date when="2026">2026</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <title>Wikileopardi</title>
+            <date>2020</date>
+            <note>Corpus of Canti extracted from Wikileopardi's platform.</note>
+          </bibl>
+        <listWit>
+          <witness xml:id="B24">B24</witness>
+          <witness xml:id="B26">B26</witness>
+          <witness xml:id="F31">F31</witness>
+          <witness xml:id="N35">N35</witness>
+          <witness xml:id="R18">R18</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <projectDesc>
+            <p>This project aims at standardizing the text and critical apparatus of Leopardi's Canti.</p>
+        </projectDesc>
+      </encodingDesc>
+    </teiHeader>
+
+  <facsimile>
+    <surface xml:id="F31040">
+      <graphic url="./assets/img/F31040.JPG"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="poem" xml:id="f31_iii_ad_angelo_mai_quandebbe_trovato_i_libri_di_cicerone_della_repubblica_p_40">
+        <pb n="40" facs="#F31040"/>
+                <head>III. AD ANGELO MAI, QUAND’EBBE TROVATO I LIBRI DI CICERONE DELLA REPUBBLICA.</head>
+        <lg>
+<l n="110">Empièr la vita di felici errori:</l>
+        <l n="111">Nova speme d’Italia.O torri, o celle,</l>
+        <l n="112">O donne, o cavalieri,</l>
+        <l n="113">O giardini, o palagi! a voi pensando,</l>
+        <l n="114">In mille vane amenità si perde</l>
+        <l n="115">La mente mia. Di vanità, di belle</l>
+        <l n="116">Fole e strani pensieri</l>
+        <l n="117">Si componea l’umana vita: in bando</l>
+        <l n="118"><app><lem wit="#F31">Gli</lem><rdg wit="#B24 #B26 #N35 #R18">Li cacciamo</rdg></app> cacciammo: or che resta? or poi che <app><lem wit="#F31">’l</lem><rdg wit="#B24 #B26 #N35 #R18">il verde</rdg></app> verde</l>
+        <l n="119">È spogliato <app><lem wit="#F31">a le</lem><rdg wit="#B24 #B26 #N35 #R18">alle cose</rdg></app> cose? <app><lem wit="#F31">il</lem><rdg wit="#B24 #B26 #N35 #R18">Il certo</rdg></app> certo e solo</l>
+        <l n="120">Veder che tutto è vano altro che <app><lem wit="#F31">’l</lem><rdg wit="#B24 #B26 #N35 #R18">il duolo</rdg></app> duolo.</l>
+        <l n="121">O Torquato, o Torquato, a noi <app><lem wit="#F31">promesso</lem><rdg wit="#B24 #B26 #N35 #R18">l’eccelsa... mente</rdg></app></l>
+        <l n="122"><app><lem wit="#F31">Eri tu</lem><rdg wit="#B24 #B26 #N35 #R18">l’eccelsa... mente</rdg></app> <app><lem wit="#F31">allora;</lem><rdg wit="#B24 #B26 #N35 #R18">allora,</rdg></app> il pianto</l>
+        <l n="123">A te, <app><lem wit="#F31">non altro, prometteva</lem><rdg wit="#B24 #B26 #N35 #R18">non altro, preparava</rdg></app> il cielo.</l>
+        <l n="124"><app><lem wit="#F31">Oh</lem><rdg wit="#B24 #B26 #N35 #R18">Oh misero</rdg></app> misero <app><lem wit="#F31">Torquato;</lem><rdg wit="#B24 #B26 #N35 #R18">Torquato!</rdg></app> il dolce canto</l>
+        <l n="125">Non valse a consolarti o a sciorre il gelo</l>
+        <l n="126">Onde l’alma t’avean, ch’era sì calda,</l>
+        <l n="127">Cinta l’odio e l’immondo</l>
+        <l n="128">Livor privato e de’ tiranni. Amore,</l>
+        <l n="129"><app><lem wit="#F31">Amor, di nostra vita ultimo inganno,</lem><rdg wit="#B24 #B26 #N35 #R18">Amor... inganno</rdg></app></l>
+        <l n="130">T’abbandonava. Ombra reale e salda</l>
+        <l n="131">Ti parve il nulla, e <app><lem wit="#F31">’l</lem><rdg wit="#B24 #B26 #N35 #R18">il mondo</rdg></app> mondo</l>
+        <l n="132"><app><lem wit="#F31">Inabitata piaggia. Al tardo onore</lem><rdg wit="#B24 #B26 #N35 #R18">Inabitata... danno,</rdg></app></l>
+        <l n="133"><app><lem wit="#F31">Non sorser gli occhi tuoi; mercè, non danno,</lem><rdg wit="#B24 #B26 #N35 #R18">Inabitata... danno,</rdg></app> </poem></l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

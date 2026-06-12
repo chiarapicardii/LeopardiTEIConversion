@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>VI. BRUTO MINORE.</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoding and conversion by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>LeopardiTEIConversion project</publisher>
+          <date when="2026">2026</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <title>Wikileopardi</title>
+            <date>2020</date>
+            <note>Corpus of Canti extracted from Wikileopardi's platform.</note>
+          </bibl>
+        <listWit>
+          <witness xml:id="B24">B24</witness>
+          <witness xml:id="B26">B26</witness>
+          <witness xml:id="F31">F31</witness>
+          <witness xml:id="N35">N35</witness>
+          <witness xml:id="R18">R18</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <projectDesc>
+            <p>This project aims at standardizing the text and critical apparatus of Leopardi's Canti.</p>
+        </projectDesc>
+      </encodingDesc>
+    </teiHeader>
+
+  <facsimile>
+    <surface xml:id="F31061">
+      <graphic url="./assets/img/F31061.JPG"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="poem" xml:id="f31_vi_bruto_minore_p_61">
+        <pb n="61" facs="#F31061"/>
+                <head>VI. BRUTO MINORE.</head>
+        <lg>
+<l n="89">Sotto barbaro piede</l>
+        <l n="90">Rintronerà <app><lem wit="#F31">quella solinga</lem><rdg wit="#B24 #B26 #N35 #R18">Quella solinga</rdg></app> sede.</l>
+        <l n="91">Ecco, tra nudi sassi o in verde ramo</l>
+        <l n="92">E la fera e l’augello,</l>
+        <l n="93">Del consueto obblio gravido il petto,</l>
+        <l n="94">L’alta ruina ignora e le mutate</l>
+        <l n="95">Sorti del mondo: e come prima il tetto</l>
+        <l n="96">Rosseggerà del villanello industre,</l>
+        <l n="97">Al mattutino canto</l>
+        <l n="98">Quel desterà le valli, e per le balze</l>
+        <l n="99">Quella l’inferma plebe</l>
+        <l n="100">Agiterà <app><lem wit="#F31">de le</lem><rdg wit="#B24 #B26 #N35 #R18">Delle minori</rdg></app> minori belve.</l>
+        <l n="101">Oh casi! <app><lem wit="#F31">oh</lem><rdg wit="#B24 #B26 #N35 #R18">Oh</rdg></app> gener <app><lem wit="#F31">frale</lem><rdg wit="#B24 #B26 #N35 #R18">Vano</rdg></app>! abbietta parte</l>
+        <l n="102">Siam <app><lem wit="#F31">de le</lem><rdg wit="#B24 #B26 #N35 #R18">Siam delle cose</rdg></app> cose; e non le tinte glebe,</l>
+        <l n="103">Non gli ululati spechi</l>
+        <l n="104">Turbò nostra <app><lem wit="#F31">sciaura</lem><rdg wit="#B24 #B26 #N35 #R18">Sciagura</rdg></app>,</l>
+        <l n="105">Né scolorò le stelle umana cura.</l>
+        <l n="106">Non io d’Olimpo o di Cocito i sordi</l>
+        <l n="107">Regi, o la terra indegna,</l>
+        <l n="108">E non la notte moribondo appello;</l>
+        <l n="109">Non te, <app><lem wit="#F31">de l’atra</lem><rdg wit="#B24 #B26 #N35 #R18">Dell’atra</rdg></app> morte ultimo raggio,</l>
+        <l n="110">Conscia futura età. Sdegnoso avello</l>
+        <l n="111">Placàr <app><lem wit="#F31">singulti, ornàr parole e doni</lem><rdg wit="#B24 #B26 #N35 #R18">Singulti, ornar parole e doni</rdg></app> </poem></l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

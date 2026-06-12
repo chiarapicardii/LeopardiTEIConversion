@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>XXI. CANTO NOTTURNO DI UN PASTORE VAGANTE DELL'ASIA</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoding and conversion by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>LeopardiTEIConversion project</publisher>
+          <date when="2026">2026</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <title>Wikileopardi</title>
+            <date>2020</date>
+            <note>Corpus of Canti extracted from Wikileopardi's platform.</note>
+          </bibl>
+        <listWit>
+          <witness xml:id="B24">B24</witness>
+          <witness xml:id="B26">B26</witness>
+          <witness xml:id="F31">F31</witness>
+          <witness xml:id="N35">N35</witness>
+          <witness xml:id="R18">R18</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <projectDesc>
+            <p>This project aims at standardizing the text and critical apparatus of Leopardi's Canti.</p>
+        </projectDesc>
+      </encodingDesc>
+    </teiHeader>
+
+  <facsimile>
+    <surface xml:id="F31151">
+      <graphic url="./assets/img/F31151.JPG"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="poem" xml:id="f31_xxi_canto_notturno_di_un_pastore_vagante_dellasia_p_151">
+        <pb n="151" facs="#F31151"/>
+                <head>XXI. CANTO NOTTURNO DI UN PASTORE VAGANTE DELL'ASIA</head>
+        <lg>
+<l n="138">Più felice sarei, dolce mia greggia,</l>
+        <l n="139">Più felice sarei, candida luna.</l>
+        <l n="140">O forse erra dal vero,</l>
+        <l n="141">Mirando <app><lem wit="#F31">a l’altrui</lem><rdg wit="#B24 #B26 #N35 #R18">all’altrui</rdg></app> sorte, il mio pensiero:</l>
+        <l n="142">Forse in qual forma, in quale</l>
+        <l n="143">Stato che sia, dentro covile o cuna,</l>
+        <l n="144">È funesto a chi nasce il dì natale. </poem></l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

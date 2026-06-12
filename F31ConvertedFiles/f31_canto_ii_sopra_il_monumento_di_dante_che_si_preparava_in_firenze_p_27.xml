@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>CANTO II. Sopra il monumento di Dante che si preparava in Firenze</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoding and conversion by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>LeopardiTEIConversion project</publisher>
+          <date when="2026">2026</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <title>Wikileopardi</title>
+            <date>2020</date>
+            <note>Corpus of Canti extracted from Wikileopardi's platform.</note>
+          </bibl>
+        <listWit>
+          <witness xml:id="B24">B24</witness>
+          <witness xml:id="F31">F31</witness>
+          <witness xml:id="N35">N35</witness>
+          <witness xml:id="R18">R18</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <projectDesc>
+            <p>This project aims at standardizing the text and critical apparatus of Leopardi's Canti.</p>
+        </projectDesc>
+      </encodingDesc>
+    </teiHeader>
+
+  <facsimile>
+    <surface xml:id="F31027">
+      <graphic url="./assets/img/F31027.JPG"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="poem" xml:id="f31_canto_ii_sopra_il_monumento_di_dante_che_si_preparava_in_firenze_p_27">
+        <pb n="27" facs="#F31027"/>
+                <head>CANTO II. Sopra il monumento di Dante che si preparava in Firenze</head>
+        <lg>
+<l n="86">Ma non per te; per questa ti rallegri</l>
+        <l n="87">Povera patria tua, s’unqua l’esempio</l>
+        <l n="88"><app><lem wit="#F31">De gli</lem><rdg wit="#B24 #N35 #R18">Degli avi e de’ parenti</rdg></app> avi e de’ parenti</l>
+        <l n="89">Ponga ne’ figli sonnacchiosi ed egri</l>
+        <l n="90">Tanto valor che un tratto alzino il viso.</l>
+        <l n="91"><app><lem wit="#F31">Quale e da quanto scempio</lem><rdg wit="#B24 #N35 #R18">Ahi, da che lungo scempio Vedi afflitta costei, che sì meschina Te salutava allora</rdg></app></l>
+        <l n="92"><app><lem wit="#F31">Vedi guasta colei che sì meschina</lem><rdg wit="#B24 #N35 #R18">Ahi, da che lungo scempio Vedi afflitta costei, che sì meschina Te salutava allora</rdg></app></l>
+        <l n="93"><app><lem wit="#F31">Te salutava allora</lem><rdg wit="#B24 #N35 #R18">Ahi, da che lungo scempio Vedi afflitta costei, che sì meschina Te salutava allora</rdg></app></l>
+        <l n="94">Che di <app><lem wit="#F31">nuovo</lem><rdg wit="#B24 #N35 #R18">di novo</rdg></app> salisti al <app><lem wit="#F31">paradiso:</lem><rdg wit="#B24 #N35 #R18">paradiso!</rdg></app></l>
+        <l n="95"><app><lem wit="#F31">Allor beata pur (qualunque intende</lem><rdg wit="#B24 #N35 #R18">Oggi ridotta sì che a quel che vedi, Fu fortunata allor donna e reina.</rdg></app></l>
+        <l n="96"><app><lem wit="#F31">A’ novi affanni suoi) donna e reina;</lem><rdg wit="#B24 #N35 #R18">Oggi ridotta sì che a quel che vedi, Fu fortunata allor donna e reina.</rdg></app></l>
+        <l n="97"><app><lem wit="#F31">Ch’or nulla, ove non fòra</lem><rdg wit="#B24 #N35 #R18">Tal miseria l’accora Qual tu forse mirando a te non credi.</rdg></app></l>
+        <l n="98"><app><lem wit="#F31">Somma pietade assai, pietade attende.</lem><rdg wit="#B24 #N35 #R18">Tal miseria l’accora Qual tu forse mirando a te non credi.</rdg></app></l>
+        <l n="99">Taccio gli altri nemici e l’altre doglie;</l>
+        <l n="100">Ma non la più recente e la più fera,</l>
+        <l n="101">Per cui presso <app><lem wit="#F31">a le</lem><rdg wit="#B24 #N35 #R18">alle soglie</rdg></app> soglie</l>
+        <l n="102">Vide <app><lem wit="#F31">la patria mia</lem><rdg wit="#B24 #N35 #R18">la patria tua</rdg></app> l’ultima sera .</l>
+        <l n="103">Beato te <app><lem wit="#F31">che ’l</lem><rdg wit="#B24 #N35 #R18">che il fato</rdg></app> fato</l>
+        <l n="104">A viver non dannò fra tanto orrore;</l>
+        <l n="105">Che non vedesti in braccio</l>
+        <l n="106">L’itala moglie a barbaro soldato;</l>
+        <l n="107">Non <app><lem wit="#F31">predar</lem><rdg wit="#B24 #N35 #R18">predar,</rdg></app> non guastar cittadi e <app><lem wit="#F31">còlti</lem><rdg wit="#B24 #N35 #R18">e colti</rdg></app></l>
+        <l n="108"><app><lem wit="#F31">L’asta inimica e ’l peregrin furore;</lem><rdg wit="#B24 #N35 #R18">L’asta inimica e il peregrin furore;</rdg></app></l>
+        <l n="109">Non <app><lem wit="#F31">de gl’itali</lem><rdg wit="#B24 #N35 #R18">degl’itali</rdg></app> ingegni </poem></l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

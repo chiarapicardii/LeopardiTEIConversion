@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>CANTO XXII La quiete dopo la tempesta</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoding and conversion by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>LeopardiTEIConversion project</publisher>
+          <date when="2026">2026</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <title>Wikileopardi</title>
+            <date>2020</date>
+            <note>Corpus of Canti extracted from Wikileopardi's platform.</note>
+          </bibl>
+        <listWit>
+          <witness xml:id="F31">F31</witness>
+          <witness xml:id="N35">N35</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <projectDesc>
+            <p>This project aims at standardizing the text and critical apparatus of Leopardi's Canti.</p>
+        </projectDesc>
+      </encodingDesc>
+    </teiHeader>
+
+  <facsimile>
+    <surface xml:id="F31156">
+      <graphic url="./assets/img/F31156.JPG"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="poem" xml:id="f31_canto_xxii_la_quiete_dopo_la_tempesta_p_156">
+        <pb n="156" facs="#F31156"/>
+                <head>CANTO XXII La quiete dopo la tempesta</head>
+        <lg>
+<l n="18">Il grido giornaliero.</l>
+        <l n="19">Ecco il Sol che ritorna, ecco sorride</l>
+        <l n="20">Per li poggi e le ville. Apre i balconi,</l>
+        <l n="21">Apre terrazzi e logge la famiglia:</l>
+        <l n="22">E, <app><lem wit="#F31">da la</lem><rdg wit="#N35">dalla via</rdg></app> via corrente, odi lontano</l>
+        <l n="23">Tintinnio di sonagli; il carro stride</l>
+        <l n="24">Del passegger che il suo cammin ripiglia.</l>
+        <l n="25">Si rallegra ogni core.</l>
+        <l n="26">Sì dolce sì gradita</l>
+        <l n="27">Quand’è, com’or, la vita?</l>
+        <l n="28">Quando con tanto amore</l>
+        <l n="29">L’uomo a’ suoi studi intende?</l>
+        <l n="30">O torna <app><lem wit="#F31">a l’</lem><rdg wit="#N35">all’opre</rdg></app> opre? o cosa nova imprende?</l>
+        <l n="31">Quando de’ mali suoi men si ricorda?</l>
+        <l n="32">Piacer figlio d’affanno;</l>
+        <l n="33">Gioia vana, ch’è frutto</l>
+        <l n="34">Del passato timore, onde si scosse</l>
+        <l n="35">E paventò la morte</l>
+        <l n="36">Chi la vita abborria;</l>
+        <l n="37">Onde in lungo tormento,</l>
+        <l n="38">Fredde, tacite, smorte,</l>
+        <l n="39">Sudàr le genti e palpitàr, vedendo</l>
+        <l n="40">Mossi <app><lem wit="#F31">a le</lem><rdg wit="#N35">alle nostre</rdg></app> nostre offese</l>
+        <l n="41">Folgori, nembi e vento. </poem></l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

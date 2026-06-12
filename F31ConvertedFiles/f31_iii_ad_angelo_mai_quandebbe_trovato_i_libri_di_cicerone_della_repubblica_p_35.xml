@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>III.</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoding and conversion by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>LeopardiTEIConversion project</publisher>
+          <date when="2026">2026</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <title>Wikileopardi</title>
+            <date>2020</date>
+            <note>Corpus of Canti extracted from Wikileopardi's platform.</note>
+          </bibl>
+        <listWit>
+          <witness xml:id="B24">B24</witness>
+          <witness xml:id="B26">B26</witness>
+          <witness xml:id="F31">F31</witness>
+          <witness xml:id="N35">N35</witness>
+          <witness xml:id="R18">R18</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <projectDesc>
+            <p>This project aims at standardizing the text and critical apparatus of Leopardi's Canti.</p>
+        </projectDesc>
+      </encodingDesc>
+    </teiHeader>
+
+  <facsimile>
+    <surface xml:id="F31035">
+      <graphic url="./assets/img/F31035.JPG"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="poem" xml:id="f31_iii_ad_angelo_mai_quandebbe_trovato_i_libri_di_cicerone_della_repubblica_p_35">
+        <pb n="35" facs="#F31035"/>
+                <head>III. AD ANGELO MAI, QUAND’EBBE TROVATO I LIBRI DI CICERONE DELLA REPUBBLICA.</head>
+        <lg>
+<l n="1">Italo ardito, a che giammai non <app><lem wit="#F31">pòsi</lem><rdg wit="#B24 #B26 #N35 #R18">posi</rdg></app></l>
+        <l n="2">Di svegliar <app><lem wit="#F31">da le</lem><rdg wit="#B24 #B26 #N35 #R18">dalle tombe</rdg></app> tombe</l>
+        <l n="3">I nostri padri? <app><lem wit="#F31">e a favellar</lem><rdg wit="#B24 #B26 #N35 #R18">ed a parlar</rdg></app> gli meni</l>
+        <l n="4">A questo secol morto, al quale incombe</l>
+        <l n="5"><app><lem wit="#F31">Tanta</lem><rdg wit="#B24 #B26 #N35 #R18">Tanta nebbia</rdg></app> nebbia di tedio? E come or vieni</l>
+        <l n="6">Sì forte a’ nostri orecchi e sì frequente,</l>
+        <l n="7">Voce antica de’ <app><lem wit="#F31">nostri,</lem><rdg wit="#B24 #B26 #N35 #R18">de’ nostri,</rdg></app></l>
+        <l n="8">Muta sì lunga etade? e perchè tanti</l>
+        <l n="9">Risorgimenti? In un balen feconde</l>
+        <l n="10">Venner le carte; <app><lem wit="#F31">a la</lem><rdg wit="#B24 #B26 #N35 #R18">alla stagion</rdg></app> stagion presente</l>
+        <l n="11">I polverosi chiostri</l>
+        <l n="12">Serbaro occulti i generosi e santi</l>
+        <l n="13">Detti <app><lem wit="#F31">de gli</lem><rdg wit="#B24 #B26 #N35 #R18">degli avi.</rdg></app> avi. E che valor t’infonde,</l>
+        <l n="14"><app><lem wit="#F31">Italo egregio, il fato? O con l’umano</lem><rdg wit="#B24 #B26 #N35 #R18">Italo egregio... invano</rdg></app></l>
+        <l n="15"><app><lem wit="#F31">Valor contrasta il duro fato invano?</lem><rdg wit="#B24 #B26 #N35 #R18">Italo egregio... invano</rdg></app> </poem></l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

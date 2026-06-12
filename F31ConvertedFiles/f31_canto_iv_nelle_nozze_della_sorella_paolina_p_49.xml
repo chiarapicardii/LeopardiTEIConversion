@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>CANTO IV. NELLE NOZZE DELLA SORELLA PAOLINA</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoding and conversion by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>LeopardiTEIConversion project</publisher>
+          <date when="2026">2026</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <title>Wikileopardi</title>
+            <date>2020</date>
+            <note>Corpus of Canti extracted from Wikileopardi's platform.</note>
+          </bibl>
+        <listWit>
+          <witness xml:id="B24">B24</witness>
+          <witness xml:id="F31">F31</witness>
+          <witness xml:id="N35">N35</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <projectDesc>
+            <p>This project aims at standardizing the text and critical apparatus of Leopardi's Canti.</p>
+        </projectDesc>
+      </encodingDesc>
+    </teiHeader>
+
+  <facsimile>
+    <surface xml:id="F31049">
+      <graphic url="./assets/img/F31049.JPG"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="poem" xml:id="f31_canto_iv_nelle_nozze_della_sorella_paolina_p_49">
+        <pb n="49" facs="#F31049"/>
+                <head>CANTO IV. NELLE NOZZE DELLA SORELLA PAOLINA</head>
+        <lg>
+<l n="40">Fiamma di gioventù dunque si spegne</l>
+        <l n="41">Per vostra mano? attenuata e franta</l>
+        <l n="42">Da voi nostra natura? e le assonnate</l>
+        <l n="43">Menti, e le voglie indegne,</l>
+        <l n="44">E di nervi e di polpe</l>
+        <l n="45">Scemo il valor <app><lem wit="#F31">natio</lem><rdg wit="#B24 #N35">valor natio,</rdg></app> son vostre colpe?</l>
+        <l n="46"><app><lem wit="#F31">A gli</lem><rdg wit="#B24 #N35">Ad atti</rdg></app> atti egregi è sprone</l>
+        <l n="47">Amor, chi ben l’estima, e d’alto affetto</l>
+        <l n="48">Maestra è la beltà. D’amor digiuna</l>
+        <l n="49">Siede l’alma di quello a cui nel petto</l>
+        <l n="50"><app><lem wit="#F31">Non brilla, amando, il cor</lem><rdg wit="#B24 #N35">Non si rallegra il cor</rdg></app> quando a tenzone</l>
+        <l n="51">Scendono i venti, e quando nembi aduna</l>
+        <l n="52">L’olimpo, e fiede le montagne il rombo</l>
+        <l n="53"><app><lem wit="#F31">De la</lem><rdg wit="#B24 #N35">Della procella</rdg></app> procella. O spose,</l>
+        <l n="54">O verginette, a voi</l>
+        <l n="55">Chi de’ perigli è schivo, e quei che indegno</l>
+        <l n="56">È <app><lem wit="#F31">de la</lem><rdg wit="#B24 #N35">della patria</rdg></app> patria e che sue brame e suoi</l>
+        <l n="57">Volgari affetti in basso loco pose,</l>
+        <l n="58">Odio mova e disdegno;</l>
+        <l n="59">Se nel femmineo core</l>
+        <l n="60">D’uomini <app><lem wit="#F31">ardea</lem><rdg wit="#B24 #N35">ardea,</rdg></app> non di <app><lem wit="#F31">fanciulle</lem><rdg wit="#B24 #N35">fanciulle,</rdg></app> amore.</l>
+        <l n="61">Madri d’imbelle prole</l>
+        <l n="62">V’incresca esser nomate. I danni <app><lem wit="#F31">e ’l</lem><rdg wit="#B24 #N35">e il pianto</rdg></app> pianto </poem></l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

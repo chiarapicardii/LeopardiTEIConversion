@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>XII.</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoding and conversion by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>LeopardiTEIConversion project</publisher>
+          <date when="2026">2026</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <title>Wikileopardi</title>
+            <date>2020</date>
+            <note>Corpus of Canti extracted from Wikileopardi's platform.</note>
+          </bibl>
+        <listWit>
+          <witness xml:id="B24">B24</witness>
+          <witness xml:id="B26">B26</witness>
+          <witness xml:id="F31">F31</witness>
+          <witness xml:id="N35">N35</witness>
+          <witness xml:id="R18">R18</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <projectDesc>
+            <p>This project aims at standardizing the text and critical apparatus of Leopardi's Canti.</p>
+        </projectDesc>
+      </encodingDesc>
+    </teiHeader>
+
+  <facsimile>
+    <surface xml:id="F31093">
+      <graphic url="./assets/img/F31093.JPG"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="poem" xml:id="f31_canto_xii_la_sera_del_giorno_festivo_p_93">
+        <pb n="93" facs="#F31093"/>
+                <head>CANTO XII. La sera del giorno festivo</head>
+        <lg>
+<l n="1">Dolce e chiara è la notte e senza vento,</l>
+        <l n="2">E queta <app><lem wit="#F31">in mezzo a gli orti e sovra i tetti</lem><rdg wit="#B24 #B26 #N35 #R18">sovra i tetti e in mezzo agli orti</rdg></app></l>
+        <l n="3"><app><lem wit="#F31">La luna si riposa, e le montagne</lem><rdg wit="#B24 #B26 #N35 #R18">Posa la luna, e di lontan rivela Serena ogni montagna</rdg></app></l>
+        <l n="4"><app><lem wit="#F31">Si discopron da lungi.</lem><rdg wit="#B24 #B26 #N35 #R18">Posa la luna, e di lontan rivela Serena ogni montagna</rdg></app> O donna mia,</l>
+        <l n="5">Già tace ogni sentiero, e pei balconi</l>
+        <l n="6">Rara traluce la notturna lampa:</l>
+        <l n="7">Tu dormi, <app><lem wit="#F31">che</lem><rdg wit="#B24 #B26 #N35 #R18">che t’accolse</rdg></app> t’accolse agevol sonno</l>
+        <l n="8"><app><lem wit="#F31">Ne le</lem><rdg wit="#B24 #B26 #N35 #R18">Nelle</rdg></app> tue chete stanze; e non ti morde</l>
+        <l n="9">Cura nessuna; e già non <app><lem wit="#F31">pensi o stimi</lem><rdg wit="#B24 #B26 #N35 #R18">sai nè pensi</rdg></app></l>
+        <l n="10">Quanta piaga m’apristi in mezzo al petto.</l>
+        <l n="11">Tu dormi: io questo ciel, che sì benigno</l>
+        <l n="12">Appare in vista, a salutar m’affaccio,</l>
+        <l n="13">E l’antica <app><lem wit="#F31">natura</lem><rdg wit="#B24 #B26 #N35 #R18">l’antica natura</rdg></app> onnipossente,</l>
+        <l n="14">Che mi fece a l’ affanno. A te la speme</l>
+        <l n="15">Nego, mi disse, anche la speme; e d’altro</l>
+        <l n="16">Non brillin gli occhi tuoi <app><lem wit="#F31">fuor che</lem><rdg wit="#B24 #B26 #N35 #R18">se non</rdg></app> di pianto.</l>
+        <l n="17">Questo dì fu solenne: or da’ trastulli </poem></l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

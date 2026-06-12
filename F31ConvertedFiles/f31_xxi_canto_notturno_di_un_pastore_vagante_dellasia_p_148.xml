@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>XXI. CANTO NOTTURNO DI UN PASTORE VAGANTE DELL'ASIA</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoding and conversion by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>LeopardiTEIConversion project</publisher>
+          <date when="2026">2026</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <title>Wikileopardi</title>
+            <date>2020</date>
+            <note>Corpus of Canti extracted from Wikileopardi's platform.</note>
+          </bibl>
+        <listWit>
+          <witness xml:id="B24">B24</witness>
+          <witness xml:id="B26">B26</witness>
+          <witness xml:id="F31">F31</witness>
+          <witness xml:id="N35">N35</witness>
+          <witness xml:id="R18">R18</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <projectDesc>
+            <p>This project aims at standardizing the text and critical apparatus of Leopardi's Canti.</p>
+        </projectDesc>
+      </encodingDesc>
+    </teiHeader>
+
+  <facsimile>
+    <surface xml:id="F31148">
+      <graphic url="./assets/img/F31148.JPG"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="poem" xml:id="f31_xxi_canto_notturno_di_un_pastore_vagante_dellasia_p_148">
+        <pb n="148" facs="#F31148"/>
+                <head>XXI. CANTO NOTTURNO DI UN PASTORE VAGANTE DELL'ASIA</head>
+        <lg>
+<l n="65">Che sia questo morir, questo supremo</l>
+        <l n="66">Scolorar del sembiante,</l>
+        <l n="67">E perir <app><lem wit="#F31">da la</lem><rdg wit="#B24 #B26 #N35 #R18">dalla terra</rdg></app> terra, e venir meno</l>
+        <l n="68">Ad ogni usata, amante compagnia.</l>
+        <l n="69">E tu certo comprendi</l>
+        <l n="70">Il perchè <app><lem wit="#F31">de le</lem><rdg wit="#B24 #B26 #N35 #R18">delle cose,</rdg></app> cose, e vedi il frutto</l>
+        <l n="71">Del mattin, <app><lem wit="#F31">de la</lem><rdg wit="#B24 #B26 #N35 #R18">della sera</rdg></app> sera,</l>
+        <l n="72">Del tacito, infinito andar del tempo.</l>
+        <l n="73">Tu sai, tu certo, a qual suo dolce amore</l>
+        <l n="74">Rida la primavera,</l>
+        <l n="75">A chi giovi l’ardore, e che procacci</l>
+        <l n="76">Il verno co’ suoi ghiacci.</l>
+        <l n="77">Mille cose sai tu, mille discopri,</l>
+        <l n="78">Che son celate al semplice pastore.</l>
+        <l n="79">Spesso quand’io ti miro</l>
+        <l n="80">Star così muta in sul deserto piano,</l>
+        <l n="81">Che, in suo giro lontano, al ciel confina;</l>
+        <l n="82">Ovver con la mia greggia</l>
+        <l n="83">Seguirmi viaggiando a mano a mano;</l>
+        <l n="84">E quando miro in <app><lem wit="#F31">ciel</lem><rdg wit="#B24 #B26 #N35 #R18">cielo arder</rdg></app> arder le stelle;</l>
+        <l n="85"><app><lem wit="#F31">Questi pensieri in mente</lem><rdg wit="#B24 #B26 #N35 #R18">Dico fra me pensando:</rdg></app></l>
+        <l n="86"><app><lem wit="#F31">Vo rivolgendo, assai gran tempo, e dico:</lem><rdg wit="#B24 #B26 #N35 #R18">Dico fra me pensando:</rdg></app></l>
+        <l n="87">A che tante facelle?</l>
+        <l n="88">Che fa l’aria infinita, e quel profondo</l>
+        <l n="89">Infinito seren? che vuol dir questa </poem></l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>
