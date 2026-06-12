@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>CANTO II. Sopra il monumento di Dante che si preparava in Firenze</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoding and conversion by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>LeopardiTEIConversion project</publisher>
+          <date when="2026">2026</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <title>Wikileopardi</title>
+            <date>2020</date>
+            <note>Corpus of Canti extracted from Wikileopardi's platform.</note>
+          </bibl>
+        <listWit>
+          <witness xml:id="B24">B24</witness>
+          <witness xml:id="F31">F31</witness>
+          <witness xml:id="N35">N35</witness>
+          <witness xml:id="R18">R18</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <projectDesc>
+            <p>This project aims at standardizing the text and critical apparatus of Leopardi's Canti.</p>
+        </projectDesc>
+      </encodingDesc>
+    </teiHeader>
+
+  <facsimile>
+    <surface xml:id="F31025">
+      <graphic url="./assets/img/F31025.JPG"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="poem" xml:id="f31_canto_ii_sopra_il_monumento_di_dante_che_si_preparava_in_firenze_p_25">
+        <pb n="25" facs="#F31025"/>
+                <head>CANTO II. Sopra il monumento di Dante che si preparava in Firenze</head>
+        <lg>
+<l n="38">In ogni petto omai, perciò che amari</l>
+        <l n="39">Giorni dopo il seren dato n’ha il <app><lem wit="#F31">cielo</lem><rdg wit="#B24 #N35 #R18">n’ha il cielo</rdg></app>.</l>
+        <l n="40">Spirti v’aggiunga e vostra opra coroni</l>
+        <l n="41">Misericordia, o figli,</l>
+        <l n="42">E duolo e sdegno di cotanto <app><lem wit="#F31">affanno</lem><rdg wit="#B24 #N35 #R18">cotanto affanno</rdg></app></l>
+        <l n="43">Onde bagna costei le guance <app><lem wit="#F31">e ’l</lem><rdg wit="#B24 #N35 #R18">e il velo</rdg></app> velo.</l>
+        <l n="44"><app><lem wit="#F31">Ma voi di quale ornar parola o canto</lem><rdg wit="#B24 #N35 #R18">Ma voi di quale ornar parola o canto Si debbe, a cui non pur cure o consigli,</rdg></app></l>
+        <l n="45"><app><lem wit="#F31">Si debbe, a cui non pur cure o consigli,</lem><rdg wit="#B24 #N35 #R18">Ma voi di quale ornar parola o canto Si debbe, a cui non pur cure o consigli,</rdg></app></l>
+        <l n="46">Ma <app><lem wit="#F31">de l’ingegno</lem><rdg wit="#B24 #N35 #R18">dell’ingegno</rdg></app> e <app><lem wit="#F31">de la</lem><rdg wit="#B24 #N35 #R18">della man</rdg></app> man daranno</l>
+        <l n="47">I sensi e le virtudi eterno vanto</l>
+        <l n="48">Oprate e mostre <app><lem wit="#F31">ne la</lem><rdg wit="#B24 #N35 #R18">nella dolce</rdg></app> dolce impresa?</l>
+        <l n="49"><app><lem wit="#F31">Quali a voi note invio, sì che nel core,</lem><rdg wit="#B24 #N35 #R18">Quali a voi note invio, sì che nel core, Sì che nell’alma accesa Nova favilla indurre abbian valore?</rdg></app></l>
+        <l n="50"><app><lem wit="#F31">Sì che ne l’alma accesa</lem><rdg wit="#B24 #N35 #R18">Quali a voi note invio, sì che nel core, Sì che nell’alma accesa Nova favilla indurre abbian valore?</rdg></app></l>
+        <l n="51"><app><lem wit="#F31">Nova favilla indurre abbian valore?</lem><rdg wit="#B24 #N35 #R18">Quali a voi note invio, sì che nel core, Sì che nell’alma accesa Nova favilla indurre abbian valore?</rdg></app></l>
+        <l n="52">Voi spirerà l’altissimo subbietto,</l>
+        <l n="53">Ed acri punte premeravvi al seno.</l>
+        <l n="54">Chi dirà l’onda <app><lem wit="#F31">e ’l</lem><rdg wit="#B24 #N35 #R18">e il turbo</rdg></app> turbo</l>
+        <l n="55">Del furor vostro e <app><lem wit="#F31">de l’immenso</lem><rdg wit="#B24 #N35 #R18">dell’immenso</rdg></app> affetto?</l>
+        <l n="56">Chi pingerà l’attonito sembiante?</l>
+        <l n="57">Chi <app><lem wit="#F31">de gli</lem><rdg wit="#B24 #N35 #R18">degli occhi</rdg></app> occhi il baleno?</l>
+        <l n="58">Qual può voce mortal celeste cosa</l>
+        <l n="59">Agguagliar figurando?</l>
+        <l n="60">Lunge sia, lunge alma profana. Oh quante</l>
+        <l n="61"><app><lem wit="#F31">Lagrime al chiaro avello Italia serba.</lem><rdg wit="#B24 #N35 #R18">Lacrime al nobil sasso Italia serba!</rdg></app></l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

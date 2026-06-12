@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>III. AD ANGELO MAI, QUAND’EBBE TROVATO I LIBRI DI CICERONE DELLA REPUBBLICA. (Note)</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoding and conversion by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>LeopardiTEIConversion project</publisher>
+          <date when="2026">2026</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <title>Wikileopardi</title>
+            <date>2020</date>
+            <note>Corpus of Canti extracted from Wikileopardi's platform.</note>
+          </bibl>
+        <listWit>
+          <witness xml:id="B24">B24</witness>
+          <witness xml:id="B26">B26</witness>
+          <witness xml:id="F31">F31</witness>
+          <witness xml:id="N35">N35</witness>
+          <witness xml:id="R18">R18</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <projectDesc>
+            <p>This project aims at standardizing the text and critical apparatus of Leopardi's Canti.</p>
+        </projectDesc>
+      </encodingDesc>
+    </teiHeader>
+
+  <facsimile>
+    <surface xml:id="F31045">
+      <graphic url="./assets/img/F31045.JPG"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="note" xml:id="f31_iii_ad_angelo_mai_quandebbe_trovato_i_libri_di_cicerone_della_repubblica_note_p_45" corresp="#f31_iii_ad_angelo_mai_quandebbe_trovato_i_libri_di_cicerone_della_repubblica">
+        <pb n="45" facs="#F31045"/>
+        <head>NOTA</head>
+                <p>all’aggiornare; e Mimnermo, poeta greco antichissimo, pone il letto del sole in un luogo della Colchide. Stesicoro (1), Antimaco (2), Eschilo (3), ed esso Mimnermo (4) più distintamente che gli altri dice anche questo, che il sole dopo calato si pone a giacere in un letto concavo a uso di navicella, tutto d’oro, e così dormendo naviga per l’Oceano da ponente a levante. Pitea marsigliese, allegato da Gemino (5) e da Cosma egiziano (6) racconta di non so quali Barbari che mostrarono a esso Pitea la stanza dove il sole, secondo loro, s’adagiava a dormire. E il Petrarca s’avvicinò a queste tali opinioni volgare in quei versi (7): <hi rend="italic">Quando vede ’l pastor calare</hi> (1) ap. Athenaeum, l. 11, c. 38; ed. Schvei- ghaeuser, tom. 4, p. 237. (2) ap. eumd. loc. cit. p. 238. (3) Heliad. ap. eumd. l. c. (4) Nannone, ap. eumd. loc. cit. c. 39, p. 239. (5) Elem. Astron. c. 5; in Petav. Uranolog. Antuerp. (Amstel.) 1703, p. 13. (6) Topogr. christian. l. 2; ed. Montfauc. p. 149. (7) Canz. Ne la stagion che ’l ciel rapido inchina, st. 3.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

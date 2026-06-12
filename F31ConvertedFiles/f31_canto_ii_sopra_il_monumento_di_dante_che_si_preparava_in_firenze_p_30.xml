@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>CANTO II. Sopra il monumento di Dante che si preparava in Firenze</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoding and conversion by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>LeopardiTEIConversion project</publisher>
+          <date when="2026">2026</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <title>Wikileopardi</title>
+            <date>2020</date>
+            <note>Corpus of Canti extracted from Wikileopardi's platform.</note>
+          </bibl>
+        <listWit>
+          <witness xml:id="B24">B24</witness>
+          <witness xml:id="F31">F31</witness>
+          <witness xml:id="N35">N35</witness>
+          <witness xml:id="R18">R18</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <projectDesc>
+            <p>This project aims at standardizing the text and critical apparatus of Leopardi's Canti.</p>
+        </projectDesc>
+      </encodingDesc>
+    </teiHeader>
+
+  <facsimile>
+    <surface xml:id="F31030">
+      <graphic url="./assets/img/F31030.JPG"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="poem" xml:id="f31_canto_ii_sopra_il_monumento_di_dante_che_si_preparava_in_firenze_p_30">
+        <pb n="30" facs="#F31030"/>
+                <head>CANTO II. Sopra il monumento di Dante che si preparava in Firenze</head>
+        <lg>
+<l n="157">E i negletti cadaveri <app><lem wit="#F31">a l’aperto</lem><rdg wit="#B24 #N35 #R18">all’aperto</rdg></app></l>
+        <l n="158">Su per quello di neve orrido mare</l>
+        <l n="159">Dilaceràr le belve;</l>
+        <l n="160">E <app><lem wit="#F31">sarà ’l nome de gli egregi</lem><rdg wit="#B24 #N35 #R18">sarà il nome degli egregi</rdg></app> e forti</l>
+        <l n="161">Pari mai sempre ed uno</l>
+        <l n="162">Con quel de’ tardi e vili. Anime care,</l>
+        <l n="163"><app><lem wit="#F31">Ben che</lem><rdg wit="#B24 #N35 #R18">Bench’</rdg></app> infinita sia vostra <app><lem wit="#F31">sciaura,</lem><rdg wit="#B24 #N35 #R18">sciagura,</rdg></app></l>
+        <l n="164">Datevi pace; e questo vi conforti</l>
+        <l n="165">Che conforto nessuno</l>
+        <l n="166">Avrete in questa o <app><lem wit="#F31">ne l’età</lem><rdg wit="#B24 #N35 #R18">nell’età</rdg></app> futura.</l>
+        <l n="167">In seno al vostro smisurato affanno</l>
+        <l n="168">Posate, o di costei veraci figli,</l>
+        <l n="169">Al cui supremo danno</l>
+        <l n="170">Il vostro solo è tal che <app><lem wit="#F31">rassomigli</lem><rdg wit="#B24 #N35 #R18">s’assomigli</rdg></app>.</l>
+        <l n="171">Di voi già non si lagna</l>
+        <l n="172">La patria vostra, ma di chi vi spinse</l>
+        <l n="173">A pugnar contra <app><lem wit="#F31">lei</lem><rdg wit="#B24 #N35 #R18">lei,</rdg></app></l>
+        <l n="174">Sì ch’ella sempre amaramente piagna</l>
+        <l n="175"><app><lem wit="#F31">E ’l</lem><rdg wit="#B24 #N35 #R18">E il suo</rdg></app> suo col vostro <app><lem wit="#F31">lagrimar</lem><rdg wit="#B24 #N35 #R18">lacrimar</rdg></app> confonda.</l>
+        <l n="176">Oh di <app><lem wit="#F31">costei,che tanta verga strinse,</lem><rdg wit="#B24 #N35 #R18">costei ch’ogni altra gloria vinse</rdg></app></l>
+        <l n="177">Pietà nascesse in core</l>
+        <l n="178">A tal de’ suoi ch’ affaticata e lenta</l>
+        <l n="179">Di sì <app><lem wit="#F31">torbida notte</lem><rdg wit="#B24 #N35 #R18">buia vorago</rdg></app> e sì profonda</l>
+        <l n="180">La ritraesse! O glorioso spirto,</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

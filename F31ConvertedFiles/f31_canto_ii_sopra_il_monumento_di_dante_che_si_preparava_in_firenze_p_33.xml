@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>CANTO II. Sopra il monumento di Dante che si preparava in Firenze</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoding and conversion by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>LeopardiTEIConversion project</publisher>
+          <date when="2026">2026</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <title>Wikileopardi</title>
+            <date>2020</date>
+            <note>Corpus of Canti extracted from Wikileopardi's platform.</note>
+          </bibl>
+        <listWit>
+          <witness xml:id="B24">B24</witness>
+          <witness xml:id="F31">F31</witness>
+          <witness xml:id="N35">N35</witness>
+          <witness xml:id="R18">R18</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <projectDesc>
+            <p>This project aims at standardizing the text and critical apparatus of Leopardi's Canti.</p>
+        </projectDesc>
+      </encodingDesc>
+    </teiHeader>
+
+  <facsimile>
+    <surface xml:id="F31033">
+      <graphic url="./assets/img/F31033.JPG"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="note" xml:id="f31_canto_ii_sopra_il_monumento_di_dante_che_si_preparava_in_firenze_p_33" corresp="#f31_canto_ii_sopra_il_monumento_di_dante_che_si_preparava_in_firenze">
+        <pb n="33" facs="#F31033"/>
+        <head>NOTA</head>
+                <p>L’autore, per quello che nei versi seguenti (scritti in sua primissima gioventù) è detto in offesa degli stranieri, avrebbe rifiutata tutta la canzone, se la volontà di alcuni amici, i quali miravano solamente alla poesia, non l’avesse conservata.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

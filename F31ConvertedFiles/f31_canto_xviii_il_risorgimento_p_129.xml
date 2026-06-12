@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>CANTO XVIII Il risorgimento</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoding and conversion by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>LeopardiTEIConversion project</publisher>
+          <date when="2026">2026</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <title>Wikileopardi</title>
+            <date>2020</date>
+            <note>Corpus of Canti extracted from Wikileopardi's platform.</note>
+          </bibl>
+        <listWit>
+          <witness xml:id="B24">B24</witness>
+          <witness xml:id="B26">B26</witness>
+          <witness xml:id="F31">F31</witness>
+          <witness xml:id="N35">N35</witness>
+          <witness xml:id="R18">R18</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <projectDesc>
+            <p>This project aims at standardizing the text and critical apparatus of Leopardi's Canti.</p>
+        </projectDesc>
+      </encodingDesc>
+    </teiHeader>
+
+  <facsimile>
+    <surface xml:id="F31129">
+      <graphic url="./assets/img/F31129.JPG"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="poem" xml:id="f31_canto_xviii_il_risorgimento_p_129">
+        <pb n="129" facs="#F31129"/>
+                <head>CANTO XVIII Il risorgimento</head>
+        <lg>
+<l n="89">Siete pur voi quell’unica</l>
+        <l n="90">Luce de’ giorni miei?</l>
+        <l n="91">Gli affetti ch’io perdei</l>
+        <l n="92"><app><lem wit="#F31">Ne la</lem><rdg wit="#B24 #B26 #N35 #R18">Nella novella</rdg></app> novella età?</l>
+        <l n="93">Se al ciel, s’ai verdi margini,</l>
+        <l n="94">Ovunque il guardo mira,</l>
+        <l n="95">Tutto un dolor mi spira,</l>
+        <l n="96">Tutto un piacer mi dà.</l>
+        <l n="97">Meco ritorna a vivere</l>
+        <l n="98">La piaggia, il bosco, il monte;</l>
+        <l n="99">Parla al mio core il fonte,</l>
+        <l n="100">Meco favella il mar.</l>
+        <l n="101">Chi mi ridona il piangere,</l>
+        <l n="102">Dopo cotanto obblio?</l>
+        <l n="103">E come al guardo mio</l>
+        <l n="104">Cangiato il mondo appar?</l>
+        <l n="105">Forse la speme, o povero</l>
+        <l n="106">Mio cor, ti volse un riso?</l>
+        <l n="107"><app><lem wit="#F31">Ahi de la</lem><rdg wit="#B24 #B26 #N35 #R18">Ahi della</rdg></app> speme il viso</l>
+        <l n="108">Io non vedrò mai più.</l>
+        <l n="109">Proprii mi diede i palpiti,</l>
+        <l n="110">Natura, e i dolci <app><lem wit="#F31">inganni:</lem><rdg wit="#B24 #B26 #N35 #R18">inganni.</rdg></app></l>
+        <l n="111">Sopiro in me gli affanni</l>
+        <l n="112">L’ingenita virtù;</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

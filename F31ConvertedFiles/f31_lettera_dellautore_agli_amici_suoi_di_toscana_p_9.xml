@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>Lettera dell'Autore agli amici suoi di Toscana</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoding and conversion by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>LeopardiTEIConversion project</publisher>
+          <date when="2026">2026</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <title>Wikileopardi</title>
+            <date>2020</date>
+            <note>Corpus of Canti extracted from Wikileopardi's platform.</note>
+          </bibl>
+        <listWit>
+          <witness xml:id="B24">B24</witness>
+          <witness xml:id="B26">B26</witness>
+          <witness xml:id="F31">F31</witness>
+          <witness xml:id="N35">N35</witness>
+          <witness xml:id="R18">R18</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <projectDesc>
+            <p>This project aims at standardizing the text and critical apparatus of Leopardi's Canti.</p>
+        </projectDesc>
+      </encodingDesc>
+    </teiHeader>
+
+  <facsimile>
+    <surface xml:id="F31007">
+      <graphic url="./assets/img/F31007.JPG"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="letter" xml:id="f31_lettera_dellautore_agli_amici_suoi_di_toscana_p_9">
+        <pb n="9"/>
+        <head>LETTERA</head>
+                <p rend="indent">tà, non comporta l’uso delle querele. Ho perduto tutto: sono un tronco che sente e pena. Se non che in questo tempo ho acquistato voi: e la compagnia vostra, che m’è in luogo degli studi, e in luogo d’ogni diletto e di ogni speranza, quasi compenserebbe i miei mali, se per la stessa infermità mi fosse lecito di goderla quant’io vorrei, e s’io non conoscessi che la mia fortuna assai tosto mi priverà di questa ancora, costringendomi a consumar gli anni che mi avanzano, abbandonato da ogni conforto della civiltà, in un luogo dove assai meglio abitano i sepolti che i vivi. L’amor vostro mi rimarrà tuttavia, e mi durerà forse ancor dopo che il mio corpo, che già non vive più, sarà fatto cenere. Addio. Il vostro Leopardi.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>CANTO XVIII Il risorgimento</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoding and conversion by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>LeopardiTEIConversion project</publisher>
+          <date when="2026">2026</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <title>Wikileopardi</title>
+            <date>2020</date>
+            <note>Corpus of Canti extracted from Wikileopardi's platform.</note>
+          </bibl>
+        <listWit>
+          <witness xml:id="B24">B24</witness>
+          <witness xml:id="B26">B26</witness>
+          <witness xml:id="F31">F31</witness>
+          <witness xml:id="N35">N35</witness>
+          <witness xml:id="R18">R18</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <projectDesc>
+            <p>This project aims at standardizing the text and critical apparatus of Leopardi's Canti.</p>
+        </projectDesc>
+      </encodingDesc>
+    </teiHeader>
+
+  <facsimile>
+    <surface xml:id="F31125">
+      <graphic url="./assets/img/F31125.JPG"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="poem" xml:id="f31_canto_xviii_il_risorgimento_p_125">
+        <pb n="125" facs="#F31125"/>
+                <head>CANTO XVIII Il risorgimento</head>
+        <lg>
+<l n="1">Credei ch’al tutto fossero</l>
+        <l n="2">In me, sul fior <app><lem wit="#F31">de gli</lem><rdg wit="#B24 #B26 #N35 #R18">degli anni</rdg></app> anni,</l>
+        <l n="3">Mancati i dolci affanni</l>
+        <l n="4"><app><lem wit="#F31">De la</lem><rdg wit="#B24 #B26 #N35 #R18">Della mia</rdg></app> mia prima età:</l>
+        <l n="5">I dolci affanni, i teneri</l>
+        <l n="6">Moti del cor profondo,</l>
+        <l n="7">Qualunque cosa al mondo</l>
+        <l n="8">Grato il sentir ci fa.</l>
+        <l n="9">Quante querele e <app><lem wit="#F31">lagrime</lem><rdg wit="#B24 #B26 #N35 #R18">lacrime</rdg></app></l>
+        <l n="10">Sparsi nel novo stato,</l>
+        <l n="11">Quando al mio cor gelato</l>
+        <l n="12">Prima il dolor mancò!</l>
+        <l n="13"><app><lem wit="#F31">Mancar</lem><rdg wit="#B24 #B26 #N35 #R18">Mancàr</rdg></app> gli usati palpiti,</l>
+        <l n="14">L’amor mi venne meno,</l>
+        <l n="15">E irrigidito il seno</l>
+        <l n="16">Di sospirar cessò!</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>V.</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoding and conversion by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>LeopardiTEIConversion project</publisher>
+          <date when="2026">2026</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <title>Wikileopardi</title>
+            <date>2020</date>
+            <note>Corpus of Canti extracted from Wikileopardi's platform.</note>
+          </bibl>
+        <listWit>
+          <witness xml:id="B24">B24</witness>
+          <witness xml:id="B26">B26</witness>
+          <witness xml:id="F31">F31</witness>
+          <witness xml:id="N35">N35</witness>
+          <witness xml:id="R18">R18</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <projectDesc>
+            <p>This project aims at standardizing the text and critical apparatus of Leopardi's Canti.</p>
+        </projectDesc>
+      </encodingDesc>
+    </teiHeader>
+
+  <facsimile>
+    <surface xml:id="F31053">
+      <graphic url="./assets/img/F31053.JPG"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="poem" xml:id="f31_v_a_un_vincitore_nel_pallone_p_53">
+        <pb n="53" facs="#F31053"/>
+                <head>V. A UN VINCITORE NEL PALLONE.</head>
+        <lg>
+<l n="1">Di gloria il viso e la gioconda voce,</l>
+        <l n="2">Garzon bennato, apprendi,</l>
+        <l n="3">E quanto al femminile ozio sovrasti</l>
+        <l n="4">La sudata virtude. Attendi attendi,</l>
+        <l n="5">Magnanimo campion (s’<app><lem wit="#F31">a la</lem><rdg wit="#B24 #B26 #N35 #R18">s’alla veloce</rdg></app> veloce</l>
+        <l n="6">Piena <app><lem wit="#F31">de gli</lem><rdg wit="#B24 #B26 #N35 #R18">degli anni il</rdg></app> anni il tuo valor contrasti</l>
+        <l n="7">La spoglia di tuo nome), attendi <app><lem wit="#F31">e ’l</lem><rdg wit="#B24 #B26 #N35 #R18">attendi e il core</rdg></app> core</l>
+        <l n="8">Movi ad alto desio. Te l’echeggiante</l>
+        <l n="9">Arena <app><lem wit="#F31">e ’l</lem><rdg wit="#B24 #B26 #N35 #R18">e il circo</rdg></app> circo, e te fremendo appella</l>
+        <l n="10"><app><lem wit="#F31">A i</lem><rdg wit="#B24 #B26 #N35 #R18">Ai fatti</rdg></app> fatti illustri il popolar favore;</l>
+        <l n="11">Te rigoglioso <app><lem wit="#F31">de l’età novella</lem><rdg wit="#B24 #B26 #N35 #R18">dell’età novella</rdg></app></l>
+        <l n="12">Oggi la patria cara</l>
+        <l n="13">Gli antichi esempi a rinnovar prepara.</l>
+        <l n="14"><app><lem wit="#F31">Non del barbaro</lem><rdg wit="#B24 #B26 #N35 #R18">Del barbarico</rdg></app> sangue in Maratona</l>
+        <l n="15"><app><lem wit="#F31">Tinse l’invitta</lem><rdg wit="#B24 #B26 #N35 #R18">Non colorò la</rdg></app> destra</l>
+        <l n="16"><app><lem wit="#F31">Que’</lem><rdg wit="#B24 #B26 #N35 #R18">Quei</rdg></app> che gli atleti ignudi <app><lem wit="#F31">e ’l</lem><rdg wit="#B24 #B26 #N35 #R18">e il campo</rdg></app> campo eleo,</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

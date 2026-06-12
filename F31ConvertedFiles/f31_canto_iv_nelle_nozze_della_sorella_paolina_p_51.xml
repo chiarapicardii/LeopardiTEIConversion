@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>CANTO IV. NELLE NOZZE DELLA SORELLA PAOLINA</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoding and conversion by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>LeopardiTEIConversion project</publisher>
+          <date when="2026">2026</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <title>Wikileopardi</title>
+            <date>2020</date>
+            <note>Corpus of Canti extracted from Wikileopardi's platform.</note>
+          </bibl>
+        <listWit>
+          <witness xml:id="B24">B24</witness>
+          <witness xml:id="F31">F31</witness>
+          <witness xml:id="N35">N35</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <projectDesc>
+            <p>This project aims at standardizing the text and critical apparatus of Leopardi's Canti.</p>
+        </projectDesc>
+      </encodingDesc>
+    </teiHeader>
+
+  <facsimile>
+    <surface xml:id="F31051">
+      <graphic url="./assets/img/F31051.JPG"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="poem" xml:id="f31_canto_iv_nelle_nozze_della_sorella_paolina_p_51">
+        <pb n="51" facs="#F31051"/>
+                <head>CANTO IV. NELLE NOZZE DELLA SORELLA PAOLINA</head>
+        <lg>
+<l n="87">Dicea, la <app><lem wit="#F31">tomba</lem><rdg wit="#B24 #N35">tomba,</rdg></app> anzi che l’empio letto</l>
+        <l n="88">Del tiranno m’accoglia.</l>
+        <l n="89">E se pur vita e lena</l>
+        <l n="90">Roma avrà dal mio sangue, e tu mi svena.</l>
+        <l n="91">O generosa, ancora</l>
+        <l n="92">Che più bello a’ tuoi dì splendesse il sole</l>
+        <l n="93">Ch’oggi non fa, pur consolata e paga</l>
+        <l n="94">È quella tomba cui di pianto onora</l>
+        <l n="95">L’alma terra nativa. Ecco <app><lem wit="#F31">a la</lem><rdg wit="#B24 #N35">alla vaga</rdg></app> vaga</l>
+        <l n="96">Tua spoglia intorno la romulea prole</l>
+        <l n="97">Di nova ira sfavilla. Ecco di polve</l>
+        <l n="98">Lorda il tiranno i <app><lem wit="#F31">crini,</lem><rdg wit="#B24 #N35">crini;</rdg></app></l>
+        <l n="99">E libertade avvampa</l>
+        <l n="100">Gli obbliviosi <app><lem wit="#F31">petti,</lem><rdg wit="#B24 #N35">petti;</rdg></app> e <app><lem wit="#F31">ne la</lem><rdg wit="#B24 #N35">nella doma</rdg></app> doma</l>
+        <l n="101">Terra il marte latino arduo s’accampa</l>
+        <l n="102">Dal buio polo <app><lem wit="#F31">a i</lem><rdg wit="#B24 #N35">ai torridi</rdg></app> torridi confini.</l>
+        <l n="103">Così l’eterna Roma</l>
+        <l n="104"><app><lem wit="#F31">In</lem><rdg wit="#B24 #N35">In duri</rdg></app> duri ozi sepolta</l>
+        <l n="105"><app><lem wit="#F31">Femineo</lem><rdg wit="#B24 #N35">Femmineo</rdg></app> fato avviva un’altra volta.</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

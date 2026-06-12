@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>CANTO X. Il primo amore.</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoding and conversion by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>LeopardiTEIConversion project</publisher>
+          <date when="2026">2026</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <title>Wikileopardi</title>
+            <date>2020</date>
+            <note>Corpus of Canti extracted from Wikileopardi's platform.</note>
+          </bibl>
+        <listWit>
+          <witness xml:id="B26">B26</witness>
+          <witness xml:id="N35">N35</witness>
+          <witness xml:id="F31">F31</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <projectDesc>
+            <p>This project aims at standardizing the text and critical apparatus of Leopardi's Canti.</p>
+        </projectDesc>
+      </encodingDesc>
+    </teiHeader>
+
+  <facsimile>
+    <surface xml:id="F31087">
+      <graphic url="./assets/img/F31087.JPG"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="poem" xml:id="f31_canto_x_il_primo_amore_p_87">
+        <pb n="87" facs="#F31087"/>
+                <head>CANTO X. Il primo amore.</head>
+        <lg>
+<l n="43">Ed io timido e cheto ed inesperto,</l>
+        <l n="44">Ver lo balcone al buio protendea</l>
+        <l n="45">L’orecchio avido e l’occhio indarno aperto,</l>
+        <l n="46">La voce ad ascoltar, se ne dovea</l>
+        <l n="47">Di quelle labbra uscir, ch’ultima fosse;</l>
+        <l n="48">La voce, ch’altro il <app><lem wit="#F31">fato,</lem><rdg wit="#B26 #N35">cielo, ahi</rdg></app> ahi, mi togliea.</l>
+        <l n="49">Quante volte plebea voce percosse</l>
+        <l n="50">Il dubitoso orecchio, e un gel mi prese,</l>
+        <l n="51">E <app><lem wit="#F31">’l</lem><rdg wit="#B26 #N35">e il core</rdg></app> core in forse a palpitar si mosse!</l>
+        <l n="52">E poi che finalmente mi discese</l>
+        <l n="53">La cara voce al core, e de’ cavai</l>
+        <l n="54">E <app><lem wit="#F31">de le</lem><rdg wit="#B26 #N35">delle rote</rdg></app> rote il <app><lem wit="#F31">fragorio</lem><rdg wit="#B26 #N35">romorio s’intese</rdg></app> s’intese;</l>
+        <l n="55">Orbo rimaso allor, mi rannicchiai</l>
+        <l n="56">Palpitando nel letto e, chiusi gli occhi,</l>
+        <l n="57">Strinsi il cor con la mano, e sospirai.</l>
+        <l n="58">Poscia traendo i tremuli ginocchi</l>
+        <l n="59">Stupidamente per la muta stanza,</l>
+        <l n="60">Ch’altro sarà, dicea, che <app><lem wit="#F31">’l</lem><rdg wit="#B26 #N35">che il cor</rdg></app> cor mi tocchi?</l>
+        <l n="61">Amarissima allor la ricordanza</l>
+        <l n="62">Locommisi nel petto, e mi serrava</l>
+        <l n="63">Ad ogni voce il core, a ogni sembianza.</l>
+        <l n="64">E lunga doglia il sen mi ricercava,</l>
+        <l n="65">Com’è quando a distesa Olimpo piove</l>
+        <l n="66">Malinconicamente e i campi lava.</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

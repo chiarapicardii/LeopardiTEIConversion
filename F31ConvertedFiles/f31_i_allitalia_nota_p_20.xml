@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>I. ALL'ITALIA. (NOTA.)</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoding and conversion by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>LeopardiTEIConversion project</publisher>
+          <date when="2026">2026</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <title>Wikileopardi</title>
+            <date>2020</date>
+            <note>Corpus of Canti extracted from Wikileopardi's platform.</note>
+          </bibl>
+        <listWit>
+          <witness xml:id="B24">B24</witness>
+          <witness xml:id="B26">B26</witness>
+          <witness xml:id="F31">F31</witness>
+          <witness xml:id="N35">N35</witness>
+          <witness xml:id="R18">R18</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <projectDesc>
+            <p>This project aims at standardizing the text and critical apparatus of Leopardi's Canti.</p>
+        </projectDesc>
+      </encodingDesc>
+    </teiHeader>
+
+  <facsimile>
+    <surface xml:id="F31020">
+      <graphic url="./assets/img/F31020.JPG"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="note" xml:id="f31_i_allitalia_nota_p_20" corresp="#f31_i_allitalia_nota">
+        <pb n="20" facs="#F31020"/>
+        <head>NOTA</head>
+                <p>pile fa tanta forza a noi che siamo stranieri verso quelli che l’operarono, e con tutto questo non possiamo tener le lagrime a leggerla semplicemente come passasse, e ventitrè secoli dopo ch’ell’è seguita; abbiamo a far congettura di quello che la sua ricordanza dovesse potere in un greco, e poeta, e de’ principali, avendo veduto il fatto si può dire, cogli occhi propri, andando per le stesse città vincitrici d’un esercito molto maggiore di quanti altri si ricorda la storia d’Europa, venendo a parte delle feste, delle meraviglie, del fervore di tutta una eccellentissima nazione, fatta anche più magnanima della sua natura dalla coscienza della gloria acquistata, e dall’emulazione di tanta virtù dimostrata pur allora dai suoi. Per queste considerazioni riputando a molta disavventura che le cose scritte da Simonide in quella occorrenza fossero perdute, non ch’io presumessi di riparare a questo danno, ma come per ingannare il desiderio, procurai di rappresentarmi alla mente le disposizioni dell’animo del poeta in quel</p>
+      </div>
+    </body>
+  </text>
+</TEI>

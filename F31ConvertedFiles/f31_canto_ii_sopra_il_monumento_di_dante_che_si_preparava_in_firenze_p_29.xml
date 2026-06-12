@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>CANTO II. Sopra il monumento di Dante che si preparava in Firenze</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoding and conversion by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>LeopardiTEIConversion project</publisher>
+          <date when="2026">2026</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <title>Wikileopardi</title>
+            <date>2020</date>
+            <note>Corpus of Canti extracted from Wikileopardi's platform.</note>
+          </bibl>
+        <listWit>
+          <witness xml:id="B24">B24</witness>
+          <witness xml:id="F31">F31</witness>
+          <witness xml:id="N35">N35</witness>
+          <witness xml:id="R18">R18</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <projectDesc>
+            <p>This project aims at standardizing the text and critical apparatus of Leopardi's Canti.</p>
+        </projectDesc>
+      </encodingDesc>
+    </teiHeader>
+
+  <facsimile>
+    <surface xml:id="F31029">
+      <graphic url="./assets/img/F31029.JPG"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="poem" xml:id="f31_canto_ii_sopra_il_monumento_di_dante_che_si_preparava_in_firenze_p_29">
+        <pb n="29" facs="#F31029"/>
+                <head>CANTO II. Sopra il monumento di Dante che si preparava in Firenze</head>
+        <lg>
+<l n="134">Pugnò, cadde gran parte anche di noi:</l>
+        <l n="135">Ma per la moribonda</l>
+        <l n="136">Italia no; per li tiranni suoi.</l>
+        <l n="137">Padre, se non ti sdegni,</l>
+        <l n="138"><app><lem wit="#F31">Mutato se’</lem><rdg wit="#B24 #N35 #R18">Mutato sei</rdg></app> da quel che fosti in terra.</l>
+        <l n="139">Morian per le rutene</l>
+        <l n="140">Squallide piagge, ahi d’altra morte degni,</l>
+        <l n="141">Gl’itali prodi; e lor fea l’aere <app><lem wit="#F31">e ’l</lem><rdg wit="#B24 #N35 #R18">e il cielo</rdg></app> cielo</l>
+        <l n="142">E gli uomini e le belve immensa guerra.</l>
+        <l n="143">Cadeano a squadre a squadre</l>
+        <l n="144">Semivestiti, maceri e cruenti,</l>
+        <l n="145">Ed era letto <app><lem wit="#F31">a gli</lem><rdg wit="#B24 #N35 #R18">agli egri</rdg></app> egri corpi il gelo.</l>
+        <l n="146">Allor, quando traean l’ultime pene,</l>
+        <l n="147"><app><lem wit="#F31">Membravan</lem><rdg wit="#B24 #N35 #R18">Membrando</rdg></app> questa desiata madre,</l>
+        <l n="148"><app><lem wit="#F31">Dicendo: oh</lem><rdg wit="#B24 #N35 #R18">Diceano: oh</rdg></app> non le nubi e non i venti,</l>
+        <l n="149">Ma ne spegnesse il ferro, e <app><lem wit="#F31">pel</lem><rdg wit="#B24 #N35 #R18">per tuo</rdg></app> tuo bene,</l>
+        <l n="150">O patria <app><lem wit="#F31">nostra.</lem><rdg wit="#B24 #N35 #R18">nostra. Ecco</rdg></app> Ecco da te rimoti,</l>
+        <l n="151">Quando più bella a noi l’età sorride,</l>
+        <l n="152">A tutto il mondo ignoti,</l>
+        <l n="153">Moriam per quella gente che t’uccide.</l>
+        <l n="154"><app><lem wit="#F31">Di lor querela il boreal deserto</lem><rdg wit="#B24 #N35 #R18">Di lor... sibilanti</rdg></app></l>
+        <l n="155"><app><lem wit="#F31">E conscie fur le sibilanti</lem><rdg wit="#B24 #N35 #R18">Di lor... sibilanti</rdg></app> selve.</l>
+        <l n="156">Così vennero al passo,</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>
