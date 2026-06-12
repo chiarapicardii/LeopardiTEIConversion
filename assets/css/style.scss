@@ -22,14 +22,14 @@
 
 /* 3. BODY */
 body {
-  font-family: 'EB Garamond', Georgia, serif;
+  font-family: 'Instrument Sans', system-ui, -apple-system, sans-serif; /* Forza il font SENZA GRAZIE su tutto il sito */
   color: var(--ink);
-  line-height: 1.8;
+  line-height: 1.6; /* Un'interlinea leggermente più stretta, perfetta per i font lineari */
   background-color: var(--paper);
-  font-size: 1.13rem;
+  font-size: 1.05rem; /* Adatta la dimensione per i font sans-serif */
   margin: 0;
   padding: 0;
-  width: 100%; /* Lascia che il body occupi tutto lo schermo per mantenere lo sfondo unito */
+  width: 100%;
 }
 
 /* 4. HEADER */
@@ -78,27 +78,27 @@ h1{
   border-color: rgba(255,255,255,0.6);
 }
 
-/* 5. CORPO DEL TESTO */
+/* 5. CORPO DEL TESTO - Configurazione Piena Larghezza (900px) */
 .main-content {
-  width: 900px !important;     /* Forza la larghezza del blocco di testo esattamente a 900px */
-  max-width: 900px !important; /* Impedisce al tema di restringerlo */
-  margin: 0 auto !important;   /* Centra perfettamente il blocco da 900px al centro dello schermo */
-  padding: 3rem 2rem;          /* Spazio interno per dare respiro al testo */
-  font-size: 1.15rem;
+  width: 900px !important;       /* Forza la larghezza esatta a 900px */
+  max-width: 900px !important;   /* Sovrascrive il tema Cayman */
+  margin: 0 auto !important;     /* Centra il blocco nello schermo */
+  padding: 2rem 0rem !important; /* Rimuove i padding laterali interni per distendere il testo */
+  box-sizing: border-box;
 }
+
 /* 6. TITOLI DI SEZIONE */
 .main-content h2 {
-  font-family: 'EB Garamond', Georgia, serif;
-  font-weight: 500;
-  font-size: 1.75rem;
+  font-family: 'Instrument Sans', system-ui, sans-serif; /* Senza grazie anche per i titoli grandi */
+  font-weight: 600;
+  font-size: 1.6rem;
   color: var(--bordeaux);
   border-bottom: 1px solid var(--rule);
   padding-bottom: 0.4rem;
   margin-top: 3rem;
   margin-bottom: 1.2rem;
-  letter-spacing: -0.01em;
+  letter-spacing: -0.02em;
 }
-
 /* Etichetta numerica discreta sopra ogni H2 */
 .main-content h2::before {
   display: block;
