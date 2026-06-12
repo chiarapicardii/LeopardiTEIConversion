@@ -32,6 +32,10 @@ body {
   width: 100%;
 }
 
+.inner {
+   width: 900px;
+}
+
 /* 4. HEADER */
 .page-header .project-title, 
 .page-header .project-tagline {
@@ -52,6 +56,10 @@ body {
   margin-top: 1rem !important;
   margin-bottom: 2.5rem !important;
   line-height: 1.3 !important;
+}
+
+h1{
+   font-size: 0px;
 }
 
 /* Rimuove l'azzeramento globale se presente */
