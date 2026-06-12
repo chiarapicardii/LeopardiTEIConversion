@@ -1,0 +1,410 @@
+=========================================================
+      TEI P5 FORMAL VALIDATION ENGINE (RelaxNG)
+      Based on Adrien Barbaresi's Methodology
+      Generated on: 2026-06-12 16:53:36
+=========================================================
+1. Downloading official TEI All schema (Happens ONLY ONCE)...
+✓ Schema successfully downloaded and cached locally as 'tei_all.rng'.
+
+⏳ Compiling RelaxNG Schema...
+   [Note: TEI All is massive. This can take 30-90 seconds. Please do not close!]
+✓ RelaxNG Schema successfully compiled and ready!
+
+2. Starting validation scan for 129 files...
+---------------------------------------------------------
+📄 File: f31_canto_ii_sopra_il_monumento_di_dante_che_si_preparava_in_firenze_p_23.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_canto_ii_sopra_il_monumento_di_dante_che_si_preparava_in_firenze_p_24.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_canto_ii_sopra_il_monumento_di_dante_che_si_preparava_in_firenze_p_25.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_canto_ii_sopra_il_monumento_di_dante_che_si_preparava_in_firenze_p_26.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_canto_ii_sopra_il_monumento_di_dante_che_si_preparava_in_firenze_p_27.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_canto_ii_sopra_il_monumento_di_dante_che_si_preparava_in_firenze_p_28.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_canto_ii_sopra_il_monumento_di_dante_che_si_preparava_in_firenze_p_29.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_canto_ii_sopra_il_monumento_di_dante_che_si_preparava_in_firenze_p_30.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_canto_ii_sopra_il_monumento_di_dante_che_si_preparava_in_firenze_p_31.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_canto_ii_sopra_il_monumento_di_dante_che_si_preparava_in_firenze_p_33.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_canto_iv_nelle_nozze_della_sorella_paolina_p_47.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_canto_iv_nelle_nozze_della_sorella_paolina_p_48.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_canto_iv_nelle_nozze_della_sorella_paolina_p_49.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_canto_iv_nelle_nozze_della_sorella_paolina_p_50.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_canto_iv_nelle_nozze_della_sorella_paolina_p_51.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_canto_xiii_alla_luna_p_97.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_canto_xii_la_sera_del_giorno_festivo_p_93.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_canto_xii_la_sera_del_giorno_festivo_p_94.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_canto_xii_la_sera_del_giorno_festivo_p_95.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_canto_xiv_il_sogno_p_100.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_canto_xiv_il_sogno_p_101.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_canto_xiv_il_sogno_p_102.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_canto_xiv_il_sogno_p_103.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_canto_xiv_il_sogno_p_99.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_canto_xi_linfinito_p_91.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_canto_xviii_il_risorgimento_p_125.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_canto_xviii_il_risorgimento_p_126.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_canto_xviii_il_risorgimento_p_127.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_canto_xviii_il_risorgimento_p_128.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_canto_xviii_il_risorgimento_p_129.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_canto_xviii_il_risorgimento_p_130.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_canto_xviii_il_risorgimento_p_131.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_canto_xvi_alla_sua_donna_p_111.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_canto_xxiii_il_sabato_del_villaggio_p_159.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_canto_xxiii_il_sabato_del_villaggio_p_160.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_canto_xxiii_il_sabato_del_villaggio_p_161.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_canto_xxii_la_quiete_dopo_la_tempesta_p_155.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_canto_xxii_la_quiete_dopo_la_tempesta_p_156.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_canto_xxii_la_quiete_dopo_la_tempesta_p_157.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_canto_x_il_primo_amore_p_85.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_canto_x_il_primo_amore_p_86.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_canto_x_il_primo_amore_p_87.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_canto_x_il_primo_amore_p_88.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_canto_x_il_primo_amore_p_89.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_iii_ad_angelo_mai_quandebbe_trovato_i_libri_di_cicerone_della_repubblica_note_p_43.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_iii_ad_angelo_mai_quandebbe_trovato_i_libri_di_cicerone_della_repubblica_note_p_44.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_iii_ad_angelo_mai_quandebbe_trovato_i_libri_di_cicerone_della_repubblica_note_p_45.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_iii_ad_angelo_mai_quandebbe_trovato_i_libri_di_cicerone_della_repubblica_note_p_46.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_iii_ad_angelo_mai_quandebbe_trovato_i_libri_di_cicerone_della_repubblica_p_35.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_iii_ad_angelo_mai_quandebbe_trovato_i_libri_di_cicerone_della_repubblica_p_36.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_iii_ad_angelo_mai_quandebbe_trovato_i_libri_di_cicerone_della_repubblica_p_37.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_iii_ad_angelo_mai_quandebbe_trovato_i_libri_di_cicerone_della_repubblica_p_38.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_iii_ad_angelo_mai_quandebbe_trovato_i_libri_di_cicerone_della_repubblica_p_39.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_iii_ad_angelo_mai_quandebbe_trovato_i_libri_di_cicerone_della_repubblica_p_40.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_iii_ad_angelo_mai_quandebbe_trovato_i_libri_di_cicerone_della_repubblica_p_41.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_iii_ad_angelo_mai_quandebbe_trovato_i_libri_di_cicerone_della_repubblica_p_42.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_i_allitalia_nota_p_19.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_i_allitalia_nota_p_20.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_i_allitalia_nota_p_21.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_i_allitalia_p_11.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_i_allitalia_p_12.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_i_allitalia_p_13.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_i_allitalia_p_14.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_i_allitalia_p_15.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_i_allitalia_p_16.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_i_allitalia_p_17.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_lettera_dellautore_agli_amici_suoi_di_toscana_p_6.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_lettera_dellautore_agli_amici_suoi_di_toscana_p_7.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_lettera_dellautore_agli_amici_suoi_di_toscana_p_8.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_lettera_dellautore_agli_amici_suoi_di_toscana_p_9.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_viii_inno_ai_patriarchi_o_de_principii_del_genere_umano_note_p_79.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_viii_inno_ai_patriarchi_o_de_principii_del_genere_umano_p_73.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_viii_inno_ai_patriarchi_o_de_principii_del_genere_umano_p_74.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_viii_inno_ai_patriarchi_o_de_principii_del_genere_umano_p_75.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_viii_inno_ai_patriarchi_o_de_principii_del_genere_umano_p_76.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_viii_inno_ai_patriarchi_o_de_principii_del_genere_umano_p_77.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_viii_inno_ai_patriarchi_o_de_principii_del_genere_umano_p_78.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_vii_alla_primavera_o_delle_favole_antiche_nota_p_71.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_vii_alla_primavera_o_delle_favole_antiche_nota_p_72.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_vii_alla_primavera_o_delle_favole_antiche_p65.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_vii_alla_primavera_o_delle_favole_antiche_p_65.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_vii_alla_primavera_o_delle_favole_antiche_p_66.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_vii_alla_primavera_o_delle_favole_antiche_p_67.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_vii_alla_primavera_o_delle_favole_antiche_p_68.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_vii_alla_primavera_o_delle_favole_antiche_p_69.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_vi_bruto_minore_p_57.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_vi_bruto_minore_p_58.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_vi_bruto_minore_p_59.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_vi_bruto_minore_p_60.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_vi_bruto_minore_p_61.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_vi_bruto_minore_p_62.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_vi_bruto_minore_p_63.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_v_a_un_vincitore_nel_pallone_p_53.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_v_a_un_vincitore_nel_pallone_p_54.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_v_a_un_vincitore_nel_pallone_p_55.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_xix_a_silvia_p_133.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_xix_a_silvia_p_134.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_xix_a_silvia_p_135.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_xvii_al_conte_carlo_pepoli_p_117.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_xvii_al_conte_carlo_pepoli_p_118.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_xvii_al_conte_carlo_pepoli_p_119.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_xvii_al_conte_carlo_pepoli_p_120.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_xvii_al_conte_carlo_pepoli_p_121.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_xvii_al_conte_carlo_pepoli_p_122.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_xvii_al_conte_carlo_pepoli_p_123.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_xvi_alla_sua_donna_p_112.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_xvi_alla_sua_donna_p_113.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_xvi_alla_sua_donna_p_115.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_xv_la_vita_solitaria_p_105.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_xv_la_vita_solitaria_p_106.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_xv_la_vita_solitaria_p_107.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_xv_la_vita_solitaria_p_108.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_xv_la_vita_solitaria_p_109.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_xxi_canto_notturno_di_un_pastore_vagante_dellasia_p_145.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_xxi_canto_notturno_di_un_pastore_vagante_dellasia_p_146.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_xxi_canto_notturno_di_un_pastore_vagante_dellasia_p_147.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_xxi_canto_notturno_di_un_pastore_vagante_dellasia_p_148.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_xxi_canto_notturno_di_un_pastore_vagante_dellasia_p_149.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_xxi_canto_notturno_di_un_pastore_vagante_dellasia_p_150.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_xxi_canto_notturno_di_un_pastore_vagante_dellasia_p_151.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_xxi_canto_notturno_di_un_pastore_vagante_dellasia_p_153.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_xx_le_ricordanze_p_137.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_xx_le_ricordanze_p_138.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_xx_le_ricordanze_p_139.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_xx_le_ricordanze_p_140.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_xx_le_ricordanze_p_141.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_xx_le_ricordanze_p_142.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_xx_le_ricordanze_p_143.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+📄 File: f31_xx_le_ricordanze_p_144.xml
+   ↳ ✓ VALID: Perfect structure and fully compliant with TEI P5!
+---------------------------------------------------------
+
+=========================================================
+                    FINAL VALIDATION REPORT
+=========================================================
+ Total files analyzed: 129
+ Validated files (100% TEI P5): 129
+ Files with errors: 0
+=========================================================
+EXCELLENT! All files are perfectly compliant and ready for EVT!
