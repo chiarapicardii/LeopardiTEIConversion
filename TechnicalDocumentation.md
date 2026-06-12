@@ -214,6 +214,5 @@ processed_text = re.sub(r"\s*(?:&nbsp;)+\s*", 'rend="indent" ', processed_text)
 
 ```
 ---
-
-*Scripts and data are openly available under CC BY 4.0.*  
+ 
 *Encoded by Chiara Picardi. University of Bologna, a. y. 2025–26.*
