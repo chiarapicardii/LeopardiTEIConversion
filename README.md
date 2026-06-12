@@ -1,6 +1,6 @@
 # Leopardi TEI Conversion Pipeline
 
-An automated conversion of scholarly data from the Wikidata to XML/TEI syntax applied to **Wikileopardi**'s _Canti_ collection, rendered for **EVT (Edition Visualization Technology)**, available here: [https://chiarapicardii.github.io/LeopardiEVTvisualization/](https://chiarapicardii.github.io/LeopardiEVTvisualization/#/readingText?p=page-TEI%5B1%5D-text%5B1%5D-body%5B1%5D-div%5B1%5D-div%5B1%5D-pb%5B1%5D&el=critical)
+An automated conversion of scholarly data from the Wikidata to XML/TEI syntax applied to (**Wikileopardi**)[https://wikileopardi.altervista.org/wiki_leopardi/index.php?title=Wiki_Leopardi]'s _Canti_ collection, rendered for **EVT (Edition Visualization Technology)**, available here: [https://chiarapicardii.github.io/LeopardiEVTvisualization/](https://chiarapicardii.github.io/LeopardiEVTvisualization/#/readingText?p=page-TEI%5B1%5D-text%5B1%5D-body%5B1%5D-div%5B1%5D-div%5B1%5D-pb%5B1%5D&el=critical)
 
 ## Project Overview
 Aimed at contribuiting to the standardization and interoperability of digital scholarly data, this project builds an open-source, reusable architecture for Giacomo Leopardi's _Canti_. 
