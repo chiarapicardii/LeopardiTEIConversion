@@ -19,8 +19,10 @@ The codebase is organized into modular scripts to ensure systematic error-checki
 │   ├── LeopardiParsing.py    # Node 1: Data Extraction API
 │   ├── cleaning.py           # Node 2: Syntactical Normalization
 │   └── teiconversion.py      # Node 3: XML/TEI Semantic Mapping
+
 ├── F31ConvertedFiles/        # Converted files, pipeline output
 │   └── [Converted XML/TEI files of Leopardi's Canti]
+
 └── assets/
     └── css/
-        └── style.scss        # Xustom CSS
+        └── style.scss        # Custom CSS
