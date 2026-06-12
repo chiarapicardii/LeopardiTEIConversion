@@ -6,23 +6,21 @@ This document details the main technical choices, problems encountered, and func
 
 ## Pipeline Overview
 
-| # | Node | Core Function | TEI Target |
+|  | Issue | Function | TEI resolution |
 |:--|:-----|:-------------|:-----------|
-| 1 | Global Witness Pre-scanning | `run_all()` | `<listWit>` fallback across corpus |
-| 2 | TEI Header Generation | `generate_tei_header()` | Valid `<teiHeader>` per file |
-| 3 | Title Apparatus | `extract_structured_title()` | `<head><app>…</app></head>` |
-| 4 | Critical Apparatus Parsing | `replace_wit()` | `<app><lem><rdg>` elements |
-| 5 | Facsimile Anchoring | `insert_pb()`, `build_facsimile()` | `<pb facs="#id"/>` + `<facsimile>` |
-| 6 | Prose / Poetry Branching | `encode_div()` | `<div type="poem|note|letter">` |
-| 7 | Metric Encoding | `encode_verses()` | `<l n="N">` within `<lg>` |
+| 1 | Global witness dictionary | `run_all()` | `<listWit>` fallback across corpus |
+| 2 | Title apparatus | `extract_structured_title()` | `<head><app>…</app></head>` |
+| 3 | Critical Apparatus handling | `replace_wit()` | `<app><lem><rdg>` elements |
+| 4 | Prose and Poetry division | `encode_div()` | `<div type="poem,note,letter">` |
+| 5 | Metric Encoding | `encode_verses()` | `<l n="N">` within `<lg>` |
 
 ---
 
-## Node 1 — Global Witness Pre-scanning
+## Issue 1: Global witness dictionary
 
-**Problem:** WikiLeopardi declares witnesses only on the first page of each canto. Subsequent pages carry no explicit witness list, which would leave most `<rdg>` elements without a valid `wit` attribute.
+**Problem:** WikiLeopardi declares witnesses only on the first page of each canto, the pages following have no **explicit witness** list.
 
-**Solution:** before any conversion begins, `run_all()` performs a full-corpus scan, building a per-canto witness dictionary and a global fallback list.
+**Solution:** before any conversion begins, `run_all()` performs a full-corpus scan, building a witness dictionary (for the whole canto) and a global fallback list.
 
 ```python
 canto_witnesses_set = {}
@@ -30,7 +28,7 @@ global_witnesses = set()
 
 for key, text in data.items():
     canto_match = re.search(r"CANTO\s+\w+", key)
-    if not canto_match:
+    if not canto_match: 
         continue
     canto = canto_match.group(0)
 
@@ -54,53 +52,21 @@ if not current_witnesses or current_witnesses == [main_witness]:
     head_witnesses = sorted(list(set(head_fallback_witnesses + [main_witness])))
 ```
 
-> **Philological note:** variants without explicit witness attribution are assigned to the full set of declared witnesses — a documented limitation requiring manual review for full philological reliability. See [Limitations](#limitations).
+> **Philological note:** variants without explicit witness attribution are assigned to whole dictionary of declared witnesses, which means the files **need** manual review for full philological reliability. See [Limitation]paragraph in the project documentation(https://chiarapicardii.github.io/LeopardiTEIConversion/#fnref:1).
 
 ---
 
-## Node 2 — TEI Header Generation
+## Issue 2: Title apparatus
 
-**Solution:** `generate_tei_header()` assembles a complete `<teiHeader>` for every output file, injecting the witness list resolved in Node 1 and hardcoding the encoding method.
+**Problem:** The titles have different versions across witnesses, this information needs to be preserved in the extraction.
 
-```python
-def generate_tei_header(title, witnesses, encoder_name="Chiara Picardi", ...):
-    list_wit = build_witness_list(witnesses)
-    header = f"""  <teiHeader>
-      <fileDesc>
-        <titleStmt>
-          <title>{title}</title>
-          <author>Giacomo Leopardi</author>
-          <respStmt>
-            <resp>Encoded by</resp>
-            <persName>{encoder_name}</persName>
-          </respStmt>
-        </titleStmt>
-        ...
-        <sourceDesc>
-          <bibl>{source_bibl}</bibl>
-          {list_wit}
-        </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-        <variantEncoding method="parallel-segmentation" location="internal"/>
-      </encodingDesc>
-    </teiHeader>"""
-```
-
-The `variantEncoding` declaration is essential for EVT to render the critical apparatus correctly.
-
----
-
-## Node 3 — Title Apparatus
-
-**Problem:** titles themselves vary across witnesses in WikiLeopardi. A naive extraction would discard this information.
-
-**Solution:** `extract_structured_title()` uses `re.findall()` to collect all `[[Titolo:edition|text]]` patterns. The first match becomes the `<lem>`, subsequent ones become `<rdg>` elements.
+**Solution:** the function `extract_structured_title()` uses the regualar expression `re.findall()` to collect all the cases with `[[Titolo:edition|text]]` patterns. Then the first match becomes the `<lem>` 
+and the others the `<rdg>` elements.
 
 ```python
 titles = re.findall(r"\[\[Titolo:([^|\]]+)\|([^\]]+)\]\]", wikitext, re.DOTALL)
 
-base_edition, base_text = titles[0]
+base_edition, base_text = titles[0] #[0] is the first match
 
 # If only one title, no apparatus needed
 if len(titles) == 1:
@@ -114,7 +80,7 @@ for edition, text in titles[1:]:
 return f'<head><app><lem wit="#{base_edition}">{base_text}</lem>{"".join(app_editions)}</app></head>'
 ```
 
-**Fallback:** when the extracted title is a lone Roman numeral (e.g. `IV`) — a recurring WikiLeopardi formatting issue — the function falls back to the JSON key.
+**Fallback:** when the extracted title is a lone Roman numeral (e.g. `IV`), which was a recurring WikiLeopardi formatting issue encountered, the function falls back to the JSON key.
 
 ```python
 if not re.fullmatch(r'[IVXLCDM]+', clean_title):
@@ -124,13 +90,13 @@ if not re.fullmatch(r'[IVXLCDM]+', clean_title):
 
 ---
 
-## Node 4 — Critical Apparatus Parsing
+## Issue 3: Critical apparatus handling
 
-**Problem:** WikiLeopardi encodes variants in three distinct syntactic patterns that must all be mapped to TEI `<app>` elements.
+**Problem:** WikiLeopardi encodes variants in three distinct patterns that must all be mapped to TEI `<app>` elements.
 
-**Solution:** `replace_wit()` applies three sequential regex substitutions.
+**Solution:** The function `replace_wit()` applies three sequential regex substitutions, each suited to the specific case.
 
-### Case 1 — Explicit witness: `[[Sigla:Variant|Lemma]]`
+**Case 1. Explicit witness: `[[Acronym:Variant|Lemma]]`** 
 
 ```python
 text = re.sub(
@@ -144,16 +110,17 @@ text = re.sub(
 )
 ```
 
-### Case 2 — Pipe without sigla: `[[Variant|Lemma]]`
+**Case 2. Pipe without acronym: `[[Variant|Lemma]]`**
 
-When the variant contains a `<lb/>` line break, the break is removed and the reading is flattened to a single string. This is a deliberate technical compromise: EVT cannot render a `<rdg>` element that breaks across lines, and preserving the `<lb/>` would corrupt the apparatus structure.
+This requires a further specification: when the variant contains the `<lb/>`, the element is removed and flattened to a single string. This is a necessary technical compromise to 
+allow EVT to render the text, because it would have otherwise broken the apparatus strucuture. 
 
 ```python
 def pipe(match):
     lem = clean(match.group(2))
     rdg = clean(match.group(1))
     if "<lb/>" in rdg or "\n" in rdg:
-        clean_rdg = rdg.replace("<lb/>", " ").replace("\n", " ")
+        clean_rdg = rdg.replace("<lb/>", " ").replace("\n", " ") #replacing the <lb/>
         return (
             f'<app><lem wit="#{main_witness}">{lem}</lem>'
             f'<rdg wit="{secondary_wits_string}">{clean_rdg}</rdg></app>'
@@ -161,7 +128,7 @@ def pipe(match):
     return avoid_repetition_apparatus(lem, rdg, secondary_wits_string)
 ```
 
-### Case 3 — Plain link: `[[text]]`
+**Case 3. Plain link: `[[text]]`**
 
 ```python
 text = re.sub(
@@ -175,7 +142,8 @@ text = re.sub(
 )
 ```
 
-### Deduplication
+**Deduplication**
+Sometimes, in the raw files, there were variants syntax containing the same text as the main witness used, so `avoid_repetition_apparatus` checks for repetitions and authomatically deletes them.
 
 ```python
 def avoid_repetition_apparatus(lem, rdg, wit):
@@ -186,48 +154,11 @@ def avoid_repetition_apparatus(lem, rdg, wit):
 
 ---
 
-## Node 5 — Facsimile Anchoring
+## Issue 4: Prose and poetry division
 
-**Problem:** `<pb>` elements and facsimile images need to be linked by page number, but the connection is implicit in the filename (`F31x747.JPG` → page 747).
+**Problem:** The corpus contains not only poems but also authorial notes, letters, and annotations, each requiring a different TEI structure.
 
-**Solution:** `insert_pb()` builds a `facs_map` by extracting the trailing three-digit number from each filename, then injects the `facs` attribute into every `<pb>` element.
-
-```python
-facs_map = {}
-for f in facs_files:
-    xml_id = f["xml_id"]
-    page_num_match = re.search(r'\d{3}$', xml_id)
-    if page_num_match:
-        key = str(int(page_num_match.group(0)))
-        facs_map[key] = xml_id
-
-def replacer(match):
-    num = match.group(1)
-    xml_id = facs_map.get(num)
-    if xml_id:
-        return f'<pb n="{num}" facs="#{xml_id}"/>'
-    return f'<pb n="{num}"/>'
-```
-
-`build_facsimile()` then produces the corresponding `<facsimile>` block in the TEI header:
-
-```xml
-<facsimile>
-  <surface xml:id="F31x747">
-    <graphic url="./assets/img/F31x747.JPG"/>
-  </surface>
-</facsimile>
-```
-
-This binding enables EVT's split-screen view, pairing the edited text with the original 1831 Florentine print.
-
----
-
-## Node 6 — Prose / Poetry Branching
-
-**Problem:** the corpus contains not only poems but also authorial notes, letters, and annotations — each requiring a different TEI structure.
-
-**Solution:** `encode_div()` determines `div_type` through keyword detection on the JSON key, with a heuristic fallback on the text content itself.
+**Solution:** The function `encode_div()` determines the `div_type` based on the keywords in the JSON keys, and divides the files in prose and poems, which are then processed accordingly.
 
 ```python
 jk_lower = json_key.lower()
@@ -251,16 +182,11 @@ canto_id = make_safe_id(canto_clean)
 corresp_attribute = f' corresp="#{canto_id}"'
 # → <div type="note" xml:id="..." corresp="#canto_i">
 ```
+## Issue 5: Metric encoding
 
-Poetry is wrapped in `<div type="poem"><lg>…</lg></div>` by Node 7.
+**Problem:** WikiLeopardi stores verse numbers inline with the text, so they need be separated and converten in the TEI `n=` attribute without corrupting adjacent apparatus elements.
 
----
-
-## Node 7 — Metric Encoding
-
-**Problem:** WikiLeopardi stores verse numbers inline with the text; they must be separated and mapped to the TEI `n` attribute without corrupting adjacent apparatus elements.
-
-**Solution:** `isolate_verse_num()` uses a negative-lookbehind regex to distinguish verse numbers from page references, footnote numbers, and attribute values:
+**Solution:** The function `isolate_verse_num()` uses a negative-lookbehind regular expression to distinguish verse numbers from page references, footnote numbers, and attribute values.
 
 ```python
 text = re.sub(
@@ -281,7 +207,7 @@ n_attribute = f' n="{num}"' if num else ''
 formatted_lines.append(f'        <l{n_attribute}>{verse}</l>')
 ```
 
-Metrically indented lines preserve `rend="indent"` as a TEI attribute.
+Metrically indented lines preserve `rend="indent"` as a TEI attribute, which was already processed in the text through the pre-processing script. 
 
 ---
 
