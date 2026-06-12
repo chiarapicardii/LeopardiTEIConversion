@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>XVII. AL CONTE CARLO PEPOLI.</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoding and conversion by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>LeopardiTEIConversion project</publisher>
+          <date when="2026">2026</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <title>Wikileopardi</title>
+            <date>2020</date>
+            <note>Corpus of Canti extracted from Wikileopardi's platform.</note>
+          </bibl>
+        <listWit>
+          <witness xml:id="B24">B24</witness>
+          <witness xml:id="B26">B26</witness>
+          <witness xml:id="F31">F31</witness>
+          <witness xml:id="N35">N35</witness>
+          <witness xml:id="R18">R18</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <projectDesc>
+            <p>This project aims at standardizing the text and critical apparatus of Leopardi's Canti.</p>
+        </projectDesc>
+      </encodingDesc>
+    </teiHeader>
+
+  <facsimile>
+    <surface xml:id="F31117">
+      <graphic url="./assets/img/F31117.JPG"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="poem" xml:id="f31_xvii_al_conte_carlo_pepoli_p_117">
+        <pb n="117" facs="#F31117"/>
+                <head>XVII. AL CONTE CARLO PEPOLI.</head>
+        <lg>
+<l n="1">Questo affannoso e travagliato sonno</l>
+        <l n="2">Che noi vita nomiam, come sopporti,</l>
+        <l n="3">Pepoli mio? di che speranze il core</l>
+        <l n="4">Vai sostentando? in che pensieri, in quanto</l>
+        <l n="5">O gioconde o moleste opre dispensi</l>
+        <l n="6">L’ozio che ti lasciàr gli avi remoti,</l>
+        <l n="7">Grave retaggio e faticoso? È tutta,</l>
+        <l n="8">In ogni umano stato, ozio la vita,</l>
+        <l n="9">Se quell’oprar, quel <app><lem wit="#F31">proccurar</lem><rdg wit="#B24 #B26 #N35 #R18">Procurar</rdg></app> che a degno</l>
+        <l n="10">Obbietto non intende, o che <app><lem wit="#F31">a l’intento</lem><rdg wit="#B24 #B26 #N35 #R18">all’intento</rdg></app></l>
+        <l n="11">Giunger mai non potria, ben si conviene</l>
+        <l n="12">Ozioso nomar. La schiera industre</l>
+        <l n="13">Cui franger glebe o curar piante e greggi</l>
+        <l n="14">Vede l’alba tranquilla e vede il vespro,</l>
+        <l n="15">Se oziosa dirai, da che sua vita</l>
+        <l n="16">È per campar la vita, e per se sola</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

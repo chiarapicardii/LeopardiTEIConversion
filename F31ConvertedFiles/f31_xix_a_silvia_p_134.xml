@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>XIX. A SILVIA.</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoding and conversion by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>LeopardiTEIConversion project</publisher>
+          <date when="2026">2026</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <title>Wikileopardi</title>
+            <date>2020</date>
+            <note>Corpus of Canti extracted from Wikileopardi's platform.</note>
+          </bibl>
+        <listWit>
+          <witness xml:id="B24">B24</witness>
+          <witness xml:id="B26">B26</witness>
+          <witness xml:id="F31">F31</witness>
+          <witness xml:id="N35">N35</witness>
+          <witness xml:id="R18">R18</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <projectDesc>
+            <p>This project aims at standardizing the text and critical apparatus of Leopardi's Canti.</p>
+        </projectDesc>
+      </encodingDesc>
+    </teiHeader>
+
+  <facsimile>
+    <surface xml:id="F31134">
+      <graphic url="./assets/img/F31134.JPG"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="poem" xml:id="f31_xix_a_silvia_p_134">
+        <pb n="134" facs="#F31134"/>
+                <head>XIX. A SILVIA.</head>
+        <lg>
+<l n="17">Ove il tempo mio primo</l>
+        <l n="18">E di me si spendea la miglior parte,</l>
+        <l n="19">D’in su i veroni del paterno ostello</l>
+        <l n="20">Porgea gli orecchi al suon <app><lem wit="#F31">de la</lem><rdg wit="#B24 #B26 #N35 #R18">della tua voce</rdg></app> tua voce,</l>
+        <l n="21">Ed <app><lem wit="#F31">a la</lem><rdg wit="#B24 #B26 #N35 #R18">alla man</rdg></app> man veloce</l>
+        <l n="22">Che percorrea la faticosa tela.</l>
+        <l n="23">Mirava il ciel sereno,</l>
+        <l n="24">Le vie dorate e gli orti,</l>
+        <l n="25">E quinci il mar da lungi, e quindi il monte.</l>
+        <l n="26">Lingua mortal non dice</l>
+        <l n="27">Quel ch’io sentiva in seno.</l>
+        <l n="28">Che pensieri soavi,</l>
+        <l n="29">Che speranze, che cori, o Silvia mia!</l>
+        <l n="30">Quale allor ci apparia</l>
+        <l n="31">La vita umana e il fato!</l>
+        <l n="32">Quando sovviemmi di cotanta speme,</l>
+        <l n="33">Un affetto mi preme</l>
+        <l n="34">Acerbo e sconsolato,</l>
+        <l n="35">E tornami a doler di mia sventura.</l>
+        <l n="36">O natura, o natura,</l>
+        <l n="37">Perchè non rendi poi</l>
+        <l n="38">Quel che prometti allor? perchè di tanto</l>
+        <l n="39">Inganni i figli tuoi?</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

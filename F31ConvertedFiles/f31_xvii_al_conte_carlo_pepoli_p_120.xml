@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>XVII. AL CONTE CARLO PEPOLI.</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoding and conversion by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>LeopardiTEIConversion project</publisher>
+          <date when="2026">2026</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <title>Wikileopardi</title>
+            <date>2020</date>
+            <note>Corpus of Canti extracted from Wikileopardi's platform.</note>
+          </bibl>
+        <listWit>
+          <witness xml:id="B24">B24</witness>
+          <witness xml:id="B26">B26</witness>
+          <witness xml:id="F31">F31</witness>
+          <witness xml:id="N35">N35</witness>
+          <witness xml:id="R18">R18</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <projectDesc>
+            <p>This project aims at standardizing the text and critical apparatus of Leopardi's Canti.</p>
+        </projectDesc>
+      </encodingDesc>
+    </teiHeader>
+
+  <facsimile>
+    <surface xml:id="F31120">
+      <graphic url="./assets/img/F31120.JPG"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="poem" xml:id="f31_xvii_al_conte_carlo_pepoli_p_120">
+        <pb n="120" facs="#F31120"/>
+                <head>XVII. AL CONTE CARLO PEPOLI.</head>
+        <lg>
+<l n="67"><app><lem wit="#F31">E le ville e i teatri, e giochi e feste</lem><rdg wit="#B24 #B26 #N35 #R18">Lui giochi e cene e invidiate danze</rdg></app></l>
+        <l n="68">Tengon la notte e <app><lem wit="#F31">’l</lem><rdg wit="#B24 #B26 #N35 #R18">il giorno;</rdg></app> giorno; a lui <app><lem wit="#F31">non parte</lem><rdg wit="#B24 #B26 #N35 #R18">Dal labbro Mai non si parte</rdg></app></l>
+        <l n="69"><app><lem wit="#F31">Mai da le labbra</lem><rdg wit="#B24 #B26 #N35 #R18">Dal labbro Mai non si parte</rdg></app> il riso; ahi, ma nel petto,</l>
+        <l n="70"><app><lem wit="#F31">Ne l’imo</lem><rdg wit="#B24 #B26 #N35 #R18">Nell’imo</rdg></app> petto, grave, salda, immota</l>
+        <l n="71">Come colonna adamantina, siede</l>
+        <l n="72">Noia immortale, incontro a cui non puote</l>
+        <l n="73">Vigor di giovanezza, e non la crolla</l>
+        <l n="74">Dolce parola di rosato labbro,</l>
+        <l n="75">E non lo sguardo tenero, tremante,</l>
+        <l n="76">Di due nere pupille, il caro sguardo,</l>
+        <l n="77">La più degna del <app><lem wit="#F31">ciel</lem><rdg wit="#B24 #B26 #N35 #R18">del ciel</rdg></app> cosa mortale.</l>
+        <l n="78">Altri, quasi a fuggir volto la trista</l>
+        <l n="79">Umana sorte, in cangiar terre e climi</l>
+        <l n="80"><app><lem wit="#F31">La</lem><rdg wit="#B24 #B26 #N35 #R18">L’età</rdg></app> età spendendo, e mari e poggi errando,</l>
+        <l n="81">Tutto l’orbe trascorre, ogni confine</l>
+        <l n="82"><app><lem wit="#F31">De gli</lem><rdg wit="#B24 #B26 #N35 #R18">Degli spazi</rdg></app> spazi che <app><lem wit="#F31">a l’uom</lem><rdg wit="#B24 #B26 #N35 #R18">che all’uom</rdg></app><app><lem wit="#F31">ne gl’infiniti</lem><rdg wit="#B24 #B26 #N35 #R18">negl’infiniti</rdg></app></l>
+        <l n="83">Campi del <app><lem wit="#F31">Tutto</lem><rdg wit="#B24 #B26 #N35 #R18">del tutto</rdg></app> la <app><lem wit="#F31">natura</lem><rdg wit="#B24 #B26 #N35 #R18">la natura</rdg></app> aperse,</l>
+        <l n="84">Peregrinando aggiunge. Ahi ahi, s’asside</l>
+        <l n="85">Su l’alte prue la negra cura, e sotto</l>
+        <l n="86">Ogni clima, ogni ciel, si chiama indarno</l>
+        <l n="87">Felicità, vive tristezza e regna.</l>
+        <l n="78">Altri, quasi a fuggir volto la trista</l>
+        <l n="79">Umana sorte, in cangiar terre e climi</l>
+        <l n="80">L’età spendendo, e mari e poggi errando,</l>
+        <l n="81">Tutto l’orbe trascorre, ogni confine</l>
+        <l n="82">Degli spazi che all’uom negl’infiniti</l>
+        <l n="83">Campi del tutto la natura aperse,</l>
+        <l n="84">Peregrinando aggiunge. Ahi ahi, s’asside</l>
+        <l n="85">Su l’alte prue la negra cura, e sotto</l>
+        <l n="86">Ogni clima, ogni ciel, si chiama indarno</l>
+        <l n="87">Felicità, vive tristezza e regna.</l>
+        <l n="88">Havvi chi le crudeli opre di marte</l>
+        <l n="89">Si elegge a passar l’ore, e nel fraterno</l>
+        <l n="90">Sangue la man tinge per ozio; ed <app><lem wit="#F31">havvi</lem><rdg wit="#B24 #B26 #N35 #R18">ed havvi</rdg></app></l>
+        <l n="91">Chi d’altrui danni si conforta, e pensa</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>XVI. ALLA SUA DONNA.</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoding and conversion by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>LeopardiTEIConversion project</publisher>
+          <date when="2026">2026</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <title>Wikileopardi</title>
+            <date>2020</date>
+            <note>Corpus of Canti extracted from Wikileopardi's platform.</note>
+          </bibl>
+        <listWit>
+          <witness xml:id="B24">B24</witness>
+          <witness xml:id="B26">B26</witness>
+          <witness xml:id="F31">F31</witness>
+          <witness xml:id="N35">N35</witness>
+          <witness xml:id="R18">R18</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <projectDesc>
+            <p>This project aims at standardizing the text and critical apparatus of Leopardi's Canti.</p>
+        </projectDesc>
+      </encodingDesc>
+    </teiHeader>
+
+  <facsimile>
+    <surface xml:id="F31113">
+      <graphic url="./assets/img/F31113.JPG"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="poem" xml:id="f31_xvi_alla_sua_donna_p_113">
+        <pb n="113" facs="#F31113"/>
+                <head>XVI. ALLA SUA DONNA.</head>
+        <lg>
+<l n="41">A palpitar mi sveglio. E potess’io,</l>
+        <l n="42">Nel secol tetro e in questo aer nefando,</l>
+        <l n="43">L’alta specie serbar; <app><lem wit="#F31">chè de l’</lem><rdg wit="#B24 #B26 #N35 #R18">Che dell’</rdg></app> imago,</l>
+        <l n="44">Poi che del ver m’è tolto, assai m’appago.</l>
+        <l n="45">Se <app><lem wit="#F31">de l’eterne</lem><rdg wit="#B24 #B26 #N35 #R18">Dell’ eterne</rdg></app> idee</l>
+        <l n="46">L’una <app><lem wit="#F31">se’</lem><rdg wit="#B24 #B26 #N35 #R18">Sei</rdg></app> tu, cui di sensibil forma</l>
+        <l n="47">Sdegni l’eterno senno esser <app><lem wit="#F31">vestita,</lem><rdg wit="#B24 #B26 #N35 #R18">Vestita,</rdg></app></l>
+        <l n="48">E fra caduche spoglie</l>
+        <l n="49">Provar gli affanni di funerea vita;</l>
+        <l n="50">O s’altra terra ne’ superni giri</l>
+        <l n="51">Fra’ mondi innumerabili t’accoglie,</l>
+        <l n="52">E più vaga del Sol prossima stella</l>
+        <l n="53">T’irraggia, e più benigno etere spiri;</l>
+        <l n="54">Di qua dove son gli anni infausti e brevi,</l>
+        <l n="55">Questo d’ignoto amante inno ricevi.</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

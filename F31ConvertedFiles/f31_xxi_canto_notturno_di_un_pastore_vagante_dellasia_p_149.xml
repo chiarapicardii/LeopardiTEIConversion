@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>XXI. CANTO NOTTURNO DI UN PASTORE VAGANTE DELL'ASIA</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoding and conversion by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>LeopardiTEIConversion project</publisher>
+          <date when="2026">2026</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <title>Wikileopardi</title>
+            <date>2020</date>
+            <note>Corpus of Canti extracted from Wikileopardi's platform.</note>
+          </bibl>
+        <listWit>
+          <witness xml:id="B24">B24</witness>
+          <witness xml:id="B26">B26</witness>
+          <witness xml:id="F31">F31</witness>
+          <witness xml:id="N35">N35</witness>
+          <witness xml:id="R18">R18</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <projectDesc>
+            <p>This project aims at standardizing the text and critical apparatus of Leopardi's Canti.</p>
+        </projectDesc>
+      </encodingDesc>
+    </teiHeader>
+
+  <facsimile>
+    <surface xml:id="F31149">
+      <graphic url="./assets/img/F31149.JPG"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="poem" xml:id="f31_xxi_canto_notturno_di_un_pastore_vagante_dellasia_p_149">
+        <pb n="149" facs="#F31149"/>
+                <head>XXI. CANTO NOTTURNO DI UN PASTORE VAGANTE DELL'ASIA</head>
+        <lg>
+<l n="90">Solitudine immensa? ed io che sono?</l>
+        <l n="91">Così meco ragiono: e <app><lem wit="#F31">della</lem><rdg wit="#B24 #B26 #N35 #R18">della stanza</rdg></app> stanza</l>
+        <l n="92">Smisurata e superba,</l>
+        <l n="93">E <app><lem wit="#F31">de l’innumerabile</lem><rdg wit="#B24 #B26 #N35 #R18">dell’ innumerabile</rdg></app> famiglia;</l>
+        <l n="94">Poi di tanto adoprar, di tanti moti</l>
+        <l n="95">D’ogni celeste, ogni terrena cosa,</l>
+        <l n="96">Girando senza posa,</l>
+        <l n="97">Per tornar sempre là donde son mosse;</l>
+        <l n="98">Uso alcuno, alcun frutto</l>
+        <l n="99">Indovinar non so. Ma tu per certo,</l>
+        <l n="100">Giovinetta immortal, conosci il tutto.</l>
+        <l n="101">Questo io conosco e sento,</l>
+        <l n="102">Che <app><lem wit="#F31">de gli</lem><rdg wit="#B24 #B26 #N35 #R18">degli eterni</rdg></app> eterni giri,</l>
+        <l n="103">Che <app><lem wit="#F31">de l’esser</lem><rdg wit="#B24 #B26 #N35 #R18">dell’ esser</rdg></app> mio frale,</l>
+        <l n="104">Qualche bene o contento</l>
+        <l n="105">Avrà fors’altri; a me la vita è male.</l>
+        <l n="106">O greggia mia che posi, oh te beata,</l>
+        <l n="107">Che la miseria tua, credo, non sai!</l>
+        <l n="108">Quanta invidia ti porto!</l>
+        <l n="109">Non sol perchè d’affanno</l>
+        <l n="110">Quasi libera <app><lem wit="#F31">vai,</lem><rdg wit="#B24 #B26 #N35 #R18">vai;</rdg></app></l>
+        <l n="111">Ch’ogni stento, ogni danno,</l>
+        <l n="112">Ogni estremo timor subito scordi;</l>
+        <l n="113">Ma più perchè giammai tedio non provi.</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

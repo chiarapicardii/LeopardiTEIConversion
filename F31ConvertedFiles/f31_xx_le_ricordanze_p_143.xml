@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>XX. LE RICORDANZE.</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoding and conversion by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>LeopardiTEIConversion project</publisher>
+          <date when="2026">2026</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <title>Wikileopardi</title>
+            <date>2020</date>
+            <note>Corpus of Canti extracted from Wikileopardi's platform.</note>
+          </bibl>
+        <listWit>
+          <witness xml:id="B24">B24</witness>
+          <witness xml:id="B26">B26</witness>
+          <witness xml:id="F31">F31</witness>
+          <witness xml:id="N35">N35</witness>
+          <witness xml:id="R18">R18</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <projectDesc>
+            <p>This project aims at standardizing the text and critical apparatus of Leopardi's Canti.</p>
+        </projectDesc>
+      </encodingDesc>
+    </teiHeader>
+
+  <facsimile>
+    <surface xml:id="F31143">
+      <graphic url="./assets/img/F31143.JPG"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="poem" xml:id="f31_xx_le_ricordanze_p_143">
+        <pb n="143" facs="#F31143"/>
+                <head>XX. LE RICORDANZE.</head>
+        <lg>
+<l n="144">È deserta. Ove <app><lem wit="#F31">sei</lem><rdg wit="#B24 #B26 #N35 #R18">Ove sei,</rdg></app> che più non odo</l>
+        <l n="145">La tua voce sonar, siccome un giorno,</l>
+        <l n="146">Quando soleva ogni lontano accento</l>
+        <l n="147">Del labbro tuo, ch’a me giungesse, il volto</l>
+        <l n="148">Scolorarmi? Altro tempo. I giorni tuoi</l>
+        <l n="149">Furo, mio dolce amor. Passasti. Ad altri</l>
+        <l n="150">Il passar per la terra oggi è sortito,</l>
+        <l n="151">E l’abitar questi odorati colli.</l>
+        <l n="152">Ma rapida passasti; e come un sogno</l>
+        <l n="153">Fu la tua vita. Ivi danzando; in fronte</l>
+        <l n="154">La gioia ti splendea, splendea <app><lem wit="#F31">ne gli</lem><rdg wit="#B24 #B26 #N35 #R18">splendea negli occhi</rdg></app> occhi</l>
+        <l n="155">Quel confidente immaginar, quel lume</l>
+        <l n="156">Di gioventù, quando spegneali il fato,</l>
+        <l n="157">E giacevi. Ahi Nerina! In cor mi regna</l>
+        <l n="158">L’antico amor. Se a feste anco talvolta,</l>
+        <l n="159">Se a radunanze io movo, infra me stesso</l>
+        <l n="160">Dico: o Nerina, a radunanze, a feste</l>
+        <l n="161">Tu non ti acconci più, tu più non movi.</l>
+        <l n="162">Se torna maggio, e ramoscelli e suoni</l>
+        <l n="163">Van gli amanti recando <app><lem wit="#F31">a le</lem><rdg wit="#B24 #B26 #N35 #R18">alle fanciulle</rdg></app> fanciulle,</l>
+        <l n="164">Dico: Nerina mia, per te non torna</l>
+        <l n="165">Primavera giammai, non torna amore.</l>
+        <l n="166">Ogni giorno sereno, ogni fiorita</l>
+        <l n="167">Piaggia ch’io miro, ogni goder ch’io sento,</l>
+        <l n="168">Dico: Nerina or più non gode; i campi,</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

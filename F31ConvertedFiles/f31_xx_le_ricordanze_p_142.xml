@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>XX. LE RICORDANZE.</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoding and conversion by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>LeopardiTEIConversion project</publisher>
+          <date when="2026">2026</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <title>Wikileopardi</title>
+            <date>2020</date>
+            <note>Corpus of Canti extracted from Wikileopardi's platform.</note>
+          </bibl>
+        <listWit>
+          <witness xml:id="B24">B24</witness>
+          <witness xml:id="B26">B26</witness>
+          <witness xml:id="F31">F31</witness>
+          <witness xml:id="N35">N35</witness>
+          <witness xml:id="R18">R18</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <projectDesc>
+            <p>This project aims at standardizing the text and critical apparatus of Leopardi's Canti.</p>
+        </projectDesc>
+      </encodingDesc>
+    </teiHeader>
+
+  <facsimile>
+    <surface xml:id="F31142">
+      <graphic url="./assets/img/F31142.JPG"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="poem" xml:id="f31_xx_le_ricordanze_p_142">
+        <pb n="142" facs="#F31142"/>
+                <head>XX. LE RICORDANZE.</head>
+        <lg>
+<l n="119">Chi rimembrar vi può senza sospiri,</l>
+        <l n="120">O primo <app><lem wit="#F31">tempo giovanile,</lem><rdg wit="#B24 #B26 #N35 #R18">entrar di giovinezza,</rdg></app> o giorni</l>
+        <l n="121">Vezzosi, inenarrabili, allor quando</l>
+        <l n="122">Al rapito mortal primieramente</l>
+        <l n="123">Sorridon le donzelle; a gara intorno</l>
+        <l n="124">Ogni cosa sorride; invidia tace,</l>
+        <l n="125">Non desta ancora ovver benigna; e quasi</l>
+        <l n="126">(Inusitata <app><lem wit="#F31">meraviglia</lem><rdg wit="#B24 #B26 #N35 #R18">Inusitata maraviglia</rdg></app>!) il mondo</l>
+        <l n="127">La destra soccorrevole gli porge,</l>
+        <l n="128">Scusa gli errori suoi, festeggia il novo</l>
+        <l n="129">Suo venir <app><lem wit="#F31">ne la</lem><rdg wit="#B24 #B26 #N35 #R18">venir nella vita</rdg></app> vita, ed inchinando</l>
+        <l n="130">Mostra che per signor l’accolga e chiami?</l>
+        <l n="131">Fugaci giorni! a somigliar d’un lampo</l>
+        <l n="132">Son dileguati. E qual mortale ignaro</l>
+        <l n="133">Di sventura esser può, se a lui già scorsa</l>
+        <l n="134">Quella vaga stagion, se il suo buon tempo,</l>
+        <l n="135">Se giovanezza, ahi giovanezza, è spenta?</l>
+        <l n="136">O Nerina! e di te forse non odo</l>
+        <l n="137">Questi luoghi parlar? caduta forse</l>
+        <l n="138">Dal mio pensier sei tu? Dove sei gita,</l>
+        <l n="139">Che qui sola di te la ricordanza</l>
+        <l n="140">Trovo, dolcezza mia? Più non ti vede</l>
+        <l n="141">Questa Terra natal: quella finestra,</l>
+        <l n="142">Ond’eri usata favellarmi, <app><lem wit="#F31">e dove</lem><rdg wit="#B24 #B26 #N35 #R18">ed onde</rdg></app></l>
+        <l n="143">Mesto riluce <app><lem wit="#F31">de le</lem><rdg wit="#B24 #B26 #N35 #R18">riluce delle stelle</rdg></app> stelle il raggio,</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

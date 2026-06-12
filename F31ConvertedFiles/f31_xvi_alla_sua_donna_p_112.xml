@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>XVI. ALLA SUA DONNA.</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoding and conversion by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>LeopardiTEIConversion project</publisher>
+          <date when="2026">2026</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <title>Wikileopardi</title>
+            <date>2020</date>
+            <note>Corpus of Canti extracted from Wikileopardi's platform.</note>
+          </bibl>
+        <listWit>
+          <witness xml:id="B24">B24</witness>
+          <witness xml:id="B26">B26</witness>
+          <witness xml:id="F31">F31</witness>
+          <witness xml:id="N35">N35</witness>
+          <witness xml:id="R18">R18</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <projectDesc>
+            <p>This project aims at standardizing the text and critical apparatus of Leopardi's Canti.</p>
+        </projectDesc>
+      </encodingDesc>
+    </teiHeader>
+
+  <facsimile>
+    <surface xml:id="F31112">
+      <graphic url="./assets/img/F31112.JPG"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="poem" xml:id="f31_xvi_alla_sua_donna_p_112">
+        <pb n="112" facs="#F31112"/>
+                <head>XVI. ALLA SUA DONNA.</head>
+        <lg>
+<l n="18">Te viatrice in questo arido suolo</l>
+        <l n="19">Io mi pensai. Ma non è cosa in terra</l>
+        <l n="20">Che ti somigli; e s’anco pari alcuna</l>
+        <l n="21">Ti fosse al volto, <app><lem wit="#F31">a gli</lem><rdg wit="#B24 #B26 #N35 #R18">Agli atti</rdg></app> atti, <app><lem wit="#F31">a la</lem><rdg wit="#B24 #B26 #N35 #R18">Alla favella</rdg></app> favella,</l>
+        <l n="22">Saria, così conforme, assai men bella.</l>
+        <l n="23">Fra cotanto dolore</l>
+        <l n="24">Quanto <app><lem wit="#F31">a l’umana</lem><rdg wit="#B24 #B26 #N35 #R18">All’ umana</rdg></app> età propose il fato,</l>
+        <l n="25">Se vera e quale il mio pensier ti pinge,</l>
+        <l n="26">Alcun t’amasse in terra, a lui pur <app><lem wit="#F31">fòra</lem><rdg wit="#B24 #B26 #N35 #R18">fora</rdg></app></l>
+        <l n="27">Questo viver beato:</l>
+        <l n="28">E ben chiaro vegg’io siccome ancora</l>
+        <l n="29">Seguir <app><lem wit="#F31">lòda</lem><rdg wit="#B24 #B26 #N35 #R18">loda</rdg></app> e virtù qual ne’ prim’anni</l>
+        <l n="30">L’amor tuo mi farebbe. Or non aggiunse</l>
+        <l n="31">Il ciel nullo conforto <app><lem wit="#F31">a i</lem><rdg wit="#B24 #B26 #N35 #R18">Ai nostri</rdg></app> nostri affanni;</l>
+        <l n="32">E teco la mortal vita saria</l>
+        <l n="33">Simile a quella che nel cielo <app><lem wit="#F31">indìa</lem><rdg wit="#B24 #B26 #N35 #R18">india</rdg></app>.</l>
+        <l n="34">Per le valli, ove suona</l>
+        <l n="35">Del faticoso agricoltore il canto,</l>
+        <l n="36">Ed io seggo e mi lagno</l>
+        <l n="37">Del giovanile error che m’abbandona;</l>
+        <l n="38">E per li poggi, ov’io rimembro e piagno</l>
+        <l n="39">I perduti desiri, e la perduta</l>
+        <l n="40">Speme de’ giorni miei; di te pensando,</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

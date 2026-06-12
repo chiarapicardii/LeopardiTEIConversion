@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>VIII. INNO AI PATRIARCHI, O DE’ PRINCIPII DEL GENERE UMANO</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoding and conversion by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>LeopardiTEIConversion project</publisher>
+          <date when="2026">2026</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <title>Wikileopardi</title>
+            <date>2020</date>
+            <note>Corpus of Canti extracted from Wikileopardi's platform.</note>
+          </bibl>
+        <listWit>
+          <witness xml:id="B24">B24</witness>
+          <witness xml:id="B26">B26</witness>
+          <witness xml:id="F31">F31</witness>
+          <witness xml:id="N35">N35</witness>
+          <witness xml:id="R18">R18</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <projectDesc>
+            <p>This project aims at standardizing the text and critical apparatus of Leopardi's Canti.</p>
+        </projectDesc>
+      </encodingDesc>
+    </teiHeader>
+
+  <facsimile>
+    <surface xml:id="F31075">
+      <graphic url="./assets/img/F31075.JPG"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="poem" xml:id="f31_viii_inno_ai_patriarchi_o_de_principii_del_genere_umano_p_75">
+        <pb n="75" facs="#F31075"/>
+                <head>VIII. INNO AI PATRIARCHI, O DE’ PRINCIPII DEL GENERE UMANO</head>
+        <lg>
+<l n="37">Al gener tuo, padre infelice, e quale</l>
+        <l n="38">D’amarissimi casi ordine immenso</l>
+        <l n="39">Preparano i <app><lem wit="#F31">destini.</lem><rdg wit="#B24 #B26 #N35 #R18">destini!</rdg></app> Ecco di sangue</l>
+        <l n="40">Gli avari <app><lem wit="#F31">còlti</lem><rdg wit="#B24 #B26 #N35 #R18">colti</rdg></app> e di fraterno scempio</l>
+        <l n="41">Furor novello incesta, e le nefande</l>
+        <l n="42">Ali di morte il divo etere impara.</l>
+        <l n="43">Trepido, errante il <app><lem wit="#F31">fratricida</lem><rdg wit="#B24 #B26 #N35 #R18">fraticida</rdg></app>, e l’ombre</l>
+        <l n="43">Solitarie fuggendo e la secreta</l>
+        <l n="44"><app><lem wit="#F31">Ne le</lem><rdg wit="#B24 #B26 #N35 #R18">nelle profonde</rdg></app> profonde selve ira de’ venti,</l>
+        <l n="45">Primo i civili tetti, albergo e regno</l>
+        <l n="46"><app><lem wit="#F31">A le</lem><rdg wit="#B24 #B26 #N35 #R18">alle macere</rdg></app> macere cure, innalza ; e primo</l>
+        <l n="47">Il disperato pentimento i ciechi</l>
+        <l n="48">Mortali egro, anelante, aduna e stringe</l>
+        <l n="49">Ne’ consorti ricetti: onde negata</l>
+        <l n="50">L’improba mano al curvo aratro, e vili</l>
+        <l n="51">Fur gli agresti sudori; ozio le soglie</l>
+        <l n="52"><app><lem wit="#F31">Scelerate</lem><rdg wit="#B24 #B26 #N35 #R18">scellerate</rdg></app> occupò; ne’ corpi inerti</l>
+        <l n="53">Domo il vigor natio, languide, ignave</l>
+        <l n="54">Giacquer le menti; e servitù le imbelli</l>
+        <l n="55">Umane vite, ultimo danno, accolse.</l>
+        <l n="56">E tu <app><lem wit="#F31">da l’etra</lem><rdg wit="#B24 #B26 #N35 #R18">Dall’etra</rdg></app> infesto e dal mugghiante</l>
+        <l n="57">Su i nubiferi gioghi equoreo flutto</l>
+        <l n="58">Scampi l’iniquo germe, o tu cui prima</l>
+        <l n="59"><app><lem wit="#F31">Da l’aer</lem><rdg wit="#B24 #B26 #N35 #R18">Dall’aer</rdg></app> cieco e da’ natanti poggi</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

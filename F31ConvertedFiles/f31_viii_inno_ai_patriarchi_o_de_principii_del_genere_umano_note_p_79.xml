@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>VIII. INNO AI PATRIARCHI, O DE’ PRINCIPII DEL GENERE UMANO (NOTE.)</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoding and conversion by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>LeopardiTEIConversion project</publisher>
+          <date when="2026">2026</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <title>Wikileopardi</title>
+            <date>2020</date>
+            <note>Corpus of Canti extracted from Wikileopardi's platform.</note>
+          </bibl>
+        <listWit>
+          <witness xml:id="B24">B24</witness>
+          <witness xml:id="B26">B26</witness>
+          <witness xml:id="F31">F31</witness>
+          <witness xml:id="N35">N35</witness>
+          <witness xml:id="R18">R18</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <projectDesc>
+            <p>This project aims at standardizing the text and critical apparatus of Leopardi's Canti.</p>
+        </projectDesc>
+      </encodingDesc>
+    </teiHeader>
+
+  <facsimile>
+    <surface xml:id="F31079">
+      <graphic url="./assets/img/F31079.JPG"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="note" xml:id="f31_viii_inno_ai_patriarchi_o_de_principii_del_genere_umano_note_p_79" corresp="#f31_viii_inno_ai_patriarchi_o_de_principii_del_genere_umano_note">
+        <pb n="79" facs="#F31079"/>
+        <head>NOTA</head>
+                <p><hi rend="italic">Egressusque Cain a facie Domini,</hi> <hi rend="italic">habitavit profugus in terra ad orientalem</hi> <hi rend="italic">plagam Eden. Et aedificavit civitatem.</hi> <hi rend="italic">Genes. c. 4. vers. 16</hi>. “Non accade avvertire che la California sta nell’ultimo termine occidentale del continente. La nazione de’ Californii, per ciò che ne riferiscono i viaggiatori, vive con maggior naturalezza di quello che a noi paia, non dirò credibile, ma possibile nella specie umana. Quelli che s’affaticano di ridurre la detta gente alla vita sociale, non è dubbio che in processo di tempo verranno a capo di quest’impresa; ma si tiene per fermo che nessun’altra nazione dimostrasse di voler fare così poca riuscita nella scuola degli Europei.” <hi rend="italic">Dal</hi><hi rend="italic">l’edizione di Bologna.</hi></p>
+      </div>
+    </body>
+  </text>
+</TEI>

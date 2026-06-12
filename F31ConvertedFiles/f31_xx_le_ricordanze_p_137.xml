@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>XX.</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoding and conversion by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>LeopardiTEIConversion project</publisher>
+          <date when="2026">2026</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <title>Wikileopardi</title>
+            <date>2020</date>
+            <note>Corpus of Canti extracted from Wikileopardi's platform.</note>
+          </bibl>
+        <listWit>
+          <witness xml:id="B24">B24</witness>
+          <witness xml:id="B26">B26</witness>
+          <witness xml:id="F31">F31</witness>
+          <witness xml:id="N35">N35</witness>
+          <witness xml:id="R18">R18</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <projectDesc>
+            <p>This project aims at standardizing the text and critical apparatus of Leopardi's Canti.</p>
+        </projectDesc>
+      </encodingDesc>
+    </teiHeader>
+
+  <facsimile>
+    <surface xml:id="F31137">
+      <graphic url="./assets/img/F31137.JPG"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="poem" xml:id="f31_xx_le_ricordanze_p_137">
+        <pb n="137" facs="#F31137"/>
+                <head>XX. LE RICORDANZE.</head>
+        <lg>
+<l n="1">Vaghe stelle <app><lem wit="#F31">de l’</lem><rdg wit="#B24 #B26 #N35 #R18">dell’Orsa</rdg></app> Orsa, io non credea</l>
+        <l n="2">Tornare ancor per uso a contemplarvi</l>
+        <l n="3">Sul paterno giardino scintillanti,</l>
+        <l n="4">E ragionar con voi <app><lem wit="#F31">da le fenestre</lem><rdg wit="#B24 #B26 #N35 #R18">dalle finestre</rdg></app></l>
+        <l n="5">Di questo albergo ove abitai fanciullo,</l>
+        <l n="6">E <app><lem wit="#F31">de le</lem><rdg wit="#B24 #B26 #N35 #R18">delle gioie</rdg></app> gioie mie vidi la fine.</l>
+        <l n="7">Quante immagini un tempo, e quante fole</l>
+        <l n="8">Creommi nel pensier l’aspetto vostro</l>
+        <l n="9">E <app><lem wit="#F31">de le</lem><rdg wit="#B24 #B26 #N35 #R18">delle luci</rdg></app> luci a voi compagne! allora</l>
+        <l n="10">Che, tacito, seduto in verde zolla,</l>
+        <l n="11"><app><lem wit="#F31">De la sera</lem><rdg wit="#B24 #B26 #N35 #R18">Delle sere</rdg></app> io solea passar gran parte</l>
+        <l n="12">Mirando il cielo, ed ascoltando il canto</l>
+        <l n="13"><app><lem wit="#F31">De la</lem><rdg wit="#B24 #B26 #N35 #R18">Della rana</rdg></app> rana rimota <app><lem wit="#F31">a la</lem><rdg wit="#B24 #B26 #N35 #R18">alla campagna</rdg></app> campagna!</l>
+        <l n="14">E la lucciola errava appo le siepi</l>
+        <l n="15">E in su l’aiuole, susurrando al vento</l>
+        <l n="16">I viali odorati, ed i cipressi</l>
+        <l n="17">Là <app><lem wit="#F31">ne la</lem><rdg wit="#B24 #B26 #N35 #R18">nella selva</rdg></app> selva; e sotto al patrio tetto</l>
+        <l n="18">Sonavan voci alterne, e le tranquille</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>
