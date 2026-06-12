@@ -20,6 +20,8 @@ The pipeline of the project is structured into three sequential Python scripts d
 
 To guarantee transparency and data reusability, the detailed technical challenges encountered and their relative programmatic solutions are documented within the repository’s GitHub README file. Additionally, it is important to note that Large Language Models (Gemini, Claude) were used as coding assistants to navigate wiki-specific syntax and to ensure compliance of the XML structure with TEI guidelines, while all methodological and philological decisions remained strictly with the author.
 
+All the converted files are stored in the GitHub repository, available [here](https://github.com/chiarapicardii/LeopardiTEIConversion/tree/main/F31ConvertedFiles)
+
 ## Visualization
 While the primary focus of the project rested on automating the back-end conversion process, implementing a human-readable visualization layer was deemed essential to demonstrate the data's structural viability. The EVT (Edition Visualization Technology) viewer was selected because it processes TEI/XML files natively without requiring intermediate transformations, offering an immediate environment for interacting with the newly generated corpus.
 
