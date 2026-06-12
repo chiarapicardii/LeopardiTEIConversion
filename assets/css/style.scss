@@ -27,7 +27,9 @@ body {
   line-height: 1.8;
   background-color: var(--paper);
   font-size: 1.13rem;
-   width:900px; 
+  margin: 0;
+  padding: 0;
+  width: 100%; /* Lascia che il body occupi tutto lo schermo per mantenere lo sfondo unito */
 }
 
 /* 4. HEADER */
@@ -78,11 +80,12 @@ h1{
 
 /* 5. CORPO DEL TESTO */
 .main-content {
-  max-width: 100% !important; /* Rimuove il blocco stretto e usa tutto lo spazio disponibile */
-  padding: 2rem 4rem;          /* Aggiunge un bel margine elegante ai lati (destra e sinistra) */
-  font-size: 1.15rem;          /* Alza leggermente il font per proporzionarlo alla nuova larghezza */
+  width: 900px !important;     /* Forza la larghezza del blocco di testo esattamente a 900px */
+  max-width: 900px !important; /* Impedisce al tema di restringerlo */
+  margin: 0 auto !important;   /* Centra perfettamente il blocco da 900px al centro dello schermo */
+  padding: 3rem 2rem;          /* Spazio interno per dare respiro al testo */
+  font-size: 1.15rem;
 }
-
 /* 6. TITOLI DI SEZIONE */
 .main-content h2 {
   font-family: 'EB Garamond', Georgia, serif;
