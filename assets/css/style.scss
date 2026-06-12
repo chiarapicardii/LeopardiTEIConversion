@@ -7,55 +7,56 @@
    ========================================================================== */
 
 /* 1. IMPORT FONT */
-@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Instrument+Sans:wght@400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Instrument+Sans:wght@400;500;600;700&display=swap');
 
 /* 2. VARIABILI */
 :root {
   --bordeaux:      #6b1a20;
   --bordeaux-mid:  #8b2830;
   --bordeaux-soft: #f5eeed;
-  --ink:           #1e1e1e;
-  --muted:         #5a5a5a;
-  --rule:          #ddd5cc;
-  --paper:         #faf8f4;
+  --ink:            #1e1e1e;
+  --muted:          #5a5a5a;
+  --rule:           #ddd5cc;
+  --paper:          #faf8f4;
 }
 
-/* 3. BODY */
+/* 3. BODY & FONTS GRANTED */
 body {
-  font-family: 'Instrument Sans', system-ui, -apple-system, sans-serif; /* Forza il font SENZA GRAZIE su tutto il sito */
+  font-family: 'Lora', Georgia, 'Times New Roman', serif; /* SERIF PROFESSIONALE PER IL TESTO */
   color: var(--ink);
-  line-height: 1.6; /* Un'interlinea leggermente più stretta, perfetta per i font lineari */
+  line-height: 1.8;
   background-color: var(--paper);
-  font-size: 1.05rem; /* Adatta la dimensione per i font sans-serif */
+  font-size: 1.1rem;
   margin: 0;
   padding: 0;
   width: 100%;
 }
 
 /* 4. HEADER */
-/* Nasconde il titolo e la descrizione SOLO dentro la testata colorata */
 .page-header .project-title, 
 .page-header .project-tagline {
   display: none !important;
 }
 
-/* Rimpicciolisce la testata bordeaux facendola diventare una sottile fascia decorativa */
 .page-header {
   padding: 1.5rem 2rem;
 }
 
-/* Stile per il tuo H1 (quello con un solo #) che ora si vedrà SOLO nel testo bianco */
+/* Stile selettivo per il tuo H1 (quello con un solo #) nel testo */
 .main-content h1 {
-  color: #2c3e50; /* Un grigio scuro molto elegante */
-  font-family: "Georgia", serif;
-  font-size: 2.3rem;
-  margin-top: 1rem;
-  margin-bottom: 2rem;
-  line-height: 1.3;
+  display: block !important;
+  font-size: 2.4rem !important;
+  color: #2c3e50 !important;
+  font-family: 'Instrument Sans', system-ui, sans-serif !important; /* SAN SERIF */
+  font-weight: 700 !important;
+  margin-top: 1rem !important;
+  margin-bottom: 2.5rem !important;
+  line-height: 1.3 !important;
 }
 
-h1{
-   font-size: 0px;
+/* Rimuove l'azzeramento globale se presente */
+h1 {
+  font-size: inherit;
 }
 
 /* Bottoni header */
@@ -78,63 +79,75 @@ h1{
   border-color: rgba(255,255,255,0.6);
 }
 
-/* 5. CORPO DEL TESTO - Configurazione Piena Larghezza (900px) */
+/* ==========================================================================
+   5. ABBATTIMENTO VINCOLI DI LARGHEZZA (FORZATURA A 900PX)
+   ========================================================================== */
 .main-content {
-  width: 900px !important;       /* Forza la larghezza esatta a 900px */
-  max-width: 900px !important;   /* Sovrascrive il tema Cayman */
-  margin: 0 auto !important;     /* Centra il blocco nello schermo */
-  padding: 2rem 0rem !important; /* Rimuove i padding laterali interni per distendere il testo */
-  box-sizing: border-box;
+  width: 900px !important;
+  max-width: 900px !important;
+  min-width: 900px !important; /* Impedisce qualsiasi restrizione */
+  margin: 0 auto !important;   /* Centra l'intero blocco sullo schermo */
+  padding: 3rem 0rem !important; /* Resetta i padding che stringevano le spalle del testo */
+  box-sizing: border-box !important;
 }
 
-/* 6. TITOLI DI SEZIONE */
+/* Forza l'espansione di tutti i sotto-elementi del tema Cayman */
+.main-content p, 
+.main-content ul, 
+.main-content ol, 
+.main-content blockquote, 
+.main-content hr,
+.main-content h2,
+.main-content h3 {
+  width: 100% !important;
+  max-width: 100% !important;
+  box-sizing: border-box !important;
+}
+
+/* 6. TITOLI DI SEZIONE (SANS SERIF) */
 .main-content h2 {
-  font-family: 'Instrument Sans', system-ui, sans-serif; /* Senza grazie anche per i titoli grandi */
+  font-family: 'Instrument Sans', system-ui, sans-serif !important; /* SAN SERIF */
   font-weight: 600;
-  font-size: 1.6rem;
+  font-size: 1.65rem;
   color: var(--bordeaux);
   border-bottom: 1px solid var(--rule);
   padding-bottom: 0.4rem;
-  margin-top: 3rem;
+  margin-top: 3.5rem;
   margin-bottom: 1.2rem;
-  letter-spacing: -0.02em;
-}
-/* Etichetta numerica discreta sopra ogni H2 */
-.main-content h2::before {
-  display: block;
-  font-family: 'Instrument Sans', system-ui, sans-serif;
-  font-size: 0.68rem;
-  font-weight: 600;
-  letter-spacing: 0.14em;
-  text-transform: uppercase;
-  color: var(--bordeaux-mid);
-  opacity: 0.7;
-  margin-bottom: 0.3rem;
-  content: '';
+  letter-spacing: -0.01em;
 }
 
 .main-content h3 {
-  font-family: 'Instrument Sans', system-ui, sans-serif;
-  font-size: 0.88rem;
+  font-family: 'Instrument Sans', system-ui, sans-serif !important; /* SAN SERIF */
+  font-size: 0.9rem;
   font-weight: 600;
   letter-spacing: 0.08em;
   text-transform: uppercase;
   color: var(--bordeaux-mid);
-  margin-top: 2rem;
+  margin-top: 2.2rem;
   margin-bottom: 0.6rem;
 }
 
-/* 7. LISTE — i tre progetti e i tre script */
+/* 7. PARAGRAFI (SERIF PROFESSIONALE) */
+.main-content p {
+  font-family: 'Lora', Georgia, serif !important;
+  margin-bottom: 1.4rem;
+  font-size: 1.12rem;
+}
+
+/* 8. LISTE */
 .main-content ul {
   padding-left: 0;
   list-style: none;
 }
 
 .main-content ul li {
-  padding: 1rem 1.2rem;
+  font-family: 'Lora', Georgia, serif !important;
+  padding: 1.2rem 1.5rem;
   border-left: 3px solid var(--rule);
-  margin-bottom: 0.8rem;
+  margin-bottom: 0.9rem;
   background: #fff;
+  font-size: 1.1rem;
   transition: border-color 0.2s;
 }
 
@@ -142,43 +155,35 @@ h1{
   border-left-color: var(--bordeaux-mid);
 }
 
-/* Liste ordinate (i 3 script della Methodology) */
 .main-content ol {
   padding-left: 1.5rem;
 }
 
 .main-content ol li {
-  margin-bottom: 0.7rem;
+  font-family: 'Lora', Georgia, serif !important;
+  margin-bottom: 0.8rem;
   padding-left: 0.4rem;
+  font-size: 1.1rem;
 }
 
 .main-content ol li strong {
-  font-family: 'Instrument Sans', system-ui, sans-serif;
-  font-size: 0.88rem;
+  font-family: 'Instrument Sans', system-ui, sans-serif !important; /* Evidenziatore in Sans */
+  font-size: 0.85rem;
   font-weight: 600;
   text-transform: uppercase;
   letter-spacing: 0.05em;
   color: var(--bordeaux);
 }
 
-/* 8. PARAGRAFI */
-.main-content p {
-  margin-bottom: 1.3rem;
-  max-width: 100%;            /* Permette ai paragrafi di distendersi liberamente */
-}
-
 /* 9. CITAZIONI / BLOCKQUOTE */
 blockquote {
-  border-left: 3px solid var(--bordeaux-mid);
-  background-color: var(--bordeaux-soft);
+  border-left: 3px solid var(--bordeaux-mid) !important;
+  background-color: var(--bordeaux-soft) !important;
   color: var(--muted);
   font-style: italic;
-  padding: 0.8rem 1.2rem;
-  margin: 1.5rem 0;
-  border-radius: 0 2px 2px 0;
+  padding: 1rem 1.5rem !important;
+  margin: 1.8rem 0 !important;
 }
-
-blockquote p { margin: 0; }
 
 /* 10. LINK */
 .main-content a {
@@ -195,59 +200,30 @@ blockquote p { margin: 0; }
 
 /* 11. NOTE A PIÈ DI PAGINA */
 .footnotes {
-  font-family: 'Instrument Sans', system-ui, sans-serif;
+  font-family: 'Instrument Sans', system-ui, sans-serif !important;
   font-size: 0.82rem;
   color: var(--muted);
   border-top: 2px solid var(--bordeaux);
   margin-top: 4rem;
   padding-top: 1.5rem;
-  line-height: 1.6;
 }
-
-.footnotes ol { padding-left: 1.5rem; }
-.footnotes li { margin-bottom: 0.6rem; }
 
 .footnote-backref {
   color: var(--bordeaux-mid);
-  text-decoration: none;
   font-weight: 700;
-  margin-left: 0.3rem;
 }
 
-.footnote-backref:hover { text-decoration: underline; }
-
-/* Ancora delle note nel testo */
 .footnote {
-  font-family: 'Instrument Sans', system-ui, sans-serif;
-  font-size: 0.7rem;
+  font-family: 'Instrument Sans', system-ui, sans-serif !important;
+  font-size: 0.72rem;
   vertical-align: super;
   color: var(--bordeaux-mid);
   font-weight: 600;
-  text-decoration: none;
-  margin-left: 1px;
 }
 
 /* 12. SEPARATORE ORIZZONTALE */
 hr {
   border: none;
   border-top: 1px solid var(--rule);
-  margin: 3rem 0;
-}
-
-/* 13. GRASSETTO NEL TESTO */
-.main-content strong {
-  font-weight: 600;
-  color: var(--ink);
-}
-
-/* 14. CORSIVO (titoli opere) */
-.main-content em {
-  font-style: italic;
-}
-
-/* 15. RESPONSIVE */
-@media (max-width: 600px) {
-  .project-title { font-size: 1.6rem; }
-  .main-content { font-size: 1rem; }
-  .main-content h2 { font-size: 1.45rem; }
+  margin: 3.5rem 0;
 }
