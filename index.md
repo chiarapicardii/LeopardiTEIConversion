@@ -1,5 +1,3 @@
-# From WikiLeopardi to XML/TEI: a scholarly documentation
-
 ## State of the Art
 As illustrated by Italia and Priore (2021), Leopardi’s literary corpora serve as an exemplar case study to explore the various possibilities offered by digital scholarly editions. The variety of his production, the multiplicity of variants and the amount of documentation by the author itself provide an excellent ground to investigate different scholarly approaches. 
 
