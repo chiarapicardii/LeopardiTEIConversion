@@ -49,14 +49,8 @@ body {
 /* Stile selettivo per il tuo H1 (quello con un solo #) nel testo */
 
 h1{
-   font-size: 0px;
+   font-size: 0px; !important
 }
-
-/* Rimuove l'azzeramento globale se presente */
-h1 {
-  font-size: inherit;
-}
-
 /* Bottoni header */
 .btn {
   font-family: 'Instrument Sans', system-ui, sans-serif;
