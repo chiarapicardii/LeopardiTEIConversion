@@ -18,7 +18,9 @@ The pipeline of the project is structured into three sequential Python scripts d
 2. [**Pre-cleaning**](https://github.com/chiarapicardii/LeopardiTEIConversion/blob/main/scripts/cleaning.py): The second script isolates and normalizes most of the anomalies of MediaWiki’s syntax, significantly simplifying the complexity of the core conversion script.
 3. [**TEI Conversion**](https://github.com/chiarapicardii/LeopardiTEIConversion/blob/main/scripts/teiconversion.py): The main script transforms the pre-processed wiki components into compliant XML/TEI elements and attributes.
 
-To guarantee transparency and data reusability, the detailed technical challenges encountered and their relative programmatic solutions are documented within the repository’s GitHub README file. Additionally, it is important to note that Large Language Models (Gemini, Claude) were used as coding assistants to navigate wiki-specific syntax and to ensure compliance of the XML structure with TEI guidelines, while all methodological and philological decisions remained strictly with the author.
+To guarantee transparency and data reusability, the detailed technical challenges encountered and their relative programmatic solutions are documented within the repository’s GitHub README file. 
+
+Additionally, it is important to note that Large Language Models (Gemini, Claude) were used as coding assistants to navigate wiki-specific syntax and to ensure compliance of the XML structure with TEI guidelines, while all methodological and philological decisions remained strictly with the author.
 
 All the converted files are stored in the GitHub repository, available [here](https://github.com/chiarapicardii/LeopardiTEIConversion/tree/main/F31ConvertedFiles)
 
