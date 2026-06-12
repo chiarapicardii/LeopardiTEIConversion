@@ -33,8 +33,8 @@ The EVT is available here: [EVT visualization of 1831 _Canti_](https://chiarapic
 Finally, it is necessary to acknowledge one significant philological limitation inherited from the source dataset. WikiLeopardi’s original syntax does not systematically mandate the explicit declaration of the witness associated with each textual variant, leaving a substantial portion of the apparatus without any explicit witness attribution. This represents a critical gap for the construction of a robust scholarly edition. The conversion pipeline addresses both the explicit and the missing cases by programmatically assigning variants to all potential witnesses when an attribution is absent. While this automated fallback preserves the data schema, it still requires a subsequent phase of manual review to guarantee full philological authoritativeness.
 
 ## References
-* Italia, P., & Priore, R. (2021). Leopardi: Wiki Leopardi, Leopardi Ecdosys, Leopardi 3D. *Griseldaonline*, 20(2), 65–75. https://doi.org/10.6092/issn.1721-4777/12420
-* Italia, P., & Tomasi, F. (Eds.). (2019). *Leggo Manzoni*. Università di Bologna, DH.arc. https://projects.dharc.unibo.it/leggomanzoni/
+* Italia, P., & Priore, R. (2021). Leopardi: Wiki Leopardi, Leopardi Ecdosys, Leopardi 3D. *Griseldaonline*, 20(2), 65–75. [https://doi.org/10.6092/issn.1721-4777/12420]
+* Italia, P., & Tomasi, F. (Eds.). (2019). *Leggo Manzoni*. Università di Bologna, DH.arc. [https://projects.dharc.unibo.it/leggomanzoni/](https://projects.dharc.unibo.it/leggomanzoni/)
 * Italia, P. (Ed.). (2019). *Leopardi Ecdosys: Edizione genetica digitale del Quaderno napoletano degli Idilli*. https://leopardi.ecdosys.org/it/Home/
 * Sahle, P. (2016). What is a scholarly digital edition?. In M. J. Driscoll & E. Pierazzo (eds.), *Digital Scholarly Editing: Theories, Models and Methods* (pp. 19–39). Open Book Publishers. https://doi.org/10.11647/OBP.0095.02
 * University of Bologna. (2026). *Manoscritti digitali: Leopardi3D*. Alma Mater Studiorum. https://site.unibo.it/manoscrittidigitali/it/progetti/leopardi-3d
@@ -42,7 +42,7 @@ Finally, it is necessary to acknowledge one significant philological limitation 
 
 ---
 
-[^1]: http://wikileopardi.altervista.org/wiki_leopardi/index.php?title=Wiki_Leopardi&oldid=18631
-[^2]: https://leopardi.ecdosys.org/it/Home/
-[^3]: https://site.unibo.it/manoscrittidigitali/it/progetti/leopardi-3d
-[^4]: https://projects.dharc.unibo.it/leggomanzoni/
+[^1]: [http://wikileopardi.altervista.org/wiki_leopardi/index.php?title=Wiki_Leopardi&oldid=18631](http://wikileopardi.altervista.org/wiki_leopardi/index.php?title=Wiki_Leopardi&oldid=18631)
+[^2]: [https://leopardi.ecdosys.org/it/Home/](https://leopardi.ecdosys.org/it/Home/)
+[^3]: [https://site.unibo.it/manoscrittidigitali/it/progetti/leopardi-3d](https://site.unibo.it/manoscrittidigitali/it/progetti/leopardi-3d)
+[^4]: [https://projects.dharc.unibo.it/leggomanzoni/](https://projects.dharc.unibo.it/leggomanzoni/)
