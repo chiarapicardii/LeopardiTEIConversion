@@ -10,17 +10,18 @@ Aimed at contribuiting to the standardization and interoperability of digital sc
 The codebase is organized into modular scripts to ensure systematic error-checking at each processing layer:
 
 ```text
-├── _config.yml               # Jekyll configuration for GitHub Pages
-├── index.md                  # Scholarly and methodological report
-├── README.md                 # Technical documentation
-├── corpus_F31.json           # Raw extracted corpus data (1831 Florentine print)
-├── clean_corpus.json         # Intermediate normalized JSON corpus
-├── scripts/                  # Data migration pipeline
-│   ├── LeopardiParsing.py    # Node 1: Data Extraction API
-│   ├── cleaning.py           # Node 2: Syntactical Normalization
-│   └── teiconversion.py      # Node 3: XML/TEI Semantic Mapping
-
-├── F31ConvertedFiles/        # Converted files, pipeline output
+├── _config.yml                   # Jekyll configuration for GitHub Pages
+├── index.md                      # Scholarly and methodological report
+├── TechnicalDocumentation.md     # Documentation of the main issues in building the teiconversion.py
+├── README.md                     # Technical documentation
+├── corpus_F31.json               # Raw extracted corpus data (1831 Florentine print)
+├── clean_corpus.json             # Intermediate normalized JSON corpus
+├── scripts/                      # Data migration pipeline
+│   ├── LeopardiParsing.py        # Node 1: Data Extraction API
+│   ├── cleaning.py               # Node 2: Syntactical Normalization
+│   └── teiconversion.py          # Node 3: XML/TEI Semantic Mapping
+    
+├── F31ConvertedFiles/            # Converted files, pipeline output
 │   └── [Converted XML/TEI files of Leopardi's Canti]
 
 └── assets/
