@@ -10,9 +10,9 @@ This document details the main technical choices, problems encountered, and func
 |:--|:-----|:-------------|:-----------|
 | 1 | Global witness dictionary | `run_all()` | `<listWit>` fallback across corpus |
 | 2 | Title apparatus | `extract_structured_title()` | `<head><app>…</app></head>` |
-| 3 | Critical Apparatus handling | `replace_wit()` | `<app><lem><rdg>` elements |
-| 4 | Prose and Poetry division | `encode_div()` | `<div type="poem,note,letter">` |
-| 5 | Metric Encoding | `encode_verses()` | `<l n="N">` within `<lg>` |
+| 3 | Critical apparatus handling | `replace_wit()` | `<app><lem><rdg>` elements |
+| 4 | Prose and poetry division | `encode_div()` | `<div type="poem,note,letter">` |
+| 5 | Metric encoding | `encode_verses()` | `<l n="N">` within `<lg>` |
 
 ---
 
@@ -208,8 +208,12 @@ formatted_lines.append(f'        <l{n_attribute}>{verse}</l>')
 ```
 
 Metrically indented lines preserve `rend="indent"` as a TEI attribute, which was already processed in the text through the pre-processing script. 
+```python
+processed_text = re.sub(r"\s*(?:&nbsp;)+\s*", 'rend="indent" ', processed_text)
+#some &nbsp are used as a deeper indentation, so they are alreadly converted in the TEI syntax
 
+```
 ---
 
 *Scripts and data are openly available under CC BY 4.0.*  
-*Encoded by Chiara Picardi — University of Bologna, 2025–26.*
+*Encoded by Chiara Picardi. University of Bologna, a. y. 2025–26.*
