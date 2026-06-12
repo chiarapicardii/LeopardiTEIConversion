@@ -30,25 +30,25 @@ body {
 }
 
 /* 4. HEADER */
+/* Nasconde il titolo e la descrizione SOLO dentro la testata colorata */
+.page-header .project-title, 
+.page-header .project-tagline {
+  display: none !important;
+}
+
+/* Rimpicciolisce la testata bordeaux facendola diventare una sottile fascia decorativa */
 .page-header {
-  background-image: linear-gradient(150deg, #4a1018 0%, #7a2030 60%, #9b3a42 100%);
-  padding: 4rem 2rem 3rem;
+  padding: 1.5rem 2rem;
 }
 
-.project-title {
-  font-family: 'EB Garamond', Georgia, serif;
-  font-weight: 500;
-  font-size: clamp(1.8rem, 4vw, 2.6rem);
-  line-height: 1.25;
-  letter-spacing: -0.01em;
-}
-
-.project-tagline {
-  font-family: 'EB Garamond', Georgia, serif;
-  font-style: italic;
-  opacity: 0.88;
-  font-size: 1.15rem;
-  margin-top: 0.5rem;
+/* Stile per il tuo H1 (quello con un solo #) che ora si vedrà SOLO nel testo bianco */
+.main-content h1 {
+  color: #2c3e50; /* Un grigio scuro molto elegante */
+  font-family: "Georgia", serif;
+  font-size: 2.3rem;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+  line-height: 1.3;
 }
 
 /* Bottoni header */
