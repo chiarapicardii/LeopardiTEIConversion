@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>XV. LA VITA SOLITARIA.</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoding and conversion by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>LeopardiTEIConversion project</publisher>
+          <date when="2026">2026</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <title>Wikileopardi</title>
+            <date>2020</date>
+            <note>Corpus of Canti extracted from Wikileopardi's platform.</note>
+          </bibl>
+        <listWit>
+          <witness xml:id="B24">B24</witness>
+          <witness xml:id="B26">B26</witness>
+          <witness xml:id="F31">F31</witness>
+          <witness xml:id="N35">N35</witness>
+          <witness xml:id="R18">R18</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <projectDesc>
+            <p>This project aims at standardizing the text and critical apparatus of Leopardi's Canti.</p>
+        </projectDesc>
+      </encodingDesc>
+    </teiHeader>
+
+  <facsimile>
+    <surface xml:id="F31108">
+      <graphic url="./assets/img/F31108.JPG"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="poem" xml:id="f31_xv_la_vita_solitaria_p_108">
+        <pb n="108" facs="#F31108"/>
+                <head>XV. LA VITA SOLITARIA.</head>
+        <lg>
+<l n="69">Ogni moto soave al petto mio.</l>
+        <l n="70">O cara luna, al cui tranquillo raggio</l>
+        <l n="71">Danzan le lepri <app><lem wit="#F31">ne le</lem><rdg wit="#B24 #B26 #N35 #R18">nelle selve</rdg></app> selve; e duolsi</l>
+        <l n="72"><app><lem wit="#F31">A la</lem><rdg wit="#B24 #B26 #N35 #R18">Alla mattina</rdg></app> mattina il cacciator, che trova</l>
+        <l n="73">L’orme intricate e false, e <app><lem wit="#F31">da i</lem><rdg wit="#B24 #B26 #N35 #R18">dai covili</rdg></app> covili</l>
+        <l n="74">Error vario lo svia; salve, o benigna</l>
+        <l n="75"><app><lem wit="#F31">De le</lem><rdg wit="#B24 #B26 #N35 #R18">Delle notti</rdg></app> notti reina. Infesto scende</l>
+        <l n="76">Il raggio tuo fra macchie e balze o dentro</l>
+        <l n="77">A deserti edifici, in su l’acciaro</l>
+        <l n="78">Del pallido ladron <app><lem wit="#F31">ch’a</lem><rdg wit="#B24 #B26 #N35 #R18">Ch’a</rdg></app> teso orecchio</l>
+        <l n="79">Il fragor <app><lem wit="#F31">de le</lem><rdg wit="#B24 #B26 #N35 #R18">delle rote e</rdg></app> rote e de’ cavalli</l>
+        <l n="80">Da lungi osserva o il calpestio de’ piedi</l>
+        <l n="81">Su la tacita via; poscia improvviso</l>
+        <l n="82">Col suon <app><lem wit="#F31">de l’armi</lem><rdg wit="#B24 #B26 #N35 #R18">dell’armi</rdg></app> e con la rauca voce</l>
+        <l n="83">E col funereo ceffo il core agghiaccia</l>
+        <l n="84">Al passegger, cui semivivo e nudo</l>
+        <l n="85">Lascia in breve tra’ sassi. Infesto occorre</l>
+        <l n="86">Per le contrade cittadine il bianco</l>
+        <l n="87">Tuo lume al drudo <app><lem wit="#F31">vil</lem><rdg wit="#B24 #B26 #N35 #R18">vil,</rdg></app> che de gli alberghi</l>
+        <l n="88">Va radendo le mura e la secreta</l>
+        <l n="89">Ombra seguendo, e resta, e si spaura</l>
+        <l n="90"><app><lem wit="#F31">De le</lem><rdg wit="#B24 #B26 #N35 #R18">Delle ardenti</rdg></app> ardenti lucerne e <app><lem wit="#F31">de gli</lem><rdg wit="#B24 #B26 #N35 #R18">degli aperti</rdg></app> aperti</l>
+        <l n="91">Balconi. Infesto <app><lem wit="#F31">a le</lem><rdg wit="#B24 #B26 #N35 #R18">alle malvage</rdg></app> malvage menti,</l>
+        <l n="92">A me sempre benigno il tuo cospetto</l>
+        <l n="93">Sarà per queste piagge, ove non altro </poem></l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

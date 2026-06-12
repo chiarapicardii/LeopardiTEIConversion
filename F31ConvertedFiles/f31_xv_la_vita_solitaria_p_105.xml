@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>XV.</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoding and conversion by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>LeopardiTEIConversion project</publisher>
+          <date when="2026">2026</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <title>Wikileopardi</title>
+            <date>2020</date>
+            <note>Corpus of Canti extracted from Wikileopardi's platform.</note>
+          </bibl>
+        <listWit>
+          <witness xml:id="B24">B24</witness>
+          <witness xml:id="B26">B26</witness>
+          <witness xml:id="F31">F31</witness>
+          <witness xml:id="N35">N35</witness>
+          <witness xml:id="R18">R18</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <projectDesc>
+            <p>This project aims at standardizing the text and critical apparatus of Leopardi's Canti.</p>
+        </projectDesc>
+      </encodingDesc>
+    </teiHeader>
+
+  <facsimile>
+    <surface xml:id="F31105">
+      <graphic url="./assets/img/F31105.JPG"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="poem" xml:id="f31_xv_la_vita_solitaria_p_105">
+        <pb n="105" facs="#F31105"/>
+                <head>XV. LA VITA SOLITARIA.</head>
+        <lg>
+<l n="1">La mattutina pioggia, allor che l’ale</l>
+        <l n="2">Battendo esulta <app><lem wit="#F31">ne la</lem><rdg wit="#B24 #B26 #N35 #R18">nella chiusa</rdg></app> chiusa stanza</l>
+        <l n="3">La gallinella, ed al balcon s’affaccia</l>
+        <l n="4">L’abitator de’ campi, e il <app><lem wit="#F31">Sol</lem><rdg wit="#B24 #B26 #N35 #R18">Sol che</rdg></app> che nasce</l>
+        <l n="5">I suoi tremuli rai fra le cadenti</l>
+        <l n="6">Stille <app><lem wit="#F31">tramanda, a la</lem><rdg wit="#B24 #B26 #N35 #R18">saetta, alla</rdg></app> capanna mia</l>
+        <l n="7">Dolcemente picchiando, mi risveglia;</l>
+        <l n="8">E sorgo, e i lievi nugoletti, e <app><lem wit="#F31">’l</lem><rdg wit="#B24 #B26 #N35 #R18">il primo</rdg></app> primo</l>
+        <l n="9"><app><lem wit="#F31">De gli</lem><rdg wit="#B24 #B26 #N35 #R18">Degli augelli</rdg></app> augelli susurro, e l’aura fresca,</l>
+        <l n="10">E le ridenti piagge <app><lem wit="#F31">benedico;</lem><rdg wit="#B24 #B26 #N35 #R18">benedico:</rdg></app></l>
+        <l n="11">Poichè voi, cittadine infauste mura,</l>
+        <l n="12">Vidi e conobbi assai, <app><lem wit="#F31">dove si prende</lem><rdg wit="#B24 #B26 #N35 #R18">là dove segue</rdg></app></l>
+        <l n="13"><app><lem wit="#F31">Lo sventurato a scherno; e sventurato</lem><rdg wit="#B24 #B26 #N35 #R18">Odio al dolor compagno; e doloroso</rdg></app></l>
+        <l n="14">Io vivo, e tal morrò, deh tosto! Alcuna</l>
+        <l n="15">Benchè scarsa pietà pur mi <app><lem wit="#F31">concede</lem><rdg wit="#B24 #B26 #N35 #R18">dimostra</rdg></app></l>
+        <l n="16">Natura in questi lochi, un giorno oh quanto</l>
+        <l n="17">Verso me più <app><lem wit="#F31">cortese.</lem><rdg wit="#B24 #B26 #N35 #R18">cortese!</rdg></app> E tu pur <app><lem wit="#F31">volgi</lem><rdg wit="#B24 #B26 #N35 #R18">volgi Dai miseri lo sguardo; e tu, sdegnando</rdg></app></l>
+        <l n="18"><app><lem wit="#F31">Da i miseri lo sguardo; e tu, sdegnando</lem><rdg wit="#B24 #B26 #N35 #R18">volgi Dai miseri lo sguardo; e tu, sdegnando</rdg></app> </poem></l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

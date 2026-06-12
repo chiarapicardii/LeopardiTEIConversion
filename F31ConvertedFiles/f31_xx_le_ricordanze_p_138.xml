@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>XX. LE RICORDANZE.</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoding and conversion by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>LeopardiTEIConversion project</publisher>
+          <date when="2026">2026</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <title>Wikileopardi</title>
+            <date>2020</date>
+            <note>Corpus of Canti extracted from Wikileopardi's platform.</note>
+          </bibl>
+        <listWit>
+          <witness xml:id="B24">B24</witness>
+          <witness xml:id="B26">B26</witness>
+          <witness xml:id="F31">F31</witness>
+          <witness xml:id="N35">N35</witness>
+          <witness xml:id="R18">R18</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <projectDesc>
+            <p>This project aims at standardizing the text and critical apparatus of Leopardi's Canti.</p>
+        </projectDesc>
+      </encodingDesc>
+    </teiHeader>
+
+  <facsimile>
+    <surface xml:id="F31138">
+      <graphic url="./assets/img/F31138.JPG"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="poem" xml:id="f31_xx_le_ricordanze_p_138">
+        <pb n="138" facs="#F31138"/>
+                <head>XX. LE RICORDANZE.</head>
+        <lg>
+<l n="19">Opre de’ servi. E che pensieri immensi,</l>
+        <l n="20">Che dolci sogni mi spirò la vista</l>
+        <l n="21">Di quel lontano mar, quei monti azzurri,</l>
+        <l n="22">Che di qua scopro, e che varcare un giorno</l>
+        <l n="23">Io mi pensava, arcani mondi, arcana</l>
+        <l n="24">Felicità fingendo al viver mio!</l>
+        <l n="25">Ignaro del mio fato, e quante volte</l>
+        <l n="26">Questa mia vita dolorosa e nuda</l>
+        <l n="27">Volentier con la morte avrei cangiato.</l>
+        <l n="28">Nè mi diceva il cor che l’età verde</l>
+        <l n="29">Sarei dannato a consumare in questo</l>
+        <l n="30">Natio borgo selvaggio, intra una gente</l>
+        <l n="31">Zotica, vil; cui nomi strani, e spesso</l>
+        <l n="32">Argomento di riso e di trastullo,</l>
+        <l n="33">Son dottrina e saper; che m’odia e fugge,</l>
+        <l n="34">Per invidia non già, <app><lem wit="#F31">chè</lem><rdg wit="#B24 #B26 #N35 #R18">che non mi tiene</rdg></app> non mi tiene</l>
+        <l n="35">Maggior di se, ma perchè tale estima</l>
+        <l n="36">Ch’io mi tenga in cor mio, sebben di fuori</l>
+        <l n="37">A persona giammai non ne fo segno.</l>
+        <l n="38">Qui passo gli anni, abbandonato, occulto,</l>
+        <l n="39">Senz’amor, senza vita; ed aspro a forza</l>
+        <l n="40">Tra lo stuol de’ malevoli divengo:</l>
+        <l n="41">Qui di pietà mi spoglio e di virtudi,</l>
+        <l n="42">E sprezzator <app><lem wit="#F31">de gli</lem><rdg wit="#B24 #B26 #N35 #R18">degli uomini</rdg></app> uomini mi rendo,</l>
+        <l n="43">Per la greggia ch’ho appresso: e intanto vola </poem></l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

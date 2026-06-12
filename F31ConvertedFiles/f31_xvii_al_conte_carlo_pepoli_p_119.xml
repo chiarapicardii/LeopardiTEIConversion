@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>XVII. AL CONTE CARLO PEPOLI.</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoding and conversion by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>LeopardiTEIConversion project</publisher>
+          <date when="2026">2026</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <title>Wikileopardi</title>
+            <date>2020</date>
+            <note>Corpus of Canti extracted from Wikileopardi's platform.</note>
+          </bibl>
+        <listWit>
+          <witness xml:id="B24">B24</witness>
+          <witness xml:id="B26">B26</witness>
+          <witness xml:id="F31">F31</witness>
+          <witness xml:id="N35">N35</witness>
+          <witness xml:id="R18">R18</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <projectDesc>
+            <p>This project aims at standardizing the text and critical apparatus of Leopardi's Canti.</p>
+        </projectDesc>
+      </encodingDesc>
+    </teiHeader>
+
+  <facsimile>
+    <surface xml:id="F31119">
+      <graphic url="./assets/img/F31119.JPG"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="poem" xml:id="f31_xvii_al_conte_carlo_pepoli_p_119">
+        <pb n="119" facs="#F31119"/>
+                <head>XVII. AL CONTE CARLO PEPOLI.</head>
+        <lg>
+<l n="42">Condur si scopre e men gravoso il tempo,</l>
+        <l n="43">Nè la lentezza accagionar <app><lem wit="#F31">de l’</lem><rdg wit="#B24 #B26 #N35 #R18">dell’ore</rdg></app> ore.</l>
+        <l n="44">Ma noi, che <app><lem wit="#F31">’l</lem><rdg wit="#B24 #B26 #N35 #R18">che il viver</rdg></app> viver nostro <app><lem wit="#F31">a l’altrui mano</lem><rdg wit="#B24 #B26 #N35 #R18">all’altrui mano</rdg></app></l>
+        <l n="45">Provveder commettiamo, una più grave</l>
+        <l n="46">Necessità, cui provveder non puote</l>
+        <l n="47">Altri che noi, già senza tedio e pena</l>
+        <l n="48">Non adempiam: necessitate, io dico,</l>
+        <l n="49">Di consumar la vita: improba, invitta</l>
+        <l n="50">Necessità, cui non tesoro accolto,</l>
+        <l n="51">Non di greggi <app><lem wit="#F31">divizia</lem><rdg wit="#B24 #B26 #N35 #R18">dovizia</rdg></app>, o pingui campi,</l>
+        <l n="52">Non aula puote e non purpureo manto</l>
+        <l n="53">Sottrar l’umana prole. Or s’altri, a sdegno</l>
+        <l n="54">I <app><lem wit="#F31">vòti</lem><rdg wit="#B24 #B26 #N35 #R18">I vóti</rdg></app> anni prendendo, e la superna</l>
+        <l n="55">Luce odiando, l’omicida mano,</l>
+        <l n="56">I tardi fati a prevenir condotto,</l>
+        <l n="57">In se stesso non torce; al duro morso</l>
+        <l n="58"><app><lem wit="#F31">De la</lem><rdg wit="#B24 #B26 #N35 #R18">Della brama</rdg></app> brama insanabile che invano</l>
+        <l n="59">Felicità richiede, esso da tutti</l>
+        <l n="60">Lati cercando, mille inefficaci</l>
+        <l n="61">Medicine procaccia, onde quell’una</l>
+        <l n="62">Cui natura apprestò, mal si compensa.</l>
+        <l n="63">Lui <app><lem wit="#F31">de le</lem><rdg wit="#B24 #B26 #N35 #R18">delle vesti</rdg></app> vesti e <app><lem wit="#F31">de le</lem><rdg wit="#B24 #B26 #N35 #R18">delle chiome</rdg></app> chiome il culto</l>
+        <l n="64">E <app><lem wit="#F31">de gli</lem><rdg wit="#B24 #B26 #N35 #R18">degli atti</rdg></app> atti e <app><lem wit="#F31">de i</lem><rdg wit="#B24 #B26 #N35 #R18">dei passi</rdg></app> passi, e i vani studi</l>
+        <l n="65">Di cocchi e di cavalli, e le frequenti</l>
+        <l n="66">Sale, e le piazze romorose, e gli <app><lem wit="#F31">orti</lem><rdg wit="#B24 #B26 #N35 #R18">orti,</rdg></app> </poem></l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

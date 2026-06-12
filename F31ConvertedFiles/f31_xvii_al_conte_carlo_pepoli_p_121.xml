@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>XVII. AL CONTE CARLO PEPOLI.</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoding and conversion by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>LeopardiTEIConversion project</publisher>
+          <date when="2026">2026</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <title>Wikileopardi</title>
+            <date>2020</date>
+            <note>Corpus of Canti extracted from Wikileopardi's platform.</note>
+          </bibl>
+        <listWit>
+          <witness xml:id="B24">B24</witness>
+          <witness xml:id="B26">B26</witness>
+          <witness xml:id="F31">F31</witness>
+          <witness xml:id="N35">N35</witness>
+          <witness xml:id="R18">R18</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <projectDesc>
+            <p>This project aims at standardizing the text and critical apparatus of Leopardi's Canti.</p>
+        </projectDesc>
+      </encodingDesc>
+    </teiHeader>
+
+  <facsimile>
+    <surface xml:id="F31121">
+      <graphic url="./assets/img/F31121.JPG"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="poem" xml:id="f31_xvii_al_conte_carlo_pepoli_p_121">
+        <pb n="121" facs="#F31121"/>
+                <head>XVII. AL CONTE CARLO PEPOLI.</head>
+        <lg>
+<l n="92">Con far misero altrui far se men tristo,</l>
+        <l n="93">Sì che nocendo usar procaccia il tempo.</l>
+        <l n="94">E chi virtute o sapienza ed arti</l>
+        <l n="95"><app><lem wit="#F31">Perseguitando,</lem><rdg wit="#B24 #B26 #N35 #R18">Perseguitando;</rdg></app> e chi la propria gente</l>
+        <l n="96">Conculcando e l’estrane, o di remoti</l>
+        <l n="97">Lidi turbando la quiete antica</l>
+        <l n="98">Col mercatar, con l’<app><lem wit="#F31">armi</lem><rdg wit="#B24 #B26 #N35 #R18">armi,</rdg></app> e con le frodi,</l>
+        <l n="99">La destinata sua vita consuma.</l>
+        <l n="100">Te più mite desio, cura più dolce</l>
+        <l n="101">Regge nel fior di gioventù, nel bello</l>
+        <l n="102">April <app><lem wit="#F31">de gli</lem><rdg wit="#B24 #B26 #N35 #R18">April degli anni</rdg></app> anni, altrui giocondo e primo</l>
+        <l n="103">Dono del <app><lem wit="#F31">ciel,</lem><rdg wit="#B24 #B26 #N35 #R18">del ciel,</rdg></app> ma grave, amaro, infesto</l>
+        <l n="104">A chi patria non ha. Te punge e move</l>
+        <l n="105">Studio <app><lem wit="#F31">del vero, e di ritrarre in carte</lem><rdg wit="#B24 #B26 #N35 #R18">de’carmi e di ritrar parlando</rdg></app></l>
+        <l n="106">Il bel che raro e scarso e fuggitivo</l>
+        <l n="107">Appar nel mondo, e quel che più benigna</l>
+        <l n="108">Di <app><lem wit="#F31">natura</lem><rdg wit="#B24 #B26 #N35 #R18">Di natura</rdg></app> e del <app><lem wit="#F31">ciel</lem><rdg wit="#B24 #B26 #N35 #R18">e del ciel</rdg></app>, fecondamente</l>
+        <l n="109">A noi la vaga fantasia produce</l>
+        <l n="110">E <app><lem wit="#F31">’l</lem><rdg wit="#B24 #B26 #N35 #R18">E il nostro</rdg></app> nostro proprio error. Ben mille volte</l>
+        <l n="111">Fortunato colui che la caduca</l>
+        <l n="112">Virtù del caro immaginar non perde</l>
+        <l n="113">Per volger d’anni; a cui serbare eterna</l>
+        <l n="114">La gioventù del cor diedero i fati;</l>
+        <l n="115">Che <app><lem wit="#F31">ne la</lem><rdg wit="#B24 #B26 #N35 #R18">nella ferma</rdg></app> ferma e <app><lem wit="#F31">ne la</lem><rdg wit="#B24 #B26 #N35 #R18">nella stanca</rdg></app> stanca etade,</l>
+        <l n="116">Così come solea <app><lem wit="#F31">ne l’età</lem><rdg wit="#B24 #B26 #N35 #R18">nell’età verde</rdg></app> verde, </poem></l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

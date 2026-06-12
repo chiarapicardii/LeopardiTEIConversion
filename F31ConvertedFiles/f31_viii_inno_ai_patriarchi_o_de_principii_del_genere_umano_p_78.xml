@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>VIII. INNO AI PATRIARCHI, O DE’ PRINCIPII DEL GENERE UMANO</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoding and conversion by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>LeopardiTEIConversion project</publisher>
+          <date when="2026">2026</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <title>Wikileopardi</title>
+            <date>2020</date>
+            <note>Corpus of Canti extracted from Wikileopardi's platform.</note>
+          </bibl>
+        <listWit>
+          <witness xml:id="B24">B24</witness>
+          <witness xml:id="B26">B26</witness>
+          <witness xml:id="F31">F31</witness>
+          <witness xml:id="N35">N35</witness>
+          <witness xml:id="R18">R18</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <projectDesc>
+            <p>This project aims at standardizing the text and critical apparatus of Leopardi's Canti.</p>
+        </projectDesc>
+      </encodingDesc>
+    </teiHeader>
+
+  <facsimile>
+    <surface xml:id="F31078">
+      <graphic url="./assets/img/F31078.JPG"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="poem" xml:id="f31_viii_inno_ai_patriarchi_o_de_principii_del_genere_umano_p_78">
+        <pb n="78" facs="#F31078"/>
+                <head>VIII. INNO AI PATRIARCHI, O DE’ PRINCIPII DEL GENERE UMANO</head>
+        <lg>
+<l n="108">Nidi l’intima rupe, <app><lem wit="#F31">ónde</lem><rdg wit="#B24 #B26 #N35 #R18">Onde</rdg></app> <app><lem wit="#F31">ministra</lem><rdg wit="#B24 #B26 #N35 #R18">Ministra</rdg></app></l>
+        <l n="109">L’irrigua valle, inopinato il giorno</l>
+        <l n="110"><app><lem wit="#F31">De l’atra</lem><rdg wit="#B24 #B26 #N35 #R18">Dell’atra</rdg></app> morte incombe. <app><lem wit="#F31">Oh contra il nostro</lem><rdg wit="#B24 #B26 #N35 #R18">Contra il nostro Scellerato ardimento</rdg></app></l>
+        <l n="111"><app><lem wit="#F31">Scelerato ardimento</lem><rdg wit="#B24 #B26 #N35 #R18">Contra il nostro Scellerato ardimento</rdg></app> inermi regni</l>
+        <l n="112"><app><lem wit="#F31">De la</lem><rdg wit="#B24 #B26 #N35 #R18">Della saggia natura!</rdg></app> saggia <app><lem wit="#F31">natura.</lem><rdg wit="#B24 #B26 #N35 #R18">Natura!</rdg></app> I lidi e gli antri</l>
+        <l n="113">E le quiete selve apre l’invitto</l>
+        <l n="114">Nostro furor; le violate genti</l>
+        <l n="115">Al peregrino affanno, <app><lem wit="#F31">a gl’</lem><rdg wit="#B24 #B26 #N35 #R18">Agl’ignorati</rdg></app>ignorati</l>
+        <l n="116">Desiri educa; e la fugace, ignuda</l>
+        <l n="117">Felicità per l’imo sole incalza . </poem></l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

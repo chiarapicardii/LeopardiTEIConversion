@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>XVII. AL CONTE CARLO PEPOLI.</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoding and conversion by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>LeopardiTEIConversion project</publisher>
+          <date when="2026">2026</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <title>Wikileopardi</title>
+            <date>2020</date>
+            <note>Corpus of Canti extracted from Wikileopardi's platform.</note>
+          </bibl>
+        <listWit>
+          <witness xml:id="B24">B24</witness>
+          <witness xml:id="B26">B26</witness>
+          <witness xml:id="F31">F31</witness>
+          <witness xml:id="N35">N35</witness>
+          <witness xml:id="R18">R18</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <projectDesc>
+            <p>This project aims at standardizing the text and critical apparatus of Leopardi's Canti.</p>
+        </projectDesc>
+      </encodingDesc>
+    </teiHeader>
+
+  <facsimile>
+    <surface xml:id="F31118">
+      <graphic url="./assets/img/F31118.JPG"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="poem" xml:id="f31_xvii_al_conte_carlo_pepoli_p_118">
+        <pb n="118" facs="#F31118"/>
+                <head>XVII. AL CONTE CARLO PEPOLI.</head>
+        <lg>
+<l n="17">La vita all’uom non ha pregio nessuno,</l>
+        <l n="18">Dritto e vero dirai. Le notti e i giorni</l>
+        <l n="19">Tragge in ozio il nocchiero; ozio il perenne</l>
+        <l n="20">Sudar <app><lem wit="#F31">ne le</lem><rdg wit="#B24 #B26 #N35 #R18">nelle officine</rdg></app> officine, ozio le vegghie</l>
+        <l n="21">Son de’ guerrieri e <app><lem wit="#F31">’l</lem><rdg wit="#B24 #B26 #N35 #R18">il perigliar</rdg></app> perigliar <app><lem wit="#F31">ne l’</lem><rdg wit="#B24 #B26 #N35 #R18">nell’armi</rdg></app> armi;</l>
+        <l n="22">E <app><lem wit="#F31">’l</lem><rdg wit="#B24 #B26 #N35 #R18">il mercatante</rdg></app> mercatante avaro in ozio vive:</l>
+        <l n="23"><app><lem wit="#F31">Chè</lem><rdg wit="#B24 #B26 #N35 #R18">Che non</rdg></app> non a se, non ad altrui, la bella</l>
+        <l n="24">Felicità, cui solo agogna e cerca</l>
+        <l n="25">La natura mortal, veruno acquista</l>
+        <l n="26">Per cura o per sudor, vegghia o periglio.</l>
+        <l n="27">Pure <app><lem wit="#F31">a l’aspro</lem><rdg wit="#B24 #B26 #N35 #R18">all’aspro</rdg></app> desire onde i mortali</l>
+        <l n="28">Già sempre infin dal dì che <app><lem wit="#F31">’l</lem><rdg wit="#B24 #B26 #N35 #R18">che il mondo</rdg></app> mondo nacque</l>
+        <l n="29">D’esser beati sospiraro indarno,</l>
+        <l n="30">Di medicina in loco apparecchiate</l>
+        <l n="31"><app><lem wit="#F31">Ne la</lem><rdg wit="#B24 #B26 #N35 #R18">Nella vita</rdg></app> vita infelice avea <app><lem wit="#F31">natura</lem><rdg wit="#B24 #B26 #N35 #R18">avea natura</rdg></app></l>
+        <l n="32">Necessità diverse, a cui non senza</l>
+        <l n="33">Opra e pensier si provvedesse, e pieno,</l>
+        <l n="34">Poi che lieto non può, corresse il giorno</l>
+        <l n="35"><app><lem wit="#F31">A l’umana</lem><rdg wit="#B24 #B26 #N35 #R18">All’umana</rdg></app> famiglia; onde agitato</l>
+        <l n="36">E confuso il desio, men loco avesse</l>
+        <l n="37">Al travagliarne il cor. Così de’ bruti</l>
+        <l n="38">La progenie infinita, a cui pur solo,</l>
+        <l n="39">Nè men vano che a noi, vive nel petto</l>
+        <l n="40">Desio d’esser beati; a quello intenta</l>
+        <l n="41">Che a lor vita è mestier, di noi men tristo </poem></l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>
