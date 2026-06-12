@@ -23,6 +23,7 @@ To guarantee transparency and data reusability, the detailed technical challenge
 Additionally, it is important to note that Large Language Models (Gemini, Claude) were used as coding assistants to navigate wiki-specific syntax and to ensure compliance of the XML structure with TEI guidelines, while all methodological and philological decisions remained strictly with the author.
 
 All the converted files are stored in the GitHub repository, available [here](https://github.com/chiarapicardii/LeopardiTEIConversion/tree/main/F31ConvertedFiles)
+The XML/TEI validity of the files is guaranteed by a python script valitation.py[^5] 
 
 ## Visualization
 While the primary focus of the project rested on automating the back-end conversion process, implementing a human-readable visualization layer was deemed essential to demonstrate the data's structural viability. The EVT (Edition Visualization Technology) viewer was selected because it processes TEI/XML files natively without requiring intermediate transformations, offering an immediate environment for interacting with the newly generated corpus.
@@ -48,3 +49,4 @@ Finally, it is necessary to acknowledge one significant philological limitation 
 [^2]: [https://leopardi.ecdosys.org/it/Home/](https://leopardi.ecdosys.org/it/Home/)
 [^3]: [https://site.unibo.it/manoscrittidigitali/it/progetti/leopardi-3d](https://site.unibo.it/manoscrittidigitali/it/progetti/leopardi-3d)
 [^4]: [https://projects.dharc.unibo.it/leggomanzoni/](https://projects.dharc.unibo.it/leggomanzoni/)
+[^5]: Sourse code: Barbaresi, A. (2019). Validating TEI XML with Python. Adrien Barbaresi’s Blog. Retrieved from [https://adrien.barbaresi.eu/blog/validating-tei-xml-python.html](https://adrien.barbaresi.eu/blog/validating-tei-xml-python.html)
