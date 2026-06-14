@@ -186,7 +186,7 @@ corresp_attribute = f' corresp="#{canto_id}"'
 
 **Problem:** WikiLeopardi stores verse numbers inline with the text, so they need be separated and converten in the TEI `n=` attribute without corrupting adjacent apparatus elements.
 
-**Solution:** The function `isolate_verse_num()` uses a negative-lookbehind regular expression to distinguish verse numbers from page references, footnote numbers, and attribute values.
+**Solution:** The function `isolate_verse_num()` uses a negative-lookbehind regular expression `r'(?<!` to distinguish verse numbers from page references, footnote numbers, and attribute values.
 
 ```python
 text = re.sub(
