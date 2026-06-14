@@ -11,7 +11,7 @@ Aimed at contribuiting to the standardization and interoperability of digital sc
 ├── _config.yml                   # Jekyll configuration for GitHub Pages
 ├── index.md                      # Scholarly and methodological report
 ├── TechnicalDocumentation.md     # Documentation of the main issues in building the teiconversion.py
-├── README.md                     # Technical documentation
+├── README.md                     # Repository overview
 ├── corpus_F31.json               # Raw extracted corpus data (1831 Florentine print)
 ├── clean_corpus.json             # Intermediate normalized JSON corpus
 ├── validation_report.txt         # Text file produced by validator. All the files are well encoded.
