@@ -7,8 +7,6 @@ Aimed at contribuiting to the standardization and interoperability of digital sc
 
 ## Repository Structure
 
-The codebase is organized into modular scripts to ensure systematic error-checking at each processing layer:
-
 ```text
 ├── _config.yml                   # Jekyll configuration for GitHub Pages
 ├── index.md                      # Scholarly and methodological report
