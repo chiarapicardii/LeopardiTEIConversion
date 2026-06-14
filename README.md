@@ -24,4 +24,4 @@ Aimed at contribuiting to the standardization and interoperability of digital sc
 │   └── [Converted XML/TEI files of Leopardi's Canti]
 └── assets/
     └── css/
-        └── style.scss        # Custom CSS
+        └── style.scss            # Custom CSS
