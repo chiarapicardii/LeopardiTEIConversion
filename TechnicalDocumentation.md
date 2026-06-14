@@ -52,7 +52,7 @@ if not current_witnesses or current_witnesses == [main_witness]:
     head_witnesses = sorted(list(set(head_fallback_witnesses + [main_witness])))
 ```
 
-> **Philological note:** variants without explicit witness attribution are assigned to whole dictionary of declared witnesses, which means the files **need** manual review for full philological reliability. See [Limitation]paragraph in the project documentation(https://chiarapicardii.github.io/LeopardiTEIConversion/#fnref:1).
+> **Philological note:** variants without explicit witness attribution are assigned to whole dictionary of declared witnesses, which means the files **need** manual review for full philological reliability. See [Limitation](https://chiarapicardii.github.io/LeopardiTEIConversion/#fnref:1) paragraph in the project documentation.
 
 ---
 
