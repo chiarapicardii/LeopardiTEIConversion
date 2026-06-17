@@ -1,9 +1,3 @@
-#What to do:
-#1. extracting the witnesses from the wikitext
-#2. Checking for the specific F31
-#3. Finding the [[File:F31x747.JPG]] for the facsimile attribute
-#4. Generating a teiHeader with all the listWith
-
 import re
 import json
 from pathlib import Path
