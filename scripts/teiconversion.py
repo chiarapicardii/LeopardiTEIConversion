@@ -346,9 +346,11 @@ def encode_verses(text:str) -> str:
       is_indented = True
       verse = verse.replace('rend="indent"', '', 1).strip()
 
+    rend_attribute = ' rend="indent"' if is_indented else ''
+
     #if the verse is empty leave it as is 
     if verse: 
-      formatted_lines.append(f'        <l{n_attribute}>{verse}</l>')
+      formatted_lines.append(f'        <l{rend_attribute}{n_attribute}>{verse}</l>')
 
   return "\n".join(formatted_lines)
 
