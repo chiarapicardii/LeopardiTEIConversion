@@ -1,6 +1,7 @@
 import re
 import json
 from pathlib import Path
+import sys
 
 # ------- Setting the constants ---------------------
 
@@ -188,26 +189,21 @@ def preprocess_body(text: str) -> str:
     text = re.sub(r"([A-Za-zÀ-ÿ]+)('*)[\s]*-\s*[\r\n]+\s*('*)([A-Za-zÀ-ÿ]+)", r'\1\2<lb break="no"/>\3\4', text)
     text = re.sub(r'-\s*<\s*\n?', '<lb break="no"/>', text)
 
-    # 2. Wiki-Tags & Metadata
-    text = re.sub(r'\[\[\s*Edizione critica\s*\|?\s*\]\]', '', text, flags=re.IGNORECASE)
-    text = re.sub(r'F31\s+[IVXLCDM]+\.?<lb/>[IVXLCDM]+\.?<lb/>', '', text, flags=re.IGNORECASE)
-    text = re.sub(r'[IVXLCDM]+\.\s+ALLA\s+PRIMAVERA,\s+O\s+DELLE\s+FAVOLE\s+ANTICHE\.', '', text)
-    text = re.sub(r'\[\[File:[^\]]+\]\]', '', text, flags=re.IGNORECASE)
     
-    # 3. Clean remaining witnesses and HTML
+    # 2. Clean remaining witnesses and HTML
     text = re.sub(r'\[\[[A-Z]\d{2}[^\]]*\]\]', '', text)
     text = re.sub(r'\b(NR25|CP25|NR26|CP26)\b', '', text, flags=re.IGNORECASE)
     text = re.sub(r'<DIV[^>]*>.*?</DIV>', '', text, flags=re.DOTALL|re.IGNORECASE)
     text = re.sub(r'<font[^>]*>.*?</font>', '', text, flags=re.DOTALL|re.IGNORECASE)
 
-    # 4. Text Normalization
+    # 3. Text Normalization
     text = text.replace('&emsp;', '&#x2003;').replace('&nbsp;', '&#x00A0;')
     text = re.sub(r"''+(.*?)''+", r'<hi rend="italic">\1</hi>', text)
     text = text.replace("&apos;", "’").replace("'", "’")
     text = re.sub(r'\(\s*\)', '', text)
     text = re.sub(r'-\s*$', '', text, flags=re.MULTILINE)
     
-    # 5. Filter leftovers
+    # 4. Filter leftovers
     text = re.sub(r'^[IVXLCDM]+\.\s+[A-ZÀÈÉÌÒÙ ]+\.?\s*$', '', text, flags=re.MULTILINE)
     text = re.sub(r'^\.\s*$', '', text, flags=re.MULTILINE)
     
@@ -345,14 +341,15 @@ def encode_verses(text:str) -> str:
     if 'rend="indent"' in verse: 
       is_indented = True
       verse = verse.replace('rend="indent"', '', 1).strip()
-
+    
     rend_attribute = ' rend="indent"' if is_indented else ''
 
     #if the verse is empty leave it as is 
     if verse: 
       formatted_lines.append(f'        <l{rend_attribute}{n_attribute}>{verse}</l>')
 
-  return "\n".join(formatted_lines)
+    return "\n".join(formatted_lines)
+
 
 # ------------ Encoding the div -------------------------------
 
@@ -551,14 +548,14 @@ def convert(json_key: str, raw_text: str, witnesses_body: list[str], witnesses_h
   working_text = re.sub(r'\[\[\s*Edizione critica\s*\|?\s*\]\]', '', working_text, flags=re.IGNORECASE)
   working_text = re.sub(r'F31\s+[IVXLCDM]+\.?<lb/>[IVXLCDM]+\.?<lb/>', '', working_text, flags=re.IGNORECASE)
   working_text = re.sub(r'[IVXLCDM]+\.\s+ALLA\s+PRIMAVERA,\s+O\s+DELLE\s+FAVOLE\s+ANTICHE\.', '', working_text)
+  working_text = re.sub(r'\[\[File:[^\]]+\]\]', '', working_text, flags=re.IGNORECASE)
   working_text = preprocess_body(working_text)
 
   #structuring verses and pb 
   working_text = insert_pb(working_text, facs_files)
   working_text = isolate_verse_num(working_text)
 
-  #I must divide the header from the body for a more precise listing of the witnesses
-  #using the <poem>
+  #moving the <pb> block
   pb_matches = re.findall(r'(<pb\s+[^>]+/>)',  working_text)
   pb_extracted = ""
   if pb_matches:
@@ -567,6 +564,7 @@ def convert(json_key: str, raw_text: str, witnesses_body: list[str], witnesses_h
   #clean the text
   clean_text = re.sub(r'(<pb\s+[^>]+/>)', "",  working_text)
 
+  #dividing the text based on the poem_tag
   if poem_tag in clean_text:
     header_part, body_part = clean_text.split(poem_tag, 1)
   else:
