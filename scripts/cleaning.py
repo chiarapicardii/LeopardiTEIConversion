@@ -4,6 +4,7 @@ import mwparserfromhell
 
 #PROBLEM the handing of variants when they repeat themselves in and out of the []
 #seeing if the text immediately after the square brakets it's alterad in a part of the variant
+#[[degli avi nostri|de gli]]</span> avi nostri 
 def de_duplicate(match: re.Match) -> str:
     full_variant = match.group(1).strip()  # Es: "degli avi nostri"
     short_lemma = match.group(2).strip()   # Es: "de gli"
