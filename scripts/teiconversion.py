@@ -1,7 +1,6 @@
 import re
 import json
 from pathlib import Path
-import sys
 
 # ------- Setting the constants ---------------------
 
