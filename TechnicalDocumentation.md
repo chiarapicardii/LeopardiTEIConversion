@@ -143,7 +143,7 @@ text = re.sub(
 ```
 
 **Deduplication**
-Sometimes, in the raw files, there were variants syntax containing the same text as the main witness used, so `avoid_repetition_apparatus` checks for repetitions and authomatically deletes them.
+Sometimes, in the raw files, there were variants syntax containing the same text as the main witness used, so `avoid_repetition_apparatus` checks for repetitions and authomatically deletes them. 
 
 ```python
 def avoid_repetition_apparatus(lem, rdg, wit):
