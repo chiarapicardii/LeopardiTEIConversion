@@ -51,7 +51,7 @@
         <pb n="142" facs="#F31142"/>
                 <head>XX. LE RICORDANZE.</head>
         <lg>
-<l n="119">Chi rimembrar vi può senza sospiri,</l>
+<l n="119" rend="indent">Chi rimembrar vi può senza sospiri,</l>
         <l n="120">O primo <app><lem wit="#F31">tempo giovanile,</lem><rdg wit="#B24 #B26 #N35 #R18">entrar di giovinezza,</rdg></app> o giorni</l>
         <l n="121">Vezzosi, inenarrabili, allor quando</l>
         <l n="122">Al rapito mortal primieramente</l>
@@ -68,7 +68,7 @@
         <l n="133">Di sventura esser può, se a lui già scorsa</l>
         <l n="134">Quella vaga stagion, se il suo buon tempo,</l>
         <l n="135">Se giovanezza, ahi giovanezza, è spenta?</l>
-        <l n="136">O Nerina! e di te forse non odo</l>
+        <l n="136" rend="indent">O Nerina! e di te forse non odo</l>
         <l n="137">Questi luoghi parlar? caduta forse</l>
         <l n="138">Dal mio pensier sei tu? Dove sei gita,</l>
         <l n="139">Che qui sola di te la ricordanza</l>

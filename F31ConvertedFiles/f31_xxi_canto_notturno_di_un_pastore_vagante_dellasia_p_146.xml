@@ -54,7 +54,7 @@
 <l n="18">La vostra vita a voi? dimmi: ove tende</l>
         <l n="19">Questo vagar mio breve,</l>
         <l n="20">Il tuo corso immortale?</l>
-        <l n="21">Vecchierel bianco, infermo,</l>
+        <l n="21" rend="indent">Vecchierel bianco, infermo,</l>
         <l n="22">Mezzo vestito e scalzo,</l>
         <l n="23">Con gravissimo fascio in su le spalle,</l>
         <l n="24">Per montagna e per valle,</l>
@@ -72,7 +72,7 @@
         <l n="36">Ov’ei precipitando, il tutto obblia.</l>
         <l n="37">Vergine luna, tale</l>
         <l n="38">È la vita mortale.</l>
-        <l n="39">Nasce l’uomo a fatica,</l>
+        <l n="39" rend="indent">Nasce l’uomo a fatica,</l>
         <l n="40">Ed è rischio di morte il nascimento.</l>
         </lg>
       </div>

@@ -62,7 +62,7 @@
         <l n="75">E non lo sguardo tenero, tremante,</l>
         <l n="76">Di due nere pupille, il caro sguardo,</l>
         <l n="77">La più degna del <app><lem wit="#F31">ciel</lem><rdg wit="#B24 #B26 #N35 #R18">del ciel</rdg></app> cosa mortale.</l>
-        <l n="78">Altri, quasi a fuggir volto la trista</l>
+        <l n="78" rend="indent">Altri, quasi a fuggir volto la trista</l>
         <l n="79">Umana sorte, in cangiar terre e climi</l>
         <l n="80"><app><lem wit="#F31">La</lem><rdg wit="#B24 #B26 #N35 #R18">L’età</rdg></app> età spendendo, e mari e poggi errando,</l>
         <l n="81">Tutto l’orbe trascorre, ogni confine</l>
@@ -82,7 +82,7 @@
         <l n="85">Su l’alte prue la negra cura, e sotto</l>
         <l n="86">Ogni clima, ogni ciel, si chiama indarno</l>
         <l n="87">Felicità, vive tristezza e regna.</l>
-        <l n="88">Havvi chi le crudeli opre di marte</l>
+        <l n="88" rend="indent">Havvi chi le crudeli opre di marte</l>
         <l n="89">Si elegge a passar l’ore, e nel fraterno</l>
         <l n="90">Sangue la man tinge per ozio; ed <app><lem wit="#F31">havvi</lem><rdg wit="#B24 #B26 #N35 #R18">ed havvi</rdg></app></l>
         <l n="91">Chi d’altrui danni si conforta, e pensa</l>

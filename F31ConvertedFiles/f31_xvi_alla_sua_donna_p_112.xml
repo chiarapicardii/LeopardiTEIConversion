@@ -56,7 +56,7 @@
         <l n="20">Che ti somigli; e s’anco pari alcuna</l>
         <l n="21">Ti fosse al volto, <app><lem wit="#F31">a gli</lem><rdg wit="#B24 #B26 #N35 #R18">Agli atti</rdg></app> atti, <app><lem wit="#F31">a la</lem><rdg wit="#B24 #B26 #N35 #R18">Alla favella</rdg></app> favella,</l>
         <l n="22">Saria, così conforme, assai men bella.</l>
-        <l n="23">Fra cotanto dolore</l>
+        <l n="23" rend="indent">Fra cotanto dolore</l>
         <l n="24">Quanto <app><lem wit="#F31">a l’umana</lem><rdg wit="#B24 #B26 #N35 #R18">All’ umana</rdg></app> età propose il fato,</l>
         <l n="25">Se vera e quale il mio pensier ti pinge,</l>
         <l n="26">Alcun t’amasse in terra, a lui pur <app><lem wit="#F31">fòra</lem><rdg wit="#B24 #B26 #N35 #R18">fora</rdg></app></l>
@@ -67,7 +67,7 @@
         <l n="31">Il ciel nullo conforto <app><lem wit="#F31">a i</lem><rdg wit="#B24 #B26 #N35 #R18">Ai nostri</rdg></app> nostri affanni;</l>
         <l n="32">E teco la mortal vita saria</l>
         <l n="33">Simile a quella che nel cielo <app><lem wit="#F31">indìa</lem><rdg wit="#B24 #B26 #N35 #R18">india</rdg></app>.</l>
-        <l n="34">Per le valli, ove suona</l>
+        <l n="34" rend="indent">Per le valli, ove suona</l>
         <l n="35">Del faticoso agricoltore il canto,</l>
         <l n="36">Ed io seggo e mi lagno</l>
         <l n="37">Del giovanile error che m’abbandona;</l>
