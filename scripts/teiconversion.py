@@ -1,3 +1,9 @@
+#What to do:
+#1. extracting the witnesses from the wikitext
+#2. Checking for the specific F31
+#3. Finding the [[File:F31x747.JPG]] for the facsimile attribute
+#4. Generating a teiHeader with all the listWith
+
 import re
 import json
 from pathlib import Path
@@ -115,9 +121,8 @@ def generate_tei_header (
     title: str,
     witnesses: list[str],
     encoder_name: str = "Chiara Picardi",
-    publisher: str = "Progetto Canti - Edizione F31",
-    year: str = "2024",
-    source_bibl: str = "Edizione Fiorentina - F31 (1831)",
+    publisher: str = "LeopardiTEIConversion project",
+    year: str = "2026",
   ) -> str:
   list_wit = build_witness_list(witnesses)
 
@@ -127,7 +132,7 @@ def generate_tei_header (
           <title>{title}</title>
           <author>Giacomo Leopardi</author>
           <respStmt>
-            <resp>Encoded by</resp>
+            <resp>Encoding and conversion by</resp>
             <persName>{encoder_name}</persName>
           </respStmt>
         </titleStmt>
@@ -139,12 +144,18 @@ def generate_tei_header (
           </availability>
         </publicationStmt>
         <sourceDesc>
-          <bibl>{source_bibl}</bibl>
+          <bibl>
+            <title>Wikileopardi</title>
+            <date>2020</date>
+            <note>Corpus of Canti extracted from Wikileopardi's platform.</note>
+          </bibl>
         {list_wit}
         </sourceDesc>
       </fileDesc>
       <encodingDesc>
-        <variantEncoding method="parallel-segmentation" location="internal"/>
+        <projectDesc>
+            <p>This project aims at standardizing the text and critical apparatus of Leopardi's Canti.</p>
+        </projectDesc>
       </encodingDesc>
     </teiHeader>"""
 
@@ -189,21 +200,26 @@ def preprocess_body(text: str) -> str:
     text = re.sub(r"([A-Za-zÀ-ÿ]+)('*)[\s]*-\s*[\r\n]+\s*('*)([A-Za-zÀ-ÿ]+)", r'\1\2<lb break="no"/>\3\4', text)
     text = re.sub(r'-\s*<\s*\n?', '<lb break="no"/>', text)
 
+    # 2. Wiki-Tags & Metadata
+    text = re.sub(r'\[\[\s*Edizione critica\s*\|?\s*\]\]', '', text, flags=re.IGNORECASE)
+    text = re.sub(r'F31\s+[IVXLCDM]+\.?<lb/>[IVXLCDM]+\.?<lb/>', '', text, flags=re.IGNORECASE)
+    text = re.sub(r'[IVXLCDM]+\.\s+ALLA\s+PRIMAVERA,\s+O\s+DELLE\s+FAVOLE\s+ANTICHE\.', '', text)
+    text = re.sub(r'\[\[File:[^\]]+\]\]', '', text, flags=re.IGNORECASE)
     
-    # 2. Clean remaining witnesses and HTML
+    # 3. Clean remaining witnesses and HTML
     text = re.sub(r'\[\[[A-Z]\d{2}[^\]]*\]\]', '', text)
     text = re.sub(r'\b(NR25|CP25|NR26|CP26)\b', '', text, flags=re.IGNORECASE)
     text = re.sub(r'<DIV[^>]*>.*?</DIV>', '', text, flags=re.DOTALL|re.IGNORECASE)
     text = re.sub(r'<font[^>]*>.*?</font>', '', text, flags=re.DOTALL|re.IGNORECASE)
 
-    # 3. Text Normalization
+    # 4. Text Normalization
     text = text.replace('&emsp;', '&#x2003;').replace('&nbsp;', '&#x00A0;')
     text = re.sub(r"''+(.*?)''+", r'<hi rend="italic">\1</hi>', text)
     text = text.replace("&apos;", "’").replace("'", "’")
     text = re.sub(r'\(\s*\)', '', text)
     text = re.sub(r'-\s*$', '', text, flags=re.MULTILINE)
     
-    # 4. Filter leftovers
+    # 5. Filter leftovers
     text = re.sub(r'^[IVXLCDM]+\.\s+[A-ZÀÈÉÌÒÙ ]+\.?\s*$', '', text, flags=re.MULTILINE)
     text = re.sub(r'^\.\s*$', '', text, flags=re.MULTILINE)
     
@@ -341,15 +357,14 @@ def encode_verses(text:str) -> str:
     if 'rend="indent"' in verse: 
       is_indented = True
       verse = verse.replace('rend="indent"', '', 1).strip()
-    
+
     rend_attribute = ' rend="indent"' if is_indented else ''
 
     #if the verse is empty leave it as is 
     if verse: 
-      formatted_lines.append(f'        <l{rend_attribute}{n_attribute}>{verse}</l>')
+      formatted_lines.append(f'        <l{n_attribute}{rend_attribute}>{verse}</l>')
 
-    return "\n".join(formatted_lines)
-
+  return "\n".join(formatted_lines)
 
 # ------------ Encoding the div -------------------------------
 
@@ -548,14 +563,14 @@ def convert(json_key: str, raw_text: str, witnesses_body: list[str], witnesses_h
   working_text = re.sub(r'\[\[\s*Edizione critica\s*\|?\s*\]\]', '', working_text, flags=re.IGNORECASE)
   working_text = re.sub(r'F31\s+[IVXLCDM]+\.?<lb/>[IVXLCDM]+\.?<lb/>', '', working_text, flags=re.IGNORECASE)
   working_text = re.sub(r'[IVXLCDM]+\.\s+ALLA\s+PRIMAVERA,\s+O\s+DELLE\s+FAVOLE\s+ANTICHE\.', '', working_text)
-  working_text = re.sub(r'\[\[File:[^\]]+\]\]', '', working_text, flags=re.IGNORECASE)
   working_text = preprocess_body(working_text)
 
   #structuring verses and pb 
   working_text = insert_pb(working_text, facs_files)
   working_text = isolate_verse_num(working_text)
 
-  #moving the <pb> block
+  #I must divide the header from the body for a more precise listing of the witnesses
+  #using the <poem>
   pb_matches = re.findall(r'(<pb\s+[^>]+/>)',  working_text)
   pb_extracted = ""
   if pb_matches:
@@ -564,12 +579,13 @@ def convert(json_key: str, raw_text: str, witnesses_body: list[str], witnesses_h
   #clean the text
   clean_text = re.sub(r'(<pb\s+[^>]+/>)', "",  working_text)
 
-  #dividing the text based on the poem_tag
   if poem_tag in clean_text:
     header_part, body_part = clean_text.split(poem_tag, 1)
   else:
     header_part = clean_text
     body_part = clean_text
+
+  body_part = body_part.replace("</poem>", "")
 
   header = generate_tei_header(title, witnesses_header)
   facsimile = build_facsimile(facs_files)
