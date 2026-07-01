@@ -53,7 +53,7 @@
         <lg>
 <l n="89">Sotto barbaro piede</l>
         <l n="90">Rintronerà <app><lem wit="#F31">quella solinga</lem><rdg wit="#B24 #B26 #N35 #R18">Quella solinga</rdg></app> sede.</l>
-        <l n="91">Ecco, tra nudi sassi o in verde ramo</l>
+        <l n="91" rend="indent">Ecco, tra nudi sassi o in verde ramo</l>
         <l n="92">E la fera e l’augello,</l>
         <l n="93">Del consueto obblio gravido il petto,</l>
         <l n="94">L’alta ruina ignora e le mutate</l>
@@ -68,7 +68,7 @@
         <l n="103">Non gli ululati spechi</l>
         <l n="104">Turbò nostra <app><lem wit="#F31">sciaura</lem><rdg wit="#B24 #B26 #N35 #R18">Sciagura</rdg></app>,</l>
         <l n="105">Né scolorò le stelle umana cura.</l>
-        <l n="106">Non io d’Olimpo o di Cocito i sordi</l>
+        <l n="106" rend="indent">Non io d’Olimpo o di Cocito i sordi</l>
         <l n="107">Regi, o la terra indegna,</l>
         <l n="108">E non la notte moribondo appello;</l>
         <l n="109">Non te, <app><lem wit="#F31">de l’atra</lem><rdg wit="#B24 #B26 #N35 #R18">Dell’atra</rdg></app> morte ultimo raggio,</l>

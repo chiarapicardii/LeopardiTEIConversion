@@ -62,7 +62,7 @@
         <l n="73">A voi le morte ripe,</l>
         <l n="74"><app><lem wit="#F31">Se ’l fato ignavo pende</lem><rdg wit="#B24 #B26 #N35 #R18">Se il fato ignavo pende</rdg></app>,</l>
         <l n="75">Soli, o miseri, a voi Giove contende.</l>
-        <l n="76">E tu <app><lem wit="#F31">dal</lem><rdg wit="#B24 #B26 #N35 #R18">Dal</rdg></app> mar cui nostro sangue irriga,</l>
+        <l n="76" rend="indent">E tu <app><lem wit="#F31">dal</lem><rdg wit="#B24 #B26 #N35 #R18">Dal</rdg></app> mar cui nostro sangue irriga,</l>
         <l n="77">Candida luna, sorgi,</l>
         <l n="78">E l’inquieta notte e la funesta</l>
         <l n="79"><app><lem wit="#F31">A l’ausonio</lem><rdg wit="#B24 #B26 #N35 #R18">All’ausonio</rdg></app> valor campagna esplori.</l>

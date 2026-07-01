@@ -57,7 +57,7 @@
         <l n="43"><app><lem wit="#F31">Tace l’itala riva; egro circonda</lem><rdg wit="#B24 #B26 #N35 #R18">eterne lodi... etade</rdg></app></l>
         <l n="44"><app><lem wit="#F31">Ozio le tombe vostre; e di viltade</lem><rdg wit="#B24 #B26 #N35 #R18">eterne lodi... etade</rdg></app></l>
         <l n="45"><app><lem wit="#F31">Siam fatti esempio a la futura etade.</lem><rdg wit="#B24 #B26 #N35 #R18">eterne lodi... etade</rdg></app></l>
-        <l n="46">Bennato ingegno, or quando altrui non cale</l>
+        <l n="46" rend="indent">Bennato ingegno, or quando altrui non cale</l>
         <l n="47">De’ nostri alti parenti,</l>
         <l n="48">A te ne caglia, a te cui fato aspira</l>
         <l n="49">Benigno sì che per tua man presenti</l>
@@ -72,7 +72,7 @@
         <l n="58">La ruina d’Italia, anco sdegnosi</l>
         <l n="59">Eravam d’ozio turpe, e l’<app><lem wit="#F31">aere</lem><rdg wit="#B24 #B26 #N35 #R18">aura</rdg></app> a volo</l>
         <l n="60"><app><lem wit="#F31">Qualche favilla ergea</lem><rdg wit="#B24 #B26 #N35 #R18">Più faville rapia</rdg></app> da questo suolo.</l>
-        <l n="61">Eran calde le tue ceneri sante,</l>
+        <l n="61" rend="indent">Eran calde le tue ceneri sante,</l>
         <l n="62">Non domito nemico</l>
         </lg>
       </div>

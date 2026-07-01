@@ -51,7 +51,7 @@
         <pb n="67" facs="#F31067"/>
                 <head>VII. ALLA PRIMAVERA, O DELLE FAVOLE ANTICHE.</head>
         <lg>
-<l n="39">Vissero i fiori e l’erbe,</l>
+<l n="39" rend="indent">Vissero i fiori e l’erbe,</l>
         <l n="40">Vissero i boschi un dì. Conscie le molli</l>
         <l n="41">Aure, le nubi e la titania lampa</l>
         <l n="42">Fur <app><lem wit="#F31">de l’umana</lem><rdg wit="#B24 #B26 #N35 #R18">dell’umana gente</rdg></app> gente, allor che ignuda</l>
@@ -70,7 +70,7 @@
         <l n="55">Dafne o la mesta <app><lem wit="#F31">Filli</lem><rdg wit="#B24 #B26 #N35 #R18">Filli,</rdg></app> o di Climene</l>
         <l n="56">Pianger credè la sconsolata prole</l>
         <l n="57">Quel che sommerse in Eridano il sole.</l>
-        <l n="58">Nè <app><lem wit="#F31">de l’umano</lem><rdg wit="#B24 #B26 #N35 #R18">dell’umano affanno</rdg></app> affanno,</l>
+        <l n="58" rend="indent">Nè <app><lem wit="#F31">de l’umano</lem><rdg wit="#B24 #B26 #N35 #R18">dell’umano affanno</rdg></app> affanno,</l>
         <l n="59">Rigide balze, i luttuosi accenti</l>
         <l n="60">Voi negletti ferìr mentre le vostre</l>
         <l n="61">Paurose latebre Eco solinga,</l>

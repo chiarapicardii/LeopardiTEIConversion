@@ -66,7 +66,7 @@
         <l n="13">Numi e l’averno accusa,</l>
         <l n="14">E di feroci note</l>
         <l n="15">Invan la sonnolenta aura percote.</l>
-        <l n="16">Stolta virtù, le cave <app><lem wit="#F31">nebbie, i campi</lem><rdg wit="#B24 #B26 #N35 #R18">Nebbie,... scole,</rdg></app></l>
+        <l n="16" rend="indent">Stolta virtù, le cave <app><lem wit="#F31">nebbie, i campi</lem><rdg wit="#B24 #B26 #N35 #R18">Nebbie,... scole,</rdg></app></l>
         <l n="17"><app><lem wit="#F31">De l’inquiete larve</lem><rdg wit="#B24 #B26 #N35 #R18">Nebbie,... scole,</rdg></app></l>
         </lg>
       </div>

@@ -55,7 +55,7 @@
         <l n="43">Quando <app><lem wit="#F31">ne l’alto</lem><rdg wit="#B24 #B26 #N35 #R18">Nell’alto</rdg></app> lato</l>
         <l n="44">L’amaro ferro intride,</l>
         <l n="45">E maligno <app><lem wit="#F31">a le</lem><rdg wit="#B24 #B26 #N35 #R18">Alle nere</rdg></app> nere ombre sorride.</l>
-        <l n="46">Spiace <app><lem wit="#F31">a gli</lem><rdg wit="#B24 #B26 #N35 #R18">Agli dei</rdg></app> Dei chi violento <app><lem wit="#F31">irrompe</lem><rdg wit="#B24 #B26 #N35 #R18">Irrompe</rdg></app></l>
+        <l n="46" rend="indent">Spiace <app><lem wit="#F31">a gli</lem><rdg wit="#B24 #B26 #N35 #R18">Agli dei</rdg></app> Dei chi violento <app><lem wit="#F31">irrompe</lem><rdg wit="#B24 #B26 #N35 #R18">Irrompe</rdg></app></l>
         <l n="47">Nel Tartaro. Non <app><lem wit="#F31">fora</lem><rdg wit="#B24 #B26 #N35 #R18">Non fora</rdg></app></l>
         <l n="48">Tanto valor ne’ molli eterni petti.</l>
         <l n="49">Forse <app><lem wit="#F31">i travagli nostri</lem><rdg wit="#B24 #B26 #N35 #R18">I travagli nostri</rdg></app>, e forse il <app><lem wit="#F31">cielo</lem><rdg wit="#B24 #B26 #N35 #R18">Forse il cielo</rdg></app></l>
@@ -70,7 +70,7 @@
         <l n="58">Quando <app><lem wit="#F31">gl’infausti giorni</lem><rdg wit="#B24 #B26 #N35 #R18">Gl’infausti giorni</rdg></app></l>
         <l n="59">Virile alma ricusa,</l>
         <l n="60">Riede <app><lem wit="#F31">natura</lem><rdg wit="#B24 #B26 #N35 #R18">Riede natura</rdg></app>, e <app><lem wit="#F31">’l</lem><rdg wit="#B24 #B26 #N35 #R18">Il non suo</rdg></app> non suo dardo accusa?</l>
-        <l n="61">Di colpa ignare e <app><lem wit="#F31">di</lem><rdg wit="#B24 #B26 #N35 #R18">De’ lor</rdg></app> lor <app><lem wit="#F31">proprii</lem><rdg wit="#B24 #B26 #N35 #R18">Propri</rdg></app> danni</l>
+        <l n="61" rend="indent">Di colpa ignare e <app><lem wit="#F31">di</lem><rdg wit="#B24 #B26 #N35 #R18">De’ lor</rdg></app> lor <app><lem wit="#F31">proprii</lem><rdg wit="#B24 #B26 #N35 #R18">Propri</rdg></app> danni</l>
         <l n="62">Le fortunate belve</l>
         <l n="63">Serena adduce al non previsto passo</l>
         <l n="64">La tarda età. Ma se spezzar la fronte</l>

@@ -53,7 +53,7 @@
         <lg>
 <l n="84">E di servaggio <app><lem wit="#F31">a l’odiata</lem><rdg wit="#B24 #B26 #N35 #R18">All’odiata</rdg></app> soma</l>
         <l n="85">Volenteroso il prode animo addisse.</l>
-        <l n="86">Fu certo, fu (nè d’error vano e d’ombra</l>
+        <l n="86" rend="indent">Fu certo, fu (nè d’error vano e d’ombra</l>
         <l n="87">L’aonio canto e <app><lem wit="#F31">de la</lem><rdg wit="#B24 #B26 #N35 #R18">Della fama il grido</rdg></app> fama il grido</l>
         <l n="88">Pasce l’avida plebe) amica un tempo</l>
         <l n="89">Al sangue nostro e dilettosa e cara</l>
@@ -70,7 +70,7 @@
         <l n="100">Valse l’ameno error, <app><lem wit="#F31">le fraudi, il molle</lem><rdg wit="#B24 #B26 #N35 #R18">Fraudi, il molle</rdg></app></l>
         <l n="101">Pristino velo; e di sperar contenta</l>
         <l n="102">Nostra placida nave in porto ascese.</l>
-        <l n="103">Tal fra le vaste californie selve</l>
+        <l n="103" rend="indent">Tal fra le vaste californie selve</l>
         <l n="104">Nasce beata prole, a cui non sugge</l>
         <l n="105">Pallida cura il petto, a cui le membra</l>
         <l n="106">Fera tabe non <app><lem wit="#F31">dóma</lem><rdg wit="#B24 #B26 #N35 #R18">Doma</rdg></app>, e vitto il bosco,</l>

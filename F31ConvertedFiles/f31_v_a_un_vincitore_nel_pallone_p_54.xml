@@ -61,7 +61,7 @@
         <l n="24"><app><lem wit="#F31">Ne le</lem><rdg wit="#B24 #B26 #N35 #R18">Nelle pallide</rdg></app> pallide torme; onde sonaro</l>
         <l n="25">Di sconsolato grido</l>
         <l n="26"><app><lem wit="#F31">Gli alti gorghi d’</lem><rdg wit="#B24 #B26 #N35 #R18">L’alto sen dell’</rdg></app> Eufrate <app><lem wit="#F31">e ’l</lem><rdg wit="#B24 #B26 #N35 #R18">e il servo</rdg></app> servo lido.</l>
-        <l n="27">Vano dirai quel che disserra e scote</l>
+        <l n="27" rend="indent">Vano dirai quel che disserra e scote</l>
         <l n="28"><app><lem wit="#F31">De la</lem><rdg wit="#B24 #B26 #N35 #R18">Della virtù</rdg></app> virtù nativa</l>
         <l n="29">Le riposte faville? e che del fioco</l>
         <l n="30">Spirto vital <app><lem wit="#F31">ne gli</lem><rdg wit="#B24 #B26 #N35 #R18">negli egri</rdg></app> egri petti avviva</l>
@@ -74,7 +74,7 @@
         <l n="37">Costume <app><lem wit="#F31">a i</lem><rdg wit="#B24 #B26 #N35 #R18">ai forti</rdg></app> forti errori esca non porse,</l>
         <l n="38"><app><lem wit="#F31">Ne gli</lem><rdg wit="#B24 #B26 #N35 #R18">Negli ozi</rdg></app> ozi <app><lem wit="#F31">infermi</lem><rdg wit="#B24 #B26 #N35 #R18">oscuri</rdg></app> e nudi</l>
         <l n="39">Mutò la gente i gloriosi studi.</l>
-        <l n="40">Tempo forse verrà ch’<app><lem wit="#F31">a le</lem><rdg wit="#B24 #B26 #N35 #R18">ch’alle</rdg></app> ruine</l>
+        <l n="40" rend="indent">Tempo forse verrà ch’<app><lem wit="#F31">a le</lem><rdg wit="#B24 #B26 #N35 #R18">ch’alle</rdg></app> ruine</l>
         </lg>
       </div>
     </body>
