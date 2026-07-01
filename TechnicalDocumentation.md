@@ -105,7 +105,7 @@ text = re.sub(
     lambda m: avoid_repetition_apparatus(
         clean(m.group(3)),  # lemma
         clean(m.group(2)),  # reading
-        f"#{m.group(1)}",   # witness sigla
+        f"#{m.group(1)}",   # witness acronym
     ),
     text, flags=re.DOTALL
 )
