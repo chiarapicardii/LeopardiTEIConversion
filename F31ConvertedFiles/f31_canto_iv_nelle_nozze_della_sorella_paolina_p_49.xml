@@ -55,7 +55,7 @@
         <l n="43">Menti, e le voglie indegne,</l>
         <l n="44">E di nervi e di polpe</l>
         <l n="45">Scemo il valor <app><lem wit="#F31">natio</lem><rdg wit="#B24 #N35">valor natio,</rdg></app> son vostre colpe?</l>
-        <l n="46"><app><lem wit="#F31">A gli</lem><rdg wit="#B24 #N35">Ad atti</rdg></app> atti egregi è sprone</l>
+        <l n="46" rend="indent"><app><lem wit="#F31">A gli</lem><rdg wit="#B24 #N35">Ad atti</rdg></app> atti egregi è sprone</l>
         <l n="47">Amor, chi ben l’estima, e d’alto affetto</l>
         <l n="48">Maestra è la beltà. D’amor digiuna</l>
         <l n="49">Siede l’alma di quello a cui nel petto</l>
@@ -70,7 +70,7 @@
         <l n="58">Odio mova e disdegno;</l>
         <l n="59">Se nel femmineo core</l>
         <l n="60">D’uomini <app><lem wit="#F31">ardea</lem><rdg wit="#B24 #N35">ardea,</rdg></app> non di <app><lem wit="#F31">fanciulle</lem><rdg wit="#B24 #N35">fanciulle,</rdg></app> amore.</l>
-        <l n="61">Madri d’imbelle prole</l>
+        <l n="61" rend="indent">Madri d’imbelle prole</l>
         <l n="62">V’incresca esser nomate. I danni <app><lem wit="#F31">e ’l</lem><rdg wit="#B24 #N35">e il pianto</rdg></app> pianto</l>
         </lg>
       </div>

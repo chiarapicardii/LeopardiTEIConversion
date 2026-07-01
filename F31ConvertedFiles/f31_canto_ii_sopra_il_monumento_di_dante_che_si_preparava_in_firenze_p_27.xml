@@ -67,7 +67,7 @@
         <l n="100">Ma non la più recente e la più fera,</l>
         <l n="101">Per cui presso <app><lem wit="#F31">a le</lem><rdg wit="#B24 #N35 #R18">alle soglie</rdg></app> soglie</l>
         <l n="102">Vide <app><lem wit="#F31">la patria mia</lem><rdg wit="#B24 #N35 #R18">la patria tua</rdg></app> l’ultima sera .</l>
-        <l n="103">Beato te <app><lem wit="#F31">che ’l</lem><rdg wit="#B24 #N35 #R18">che il fato</rdg></app> fato</l>
+        <l n="103" rend="indent">Beato te <app><lem wit="#F31">che ’l</lem><rdg wit="#B24 #N35 #R18">che il fato</rdg></app> fato</l>
         <l n="104">A viver non dannò fra tanto orrore;</l>
         <l n="105">Che non vedesti in braccio</l>
         <l n="106">L’itala moglie a barbaro soldato;</l>

@@ -53,7 +53,7 @@
 <l n="134">Pugnò, cadde gran parte anche di noi:</l>
         <l n="135">Ma per la moribonda</l>
         <l n="136">Italia no; per li tiranni suoi.</l>
-        <l n="137">Padre, se non ti sdegni,</l>
+        <l n="137" rend="indent">Padre, se non ti sdegni,</l>
         <l n="138"><app><lem wit="#F31">Mutato se’</lem><rdg wit="#B24 #N35 #R18">Mutato sei</rdg></app> da quel che fosti in terra.</l>
         <l n="139">Morian per le rutene</l>
         <l n="140">Squallide piagge, ahi d’altra morte degni,</l>
@@ -70,7 +70,7 @@
         <l n="151">Quando più bella a noi l’età sorride,</l>
         <l n="152">A tutto il mondo ignoti,</l>
         <l n="153">Moriam per quella gente che t’uccide.</l>
-        <l n="154"><app><lem wit="#F31">Di lor querela il boreal deserto</lem><rdg wit="#B24 #N35 #R18">Di lor... sibilanti</rdg></app></l>
+        <l n="154" rend="indent"><app><lem wit="#F31">Di lor querela il boreal deserto</lem><rdg wit="#B24 #N35 #R18">Di lor... sibilanti</rdg></app></l>
         <l n="155"><app><lem wit="#F31">E conscie fur le sibilanti</lem><rdg wit="#B24 #N35 #R18">Di lor... sibilanti</rdg></app> selve.</l>
         <l n="156">Così vennero al passo,</l>
         </lg>

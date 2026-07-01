@@ -62,7 +62,7 @@
         <l n="9">Or leve intra la gente</l>
         <l n="10">Anima voli? o te la sorte <app><lem wit="#F31">avara,</lem><rdg wit="#B24 #B26 #N35 #R18">Avara</rdg></app></l>
         <l n="11">Ch’a noi t’asconde, <app><lem wit="#F31">a gli</lem><rdg wit="#B24 #B26 #N35 #R18">Agli avvenir</rdg></app> avvenir prepara?</l>
-        <l n="12">Viva mirarti omai</l>
+        <l n="12" rend="indent">Viva mirarti omai</l>
         <l n="13">Nulla spene m’avanza;</l>
         <l n="14">S’allor non fosse, allor <app><lem wit="#F31">che</lem><rdg wit="#B24 #B26 #N35 #R18">Che</rdg></app> ignudo e solo</l>
         <l n="15">Per novo calle a peregrina stanza</l>

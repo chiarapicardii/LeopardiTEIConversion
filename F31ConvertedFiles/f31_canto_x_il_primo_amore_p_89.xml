@@ -50,17 +50,17 @@
                 <head>CANTO X. Il primo amore.</head>
         <lg>
 <l n="91">E quel di non aver goduto appieno</l>
-        <l n="92">Pentimento, che l’anima ci grava,</l>
-        <l n="93">E <app><lem wit="#F31">’l</lem><rdg wit="#B26 #N35">e il piacer</rdg></app> piacer che passò cangia in veleno,</l>
+        <l n="92" rend="indent">Pentimento, che l’anima ci grava,</l>
+        <l n="93" rend="indent">E <app><lem wit="#F31">’l</lem><rdg wit="#B26 #N35">e il piacer</rdg></app> piacer che passò cangia in veleno,</l>
         <l n="94">Per li fuggiti dì mi stimolava</l>
-        <l n="95">Tuttora il sen: <app><lem wit="#F31">chè la vergogna</lem><rdg wit="#B26 #N35">che la vergogna</rdg></app> il duro</l>
-        <l n="96">Suo morso in questo cor già non oprava.</l>
+        <l n="95" rend="indent">Tuttora il sen: <app><lem wit="#F31">chè la vergogna</lem><rdg wit="#B26 #N35">che la vergogna</rdg></app> il duro</l>
+        <l n="96" rend="indent">Suo morso in questo cor già non oprava.</l>
         <l n="97">Al cielo, a voi, gentili anime, io giuro</l>
-        <l n="98">Che voglia non m’entrò bassa nel petto,</l>
-        <l n="99">Ch’arsi di foco intaminato e puro.</l>
+        <l n="98" rend="indent">Che voglia non m’entrò bassa nel petto,</l>
+        <l n="99" rend="indent">Ch’arsi di foco intaminato e puro.</l>
         <l n="100">Vive quel foco ancor, vive l’affetto,</l>
-        <l n="101">Spira nel pensier mio la bella imago,</l>
-        <l n="102">Da cui, se non celeste, altro diletto</l>
+        <l n="101" rend="indent">Spira nel pensier mio la bella imago,</l>
+        <l n="102" rend="indent">Da cui, se non celeste, altro diletto</l>
         <l n="103">Giammai non ebbi, e sol di lei m’appago.</l>
         </lg>
       </div>

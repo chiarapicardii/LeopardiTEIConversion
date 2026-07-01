@@ -51,27 +51,27 @@
         <pb n="128" facs="#F31128"/>
                 <head>CANTO XVIII Il risorgimento</head>
         <lg>
-<l n="65">D’ogni dolcezza vedovo,</l>
+<l n="65" rend="indent">D’ogni dolcezza vedovo,</l>
         <l n="66">Tristo; ma non turbato,</l>
         <l n="67">Ma placido il mio stato,</l>
         <l n="68">Il volto era seren.</l>
-        <l n="69">Desiderato il termine</l>
+        <l n="69" rend="indent">Desiderato il termine</l>
         <l n="70">Avrei del viver mio;</l>
         <l n="71">Ma spento era il desio</l>
         <l n="72"><app><lem wit="#F31">Ne lo</lem><rdg wit="#B24 #B26 #N35 #R18">Nello</rdg></app> spossato sen.</l>
-        <l n="73">Qual <app><lem wit="#F31">de l’età</lem><rdg wit="#B24 #B26 #N35 #R18">dell’età</rdg></app> decrepita</l>
+        <l n="73" rend="indent">Qual <app><lem wit="#F31">de l’età</lem><rdg wit="#B24 #B26 #N35 #R18">dell’età</rdg></app> decrepita</l>
         <l n="74">L’avanzo ignudo e vile,</l>
         <l n="75">Io conducea l’aprile</l>
         <l n="76"><app><lem wit="#F31">De gli</lem><rdg wit="#B24 #B26 #N35 #R18">Degli anni miei</rdg></app> anni miei così:</l>
-        <l n="77">Così quegl’ineffabili</l>
+        <l n="77" rend="indent">Così quegl’ineffabili</l>
         <l n="78">Giorni, o mio cor, traevi,</l>
         <l n="79">Che sì fugaci e brevi</l>
         <l n="80">Il cielo a noi sortì.</l>
-        <l n="81">Chi <app><lem wit="#F31">da la</lem><rdg wit="#B24 #B26 #N35 #R18">dalla grave</rdg></app> grave, immemore</l>
+        <l n="81" rend="indent">Chi <app><lem wit="#F31">da la</lem><rdg wit="#B24 #B26 #N35 #R18">dalla grave</rdg></app> grave, immemore</l>
         <l n="82">Quiete or mi ridesta?</l>
         <l n="83">Che virtù nova è questa,</l>
         <l n="84">Questa che sento in me?</l>
-        <l n="85">Moti soavi, immagini,</l>
+        <l n="85" rend="indent">Moti soavi, immagini,</l>
         <l n="86">Palpiti, error beato,</l>
         <l n="87">Per sempre a voi negato</l>
         <l n="88">Questo mio cor non è?</l>

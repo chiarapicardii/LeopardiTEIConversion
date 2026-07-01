@@ -53,7 +53,7 @@
 <l n="15">Volgiti e ti vergogna e ti riscuoti,</l>
         <l n="16">E ti punga una volta</l>
         <l n="17">Pensier <app><lem wit="#F31">de gli</lem><rdg wit="#B24 #N35 #R18">degli avi nostri</rdg></app> avi nostri e de’ <app><lem wit="#F31">nipoti</lem><rdg wit="#B24 #N35 #R18">nepoti</rdg></app>.</l>
-        <l n="18">D’aria e d’ingegno e di parlar diverso</l>
+        <l n="18" rend="indent">D’aria e d’ingegno e di parlar diverso</l>
         <l n="19">Per lo toscano suol cercando gia</l>
         <l n="20">L’ospite desioso</l>
         <l n="21">Dove giaccia colui per lo cui verso</l>
@@ -70,7 +70,7 @@
         <l n="32">Bell’opra hai tolta e di ch’amor ti rende,</l>
         <l n="33">Schiera prode e cortese,</l>
         <l n="34">Qualunque petto amor d’Italia accende.</l>
-        <l n="35">Amor d’Italia, o cari,</l>
+        <l n="35" rend="indent">Amor d’Italia, o cari,</l>
         <l n="36">Amor di questa misera vi sproni,</l>
         <l n="37">Ver cui pietade è morta</l>
         </lg>
