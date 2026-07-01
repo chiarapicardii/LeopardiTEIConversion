@@ -47,6 +47,7 @@ for key, text in data.items():
 If a canto page declares no witnesses, the script falls back to the full global witness set:
 
 ```python
+#current_witnesses = canto_witnesses.get(canto_key, [])
 if not current_witnesses or current_witnesses == [main_witness]:
     body_witnesses = body_fallback_witnesses
     head_witnesses = sorted(list(set(head_fallback_witnesses + [main_witness])))
