@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>IV. Nelle nozze della sorella Paolina</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoding and conversion by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>LeopardiTEIConversion project</publisher>
+          <date when="2026">2026</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <title>Wikileopardi</title>
+            <date>2020</date>
+            <note>Corpus of Canti extracted from Wikileopardi's platform.</note>
+          </bibl>
+        <listWit>
+          <witness xml:id="B24">B24</witness>
+          <witness xml:id="F31">F31</witness>
+          <witness xml:id="N35">N35</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <projectDesc>
+            <p>This project aims at standardizing the text and critical apparatus of Leopardi's Canti.</p>
+        </projectDesc>
+      </encodingDesc>
+    </teiHeader>
+
+  <facsimile>
+    <surface xml:id="F31047">
+      <graphic url="./assets/img/F31047.JPG"/>
+    </surface>
+    <surface xml:id="F31048">
+      <graphic url="./assets/img/F31048.JPG"/>
+    </surface>
+    <surface xml:id="F31049">
+      <graphic url="./assets/img/F31049.JPG"/>
+    </surface>
+    <surface xml:id="F31050">
+      <graphic url="./assets/img/F31050.JPG"/>
+    </surface>
+    <surface xml:id="F31051">
+      <graphic url="./assets/img/F31051.JPG"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="poem" xml:id="canto_iv_nelle_nozze_della_sorella_paolina">
+        <head>IV. Nelle nozze della sorella Paolina</head>
+        <lg>
+          <pb n="47" facs="#F31047"/>
+        <l n="1">Poi che del patrio nido</l>
+        <l n="2">I silenzi lasciando, e le beate</l>
+        <l n="3">Larve e l’antico error, celeste dono,</l>
+        <l n="4">Ch’abbella <app><lem wit="#F31">a gli</lem><rdg wit="#B24 #N35">agli</rdg></app> occhi tuoi quest’ermo lido,</l>
+        <l n="5">Te <app><lem wit="#F31">ne la</lem><rdg wit="#B24 #N35">nella</rdg></app> polve <app><lem wit="#F31">de la</lem><rdg wit="#B24 #N35">della</rdg></app> vita <app><lem wit="#F31">e ’l</lem><rdg wit="#B24 #N35">e il</rdg></app> suono</l>
+        <l n="6">Tragge il destin; l’obbrobriosa etate</l>
+        <l n="7"><app><lem wit="#F31">Che ’l</lem><rdg wit="#B24 #N35">Che il</rdg></app> duro cielo a noi prescrisse impara,</l>
+        <l n="8">Sorella mia, che in gravi</l>
+        <l n="9">E luttuosi tempi</l>
+        <l n="10">L’infelice famiglia <app><lem wit="#F31">a l’infelice</lem><rdg wit="#B24 #N35">all’infelice</rdg></app></l>
+        <l n="11">Italia accrescerai. Di forti esempi</l>
+        <l n="12">Al tuo sangue provvedi. Aure soavi</l>
+        <l n="13">L’empio fato interdice</l>
+        <l n="14"><app><lem wit="#F31">A l’umana</lem><rdg wit="#B24 #N35">All’umana</rdg></app> virtude,</l>
+        <l n="15">Nè pura in gracil petto alma si chiude.</l>
+          <pb n="48" facs="#F31048"/>
+        <l n="16" rend="indent">O miseri o codardi</l>
+        <l n="17">Figliuoli avrai. Miseri eleggi. Immenso</l>
+        <l n="18">Tra fortuna e valor dissidio pose</l>
+        <l n="19">Il corrotto costume. Ahi troppo tardi,</l>
+        <l n="20">E <app><lem wit="#F31">ne la</lem><rdg wit="#B24 #N35">nella</rdg></app> sera <app><lem wit="#F31">de l’umane</lem><rdg wit="#B24 #N35">dell’umane cose</rdg></app><app><lem wit="#F31">cose,</lem><rdg wit="#B24 #N35">umane cose,</rdg></app></l>
+        <l n="21">Acquista oggi chi nasce il moto <app><lem wit="#F31">e ’l</lem><rdg wit="#B24 #N35">e il</rdg></app> senso.</l>
+        <l n="22">Al <app><lem wit="#F31">ciel</lem><rdg wit="#B24 #N35">ciel</rdg></app> ne caglia: a te nel petto sieda</l>
+        <l n="23">Questa sovr’ogni cura,</l>
+        <l n="24">Che di fortuna amici</l>
+        <l n="25">Non crescano i tuoi figli, e non di vile</l>
+        <l n="26">Timor gioco o di speme: onde felici</l>
+        <l n="27">Sarete detti <app><lem wit="#F31">ne l’età</lem><rdg wit="#B24 #N35">nell’età</rdg></app> futura:</l>
+        <l n="28">Poichè (nefando stile,</l>
+        <l n="29">Di schiatta ignava e finta)</l>
+        <l n="30">Virtù viva <app><lem wit="#F31">spregiam,</lem><rdg wit="#B24 #N35">sprezziam,</rdg></app> lodiamo estinta.</l>
+        <l n="31" rend="indent">Donne, da voi non poco</l>
+        <l n="32">La patria <app><lem wit="#F31">aspetta,</lem><rdg wit="#B24 #N35">aspetta;</rdg></app> e non in danno e scorno</l>
+        <l n="33"><app><lem wit="#F31">De l’umana progenie</lem><rdg wit="#B24 #N35">Dell’umana progenie</rdg></app> al dolce raggio</l>
+        <l n="34"><app><lem wit="#F31">De le</lem><rdg wit="#B24 #N35">Delle</rdg></app> pupille vostre il ferro <app><lem wit="#F31">e ’l</lem><rdg wit="#B24 #N35">e il</rdg></app> foco</l>
+        <l n="35">Domar fu dato. A senno vostro il saggio</l>
+        <l n="36"><app><lem wit="#F31">E ’l</lem><rdg wit="#B24 #N35">E il</rdg></app> forte adopra e pensa; e quanto il giorno</l>
+        <l n="37">Col divo carro accerchia, a voi s’inchina.</l>
+        <l n="38">Ragion di nostra etate</l>
+        <l n="39">Io chieggo a voi. La santa</l>
+          <pb n="49" facs="#F31049"/>
+        <l n="40">Fiamma di gioventù dunque si spegne</l>
+        <l n="41">Per vostra mano? attenuata e franta</l>
+        <l n="42">Da voi nostra natura? e le assonnate</l>
+        <l n="43">Menti, e le voglie indegne,</l>
+        <l n="44">E di nervi e di polpe</l>
+        <l n="45">Scemo il valor <app><lem wit="#F31">natio</lem><rdg wit="#B24 #N35">valor natio,</rdg></app> son vostre colpe?</l>
+        <l n="46" rend="indent"><app><lem wit="#F31">A gli</lem><rdg wit="#B24 #N35">Ad</rdg></app> atti egregi è sprone</l>
+        <l n="47">Amor, chi ben l’estima, e d’alto affetto</l>
+        <l n="48">Maestra è la beltà. D’amor digiuna</l>
+        <l n="49">Siede l’alma di quello a cui nel petto</l>
+        <l n="50"><app><lem wit="#F31">Non brilla, amando, il cor</lem><rdg wit="#B24 #N35">Non si rallegra il cor</rdg></app> quando a tenzone</l>
+        <l n="51">Scendono i venti, e quando nembi aduna</l>
+        <l n="52">L’olimpo, e fiede le montagne il rombo</l>
+        <l n="53"><app><lem wit="#F31">De la</lem><rdg wit="#B24 #N35">Della</rdg></app> procella. O spose,</l>
+        <l n="54">O verginette, a voi</l>
+        <l n="55">Chi de’ perigli è schivo, e quei che indegno</l>
+        <l n="56">È <app><lem wit="#F31">de la</lem><rdg wit="#B24 #N35">della</rdg></app> patria e che sue brame e suoi</l>
+        <l n="57">Volgari affetti in basso loco pose,</l>
+        <l n="58">Odio mova e disdegno;</l>
+        <l n="59">Se nel femmineo core</l>
+        <l n="60">D’uomini <app><lem wit="#F31">ardea</lem><rdg wit="#B24 #N35">ardea,</rdg></app> non di <app><lem wit="#F31">fanciulle</lem><rdg wit="#B24 #N35">fanciulle,</rdg></app> amore.</l>
+        <l n="61" rend="indent">Madri d’imbelle prole</l>
+        <l n="62">V’incresca esser nomate. I danni <app><lem wit="#F31">e ’l</lem><rdg wit="#B24 #N35">e il</rdg></app> pianto</l>
+          <pb n="50" facs="#F31050"/>
+        <l n="63"><app><lem wit="#F31">De la</lem><rdg wit="#B24 #N35">Della</rdg></app> virtude a tollerar s’avvezzi</l>
+        <l n="64">La stirpe vostra, e quel che pregia e cole</l>
+        <l n="65"><app><lem wit="#F31">Il vergognoso tempo</lem><rdg wit="#B24 #N35">La vergognosa età</rdg></app>, <app><lem wit="#F31">abborra</lem><rdg wit="#B24 #N35">condanni</rdg></app> e sprezzi;</l>
+        <l n="66">Cresca <app><lem wit="#F31">a la</lem><rdg wit="#B24 #N35">alla</rdg></app> patria, e gli alti gesti, e quanto</l>
+        <l n="67"><app><lem wit="#F31">A gli</lem><rdg wit="#B24 #N35">Agli</rdg></app> avi suoi deggia la terra impari.</l>
+        <l n="68">Qual de’ vetusti eroi</l>
+        <l n="69">Tra le memorie <app><lem wit="#F31">e ’l</lem><rdg wit="#B24 #N35">e il</rdg></app> grido</l>
+        <l n="70">Crescean di Sparta i figli al greco nome;</l>
+        <l n="71"><app><lem wit="#F31">Fin che</lem><rdg wit="#B24 #N35">Finchè</rdg></app> la sposa giovanetta il fido</l>
+        <l n="72">Brando cingeva al caro lato, e poi</l>
+        <l n="73">Spandea le negre chiome</l>
+        <l n="74">Sul corpo esangue e nudo</l>
+        <l n="75">Quando e’ reddia nel conservato scudo.</l>
+        <l n="76" rend="indent">Virginia, a te la molle</l>
+        <l n="77">Gota molcea con le celesti dita</l>
+        <l n="78">Beltade onnipossente, e <app><lem wit="#F31">de gli</lem><rdg wit="#B24 #N35">degli</rdg></app> alteri</l>
+        <l n="79">Disdegni tuoi si sconsolava il folle</l>
+        <l n="80">Signor di Roma. Eri pur vaga, ed eri</l>
+        <l n="81"><app><lem wit="#F31">Ne la</lem><rdg wit="#B24 #N35">Nella</rdg></app> stagion <app><lem wit="#F31">ch’ a i</lem><rdg wit="#B24 #N35">ch’ ai</rdg></app> dolci sogni invita,</l>
+        <l n="82">Quando il rozzo paterno acciar ti ruppe</l>
+        <l n="83">Il bianchissimo petto,</l>
+        <l n="84">E <app><lem wit="#F31">a l’Erebo</lem><rdg wit="#B24 #N35">all’Erebo</rdg></app> scendesti</l>
+        <l n="85">Volonterosa. A me disfiori e scioglia</l>
+        <l n="86">Vecchiezza i membri, o padre; a me s’appresti,</l>
+          <pb n="51" facs="#F31051"/>
+        <l n="87">Dicea, la <app><lem wit="#F31">tomba</lem><rdg wit="#B24 #N35">tomba,</rdg></app> anzi che l’empio letto</l>
+        <l n="88">Del tiranno m’accoglia.</l>
+        <l n="89">E se pur vita e lena</l>
+        <l n="90">Roma avrà dal mio sangue, e tu mi svena.</l>
+        <l n="91" rend="indent">O generosa, ancora</l>
+        <l n="92">Che più bello a’ tuoi dì splendesse il sole</l>
+        <l n="93">Ch’oggi non fa, pur consolata e paga</l>
+        <l n="94">È quella tomba cui di pianto onora</l>
+        <l n="95">L’alma terra nativa. Ecco <app><lem wit="#F31">a la</lem><rdg wit="#B24 #N35">alla</rdg></app> vaga</l>
+        <l n="96">Tua spoglia intorno la romulea prole</l>
+        <l n="97">Di nova ira sfavilla. Ecco di polve</l>
+        <l n="98">Lorda il tiranno i <app><lem wit="#F31">crini,</lem><rdg wit="#B24 #N35">crini;</rdg></app></l>
+        <l n="99">E libertade avvampa</l>
+        <l n="100">Gli obbliviosi <app><lem wit="#F31">petti,</lem><rdg wit="#B24 #N35">petti;</rdg></app> e <app><lem wit="#F31">ne la</lem><rdg wit="#B24 #N35">nella</rdg></app> doma</l>
+        <l n="101">Terra il marte latino arduo s’accampa</l>
+        <l n="102">Dal buio polo <app><lem wit="#F31">a i</lem><rdg wit="#B24 #N35">ai</rdg></app> torridi confini.</l>
+        <l n="103">Così l’eterna Roma</l>
+        <l n="104"><app><lem wit="#F31">In</lem><rdg wit="#B24 #N35">In</rdg></app> duri ozi sepolta</l>
+        <l n="105"><app><lem wit="#F31">Femineo</lem><rdg wit="#B24 #N35">Femmineo</rdg></app> fato avviva un’altra volta.</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

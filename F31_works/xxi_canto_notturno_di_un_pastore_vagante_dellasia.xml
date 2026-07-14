@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>XXI. CANTO NOTTURNO DI UN PASTORE VAGANTE DELL'ASIA</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoding and conversion by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>LeopardiTEIConversion project</publisher>
+          <date when="2026">2026</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <title>Wikileopardi</title>
+            <date>2020</date>
+            <note>Corpus of Canti extracted from Wikileopardi's platform.</note>
+          </bibl>
+        <listWit>
+          <witness xml:id="F31">F31</witness>
+          <witness xml:id="N35">N35</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <projectDesc>
+            <p>This project aims at standardizing the text and critical apparatus of Leopardi's Canti.</p>
+        </projectDesc>
+      </encodingDesc>
+    </teiHeader>
+
+  <facsimile>
+    <surface xml:id="F31145">
+      <graphic url="./assets/img/F31145.JPG"/>
+    </surface>
+    <surface xml:id="F31146">
+      <graphic url="./assets/img/F31146.JPG"/>
+    </surface>
+    <surface xml:id="F31147">
+      <graphic url="./assets/img/F31147.JPG"/>
+    </surface>
+    <surface xml:id="F31148">
+      <graphic url="./assets/img/F31148.JPG"/>
+    </surface>
+    <surface xml:id="F31149">
+      <graphic url="./assets/img/F31149.JPG"/>
+    </surface>
+    <surface xml:id="F31150">
+      <graphic url="./assets/img/F31150.JPG"/>
+    </surface>
+    <surface xml:id="F31151">
+      <graphic url="./assets/img/F31151.JPG"/>
+    </surface>
+    <surface xml:id="F31153">
+      <graphic url="./assets/img/F31153.JPG"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="poem" xml:id="xxi_canto_notturno_di_un_pastore_vagante_dellasia">
+        <head>XXI. CANTO NOTTURNO DI UN PASTORE VAGANTE DELL'ASIA</head>
+        <lg>
+          <pb n="145" facs="#F31145"/>
+        <l>.</l>
+        <l n="1">Che fai tu, luna, in ciel? dimmi, che fai,</l>
+        <l n="2">Silenziosa luna?</l>
+        <l n="3">Sorgi la sera, e vai,</l>
+        <l n="4">Contemplando i deserti; indi ti posi.</l>
+        <l n="5">Ancor non sei tu paga</l>
+        <l n="6">Di riandare i sempiterni calli?</l>
+        <l n="7">Ancor non prendi a schivo, ancor sei vaga</l>
+        <l n="8">Di mirar queste valli?</l>
+        <l n="9">Somiglia <app><lem wit="#F31">a la</lem><rdg wit="#N35">alla</rdg></app> tua vita</l>
+        <l n="10">La vita del pastore.</l>
+        <l n="11">Sorge in sul primo albore</l>
+        <l n="12">Move la greggia oltre pel campo, e vede</l>
+        <l n="13">Greggi, fontane ed erbe;</l>
+        <l n="14">Poi stanco si riposa in su la sera:</l>
+        <l n="15">Altro <app><lem wit="#F31">pur</lem><rdg wit="#N35">mai</rdg></app> non ispera.</l>
+        <l n="16">Dimmi, o luna: a che vale</l>
+        <l n="17">Al pastor la sua vita,</l>
+          <pb n="146" facs="#F31146"/>
+        <l n="18">La vostra vita a voi? dimmi: ove tende</l>
+        <l n="19">Questo vagar mio breve,</l>
+        <l n="20">Il tuo corso immortale?</l>
+        <l n="21" rend="indent">Vecchierel bianco, infermo,</l>
+        <l n="22">Mezzo vestito e scalzo,</l>
+        <l n="23">Con gravissimo fascio in su le spalle,</l>
+        <l n="24">Per montagna e per valle,</l>
+        <l n="25">Per sassi acuti, ed alta rena, e fratte,</l>
+        <l n="26">Al vento, <app><lem wit="#F31">a la</lem><rdg wit="#N35">alla</rdg></app> tempesta, e quando avvampa</l>
+        <l n="27">L’ora, e quando poi gela,</l>
+        <l n="28">Corre via, corre, anela,</l>
+        <l n="29">Varca torrenti e stagni,</l>
+        <l n="30">Cade, risorge, e più e più s’affretta,</l>
+        <l n="31">Senza posa o ristoro,</l>
+        <l n="32">Lacero, sanguinoso; infin ch’arriva</l>
+        <l n="33">Colà dove la via</l>
+        <l n="34">E dove il tanto affaticar fu volto:</l>
+        <l n="35">Abisso orrido, immenso,</l>
+        <l n="36">Ov’ei precipitando, il tutto obblia.</l>
+        <l n="37">Vergine luna, tale</l>
+        <l n="38">È la vita mortale.</l>
+        <l n="39" rend="indent">Nasce l’uomo a fatica,</l>
+        <l n="40">Ed è rischio di morte il nascimento.</l>
+          <pb n="147" facs="#F31147"/>
+        <l n="41">Prova pena e tormento</l>
+        <l n="42">Per prima cosa; e in sul principio stesso</l>
+        <l n="43">La madre e il genitore</l>
+        <l n="44">Il prende a consolar <app><lem wit="#F31">de l’esser</lem><rdg wit="#N35">dell’esser</rdg></app> nato.</l>
+        <l n="45">Poi che crescendo <app><lem wit="#F31">viene</lem><rdg wit="#N35">viene,</rdg></app></l>
+        <l n="46">L’uno e l’altro il sostiene, e via pur sempre</l>
+        <l n="47">Con atti e con parole</l>
+        <l n="48">Studiasi fargli <app><lem wit="#F31">core</lem><rdg wit="#N35">core,</rdg></app></l>
+        <l n="49">E consolarlo <app><lem wit="#F31">de l’umano</lem><rdg wit="#N35">dell’umano</rdg></app> stato:</l>
+        <l n="50">Altro <app><lem wit="#F31">officio</lem><rdg wit="#N35">ufficio</rdg></app> più grato</l>
+        <l n="51">Non si fa da parenti <app><lem wit="#F31">a la</lem><rdg wit="#N35">alla</rdg></app> lor prole.</l>
+        <l n="52">Ma perchè dare al sole,</l>
+        <l n="53">Perchè reggere in vita</l>
+        <l n="54">Chi poi di quella consolar convenga?</l>
+        <l n="55">Se la vita è sventura,</l>
+        <l n="56">Perchè da noi si dura?</l>
+        <l n="57">Intatta luna, tale</l>
+        <l n="58">È lo stato mortale.</l>
+        <l n="59">Ma tu mortal non sei,</l>
+        <l n="60">E forse del mio dir poco ti cale.</l>
+        <l n="61" rend="indent">Pur tu, solinga, eterna peregrina,</l>
+        <l n="62">Che sì pensosa sei, tu forse intendi,</l>
+        <l n="63">Questo viver terreno,</l>
+        <l n="64">Il patir nostro, il sospirar, che sia;</l>
+          <pb n="148" facs="#F31148"/>
+        <l n="65">Che sia questo morir, questo supremo</l>
+        <l n="66">Scolorar del sembiante,</l>
+        <l n="67">E perir <app><lem wit="#F31">da la</lem><rdg wit="#N35">dalla</rdg></app> terra, e venir meno</l>
+        <l n="68">Ad ogni usata, amante compagnia.</l>
+        <l n="69">E tu certo comprendi</l>
+        <l n="70">Il perchè <app><lem wit="#F31">de le</lem><rdg wit="#N35">delle</rdg></app> cose, e vedi il frutto</l>
+        <l n="71">Del mattin, <app><lem wit="#F31">de la</lem><rdg wit="#N35">della</rdg></app> sera,</l>
+        <l n="72">Del tacito, infinito andar del tempo.</l>
+        <l n="73">Tu sai, tu certo, a qual suo dolce amore</l>
+        <l n="74">Rida la primavera,</l>
+        <l n="75">A chi giovi l’ardore, e che procacci</l>
+        <l n="76">Il verno co’ suoi ghiacci.</l>
+        <l n="77">Mille cose sai tu, mille discopri,</l>
+        <l n="78">Che son celate al semplice pastore.</l>
+        <l n="79">Spesso quand’io ti miro</l>
+        <l n="80">Star così muta in sul deserto piano,</l>
+        <l n="81">Che, in suo giro lontano, al ciel confina;</l>
+        <l n="82">Ovver con la mia greggia</l>
+        <l n="83">Seguirmi viaggiando a mano a mano;</l>
+        <l n="84">E quando miro in <app><lem wit="#F31">ciel</lem><rdg wit="#N35">cielo</rdg></app> arder le stelle;</l>
+        <l n="85"><app><lem wit="#F31">Questi pensieri in mente</lem><rdg wit="#N35">Dico fra me pensando:</rdg></app></l>
+        <l n="86"><app><lem wit="#F31">Vo rivolgendo, assai gran tempo, e dico:</lem><rdg wit="#N35">Dico fra me pensando:</rdg></app></l>
+        <l n="87">A che tante facelle?</l>
+        <l n="88">Che fa l’aria infinita, e quel profondo</l>
+        <l n="89">Infinito seren? che vuol dir questa</l>
+          <pb n="149" facs="#F31149"/>
+        <l n="90">Solitudine immensa? ed io che sono?</l>
+        <l n="91">Così meco ragiono: e <app><lem wit="#F31">della</lem><rdg wit="#N35">della</rdg></app> stanza</l>
+        <l n="92">Smisurata e superba,</l>
+        <l n="93">E <app><lem wit="#F31">de l’innumerabile</lem><rdg wit="#N35">dell’ innumerabile</rdg></app> famiglia;</l>
+        <l n="94">Poi di tanto adoprar, di tanti moti</l>
+        <l n="95">D’ogni celeste, ogni terrena cosa,</l>
+        <l n="96">Girando senza posa,</l>
+        <l n="97">Per tornar sempre là donde son mosse;</l>
+        <l n="98">Uso alcuno, alcun frutto</l>
+        <l n="99">Indovinar non so. Ma tu per certo,</l>
+        <l n="100">Giovinetta immortal, conosci il tutto.</l>
+        <l n="101">Questo io conosco e sento,</l>
+        <l n="102">Che <app><lem wit="#F31">de gli</lem><rdg wit="#N35">degli</rdg></app> eterni giri,</l>
+        <l n="103">Che <app><lem wit="#F31">de l’esser</lem><rdg wit="#N35">dell’ esser</rdg></app> mio frale,</l>
+        <l n="104">Qualche bene o contento</l>
+        <l n="105">Avrà fors’altri; a me la vita è male.</l>
+        <l n="106" rend="indent">O greggia mia che posi, oh te beata,</l>
+        <l n="107">Che la miseria tua, credo, non sai!</l>
+        <l n="108">Quanta invidia ti porto!</l>
+        <l n="109">Non sol perchè d’affanno</l>
+        <l n="110">Quasi libera <app><lem wit="#F31">vai,</lem><rdg wit="#N35">vai;</rdg></app></l>
+        <l n="111">Ch’ogni stento, ogni danno,</l>
+        <l n="112">Ogni estremo timor subito scordi;</l>
+        <l n="113">Ma più perchè giammai tedio non provi.</l>
+          <pb n="150" facs="#F31150"/>
+        <l n="114">Quando tu siedi <app><lem wit="#F31">a l’ombra,</lem><rdg wit="#N35">all’ombra,</rdg></app> sovra l’erbe,</l>
+        <l n="115">Tu se’ queta e contenta;</l>
+        <l n="116">E gran parte <app><lem wit="#F31">de l’anno</lem><rdg wit="#N35">dell’anno</rdg></app></l>
+        <l n="117">Senza noia consumi in quello stato.</l>
+        <l n="118">Ed io pur seggo sovra l’erbe, <app><lem wit="#F31">a l’ombra,</lem><rdg wit="#N35">all’ombra,</rdg></app></l>
+        <l n="119">E un fastidio m’ingombra</l>
+        <l n="120">La mente, ed uno spron quasi mi punge</l>
+        <l n="121">Sì che, sedendo, più che mai son lunge</l>
+        <l n="122">Da trovar pace o loco.</l>
+        <l n="123">E per nulla non bramo,</l>
+        <l n="124">E non ho fino a qui cagion di pianto.</l>
+        <l n="125">Quel che tu goda o quanto,</l>
+        <l n="126">Non so già dir; ma fortunata sei.</l>
+        <l n="127">Ed io godo ancor poco,</l>
+        <l n="128">O greggia mia, nè di ciò sol mi lagno.</l>
+        <l n="129">Se tu parlar sapessi, io chiederei:</l>
+        <l n="130">Dimmi: perchè giacendo</l>
+        <l n="131">A bell’agio, ozioso,</l>
+        <l n="132">S’appaga ogni animale;</l>
+        <l n="133">Me, s’io giaccio in riposo, il tedio il tedio <app><lem wit="#F31">assale?</lem><rdg wit="#N35">assale (10)?</rdg></app></l>
+        <l n="134" rend="indent">Forse s’avess’io l’ale</l>
+        <l n="135">Da volar su le nubi,</l>
+        <l n="136">E noverar le stelle ad una ad una,</l>
+        <l n="137">O come il tuono errar di giogo in giogo,</l>
+          <pb n="151" facs="#F31151"/>
+        <l n="138">Più felice sarei, dolce mia greggia,</l>
+        <l n="139">Più felice sarei, candida luna.</l>
+        <l n="140">O forse erra dal vero,</l>
+        <l n="141">Mirando <app><lem wit="#F31">a l’altrui</lem><rdg wit="#N35">all’altrui</rdg></app> sorte, il mio pensiero:</l>
+        <l n="142">Forse in qual forma, in quale</l>
+        <l n="143">Stato che sia, dentro covile o cuna,</l>
+        <l n="144">È funesto a chi nasce il dì natale.</l>
+          <pb n="153" facs="#F31153"/>
+        <l>NOTA.  <hi rend="italic">Plusieurs d’entre eux</hi> (parla di una delle nazioni erranti dell’Asia) <hi rend="italic">passent la</hi> <hi rend="italic">nuit assis sur une pierre à regarder la</hi> <hi rend="italic">lune, et à improviser des paroles assez</hi> <hi rend="italic">tristes sur des airs qui ne le sont pas moins.</hi> Il Barone di Meyendorff, <hi rend="italic">Voyage d’Oren</hi><lb break="no"/><hi rend="italic">bourg à Boukhara, fait en</hi> 1820; appres</l>
+        <l>so il Giornale dei dotti, 1826, <hi rend="italic">septembre</hi>, <hi rend="italic">p</hi>. 518.</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

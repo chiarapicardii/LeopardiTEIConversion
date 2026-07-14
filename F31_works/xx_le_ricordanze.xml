@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>XX. LE RICORDANZE.</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoding and conversion by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>LeopardiTEIConversion project</publisher>
+          <date when="2026">2026</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <title>Wikileopardi</title>
+            <date>2020</date>
+            <note>Corpus of Canti extracted from Wikileopardi's platform.</note>
+          </bibl>
+        <listWit>
+          <witness xml:id="B20">B20</witness>
+          <witness xml:id="B24">B24</witness>
+          <witness xml:id="B26">B26</witness>
+          <witness xml:id="F31">F31</witness>
+          <witness xml:id="N35">N35</witness>
+          <witness xml:id="R18">R18</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <projectDesc>
+            <p>This project aims at standardizing the text and critical apparatus of Leopardi's Canti.</p>
+        </projectDesc>
+      </encodingDesc>
+    </teiHeader>
+
+  <facsimile>
+    <surface xml:id="F31137">
+      <graphic url="./assets/img/F31137.JPG"/>
+    </surface>
+    <surface xml:id="F31138">
+      <graphic url="./assets/img/F31138.JPG"/>
+    </surface>
+    <surface xml:id="F31139">
+      <graphic url="./assets/img/F31139.JPG"/>
+    </surface>
+    <surface xml:id="F31140">
+      <graphic url="./assets/img/F31140.JPG"/>
+    </surface>
+    <surface xml:id="F31141">
+      <graphic url="./assets/img/F31141.JPG"/>
+    </surface>
+    <surface xml:id="F31142">
+      <graphic url="./assets/img/F31142.JPG"/>
+    </surface>
+    <surface xml:id="F31143">
+      <graphic url="./assets/img/F31143.JPG"/>
+    </surface>
+    <surface xml:id="F31144">
+      <graphic url="./assets/img/F31144.JPG"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="poem" xml:id="xx_le_ricordanze">
+        <head>XX. LE RICORDANZE.</head>
+        <lg>
+          <pb n="137" facs="#F31137"/>
+        <l n="1">Vaghe stelle <app><lem wit="#F31">de l’</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">dell’</rdg></app> Orsa, io non credea</l>
+        <l n="2">Tornare ancor per uso a contemplarvi</l>
+        <l n="3">Sul paterno giardino scintillanti,</l>
+        <l n="4">E ragionar con voi <app><lem wit="#F31">da le fenestre</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">dalle finestre</rdg></app></l>
+        <l n="5">Di questo albergo ove abitai fanciullo,</l>
+        <l n="6">E <app><lem wit="#F31">de le</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">delle</rdg></app> gioie mie vidi la fine.</l>
+        <l n="7">Quante immagini un tempo, e quante fole</l>
+        <l n="8">Creommi nel pensier l’aspetto vostro</l>
+        <l n="9">E <app><lem wit="#F31">de le</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">delle</rdg></app> luci a voi compagne! allora</l>
+        <l n="10">Che, tacito, seduto in verde zolla,</l>
+        <l n="11"><app><lem wit="#F31">De la sera</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">Delle sere</rdg></app> io solea passar gran parte</l>
+        <l n="12">Mirando il cielo, ed ascoltando il canto</l>
+        <l n="13"><app><lem wit="#F31">De la</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">Della</rdg></app> rana rimota <app><lem wit="#F31">a la</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">alla</rdg></app> campagna!</l>
+        <l n="14">E la lucciola errava appo le siepi</l>
+        <l n="15">E in su l’aiuole, susurrando al vento</l>
+        <l n="16">I viali odorati, ed i cipressi</l>
+        <l n="17">Là <app><lem wit="#F31">ne la</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">nella</rdg></app> selva; e sotto al patrio tetto</l>
+        <l n="18">Sonavan voci alterne, e le tranquille</l>
+          <pb n="138" facs="#F31138"/>
+        <l n="19">Opre de’ servi. E che pensieri immensi,</l>
+        <l n="20">Che dolci sogni mi spirò la vista</l>
+        <l n="21">Di quel lontano mar, quei monti azzurri,</l>
+        <l n="22">Che di qua scopro, e che varcare un giorno</l>
+        <l n="23">Io mi pensava, arcani mondi, arcana</l>
+        <l n="24">Felicità fingendo al viver mio!</l>
+        <l n="25">Ignaro del mio fato, e quante volte</l>
+        <l n="26">Questa mia vita dolorosa e nuda</l>
+        <l n="27">Volentier con la morte avrei cangiato.</l>
+        <l n="28" rend="indent">Nè mi diceva il cor che l’età verde</l>
+        <l n="29">Sarei dannato a consumare in questo</l>
+        <l n="30">Natio borgo selvaggio, intra una gente</l>
+        <l n="31">Zotica, vil; cui nomi strani, e spesso</l>
+        <l n="32">Argomento di riso e di trastullo,</l>
+        <l n="33">Son dottrina e saper; che m’odia e fugge,</l>
+        <l n="34">Per invidia non già, <app><lem wit="#F31">chè</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">che</rdg></app> non mi tiene</l>
+        <l n="35">Maggior di se, ma perchè tale estima</l>
+        <l n="36">Ch’io mi tenga in cor mio, sebben di fuori</l>
+        <l n="37">A persona giammai non ne fo segno.</l>
+        <l n="38">Qui passo gli anni, abbandonato, occulto,</l>
+        <l n="39">Senz’amor, senza vita; ed aspro a forza</l>
+        <l n="40">Tra lo stuol de’ malevoli divengo:</l>
+        <l n="41">Qui di pietà mi spoglio e di virtudi,</l>
+        <l n="42">E sprezzator <app><lem wit="#F31">de gli</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">degli</rdg></app> uomini mi rendo,</l>
+        <l n="43">Per la greggia ch’ho appresso: e intanto vola</l>
+          <pb n="139" facs="#F31139"/>
+        <l n="44">Il caro tempo giovanil; più caro</l>
+        <l n="45">Che la fama e l’<app><lem wit="#F31">allòr</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">allor</rdg></app>, più che la pura</l>
+        <l n="46">Luce del giorno, e lo spirar: ti perdo</l>
+        <l n="47">Senza un diletto, inutilmente, in questo</l>
+        <l n="48">Soggiorno disumano, intra gli affanni,</l>
+        <l n="49">O <app><lem wit="#F31">de l’arida</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">dell’arida</rdg></app> vita unico fiore.</l>
+        <l n="50" rend="indent">Viene il vento recando il suon <app><lem wit="#F31">de l’ora</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">dell’ora</rdg></app></l>
+        <l n="51"><app><lem wit="#F31">Da la</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">Dalla</rdg></app> torre del borgo. Era conforto</l>
+        <l n="52">Questo suon, mi rimembra, <app><lem wit="#F31">a le</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">alle</rdg></app> mie notti,</l>
+        <l n="53">Quando fanciullo, <app><lem wit="#F31">ne la</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">nella</rdg></app> buia stanza,</l>
+        <l n="54">Per assidui terrori io vigilava,</l>
+        <l n="55">Sospirando il mattin. Qui non è cosa</l>
+        <l n="56">Ch’io vegga o senta, onde un’immagin dentro</l>
+        <l n="57">Non torni, e un dolce <app><lem wit="#F31">sovvenir</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">rimembrar</rdg></app> non sorga.</l>
+        <l n="58">Dolce per se; ma con dolor sottentra</l>
+        <l n="59">Il pensier del presente, un van desio</l>
+        <l n="60">Del passato, ancor tristo, e il dire: io fui.</l>
+        <l n="61">Quella loggia colà, volta <app><lem wit="#F31">a gli</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">agli</rdg></app> estremi</l>
+        <l n="62">Raggi del dì; queste dipinte mura,</l>
+        <l n="63">Quei figurati armenti, e il Sol che nasce</l>
+        <l n="64">Su romita campagna, <app><lem wit="#F31">a gli</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">agli</rdg></app> ozi miei</l>
+        <l n="65">Porser mille diletti allor che al fianco</l>
+        <l n="66">M’era, parlando, il mio possente errore</l>
+        <l n="67">Sempre, ov’io fossi. In queste sale antiche,</l>
+        <l n="68">Al chiaror <app><lem wit="#F31">de le</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">delle</rdg></app> nevi, intorno a queste</l>
+          <pb n="140" facs="#F31140"/>
+        <l n="69">Ampie <app><lem wit="#F31">fenestre</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">Ampie finestre</rdg></app> sibilando il vento,</l>
+        <l n="70">Rimbombaro i sollazzi e le festose</l>
+        <l n="71">Mie voci al tempo che l’acerbo, indegno</l>
+        <l n="72">Mistero <app><lem wit="#F31">de le</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">delle</rdg></app> cose a noi si mostra</l>
+        <l n="73">Pien di dolcezza; indelibata, intera</l>
+        <l n="74">Il garzoncel, come inesperto amante,</l>
+        <l n="75">La sua vita ingannevole vagheggia,</l>
+        <l n="76">E celeste beltà fingendo ammira.</l>
+        <l n="77" rend="indent">O speranze, speranze; ameni inganni</l>
+        <l n="78"><app><lem wit="#F31">De la</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">Della</rdg></app> mia prima età! sempre, parlando,</l>
+        <l n="79">Ritorno a voi; <app><lem wit="#F31">chè</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">che</rdg></app> per andar di tempo,</l>
+        <l n="80">Per variar d’affetti e di pensieri,</l>
+        <l n="81">Obbliarvi non so. Fantasmi, intendo,</l>
+        <l n="82">Son la gloria e l’<app><lem wit="#F31">onor:</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">gloria e onor;</rdg></app> diletti e beni</l>
+        <l n="83">Mero <app><lem wit="#F31">desio:</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">Mero desio;</rdg></app> non ha la vita un <app><lem wit="#F31">frutto;</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">frutto,</rdg></app></l>
+        <l n="84">Inutile miseria. E sebben <app><lem wit="#F31">vòti</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">vóti</rdg></app></l>
+        <l n="85">Son gli anni miei, sebben deserto, oscuro</l>
+        <l n="86">Il mio stato mortal, poco mi toglie</l>
+        <l n="87">La fortuna, ben veggo. Ahi, ma qualvolta</l>
+        <l n="88">A voi ripenso, o mie speranze antiche,</l>
+        <l n="89">Ed a quel caro immaginar mio primo;</l>
+        <l n="90">Indi riguardo il viver mio sì vile</l>
+        <l n="91">E sì dolente, e che la morte è quello</l>
+        <l n="92">Che di cotanta speme oggi m’avanza;</l>
+        <l n="93">Sento serrarmi il cor, sento ch’al tutto</l>
+          <pb n="141" facs="#F31141"/>
+        <l n="94">Consolarmi non so del mio destino.</l>
+        <l n="95">E quando pur questa invocata morte</l>
+        <l n="96">Sarammi <app><lem wit="#F31">accanto, e fia venuto</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">allato, e sarà giunto</rdg></app> il fine</l>
+        <l n="97"><app><lem wit="#F31">De la</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">Della</rdg></app> sventura mia; quando la terra</l>
+        <l n="98">Mi fia straniera valle, e dal mio sguardo</l>
+        <l n="99">Fuggirà l’avvenir; di voi per certo</l>
+        <l n="100">Risovverrammi; e <app><lem wit="#F31">quella</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">quell’imago ancora</rdg></app> imago ancora</l>
+        <l n="101">Sospirar mi farà, farammi acerbo</l>
+        <l n="102">L’esser vissuto indarno, e la dolcezza</l>
+        <l n="103">Del dì fatal tempererà d’affanno.</l>
+        <l n="104" rend="indent">E già nel primo giovanil tumulto</l>
+        <l n="105">Di contenti, d’angosce e di desio,</l>
+        <l n="106">Morte chiamai più volte, e lungamente</l>
+        <l n="107">Mi sedetti colà su la fontana</l>
+        <l n="108">Pensoso di cessar dentro quell’acque</l>
+        <l n="109">La speme e il dolor mio. Poscia, per cieco</l>
+        <l n="110">Malor, condotto <app><lem wit="#F31">de la</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">della</rdg></app> vita in forse,</l>
+        <l n="111">Piansi la bella giovanezza, e il fiore</l>
+        <l n="112">De’ miei poveri dì, che sì per tempo</l>
+        <l n="113">Cadeva: e <app><lem wit="#F31">spesso a l’ore</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">spesso all’ore</rdg></app> tarde, assiso</l>
+        <l n="114">Sul conscio letto, dolorosamente</l>
+        <l n="115"><app><lem wit="#F31">A la</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">Alla</rdg></app> fioca lucerna poetando,</l>
+        <l n="116">Lamentai co’ silenzi e con la notte</l>
+        <l n="117">Il fuggitivo spirto, ed a me stesso</l>
+        <l n="118">In sul languir cantai funereo canto.</l>
+          <pb n="142" facs="#F31142"/>
+        <l n="119" rend="indent">Chi rimembrar vi può senza sospiri,</l>
+        <l n="120">O primo <app><lem wit="#F31">tempo giovanile,</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">entrar di giovinezza,</rdg></app> o giorni</l>
+        <l n="121">Vezzosi, inenarrabili, allor quando</l>
+        <l n="122">Al rapito mortal primieramente</l>
+        <l n="123">Sorridon le donzelle; a gara intorno</l>
+        <l n="124">Ogni cosa sorride; invidia tace,</l>
+        <l n="125">Non desta ancora ovver benigna; e quasi</l>
+        <l n="126">(Inusitata <app><lem wit="#F31">meraviglia</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">Inusitata maraviglia</rdg></app>!) il mondo</l>
+        <l n="127">La destra soccorrevole gli porge,</l>
+        <l n="128">Scusa gli errori suoi, festeggia il novo</l>
+        <l n="129">Suo venir <app><lem wit="#F31">ne la</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">venir nella</rdg></app> vita, ed inchinando</l>
+        <l n="130">Mostra che per signor l’accolga e chiami?</l>
+        <l n="131">Fugaci giorni! a somigliar d’un lampo</l>
+        <l n="132">Son dileguati. E qual mortale ignaro</l>
+        <l n="133">Di sventura esser può, se a lui già scorsa</l>
+        <l n="134">Quella vaga stagion, se il suo buon tempo,</l>
+        <l n="135">Se giovanezza, ahi giovanezza, è spenta?</l>
+        <l n="136" rend="indent">O Nerina! e di te forse non odo</l>
+        <l n="137">Questi luoghi parlar? caduta forse</l>
+        <l n="138">Dal mio pensier sei tu? Dove sei gita,</l>
+        <l n="139">Che qui sola di te la ricordanza</l>
+        <l n="140">Trovo, dolcezza mia? Più non ti vede</l>
+        <l n="141">Questa Terra natal: quella finestra,</l>
+        <l n="142">Ond’eri usata favellarmi, <app><lem wit="#F31">e dove</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">ed onde</rdg></app></l>
+        <l n="143">Mesto riluce <app><lem wit="#F31">de le</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">riluce delle</rdg></app> stelle il raggio,</l>
+          <pb n="143" facs="#F31143"/>
+        <l n="144">È deserta. Ove <app><lem wit="#F31">sei</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">Ove sei,</rdg></app> che più non odo</l>
+        <l n="145">La tua voce sonar, siccome un giorno,</l>
+        <l n="146">Quando soleva ogni lontano accento</l>
+        <l n="147">Del labbro tuo, ch’a me giungesse, il volto</l>
+        <l n="148">Scolorarmi? Altro tempo. I giorni tuoi</l>
+        <l n="149">Furo, mio dolce amor. Passasti. Ad altri</l>
+        <l n="150">Il passar per la terra oggi è sortito,</l>
+        <l n="151">E l’abitar questi odorati colli.</l>
+        <l n="152">Ma rapida passasti; e come un sogno</l>
+        <l n="153">Fu la tua vita. Ivi danzando; in fronte</l>
+        <l n="154">La gioia ti splendea, splendea <app><lem wit="#F31">ne gli</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">splendea negli</rdg></app> occhi</l>
+        <l n="155">Quel confidente immaginar, quel lume</l>
+        <l n="156">Di gioventù, quando spegneali il fato,</l>
+        <l n="157">E giacevi. Ahi Nerina! In cor mi regna</l>
+        <l n="158">L’antico amor. Se a feste anco talvolta,</l>
+        <l n="159">Se a radunanze io movo, infra me stesso</l>
+        <l n="160">Dico: o Nerina, a radunanze, a feste</l>
+        <l n="161">Tu non ti acconci più, tu più non movi.</l>
+        <l n="162">Se torna maggio, e ramoscelli e suoni</l>
+        <l n="163">Van gli amanti recando <app><lem wit="#F31">a le</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">alle</rdg></app> fanciulle,</l>
+        <l n="164">Dico: Nerina mia, per te non torna</l>
+        <l n="165">Primavera giammai, non torna amore.</l>
+        <l n="166">Ogni giorno sereno, ogni fiorita</l>
+        <l n="167">Piaggia ch’io miro, ogni goder ch’io sento,</l>
+        <l n="168">Dico: Nerina or più non gode; i campi,</l>
+          <pb n="144" facs="#F31144"/>
+        <l n="169">L’aria non mira. Ahi tu passasti, eterno</l>
+        <l n="170">Sospiro mio: passasti: e fia compagna</l>
+        <l n="171">D’ogni mio vago immaginar, di tutti</l>
+        <l n="172">I miei teneri sensi, i tristi e cari</l>
+        <l n="173">Moti del cor, la rimembranza acerba.</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

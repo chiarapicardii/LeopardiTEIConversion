@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>VIII. INNO AI PATRIARCHI, O DE’ PRINCIPII DEL GENERE UMANO</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoding and conversion by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>LeopardiTEIConversion project</publisher>
+          <date when="2026">2026</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <title>Wikileopardi</title>
+            <date>2020</date>
+            <note>Corpus of Canti extracted from Wikileopardi's platform.</note>
+          </bibl>
+        <listWit>
+          <witness xml:id="B24">B24</witness>
+          <witness xml:id="F31">F31</witness>
+          <witness xml:id="N35">N35</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <projectDesc>
+            <p>This project aims at standardizing the text and critical apparatus of Leopardi's Canti.</p>
+        </projectDesc>
+      </encodingDesc>
+    </teiHeader>
+
+  <facsimile>
+    <surface xml:id="F31073">
+      <graphic url="./assets/img/F31073.JPG"/>
+    </surface>
+    <surface xml:id="F31074">
+      <graphic url="./assets/img/F31074.JPG"/>
+    </surface>
+    <surface xml:id="F31075">
+      <graphic url="./assets/img/F31075.JPG"/>
+    </surface>
+    <surface xml:id="F31076">
+      <graphic url="./assets/img/F31076.JPG"/>
+    </surface>
+    <surface xml:id="F31077">
+      <graphic url="./assets/img/F31077.JPG"/>
+    </surface>
+    <surface xml:id="F31078">
+      <graphic url="./assets/img/F31078.JPG"/>
+    </surface>
+    <surface xml:id="F31079">
+      <graphic url="./assets/img/F31079.JPG"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="poem" xml:id="viii_inno_ai_patriarchi_o_de_principii_del_genere_umano">
+        <head>VIII. INNO AI PATRIARCHI, O DE’ PRINCIPII DEL GENERE UMANO</head>
+        <lg>
+          <pb n="73" facs="#F31073"/>
+        <l n="1">E voi de’ figli dolorosi il canto,</l>
+        <l n="2">Voi de l’umana prole incliti padri,</l>
+        <l n="3">Lodando <app><lem wit="#F31">appellerà</lem><rdg wit="#B24 #N35">Ridirà</rdg></app>; molto <app><lem wit="#F31">a l’eterno</lem><rdg wit="#B24 #N35">all’eterno</rdg></app></l>
+        <l n="4"><app><lem wit="#F31">De gli</lem><rdg wit="#B24 #N35">degli</rdg></app> astri agitator più cari, e molto</l>
+        <l n="5">Di noi men lacrimabili <app><lem wit="#F31">ne l’alma</lem><rdg wit="#B24 #N35">nell’alma</rdg></app></l>
+        <l n="6">Luce prodotti. Immedicati affanni</l>
+        <l n="7">Al misero mortal, nascere al pianto,</l>
+        <l n="8">E <app><lem wit="#F31">de l’etereo</lem><rdg wit="#B24 #N35">dell’etereo</rdg></app> lume assai più dolci</l>
+        <l n="9">Sortir l’opaca tomba e <app><lem wit="#F31">’l</lem><rdg wit="#B24 #N35">il</rdg></app> fato estremo,</l>
+        <l n="10">Non <app><lem wit="#F31">la diva pietà, non l’equa</lem><rdg wit="#B24 #N35">la pietà, non la dritta</rdg></app> impose</l>
+        <l n="11">Legge del <app><lem wit="#F31">cielo</lem><rdg wit="#B24 #N35">del cielo</rdg></app>. E se di vostro antico</l>
+        <l n="12">Error che l’uman seme <app><lem wit="#F31">a la</lem><rdg wit="#B24 #N35">alla</rdg></app> tiranna</l>
+          <pb n="74" facs="#F31074"/>
+        <l n="13">Possa de’ morbi e di sciagura offerse,</l>
+        <l n="14">Grido antico ragiona, altre più dire</l>
+        <l n="15">Colpe de’ figli, e <app><lem wit="#F31">pervicace</lem><rdg wit="#B24 #N35">irrequieto</rdg></app> ingegno,</l>
+        <l n="16">E demenza maggior l’offeso Olimpo</l>
+        <l n="17">N’armaro incontra, e la negletta mano</l>
+        <l n="18"><app><lem wit="#F31">De l’altrice</lem><rdg wit="#B24 #N35">Dell’altrice</rdg></app>natura; onde la viva</l>
+        <l n="19">Fiamma n’increbbe, e detestato il parto</l>
+        <l n="20">Fu del grembo materno, e violento</l>
+        <l n="21">Emerse il disperato Erebo in terra.</l>
+        <l n="22" rend="indent">Tu primo il giorno, e le purpuree faci</l>
+        <l n="23"><app><lem wit="#F31">De le</lem><rdg wit="#B24 #N35">delle</rdg></app> rotanti sfere, e la novella</l>
+        <l n="24">Prole de’ campi, o duce antico e padre</l>
+        <l n="25"><app><lem wit="#F31">De l’umana</lem><rdg wit="#B24 #N35">Dell’umana</rdg></app> famiglia, e tu l’errante</l>
+        <l n="26">Per li giovani prati aura contempli:</l>
+        <l n="27">Quando le rupi e le deserte valli</l>
+        <l n="28">Precipite l’alpina onde <app><lem wit="#F31">ferìa</lem><rdg wit="#B24 #N35">feria</rdg></app></l>
+        <l n="29">D’inudito fragor; quando gli ameni</l>
+        <l n="30">Futuri seggi di lodate genti</l>
+        <l n="31">E di cittadi romorose, <app><lem wit="#F31">occulta</lem><rdg wit="#B24 #N35">ignota</rdg></app></l>
+        <l n="32">Pace regnava; e gl’inarati colli</l>
+        <l n="33">Solo e muto ascendea l’aprico raggio</l>
+        <l n="34">Di febo e l’aurea luna. Oh fortunata,</l>
+        <l n="35">Di colpe ignara e di lugubri eventi,</l>
+        <l n="36">Erma terrena <app><lem wit="#F31">sede.</lem><rdg wit="#B24 #N35">sede!</rdg></app> Oh quanto affanno</l>
+          <pb n="75" facs="#F31075"/>
+        <l n="37">Al gener tuo, padre infelice, e quale</l>
+        <l n="38">D’amarissimi casi ordine immenso</l>
+        <l n="39">Preparano i <app><lem wit="#F31">destini.</lem><rdg wit="#B24 #N35">destini!</rdg></app> Ecco di sangue</l>
+        <l n="40">Gli avari <app><lem wit="#F31">còlti</lem><rdg wit="#B24 #N35">colti</rdg></app> e di fraterno scempio</l>
+        <l n="41">Furor novello incesta, e le nefande</l>
+        <l n="42">Ali di morte il divo etere impara.</l>
+        <l n="43">Trepido, errante il <app><lem wit="#F31">fratricida</lem><rdg wit="#B24 #N35">fraticida</rdg></app>, e l’ombre</l>
+        <l n="43">Solitarie fuggendo e la secreta</l>
+        <l n="44"><app><lem wit="#F31">Ne le</lem><rdg wit="#B24 #N35">nelle</rdg></app> profonde selve ira de’ venti,</l>
+        <l n="45">Primo i civili tetti, albergo e regno</l>
+        <l n="46"><app><lem wit="#F31">A le</lem><rdg wit="#B24 #N35">alle</rdg></app> macere cure, innalza ; e primo</l>
+        <l n="47">Il disperato pentimento i ciechi</l>
+        <l n="48">Mortali egro, anelante, aduna e stringe</l>
+        <l n="49">Ne’ consorti ricetti: onde negata</l>
+        <l n="50">L’improba mano al curvo aratro, e vili</l>
+        <l n="51">Fur gli agresti sudori; ozio le soglie</l>
+        <l n="52"><app><lem wit="#F31">Scelerate</lem><rdg wit="#B24 #N35">scellerate</rdg></app> occupò; ne’ corpi inerti</l>
+        <l n="53">Domo il vigor natio, languide, ignave</l>
+        <l n="54">Giacquer le menti; e servitù le imbelli</l>
+        <l n="55">Umane vite, ultimo danno, accolse.</l>
+        <l n="56" rend="indent">E tu <app><lem wit="#F31">da l’etra</lem><rdg wit="#B24 #N35">Dall’etra</rdg></app> infesto e dal mugghiante</l>
+        <l n="57">Su i nubiferi gioghi equoreo flutto</l>
+        <l n="58">Scampi l’iniquo germe, o tu cui prima</l>
+        <l n="59"><app><lem wit="#F31">Da l’aer</lem><rdg wit="#B24 #N35">Dall’aer</rdg></app> cieco e da’ natanti poggi</l>
+          <pb n="76" facs="#F31076"/>
+        <l n="60">Segno arrecò d’instaurata spene</l>
+        <l n="61">La candida colomba, e <app><lem wit="#F31">de le</lem><rdg wit="#B24 #N35">delle</rdg></app> antiche</l>
+        <l n="62">Nubi l’occiduo Sol naufrago uscendo,</l>
+        <l n="63">L’atro polo di vaga iri dipinse.</l>
+        <l n="64">Riede <app><lem wit="#F31">a la</lem><rdg wit="#B24 #N35">alla</rdg></app> terra, e <app><lem wit="#F31">’l</lem><rdg wit="#B24 #N35">Il</rdg></app> crudo affetto e gli empi</l>
+        <l n="65">Studi rinnova e le seguaci ambasce</l>
+        <l n="66">La riparata gente. <app><lem wit="#F31">A gl’inaccessi</lem><rdg wit="#B24 #N35">Agl’inaccessi</rdg></app></l>
+        <l n="67">Regni del mar vendicatore illude</l>
+        <l n="68">Profana destra, e la sciagura e <app><lem wit="#F31">’l</lem><rdg wit="#B24 #N35">Il</rdg></app> pianto</l>
+        <l n="69">A novi liti e <app><lem wit="#F31">novo cielo</lem><rdg wit="#B24 #N35">Nove stelle</rdg></app> insegna.</l>
+        <l n="70" rend="indent">Or te, padre de’ pii, te giusto e forte,</l>
+        <l n="71">E di tuo seme i generosi alunni</l>
+        <l n="72">Medita il petto mio. Dirò siccome</l>
+        <l n="73">Sedente, <app><lem wit="#F31">oscuro</lem><rdg wit="#B24 #N35">Oscuro</rdg></app> in sul meriggio <app><lem wit="#F31">a l’ombre</lem><rdg wit="#B24 #N35">All’ombre</rdg></app></l>
+        <l n="74">Del riposato albergo, appo le molli</l>
+        <l n="75">Rive del gregge tuo <app><lem wit="#F31">nodrici</lem><rdg wit="#B24 #N35">nutrici</rdg></app> e sedi,</l>
+        <l n="76">Te de’ celesti peregrini occulte</l>
+        <l n="77">Beàr l’eteree menti; e quale, o figlio</l>
+        <l n="78"><app><lem wit="#F31">De la</lem><rdg wit="#B24 #N35">Della</rdg></app> saggia Rebecca, in su la sera,</l>
+        <l n="79">Presso al rustico pozzo e <app><lem wit="#F31">ne la</lem><rdg wit="#B24 #N35">Nella dolce Di</rdg></app> dolce</l>
+        <l n="80">Di pastori e di lieti ozi frequente</l>
+        <l n="81">Aranitica valle, amor ti punse</l>
+        <l n="82"><app><lem wit="#F31">De la</lem><rdg wit="#B24 #N35">Della</rdg></app> vezzosa <app><lem wit="#F31">Labaníde</lem><rdg wit="#B24 #N35">Labanide</rdg></app>: invitto</l>
+        <l n="83">Amor, ch’a lunghi esigli e lunghi affanni</l>
+          <pb n="77" facs="#F31077"/>
+        <l n="84">E di servaggio <app><lem wit="#F31">a l’odiata</lem><rdg wit="#B24 #N35">All’odiata</rdg></app> soma</l>
+        <l n="85">Volenteroso il prode animo addisse.</l>
+        <l n="86" rend="indent">Fu certo, fu (nè d’error vano e d’ombra</l>
+        <l n="87">L’aonio canto e <app><lem wit="#F31">de la</lem><rdg wit="#B24 #N35">Della</rdg></app> fama il grido</l>
+        <l n="88">Pasce l’avida plebe) amica un tempo</l>
+        <l n="89">Al sangue nostro e dilettosa e cara</l>
+        <l n="90">Questa misera piaggia, ed aurea corse</l>
+        <l n="91">Nostra caduca età. Non che di latte</l>
+        <l n="92">Onda rigasse intemerata il fianco</l>
+        <l n="93"><app><lem wit="#F31">De le</lem><rdg wit="#B24 #N35">Delle</rdg></app> balze materne, o <app><lem wit="#F31">con le greggi</lem><rdg wit="#B24 #N35">con le greggi... Il pastorel</rdg></app></l>
+        <l n="94"><app><lem wit="#F31">Mista la tigre a i consueti ovili</lem><rdg wit="#B24 #N35">con le greggi... Il pastorel</rdg></app></l>
+        <l n="95"><app><lem wit="#F31">E guidasse per gioco i lupi al fonte</lem><rdg wit="#B24 #N35">con le greggi... Il pastorel</rdg></app></l>
+        <l n="96"><app><lem wit="#F31">Il pastorel</lem><rdg wit="#B24 #N35">con le greggi... Il pastorel</rdg></app>; ma di suo fato ignara</l>
+        <l n="97">E <app><lem wit="#F31">de gli</lem><rdg wit="#B24 #N35">Degli</rdg></app> affanni suoi, <app><lem wit="#F31">vòta</lem><rdg wit="#B24 #N35">Vota</rdg></app> d’affanno</l>
+        <l n="98">Visse l’umana <app><lem wit="#F31">stirpe</lem><rdg wit="#B24 #N35">Stirpe</rdg></app>; <app><lem wit="#F31">a le</lem><rdg wit="#B24 #N35">Alle secrete</rdg></app> <app><lem wit="#F31">secrete</lem><rdg wit="#B24 #N35">Secrete</rdg></app></l>
+        <l n="99">Leggi del cielo e di natura indutto</l>
+        <l n="100">Valse l’ameno error, <app><lem wit="#F31">le fraudi, il molle</lem><rdg wit="#B24 #N35">Fraudi, il molle</rdg></app></l>
+        <l n="101">Pristino velo; e di sperar contenta</l>
+        <l n="102">Nostra placida nave in porto ascese.</l>
+        <l n="103" rend="indent">Tal fra le vaste californie selve</l>
+        <l n="104">Nasce beata prole, a cui non sugge</l>
+        <l n="105">Pallida cura il petto, a cui le membra</l>
+        <l n="106">Fera tabe non <app><lem wit="#F31">dóma</lem><rdg wit="#B24 #N35">Doma</rdg></app>, e vitto il bosco,</l>
+          <pb n="78" facs="#F31078"/>
+        <l n="108">Nidi l’intima rupe, <app><lem wit="#F31">ónde</lem><rdg wit="#B24 #N35">Onde</rdg></app> <app><lem wit="#F31">ministra</lem><rdg wit="#B24 #N35">Ministra</rdg></app></l>
+        <l n="109">L’irrigua valle, inopinato il giorno</l>
+        <l n="110"><app><lem wit="#F31">De l’atra</lem><rdg wit="#B24 #N35">Dell’atra</rdg></app> morte incombe. <app><lem wit="#F31">Oh contra il nostro</lem><rdg wit="#B24 #N35">Contra il nostro Scellerato ardimento</rdg></app></l>
+        <l n="111"><app><lem wit="#F31">Scelerato ardimento</lem><rdg wit="#B24 #N35">Contra il nostro Scellerato ardimento</rdg></app> inermi regni</l>
+        <l n="112"><app><lem wit="#F31">De la</lem><rdg wit="#B24 #N35">Della saggia natura!</rdg></app> saggia <app><lem wit="#F31">natura.</lem><rdg wit="#B24 #N35">Natura!</rdg></app> I lidi e gli antri</l>
+        <l n="113">E le quiete selve apre l’invitto</l>
+        <l n="114">Nostro furor; le violate genti</l>
+        <l n="115">Al peregrino affanno, <app><lem wit="#F31">a gl’</lem><rdg wit="#B24 #N35">Agl’</rdg></app>ignorati</l>
+        <l n="116">Desiri educa; e la fugace, ignuda</l>
+        <l n="117">Felicità per l’imo sole incalza .</l>
+        </lg>
+        <div type="note" xml:id="f31_viii_inno_ai_patriarchi_o_de_principii_del_genere_umano_note_p_79" corresp="#viii_inno_ai_patriarchi_o_de_principii_del_genere_umano">
+          <pb n="79" facs="#F31079"/>
+          <head>NOTA</head>
+          <p><hi rend="italic">Egressusque Cain a facie Domini,</hi> <hi rend="italic">habitavit profugus in terra ad orientalem</hi> <hi rend="italic">plagam Eden. Et aedificavit civitatem.</hi> <hi rend="italic">Genes. c. 4. vers. 16</hi>. “Non accade avvertire che la California sta nell’ultimo termine occidentale del continente. La nazione de’ Californii, per ciò che ne riferiscono i viaggiatori, vive con maggior naturalezza di quello che a noi paia, non dirò credibile, ma possibile nella specie umana. Quelli che s’affaticano di ridurre la detta gente alla vita sociale, non è dubbio che in processo di tempo verranno a capo di quest’impresa; ma si tiene per fermo che nessun’altra nazione dimostrasse di voler fare così poca riuscita nella scuola degli Europei.” <hi rend="italic">Dal</hi><hi rend="italic">l’edizione di Bologna.</hi></p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

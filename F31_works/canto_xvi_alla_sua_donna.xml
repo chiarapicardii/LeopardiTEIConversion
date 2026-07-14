@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>XVI. ALLA SUA DONNA</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoding and conversion by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>LeopardiTEIConversion project</publisher>
+          <date when="2026">2026</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <title>Wikileopardi</title>
+            <date>2020</date>
+            <note>Corpus of Canti extracted from Wikileopardi's platform.</note>
+          </bibl>
+        <listWit>
+          <witness xml:id="B20">B20</witness>
+          <witness xml:id="B24">B24</witness>
+          <witness xml:id="B26">B26</witness>
+          <witness xml:id="F31">F31</witness>
+          <witness xml:id="N35">N35</witness>
+          <witness xml:id="R18">R18</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <projectDesc>
+            <p>This project aims at standardizing the text and critical apparatus of Leopardi's Canti.</p>
+        </projectDesc>
+      </encodingDesc>
+    </teiHeader>
+
+  <facsimile>
+    <surface xml:id="F31111">
+      <graphic url="./assets/img/F31111.JPG"/>
+    </surface>
+    <surface xml:id="F31112">
+      <graphic url="./assets/img/F31112.JPG"/>
+    </surface>
+    <surface xml:id="F31113">
+      <graphic url="./assets/img/F31113.JPG"/>
+    </surface>
+    <surface xml:id="F31115">
+      <graphic url="./assets/img/F31115.JPG"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="poem" xml:id="canto_xvi_alla_sua_donna">
+        <head>XVI. ALLA SUA DONNA</head>
+        <lg>
+          <pb n="111" facs="#F31111"/>
+        <l n="1">Cara beltà che amore</l>
+        <l n="2">Lunge <app><lem wit="#F31">m’insegni</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">m’inspiri</rdg></app> o nascondendo il viso,</l>
+        <l n="3">Fuor se nel sonno il core</l>
+        <l n="4">Ombra diva mi <app><lem wit="#F31">scuoti,</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">Scuoti,</rdg></app></l>
+        <l n="5">O ne’ campi ove splenda</l>
+        <l n="6">Più vago il giorno e di natura il riso;</l>
+        <l n="7">Forse tu l’innocente</l>
+        <l n="8">Secol beasti che <app><lem wit="#F31">da l’oro</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">Dall’ oro</rdg></app> ha nome,</l>
+        <l n="9">Or leve intra la gente</l>
+        <l n="10">Anima voli? o te la sorte <app><lem wit="#F31">avara,</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">Avara</rdg></app></l>
+        <l n="11">Ch’a noi t’asconde, <app><lem wit="#F31">a gli</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">Agli</rdg></app> avvenir prepara?</l>
+        <l n="12" rend="indent">Viva mirarti omai</l>
+        <l n="13">Nulla spene m’avanza;</l>
+        <l n="14">S’allor non fosse, allor <app><lem wit="#F31">che</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">Che</rdg></app> ignudo e solo</l>
+        <l n="15">Per novo calle a peregrina stanza</l>
+        <l n="16">Verrà lo spirto mio. Già sul novello</l>
+        <l n="17">Aprir di mia giornata incerta e bruna,</l>
+          <pb n="112" facs="#F31112"/>
+        <l n="18">Te viatrice in questo arido suolo</l>
+        <l n="19">Io mi pensai. Ma non è cosa in terra</l>
+        <l n="20">Che ti somigli; e s’anco pari alcuna</l>
+        <l n="21">Ti fosse al volto, <app><lem wit="#F31">a gli</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">Agli</rdg></app> atti, <app><lem wit="#F31">a la</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">Alla</rdg></app> favella,</l>
+        <l n="22">Saria, così conforme, assai men bella.</l>
+        <l n="23" rend="indent">Fra cotanto dolore</l>
+        <l n="24">Quanto <app><lem wit="#F31">a l’umana</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">All’ umana</rdg></app> età propose il fato,</l>
+        <l n="25">Se vera e quale il mio pensier ti pinge,</l>
+        <l n="26">Alcun t’amasse in terra, a lui pur <app><lem wit="#F31">fòra</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">fora</rdg></app></l>
+        <l n="27">Questo viver beato:</l>
+        <l n="28">E ben chiaro vegg’io siccome ancora</l>
+        <l n="29">Seguir <app><lem wit="#F31">lòda</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">loda</rdg></app> e virtù qual ne’ prim’anni</l>
+        <l n="30">L’amor tuo mi farebbe. Or non aggiunse</l>
+        <l n="31">Il ciel nullo conforto <app><lem wit="#F31">a i</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">Ai</rdg></app> nostri affanni;</l>
+        <l n="32">E teco la mortal vita saria</l>
+        <l n="33">Simile a quella che nel cielo <app><lem wit="#F31">indìa</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">india</rdg></app>.</l>
+        <l n="34" rend="indent">Per le valli, ove suona</l>
+        <l n="35">Del faticoso agricoltore il canto,</l>
+        <l n="36">Ed io seggo e mi lagno</l>
+        <l n="37">Del giovanile error che m’abbandona;</l>
+        <l n="38">E per li poggi, ov’io rimembro e piagno</l>
+        <l n="39">I perduti desiri, e la perduta</l>
+        <l n="40">Speme de’ giorni miei; di te pensando,</l>
+          <pb n="113" facs="#F31113"/>
+        <l n="41">A palpitar mi sveglio. E potess’io,</l>
+        <l n="42">Nel secol tetro e in questo aer nefando,</l>
+        <l n="43">L’alta specie serbar; <app><lem wit="#F31">chè de l’</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">Che dell’</rdg></app> imago,</l>
+        <l n="44">Poi che del ver m’è tolto, assai m’appago.</l>
+        <l n="45" rend="indent">Se <app><lem wit="#F31">de l’eterne</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">Dell’ eterne</rdg></app> idee</l>
+        <l n="46">L’una <app><lem wit="#F31">se’</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">Sei</rdg></app> tu, cui di sensibil forma</l>
+        <l n="47">Sdegni l’eterno senno esser <app><lem wit="#F31">vestita,</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">Vestita,</rdg></app></l>
+        <l n="48">E fra caduche spoglie</l>
+        <l n="49">Provar gli affanni di funerea vita;</l>
+        <l n="50">O s’altra terra ne’ superni giri</l>
+        <l n="51">Fra’ mondi innumerabili t’accoglie,</l>
+        <l n="52">E più vaga del Sol prossima stella</l>
+        <l n="53">T’irraggia, e più benigno etere spiri;</l>
+        <l n="54">Di qua dove son gli anni infausti e brevi,</l>
+        <l n="55">Questo d’ignoto amante inno ricevi.</l>
+          <pb n="115" facs="#F31115"/>
+        <l>NOTA.  "La donna, cioè l’innamorata, dell’autore, è una di quelle immagini, uno di quei fantasmi di bellezza e virtù</l>
+        <l>celeste e ineffabile, che ci occorrono spesso</l>
+        <l>alla fantasia nel sonno e nella veglia,</l>
+        <l>quando siamo poco più che fanciulli, e</l>
+        <l>poi qualche rara volta nel sonno, o una</l>
+        <l>quasi alienazione di mente, quando siamo</l>
+        <l>giovani. In fine è la donna che non si tro<lb break="no"/>va." <hi rend="italic">Nuovo Ricoglitore di Milano, an-</hi></l>
+        <l><hi rend="italic">no I, p. 160</hi>.</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

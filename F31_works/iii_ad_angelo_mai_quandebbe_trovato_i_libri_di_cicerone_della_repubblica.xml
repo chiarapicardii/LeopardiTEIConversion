@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>III. AD ANGELO MAI, QUAND’EBBE TROVATO I LIBRI DI CICERONE DELLA REPUBBLICA.</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoding and conversion by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>LeopardiTEIConversion project</publisher>
+          <date when="2026">2026</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <title>Wikileopardi</title>
+            <date>2020</date>
+            <note>Corpus of Canti extracted from Wikileopardi's platform.</note>
+          </bibl>
+        <listWit>
+          <witness xml:id="B20">B20</witness>
+          <witness xml:id="B24">B24</witness>
+          <witness xml:id="F31">F31</witness>
+          <witness xml:id="N35">N35</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <projectDesc>
+            <p>This project aims at standardizing the text and critical apparatus of Leopardi's Canti.</p>
+        </projectDesc>
+      </encodingDesc>
+    </teiHeader>
+
+  <facsimile>
+    <surface xml:id="F31035">
+      <graphic url="./assets/img/F31035.JPG"/>
+    </surface>
+    <surface xml:id="F31036">
+      <graphic url="./assets/img/F31036.JPG"/>
+    </surface>
+    <surface xml:id="F31037">
+      <graphic url="./assets/img/F31037.JPG"/>
+    </surface>
+    <surface xml:id="F31038">
+      <graphic url="./assets/img/F31038.JPG"/>
+    </surface>
+    <surface xml:id="F31039">
+      <graphic url="./assets/img/F31039.JPG"/>
+    </surface>
+    <surface xml:id="F31040">
+      <graphic url="./assets/img/F31040.JPG"/>
+    </surface>
+    <surface xml:id="F31041">
+      <graphic url="./assets/img/F31041.JPG"/>
+    </surface>
+    <surface xml:id="F31042">
+      <graphic url="./assets/img/F31042.JPG"/>
+    </surface>
+    <surface xml:id="F31043">
+      <graphic url="./assets/img/F31043.JPG"/>
+    </surface>
+    <surface xml:id="F31044">
+      <graphic url="./assets/img/F31044.JPG"/>
+    </surface>
+    <surface xml:id="F31045">
+      <graphic url="./assets/img/F31045.JPG"/>
+    </surface>
+    <surface xml:id="F31046">
+      <graphic url="./assets/img/F31046.JPG"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="poem" xml:id="iii_ad_angelo_mai_quandebbe_trovato_i_libri_di_cicerone_della_repubblica">
+        <head>III. AD ANGELO MAI, QUAND’EBBE TROVATO I LIBRI DI CICERONE DELLA REPUBBLICA.</head>
+        <lg>
+          <pb n="35" facs="#F31035"/>
+        <l n="1">Italo ardito, a che giammai non <app><lem wit="#F31">pòsi</lem><rdg wit="#B20 #B24 #N35">posi</rdg></app></l>
+        <l n="2">Di svegliar <app><lem wit="#F31">da le</lem><rdg wit="#B20 #B24 #N35">dalle</rdg></app> tombe</l>
+        <l n="3">I nostri padri? <app><lem wit="#F31">e a favellar</lem><rdg wit="#B20 #B24 #N35">ed a parlar</rdg></app> gli meni</l>
+        <l n="4">A questo secol morto, al quale incombe</l>
+        <l n="5"><app><lem wit="#F31">Tanta</lem><rdg wit="#B20 #B24 #N35">Tanta</rdg></app> nebbia di tedio? E come or vieni</l>
+        <l n="6">Sì forte a’ nostri orecchi e sì frequente,</l>
+        <l n="7">Voce antica de’ <app><lem wit="#F31">nostri,</lem><rdg wit="#B20 #B24 #N35">de’ nostri,</rdg></app></l>
+        <l n="8">Muta sì lunga etade? e perchè tanti</l>
+        <l n="9">Risorgimenti? In un balen feconde</l>
+        <l n="10">Venner le carte; <app><lem wit="#F31">a la</lem><rdg wit="#B20 #B24 #N35">alla</rdg></app> stagion presente</l>
+        <l n="11">I polverosi chiostri</l>
+        <l n="12">Serbaro occulti i generosi e santi</l>
+        <l n="13">Detti <app><lem wit="#F31">de gli</lem><rdg wit="#B20 #B24 #N35">degli</rdg></app> avi. E che valor t’infonde,</l>
+        <l n="14"><app><lem wit="#F31">Italo egregio, il fato? O con l’umano</lem><rdg wit="#B20 #B24 #N35">Italo egregio... invano</rdg></app></l>
+        <l n="15"><app><lem wit="#F31">Valor contrasta il duro fato invano?</lem><rdg wit="#B20 #B24 #N35">Italo egregio... invano</rdg></app></l>
+          <pb n="36" facs="#F31036"/>
+        <l n="16" rend="indent">Certo senza de’ numi alto consiglio</l>
+        <l n="17">Non è ch’ove più lento</l>
+        <l n="18">E grave è <app><lem wit="#F31">’l</lem><rdg wit="#B20 #B24 #N35">il</rdg></app> nostro disperato obblio,</l>
+        <l n="19">A percoter ne rieda ogni momento</l>
+        <l n="20">Novo grido de’ padri. Ancora è pio</l>
+        <l n="21">Dunque <app><lem wit="#F31">a l’</lem><rdg wit="#B20 #B24 #N35">all’Italia il</rdg></app><app><lem wit="#F31">Italia</lem><rdg wit="#B20 #B24 #N35">Italia</rdg></app> il cielo; anco si cura</l>
+        <l n="22">Di noi qualche immortale:</l>
+        <l n="23">Ch’essendo questa o nessun’altra poi</l>
+        <l n="24">L’ora da ripor mano <app><lem wit="#F31">a la</lem><rdg wit="#B20 #B24 #N35">alla</rdg></app> virtude</l>
+        <l n="25">Rugginosa <app><lem wit="#F31">de l’itala</lem><rdg wit="#B20 #B24 #N35">dell’itala</rdg></app> natura,</l>
+        <l n="26"><app><lem wit="#F31">Veggiam che tanto e tale</lem><rdg wit="#B20 #B24 #N35">Veggiam... dischiude,</rdg></app></l>
+        <l n="27"><app><lem wit="#F31">È il clamor de’ sepolti, e che gli eroi</lem><rdg wit="#B20 #B24 #N35">Veggiam... dischiude,</rdg></app></l>
+        <l n="28"><app><lem wit="#F31">Dimenticati il suol quasi dischiude,</lem><rdg wit="#B20 #B24 #N35">Veggiam... dischiude,</rdg></app></l>
+        <l n="29"><app><lem wit="#F31">A ricercar s’a questa età sì tarda</lem><rdg wit="#B20 #B24 #N35">A ricercar... codarda.</rdg></app></l>
+        <l n="30"><app><lem wit="#F31">Anco ti giovi, o patria, esser codarda.</lem><rdg wit="#B20 #B24 #N35">A ricercar... codarda.</rdg></app></l>
+        <l n="31" rend="indent"><app><lem wit="#F31">Di noi serbate, o gloriosi, ancora</lem><rdg wit="#B20 #B24 #N35">Di noi... speranza</rdg></app></l>
+        <l n="32"><app><lem wit="#F31">Qualche speranza?</lem><rdg wit="#B20 #B24 #N35">Di noi... speranza</rdg></app> in tutto</l>
+        <l n="33">Non siam periti? A voi <app><lem wit="#F31">certo</lem><rdg wit="#B20 #B24 #N35">forse</rdg></app> il futuro</l>
+        <l n="34"><app><lem wit="#F31">Ignoranza non copre: io son distrutto</lem><rdg wit="#B20 #B24 #N35">Conoscer... scuro</rdg></app></l>
+        <l n="35"><app><lem wit="#F31">Ed annullato dal dolor, chè scuro</lem><rdg wit="#B20 #B24 #N35">Conoscer... scuro</rdg></app></l>
+        <l n="36">M’è l’avvenire, e tutto quanto io scerno</l>
+        <l n="37">È tal che sogno e fola</l>
+        <l n="38">Fa parer la speranza. Anime prodi,</l>
+        <l n="39"><app><lem wit="#F31">A i tetti vostri inonorata, immonda</lem><rdg wit="#B20 #B24 #N35">Ai tetti... sangue</rdg></app></l>
+          <pb n="37" facs="#F31037"/>
+        <l n="40"><app><lem wit="#F31">Plebe successe; al vostro sangue</lem><rdg wit="#B20 #B24 #N35">Ai tetti... sangue</rdg></app> è scherno</l>
+        <l n="41">E d’opra e di parola</l>
+        <l n="42">Ogni valor; di vostre <app><lem wit="#F31">inclite lodi</lem><rdg wit="#B20 #B24 #N35">eterne lodi... etade</rdg></app></l>
+        <l n="43"><app><lem wit="#F31">Tace l’itala riva; egro circonda</lem><rdg wit="#B20 #B24 #N35">eterne lodi... etade</rdg></app></l>
+        <l n="44"><app><lem wit="#F31">Ozio le tombe vostre; e di viltade</lem><rdg wit="#B20 #B24 #N35">eterne lodi... etade</rdg></app></l>
+        <l n="45"><app><lem wit="#F31">Siam fatti esempio a la futura etade.</lem><rdg wit="#B20 #B24 #N35">eterne lodi... etade</rdg></app></l>
+        <l n="46" rend="indent">Bennato ingegno, or quando altrui non cale</l>
+        <l n="47">De’ nostri alti parenti,</l>
+        <l n="48">A te ne caglia, a te cui fato aspira</l>
+        <l n="49">Benigno sì che per tua man presenti</l>
+        <l n="50">Paion que’ giorni allor che <app><lem wit="#F31">da la</lem><rdg wit="#B20 #B24 #N35">dalla</rdg></app> dira</l>
+        <l n="51"><app><lem wit="#F31">Obblivíone</lem><rdg wit="#B20 #B24 #N35">Obblivione</rdg></app> antica ergean la chioma,</l>
+        <l n="52">Con gli studi sepolti,</l>
+        <l n="53">I vetusti <app><lem wit="#F31">Divini</lem><rdg wit="#B20 #B24 #N35">divini,</rdg></app> a cui <app><lem wit="#F31">natura</lem><rdg wit="#B20 #B24 #N35">natura Parlò</rdg></app></l>
+        <l n="54">Parlò senza svelarsi, onde i riposi</l>
+        <l n="55">Magnanimi allegràr d’Atene e Roma.</l>
+        <l n="56">Oh tempi, oh tempi avvolti</l>
+        <l n="57">In sonno <app><lem wit="#F31">eterno. Allora</lem><rdg wit="#B20 #B24 #N35">eterno! Allora</rdg></app> anco immatura</l>
+        <l n="58">La ruina d’Italia, anco sdegnosi</l>
+        <l n="59">Eravam d’ozio turpe, e l’<app><lem wit="#F31">aere</lem><rdg wit="#B20 #B24 #N35">aura</rdg></app> a volo</l>
+        <l n="60"><app><lem wit="#F31">Qualche favilla ergea</lem><rdg wit="#B20 #B24 #N35">Più faville rapia</rdg></app> da questo suolo.</l>
+        <l n="61" rend="indent">Eran calde le tue ceneri sante,</l>
+        <l n="62">Non domito nemico</l>
+          <pb n="38" facs="#F31038"/>
+        <l n="63"><app><lem wit="#F31">De la</lem><rdg wit="#B20 #B24 #N35">Della</rdg></app> fortuna, al cui sdegno e dolore</l>
+        <l n="64">Fu più l’averno che la terra amico.</l>
+        <l n="65">L’averno: e qual non è parte migliore</l>
+        <l n="66">Di questa nostra? E le tue dolci corde</l>
+        <l n="67">Susurravano ancora</l>
+        <l n="68">Dal tocco di tua destra, o sfortunato</l>
+        <l n="69">Amante. Ahi dal dolor comincia e nasce</l>
+        <l n="70">L’italo canto. E pur <app><lem wit="#F31">mèn</lem><rdg wit="#B20 #B24 #N35">men</rdg></app> grava e morde</l>
+        <l n="71">Il mal che n’addolora</l>
+        <l n="72">Del tedio che n’affoga. Oh te beato,</l>
+        <l n="73">A cui fu vita il <app><lem wit="#F31">pianto.</lem><rdg wit="#B20 #B24 #N35">pianto!</rdg></app> A noi le fasce</l>
+        <l n="74">Cinse <app><lem wit="#F31">il fastidio; a noi presso la culla</lem><rdg wit="#B20 #B24 #N35">il fastidio... nulla.</rdg></app></l>
+        <l n="75"><app><lem wit="#F31">Immoto siede, e su la tomba, il nulla.</lem><rdg wit="#B20 #B24 #N35">il fastidio... nulla.</rdg></app></l>
+        <l n="76" rend="indent">Ma tua vita era allor con gli astri e <app><lem wit="#F31">’l</lem><rdg wit="#B20 #B24 #N35">il</rdg></app> mare,</l>
+        <l n="77">Ligure ardita prole,</l>
+        <l n="78">Quand’oltre <app><lem wit="#F31">a le</lem><rdg wit="#B20 #B24 #N35">alle</rdg></app> colonne, ed oltre <app><lem wit="#F31">a i</lem><rdg wit="#B20 #B24 #N35">ai</rdg></app> liti</l>
+        <l n="79">Cui strider <app><lem wit="#F31">parve in seno a l’onda il sole</lem><rdg wit="#B20 #B24 #N35">l’onde... sera,</rdg></app> ,</l>
+        <l n="80"><app><lem wit="#F31">Novo di prore incarco</lem><rdg wit="#B20 #B24 #N35">l’onde... sera,</rdg></app> <app><lem wit="#F31">a gl’infiniti</lem><rdg wit="#B20 #B24 #N35">agl’infiniti</rdg></app></l>
+        <l n="81">Flutti commesso, ritrovasti il raggio</l>
+        <l n="82">Del <app><lem wit="#F31">Sol</lem><rdg wit="#B20 #B24 #N35">Sol</rdg></app> caduto, e <app><lem wit="#F31">’l</lem><rdg wit="#B20 #B24 #N35">il</rdg></app> giorno</l>
+        <l n="83">Che nasce allor ch’<app><lem wit="#F31">a i</lem><rdg wit="#B20 #B24 #N35">ai</rdg></app> nostri è giunto al fondo;</l>
+        <l n="84">E rotto di <app><lem wit="#F31">natura</lem><rdg wit="#B20 #B24 #N35">natura</rdg></app> ogni contrasto,</l>
+        <l n="85">Ignota immensa terra al tuo viaggio</l>
+        <l n="86">Fu gloria, e del ritorno</l>
+          <pb n="39" facs="#F31039"/>
+        <l n="87"><app><lem wit="#F31">A i</lem><rdg wit="#B20 #B24 #N35">Ai</rdg></app> rischi. Ahi <app><lem wit="#F31">ahi, ma conosciuto il mondo</lem><rdg wit="#B20 #B24 #N35">ahi... anzi</rdg></app></l>
+        <l n="88"><app><lem wit="#F31">Non cresce, anzi</lem><rdg wit="#B20 #B24 #N35">ahi... anzi</rdg></app> si scema, e assai più vasto</l>
+        <l n="89"><app><lem wit="#F31">L’etra sonante e l’alma terra e ’l mare</lem><rdg wit="#B20 #B24 #N35">L’etra... appare.</rdg></app></l>
+        <l n="90"><app><lem wit="#F31">Al fanciullin, che non al saggio, appare.</lem><rdg wit="#B20 #B24 #N35">L’etra... appare.</rdg></app></l>
+        <l n="91" rend="indent">Nostri <app><lem wit="#F31">beati sogni</lem><rdg wit="#B20 #B24 #N35">sogni leggiadri</rdg></app> ove son giti</l>
+        <l n="92"><app><lem wit="#F31">De l’ignoto</lem><rdg wit="#B20 #B24 #N35">Dell’ignoto</rdg></app> ricetto</l>
+        <l n="93">D’ignoti abitatori, o del diurno</l>
+        <l n="94"><app><lem wit="#F31">De gli</lem><rdg wit="#B20 #B24 #N35">Degli</rdg></app> astri albergo, e del rimoto letto</l>
+        <l n="95"><app><lem wit="#F31">De la</lem><rdg wit="#B20 #B24 #N35">Della</rdg></app> giovane Aurora, e del notturno</l>
+        <l n="96">Occulto sonno del maggior pianeta ?</l>
+        <l n="97">Ecco svaniro a un punto,</l>
+        <l n="98"><app><lem wit="#F31">E figurato è ’l</lem><rdg wit="#B20 #B24 #N35">E figurato è il</rdg></app> mondo in breve <app><lem wit="#F31">carta,</lem><rdg wit="#B20 #B24 #N35">carta;</rdg></app></l>
+        <l n="99">Ecco tutto è <app><lem wit="#F31">simìle,</lem><rdg wit="#B20 #B24 #N35">simile,</rdg></app> e discoprendo,</l>
+        <l n="100">Solo il nulla s’accresce. A noi ti vieta</l>
+        <l n="101">Il vero appena è giunto,</l>
+        <l n="102">O caro immaginar; da te s’apparta</l>
+        <l n="103">Nostra mente in eterno; <app><lem wit="#F31">a lo stupendo</lem><rdg wit="#B20 #B24 #N35">allo stupendo</rdg></app></l>
+        <l n="104">Poter tuo primo ne sottraggon gli <app><lem wit="#F31">anni,</lem><rdg wit="#B20 #B24 #N35">anni;</rdg></app></l>
+        <l n="105">E il conforto perì de’ nostri affanni.</l>
+        <l n="106" rend="indent">Nascevi <app><lem wit="#F31">a’</lem><rdg wit="#B20 #B24 #N35">ai</rdg></app> dolci sogni intanto, e <app><lem wit="#F31">’l</lem><rdg wit="#B20 #B24 #N35">il primo Sole</rdg></app> primo</l>
+        <l n="107">Sole splendeati in vista,</l>
+        <l n="108">Cantor vago <app><lem wit="#F31">de l’arme</lem><rdg wit="#B20 #B24 #N35">dell’arme</rdg></app> e <app><lem wit="#F31">de gli amori</lem><rdg wit="#B20 #B24 #N35">degli amori,</rdg></app></l>
+        <l n="109">Che in età <app><lem wit="#F31">de la</lem><rdg wit="#B20 #B24 #N35">della</rdg></app> nostra assai men trista</l>
+          <pb n="40" facs="#F31040"/>
+        <l n="110">Empièr la vita di felici errori:</l>
+        <l n="111">Nova speme d’Italia.O torri, o celle,</l>
+        <l n="112">O donne, o cavalieri,</l>
+        <l n="113">O giardini, o palagi! a voi pensando,</l>
+        <l n="114">In mille vane amenità si perde</l>
+        <l n="115">La mente mia. Di vanità, di belle</l>
+        <l n="116">Fole e strani pensieri</l>
+        <l n="117">Si componea l’umana vita: in bando</l>
+        <l n="118"><app><lem wit="#F31">Gli</lem><rdg wit="#B20 #B24 #N35">Li cacciamo</rdg></app> cacciammo: or che resta? or poi che <app><lem wit="#F31">’l</lem><rdg wit="#B20 #B24 #N35">il</rdg></app> verde</l>
+        <l n="119">È spogliato <app><lem wit="#F31">a le</lem><rdg wit="#B20 #B24 #N35">alle</rdg></app> cose? <app><lem wit="#F31">il</lem><rdg wit="#B20 #B24 #N35">Il</rdg></app> certo e solo</l>
+        <l n="120">Veder che tutto è vano altro che <app><lem wit="#F31">’l</lem><rdg wit="#B20 #B24 #N35">il</rdg></app> duolo.</l>
+        <l n="121" rend="indent">O Torquato, o Torquato, a noi <app><lem wit="#F31">promesso</lem><rdg wit="#B20 #B24 #N35">l’eccelsa... mente</rdg></app></l>
+        <l n="122"><app><lem wit="#F31">Eri tu</lem><rdg wit="#B20 #B24 #N35">l’eccelsa... mente</rdg></app> <app><lem wit="#F31">allora;</lem><rdg wit="#B20 #B24 #N35">allora,</rdg></app> il pianto</l>
+        <l n="123">A te, <app><lem wit="#F31">non altro, prometteva</lem><rdg wit="#B20 #B24 #N35">non altro, preparava</rdg></app> il cielo.</l>
+        <l n="124"><app><lem wit="#F31">Oh</lem><rdg wit="#B20 #B24 #N35">Oh</rdg></app> misero <app><lem wit="#F31">Torquato;</lem><rdg wit="#B20 #B24 #N35">Torquato!</rdg></app> il dolce canto</l>
+        <l n="125">Non valse a consolarti o a sciorre il gelo</l>
+        <l n="126">Onde l’alma t’avean, ch’era sì calda,</l>
+        <l n="127">Cinta l’odio e l’immondo</l>
+        <l n="128">Livor privato e de’ tiranni. Amore,</l>
+        <l n="129"><app><lem wit="#F31">Amor, di nostra vita ultimo inganno,</lem><rdg wit="#B20 #B24 #N35">Amor... inganno</rdg></app></l>
+        <l n="130">T’abbandonava. Ombra reale e salda</l>
+        <l n="131">Ti parve il nulla, e <app><lem wit="#F31">’l</lem><rdg wit="#B20 #B24 #N35">il</rdg></app> mondo</l>
+        <l n="132"><app><lem wit="#F31">Inabitata piaggia. Al tardo onore</lem><rdg wit="#B20 #B24 #N35">Inabitata... danno,</rdg></app></l>
+        <l n="133"><app><lem wit="#F31">Non sorser gli occhi tuoi; mercè, non danno,</lem><rdg wit="#B20 #B24 #N35">Inabitata... danno,</rdg></app></l>
+          <pb n="41" facs="#F31041"/>
+        <l n="134"><app><lem wit="#F31">L’estrema ora</lem><rdg wit="#B20 #B24 #N35">L’ora estrema</rdg></app> ti fu. Morte domanda</l>
+        <l n="135">Chi <app><lem wit="#F31">nostro</lem><rdg wit="#B20 #B24 #N35">nostro</rdg></app> mal conobbe, e non ghirlanda .</l>
+        <l n="136" rend="indent">Torna torna fra noi, sorgi dal muto</l>
+        <l n="137">E sconsolato avello,</l>
+        <l n="138">Se <app><lem wit="#F31">d’angoscia se’ vago,</lem><rdg wit="#B20 #B24 #N35">d’angoscia sei vago,</rdg></app> o miserando</l>
+        <l n="139">Esemplo di <app><lem wit="#F31">sciaura</lem><rdg wit="#B20 #B24 #N35">sciagura.</rdg></app> Assai da <app><lem wit="#F31">quello,</lem><rdg wit="#B20 #B24 #N35">quello Che</rdg></app></l>
+        <l n="140">Che ti parve sì mesto e sì nefando,</l>
+        <l n="141">È peggiorato il viver nostro. O caro,</l>
+        <l n="142">Chi ti compiangeria,</l>
+        <l n="143">Se, fuor che di se stesso, altri non cura?</l>
+        <l n="144">Chi stolto non direbbe il tuo mortale</l>
+        <l n="145">Affanno anche oggidì, se <app><lem wit="#F31">’l grande e ’l</lem><rdg wit="#B20 #B24 #N35">il... il</rdg></app> raro</l>
+        <l n="146">Ha nome di follia;</l>
+        <l n="147">Nè livor più, ma ben di lui più dura</l>
+        <l n="148">La noncuranza avviene <app><lem wit="#F31">a i</lem><rdg wit="#B20 #B24 #N35">ai</rdg></app> sommi? o quale,</l>
+        <l n="149">Se più de’ carmi, il computar s’ascolta,</l>
+        <l n="150">Ti appresterebbe il lauro un’altra volta?</l>
+        <l n="151" rend="indent">Da te fino a quest’ora uom non è <app><lem wit="#F31">sorto</lem><rdg wit="#B20 #B24 #N35">sorto,</rdg></app></l>
+        <l n="152"><app><lem wit="#F31">(O sventurato ingegno),</lem><rdg wit="#B20 #B24 #N35">O sventurato ingegno,</rdg></app></l>
+        <l n="153">Pari <app><lem wit="#F31">a l’italo</lem><rdg wit="#B20 #B24 #N35">all’italo</rdg></app> nome, altro ch’un solo,</l>
+        <l n="154">Solo di sua codarda etate indegno</l>
+        <l n="155">Allobrogo feroce, a cui dal polo</l>
+        <l n="156"><app><lem wit="#F31">Disusata virtù</lem><rdg wit="#B20 #B24 #N35">Maschia virtù</rdg></app>, non <app><lem wit="#F31">da la</lem><rdg wit="#B20 #B24 #N35">già da questa</rdg></app> mia</l>
+          <pb n="42" facs="#F31042"/>
+        <l n="157">Stanca ed arida terra,</l>
+        <l n="158"><app><lem wit="#F31">Scese nel core</lem><rdg wit="#B20 #B24 #N35">Venne nel petto;</rdg></app> onde privato, inerme,</l>
+        <l n="159">(Memorando ardimento) in su la scena</l>
+        <l n="160">Mosse guerra a’ tiranni: almen si dia</l>
+        <l n="161">Questa misera guerra</l>
+        <l n="162">E questo vano campo <app><lem wit="#F31">a l’ire</lem><rdg wit="#B20 #B24 #N35">all’ire</rdg></app> inferme</l>
+        <l n="163">Del mondo. Ei primo e sol dentro <app><lem wit="#F31">a l’arena</lem><rdg wit="#B20 #B24 #N35">all’arena</rdg></app></l>
+        <l n="164">Scese, e nullo il seguì, <app><lem wit="#F31">chè</lem><rdg wit="#B20 #B24 #N35">che</rdg></app> l’ozio e <app><lem wit="#F31">’l</lem><rdg wit="#B20 #B24 #N35">il</rdg></app> brutto</l>
+        <l n="165">Silenzio or preme <app><lem wit="#F31">a i</lem><rdg wit="#B20 #B24 #N35">ai</rdg></app> nostri innanzi a tutto.</l>
+        <l n="166" rend="indent">Disdegnando e fremendo, immacolata</l>
+        <l n="167">Trasse la vita intera,</l>
+        <l n="168">E morte lo scampò dal veder peggio.</l>
+        <l n="169">Vittorio mio, questa per te non era</l>
+        <l n="170">Età nè suolo. Altri anni ed altro seggio</l>
+        <l n="171">Conviene <app><lem wit="#F31">a gli</lem><rdg wit="#B20 #B24 #N35">agli</rdg></app> alti ingegni. Or di riposo</l>
+        <l n="172">Paghi viviamo, e scorti</l>
+        <l n="173">Da mediocrità: sceso <app><lem wit="#F31">il</lem><rdg wit="#B20 #B24 #N35">il</rdg></app> sapiente</l>
+        <l n="174">E salita è la turba a un sol confine,</l>
+        <l n="175">Che <app><lem wit="#F31">’l</lem><rdg wit="#B20 #B24 #N35">il</rdg></app> mondo agguaglia. O scopritor famoso,</l>
+        <l n="176">Segui; risveglia i morti,</l>
+        <l n="177">Poi che dormono i vivi; arma le spente</l>
+        <l n="178">Lingue de’ prischi eroi; tanto che in fine</l>
+        <l n="179">Questo secol di fango o vita agogni</l>
+        <l n="180">E sorga ad atti illustri, o si vergogni.</l>
+        </lg>
+        <div type="note" xml:id="f31_iii_ad_angelo_mai_quandebbe_trovato_i_libri_di_cicerone_della_repubblica_note_p_43" corresp="#iii_ad_angelo_mai_quandebbe_trovato_i_libri_di_cicerone_della_repubblica">
+          <pb n="43" facs="#F31043"/>
+          <head>NOTA</head>
+          <p>"Di questa fama anticamente divulgata, che in Ispagna e in Portogallo, quan- do il sole tramontava, s’udisse a stridere di mezzo al mare a guisa che fa un carbone o un ferro rovente che sia tuffato nell’acqua, sono da vedere il secondo libro di Cleomede (1), il terzo di Strabone (2), la quartadecima Satira di Giovenale (3), il secondo libro delle Selve di Stazio (4) e l’Epistola decimot- tava d’Ausonio (5). E non tralascerò in questo proposito quello che dice Floro (6) laddove accenna le im- (1) Circular. Doctrin. de Sublimibus, l. 2, c. 1. edit. Bake, Lugd. Bat. 1820, p. 109 et seq. (2) Amstel. 1707, p. 202 B. (3) v. 279. (4) Genethliac. Lucani, v. 24 et sequent. (5) v. 2. (6) l. 2, c. 17, sect. 12.</p>
+        </div>
+        <div type="note" xml:id="f31_iii_ad_angelo_mai_quandebbe_trovato_i_libri_di_cicerone_della_repubblica_note_p_44" corresp="#iii_ad_angelo_mai_quandebbe_trovato_i_libri_di_cicerone_della_repubblica">
+          <pb n="44" facs="#F31044"/>
+          <head>NOTA</head>
+          <p>prese fatte da Decimo Bruto in Portogallo: <hi rend="italic">Peragratoque victor Oceani litore,</hi> <hi rend="italic">non prius signa convertit, quam caden</hi><hi rend="italic">tem in maria solem, obrutumque aquis</hi> <hi rend="italic">ignem, non sine quodam sacrilegii me</hi><hi rend="italic">tu, et horrore, deprehendit</hi>. Vedi altresì le anzioni degli eruditi sopra il quarantesimoquinto capo di Tacito delle Cose germaniche.” <hi rend="italic">Dall’edizione di Bolo</hi><hi rend="italic">gna</hi>. “Al tempo che poca o niuna contezza si aveva della rotondità della terra, e delle altre dottrine che appartengono alla cosmografia, gli uomini non sapendo quello che il sole durante la notte operasse o patisse, fecero intorno a questo particolare molte e belle immaginazioni, secondo la vivacità e la freschezza di quella fantasia, che oggidì non si può chiamare altrimenti che fanciullesca, ma che in ciascun’altra età degli antichi poteva poco meno che nella puerizia. E s’alcuni s’immaginarono che il sole si spegnesse la sera e che la mattina si raccendesse, altri si persuasero che dal tramonto si posasse, e dormisse fino</p>
+        </div>
+        <div type="note" xml:id="f31_iii_ad_angelo_mai_quandebbe_trovato_i_libri_di_cicerone_della_repubblica_note_p_45" corresp="#iii_ad_angelo_mai_quandebbe_trovato_i_libri_di_cicerone_della_repubblica">
+          <pb n="45" facs="#F31045"/>
+          <head>NOTA</head>
+          <p>all’aggiornare; e Mimnermo, poeta greco antichissimo, pone il letto del sole in un luogo della Colchide. Stesicoro (1), Antimaco (2), Eschilo (3), ed esso Mimnermo (4) più distintamente che gli altri dice anche questo, che il sole dopo calato si pone a giacere in un letto concavo a uso di navicella, tutto d’oro, e così dormendo naviga per l’Oceano da ponente a levante. Pitea marsigliese, allegato da Gemino (5) e da Cosma egiziano (6) racconta di non so quali Barbari che mostrarono a esso Pitea la stanza dove il sole, secondo loro, s’adagiava a dormire. E il Petrarca s’avvicinò a queste tali opinioni volgare in quei versi (7): <hi rend="italic">Quando vede ’l pastor calare</hi> (1) ap. Athenaeum, l. 11, c. 38; ed. Schvei- ghaeuser, tom. 4, p. 237. (2) ap. eumd. loc. cit. p. 238. (3) Heliad. ap. eumd. l. c. (4) Nannone, ap. eumd. loc. cit. c. 39, p. 239. (5) Elem. Astron. c. 5; in Petav. Uranolog. Antuerp. (Amstel.) 1703, p. 13. (6) Topogr. christian. l. 2; ed. Montfauc. p. 149. (7) Canz. Ne la stagion che ’l ciel rapido inchina, st. 3.</p>
+        </div>
+        <div type="note" xml:id="f31_iii_ad_angelo_mai_quandebbe_trovato_i_libri_di_cicerone_della_repubblica_note_p_46" corresp="#iii_ad_angelo_mai_quandebbe_trovato_i_libri_di_cicerone_della_repubblica">
+          <pb n="46" facs="#F31046"/>
+          <head>NOTA</head>
+          <p><hi rend="italic">i raggi Del gran pianeta al nido ov’egli</hi> <hi rend="italic">alberga</hi>. Siccome in questi altri (1) seguì la sentenza di quei filosofi che per via di raziocinio e di congettura indovinavano gli antipodi: <hi rend="italic">Ne la stagion che ’l ciel rapido</hi> <hi rend="italic">inchina Verso occidente, e che ’l dì no</hi><hi rend="italic">stro vola A gente che di là forse l’aspet</hi><hi rend="italic">ta</hi>. Dove quel forse, che oggi non si potrebbe dire, è bilissimo e poetichissimo, perocchè lasciava libero all’immaginazione di figurarsi a modo suo quella gente sconosciuta, o d’averla in tutto per favolosa; dal che si dee credere che, leggendo questi versi, nascessero di quelle concezioni vaghe e indeterminate, che sono effetto principalissimo ed essenzialissimo delle bellezze poetiche, anzi di tutte le maggiori bellezze del mondo.” <hi rend="italic">Dall’edizio</hi><hi rend="italic">ne di Bologna.</hi> "Si ha rispetto alla congiuntura della morte del Tasso accaduta in tempo che disponevano d’incoronarlo in Campidoglio." <hi rend="italic">Dall’edizione di Bologna</hi>. (1) st. 1.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
