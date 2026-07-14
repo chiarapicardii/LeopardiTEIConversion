@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>XIV. IL SOGNO.</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoding and conversion by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>LeopardiTEIConversion project</publisher>
+          <date when="2026">2026</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <title>Wikileopardi</title>
+            <date>2020</date>
+            <note>Corpus of Canti extracted from Wikileopardi's platform.</note>
+          </bibl>
+        <listWit>
+          <witness xml:id="B20">B20</witness>
+          <witness xml:id="B24">B24</witness>
+          <witness xml:id="B26">B26</witness>
+          <witness xml:id="F31">F31</witness>
+          <witness xml:id="N35">N35</witness>
+          <witness xml:id="R18">R18</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <projectDesc>
+            <p>This project aims at standardizing the text and critical apparatus of Leopardi's Canti.</p>
+        </projectDesc>
+      </encodingDesc>
+    </teiHeader>
+
+  <facsimile>
+    <surface xml:id="F31099">
+      <graphic url="./assets/img/F31099.JPG"/>
+    </surface>
+    <surface xml:id="F31100">
+      <graphic url="./assets/img/F31100.JPG"/>
+    </surface>
+    <surface xml:id="F31101">
+      <graphic url="./assets/img/F31101.JPG"/>
+    </surface>
+    <surface xml:id="F31102">
+      <graphic url="./assets/img/F31102.JPG"/>
+    </surface>
+    <surface xml:id="F31103">
+      <graphic url="./assets/img/F31103.JPG"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="poem" xml:id="canto_xiv_il_sogno">
+        <head>XIV. IL SOGNO.</head>
+        <lg>
+          <pb n="99" facs="#F31099"/>
+        <l n="1">Era il mattino, e tra le chiuse imposte</l>
+        <l n="2">Per lo balcone insinuava il sole</l>
+        <l n="3"><app><lem wit="#F31">Ne la</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">Nella</rdg></app> mia cieca stanza il primo albore;</l>
+        <l n="4">Quando in sul tempo che più leve il sonno</l>
+        <l n="5">E più soave le pupille adombra,</l>
+        <l n="6">Stettemi allato e riguardommi in viso</l>
+        <l n="7">Il simulacro di colei che amore</l>
+        <l n="8">Prima insegnommi, e poi lasciommi in pianto.</l>
+        <l n="9">Morta non mi parea, ma <app><lem wit="#F31">trista</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">trista,</rdg></app> e quale</l>
+        <l n="10"><app><lem wit="#F31">De gl’</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">Degl’</rdg></app> infelici è la sembianza. Al capo</l>
+        <l n="11">Appressommi la destra, e sospirando,</l>
+        <l n="12">Vivi, mi disse, e ricordanza alcuna</l>
+        <l n="13">Serbi di noi? Donde, risposi, e come</l>
+        <l n="14"><app><lem wit="#F31">Vieni</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">Vieni,</rdg></app> o cara beltà? Quanto, deh quanto</l>
+        <l n="15">Di te mi duolse e duol: nè mi credea</l>
+        <l n="16">Che risaper tu lo dovessi e <app><lem wit="#F31">questo</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">questa facea</rdg></app></l>
+        <l n="17">Facea più sconsolato il dolor mio.</l>
+        <l n="18">Ma <app><lem wit="#F31">se’</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">sei</rdg></app> tu per lasciarmi un’altra volta?</l>
+          <pb n="100" facs="#F31100"/>
+        <l n="19">Io n’ho gran tema. Or dimmi, e che <app><lem wit="#F31">t’</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">ti</rdg></app> avvenne?</l>
+        <l n="20"><app><lem wit="#F31">Se’ tu quella di prima</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">Sei tu quella di prima</rdg></app>? <app><lem wit="#F31">E</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">e</rdg></app> che ti strugge</l>
+        <l n="21">Internamente? Obblivione ingombra</l>
+        <l n="22">I tuoi pensieri, e gli avviluppa il sonno;</l>
+        <l n="23">Disse colei. Son morta, e mi vedesti</l>
+        <l n="24">L’ultima volta, or son più lune. Immensa</l>
+        <l n="25">Doglia m’oppresse a queste voci il petto.</l>
+        <l n="26">Ella seguì: nel fior <app><lem wit="#F31">de gli</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">degli</rdg></app> anni estinta,</l>
+        <l n="27">Quand’è <app><lem wit="#F31">’l</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">il</rdg></app> viver più dolce, e pria che <app><lem wit="#F31">’l</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">il</rdg></app> core</l>
+        <l n="28">Certo si renda com’è tutta indarno</l>
+        <l n="29">L’umana speme. A desiar colei</l>
+        <l n="30">Che d’ogni affanno il tragge, ha poco andare</l>
+        <l n="31">L’egro mortal; ma sconsolata arriva</l>
+        <l n="32">La morte <app><lem wit="#F31">a i</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">ai</rdg></app> giovanetti, e duro è <app><lem wit="#F31">’l</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">il</rdg></app> fato</l>
+        <l n="33">Di quella speme <app><lem wit="#F31">cui la terra opprime</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">che sotterra è spenta</rdg></app>.</l>
+        <l n="34">Vano è <app><lem wit="#F31">’l saper</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">saper</rdg></app> quel che natura asconde</l>
+        <l n="35"><app><lem wit="#F31">A gl’inesperti</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">Agl’inesperti</rdg></app><app><lem wit="#F31">de la</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">della</rdg></app> vita, e molto</l>
+        <l n="36"><app><lem wit="#F31">A l’immatura</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">All’immatura</rdg></app> sapienza il cieco</l>
+        <l n="37">Dolor prevale. Oh sfortunata, oh cara,</l>
+        <l n="38">Taci, taci, diss’io, <app><lem wit="#F31">chè</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">che</rdg></app> tu mi schianti</l>
+        <l n="39">Con questi detti il cor. Dunque <app><lem wit="#F31">se’</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">sei</rdg></app> morta</l>
+        <l n="40">O mia diletta, ed io son vivo, ed era</l>
+        <l n="41">Pur fisso in ciel che quei sudori estremi</l>
+        <l n="42">Cotesta cara e tenerella salma</l>
+        <l n="43">Provar dovesse, a me restasse intera</l>
+          <pb n="101" facs="#F31101"/>
+        <l n="44">Questa misera spoglia? Oh quante volte</l>
+        <l n="45">In ripensar che più non vivi, e mai</l>
+        <l n="46">Non avverrà ch’io ti ritrovi al mondo,</l>
+        <l n="47">Creder nol posso. Ahi ahi, che cosa è questa</l>
+        <l n="48">Che morte s’addimanda? Oggi per prova</l>
+        <l n="49">Intenderlo potessi, e <app><lem wit="#F31">’l</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">il</rdg></app> capo inerme</l>
+        <l n="50"><app><lem wit="#F31">A gli</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">Agli</rdg></app> atroci del fato odii sottrarre.</l>
+        <l n="51">Giovane son, ma si consuma e perde</l>
+        <l n="52">La giovanezza mia come vecchiezza;</l>
+        <l n="53">La qual pavento, e pur m’è lunge assai.</l>
+        <l n="54">Ma poco da vecchiezza si discorda</l>
+        <l n="55">Il fior <app><lem wit="#F31">de l’età mia</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">dell’età mia</rdg></app>. Nascemmo al pianto,</l>
+        <l n="56">Disse, ambedue; felicità non rise</l>
+        <l n="57">Al viver nostro; e dilettossi il <app><lem wit="#F31">cielo</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">cielo Del</rdg></app></l>
+        <l n="58">De’ nostri affanni. Or se di pianto il ciglio,</l>
+        <l n="59">Soggiunsi, e di pallor velato il viso</l>
+        <l n="60">Per la tua dipartita, e se d’angoscia</l>
+        <l n="61">Porto gravido il cor; dimmi: d’amore</l>
+        <l n="62"><app><lem wit="#F31">Già non favello;</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">Favilla alcuna,</rdg></app> <app><lem wit="#F31">ma pietade alcuna</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">o di pietà, giammai</rdg></app></l>
+        <l n="63"><app><lem wit="#F31">Del tuo</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">Verso il</rdg></app> misero amante <app><lem wit="#F31">in sen ti nacque</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">il cor t’assalse</rdg></app></l>
+        <l n="64">Mentre vivesti? Io disperando allora</l>
+        <l n="65">E sperando traea le notti e i giorni.</l>
+        <l n="66">Oggi nel vano dubitar si stanca</l>
+        <l n="67">La mente mia. Che se una volta <app><lem wit="#F31">pure</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">sola</rdg></app></l>
+        <l n="68"><app><lem wit="#F31">Mercè</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">Dolor</rdg></app> ti strinse di mia negra vita,</l>
+          <pb n="102" facs="#F31102"/>
+        <l n="69"><app><lem wit="#F31">Consentimi ch’io ’l sappia</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">Non mel celar, ti prego,</rdg></app> e mi soccorra</l>
+        <l n="70">La rimembranza or che <app><lem wit="#F31">il</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">il</rdg></app> futuro è tolto</l>
+        <l n="71"><app><lem wit="#F31">A i</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">Ai</rdg></app> nostri giorni. E quella: ti conforta,</l>
+        <l n="72">O sventurato. Io di pietade avara</l>
+        <l n="73">Non ti fui mentre vissi, ed or non sono,</l>
+        <l n="74"><app><lem wit="#F31">Chè</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">Che</rdg></app> fui misera anch’io. Non far querela</l>
+        <l n="75">Di questa infelicissima fanciulla.</l>
+        <l n="76">Per le sventure nostre, e per l’amore</l>
+        <l n="77">Che mi strugge, esclamai; per lo diletto</l>
+        <l n="78">Nome di giovanezza e la perduta</l>
+        <l n="79">Speme <app><lem wit="#F31">de i</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">dei</rdg></app> nostri dì, <app><lem wit="#F31">concedi</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">concedi,</rdg></app> o cara,</l>
+        <l n="80">Che la tua destra io tocchi. Ed ella, in atto</l>
+        <l n="81">Soave e tristo, la porgeva. Or mentre</l>
+        <l n="82">Di baci la ricopro, e d’affannosa</l>
+        <l n="83">Dolcezza palpitando <app><lem wit="#F31">a l’anelante</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">all’anelante</rdg></app></l>
+        <l n="84">Seno la stringo, di sudore il volto</l>
+        <l n="85">Ferveva e <app><lem wit="#F31">’l</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">il</rdg></app> petto, <app><lem wit="#F31">ne le</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">nelle</rdg></app> fauci stava</l>
+        <l n="86">La voce, al guardo traballava il giorno.</l>
+        <l n="87">Quando colei teneramente affissi</l>
+        <l n="88">Gli occhi <app><lem wit="#F31">ne gli</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">negli</rdg></app> occhi miei, già <app><lem wit="#F31">scordi</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">scordi,</rdg></app> o caro,</l>
+        <l n="89">Disse, che di beltà son fatta ignuda?</l>
+        <l n="90">E tu d’amore, o sfortunato, indarno</l>
+        <l n="91">Ti scaldi e fremi. Or finalmente addio.</l>
+        <l n="92">Nostre misere menti e nostre salme</l>
+        <l n="93">Son disgiunte in eterno. A me non vivi</l>
+          <pb n="103" facs="#F31103"/>
+        <l n="94">E mai più non vivrai: già ruppe il fato</l>
+        <l n="95"><app><lem wit="#F31">L’amor</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">La fe</rdg></app> che mi giurasti. Allor d’angoscia</l>
+        <l n="96">Gridar volendo, e spasimando, e pregne</l>
+        <l n="97">Di sconsolato pianto le pupille,</l>
+        <l n="98">Dal sonno mi disciolsi. Ella <app><lem wit="#F31">ne gli</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">Negli occhi Pur</rdg></app> occhi</l>
+        <l n="99">Pur mi restava, e <app><lem wit="#F31">ne l’incerto</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">nell’incerto</rdg></app> raggio</l>
+        <l n="100">Del <app><lem wit="#F31">Sol</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">Sol</rdg></app> vederla io mi credeva ancora.</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

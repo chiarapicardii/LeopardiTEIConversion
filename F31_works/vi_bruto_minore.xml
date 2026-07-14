@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>VI. BRUTO MINORE.</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoding and conversion by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>LeopardiTEIConversion project</publisher>
+          <date when="2026">2026</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <title>Wikileopardi</title>
+            <date>2020</date>
+            <note>Corpus of Canti extracted from Wikileopardi's platform.</note>
+          </bibl>
+        <listWit>
+          <witness xml:id="B24">B24</witness>
+          <witness xml:id="F31">F31</witness>
+          <witness xml:id="N35">N35</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <projectDesc>
+            <p>This project aims at standardizing the text and critical apparatus of Leopardi's Canti.</p>
+        </projectDesc>
+      </encodingDesc>
+    </teiHeader>
+
+  <facsimile>
+    <surface xml:id="F31057">
+      <graphic url="./assets/img/F31057.JPG"/>
+    </surface>
+    <surface xml:id="F31058">
+      <graphic url="./assets/img/F31058.JPG"/>
+    </surface>
+    <surface xml:id="F31059">
+      <graphic url="./assets/img/F31059.JPG"/>
+    </surface>
+    <surface xml:id="F31060">
+      <graphic url="./assets/img/F31060.JPG"/>
+    </surface>
+    <surface xml:id="F31061">
+      <graphic url="./assets/img/F31061.JPG"/>
+    </surface>
+    <surface xml:id="F31062">
+      <graphic url="./assets/img/F31062.JPG"/>
+    </surface>
+    <surface xml:id="F31063">
+      <graphic url="./assets/img/F31063.JPG"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="poem" xml:id="vi_bruto_minore">
+        <head>VI. BRUTO MINORE.</head>
+        <lg>
+          <pb n="57" facs="#F31057"/>
+        <l n="1">Poi che divelta, <app><lem wit="#F31">ne la</lem><rdg wit="#B24 #N35">nella tracia</rdg></app> la tracia polve</l>
+        <l n="2">Giacque, ruina immensa,</l>
+        <l n="3">L’italica virtute, onde <app><lem wit="#F31">a le</lem><rdg wit="#B24 #N35">Alle</rdg></app> valli</l>
+        <l n="4">D’Esperia verde, e al tiberino lido,</l>
+        <l n="5">Il calpestio de’ barbari cavalli</l>
+        <l n="6">Prepara il fato, e <app><lem wit="#F31">da le</lem><rdg wit="#B24 #N35">Dalle</rdg></app> selve ignude,</l>
+        <l n="7">Cui l’Orsa algida preme,</l>
+        <l n="8">A spezzar le romane inclite mura</l>
+        <l n="9">Chiama i gotici brandi;</l>
+        <l n="10">Sudato, e molle di fraterno sangue,</l>
+        <l n="11">Bruto per l’atra notte in erma sede,</l>
+        <l n="12">Fermo già di morir, gl’inesorandi</l>
+        <l n="13">Numi e l’averno accusa,</l>
+        <l n="14">E di feroci note</l>
+        <l n="15">Invan la sonnolenta aura percote.</l>
+        <l n="16" rend="indent">Stolta virtù, le cave <app><lem wit="#F31">nebbie, i campi</lem><rdg wit="#B24 #N35">Nebbie,... scole,</rdg></app></l>
+        <l n="17"><app><lem wit="#F31">De l’inquiete larve</lem><rdg wit="#B24 #N35">Nebbie,... scole,</rdg></app></l>
+          <pb n="58" facs="#F31058"/>
+        <l n="18"><app><lem wit="#F31">Son le tue scole,</lem><rdg wit="#B24 #N35">Nebbie,... scole,</rdg></app> e ti si volge a tergo</l>
+        <l n="19">Il pentimento. A voi, marmorei numi,</l>
+        <l n="20">(Se numi avete in Flegetonte albergo</l>
+        <l n="21">O su le nubi) a voi ludibrio e scherno</l>
+        <l n="22">È la prole infelice</l>
+        <l n="23">A cui templi chiedeste, e frodolenta</l>
+        <l n="24">Legge al mortale insulta.</l>
+        <l n="25">Dunque tanto i celesti odii commove</l>
+        <l n="26">La terrena pietà? dunque <app><lem wit="#F31">de gli</lem><rdg wit="#B24 #N35">Degli</rdg></app> empi</l>
+        <l n="27">Siedi, Giove, a tutela? e quando esulta</l>
+        <l n="28">Per l’aere il nembo, e quando</l>
+        <l n="29">Il tuon rapido spingi,</l>
+        <l n="30">Ne’ giusti e pii la sacra fiamma stringi?</l>
+        <l n="31" rend="indent">Preme il destino invitto e la ferrata</l>
+        <l n="32">Necessità gl’infermi</l>
+        <l n="33">Schiavi di morte: e <app><lem wit="#F31">se a cessar</lem><rdg wit="#B24 #N35">Se a cessar</rdg></app> non vale</l>
+        <l n="34">Gli oltraggi lor, de’ <app><lem wit="#F31">necessarii</lem><rdg wit="#B24 #N35">Necessari</rdg></app> danni</l>
+        <l n="35">Si consola il plebeo. Men duro è <app><lem wit="#F31">’l</lem><rdg wit="#B24 #N35">Il</rdg></app> male</l>
+        <l n="36">Che riparo non ha? dolor non sente</l>
+        <l n="37">Chi di speranza è nudo?</l>
+        <l n="38">Guerra <app><lem wit="#F31">mortale</lem><rdg wit="#B24 #N35">Mortale</rdg></app>, eterna, o fato indegno,</l>
+        <l n="39">Teco il prode guerreggia,</l>
+        <l n="40">Di cedere inesperto; e la tiranna</l>
+        <l n="41">Tua destra, allor che vincitrice il grava,</l>
+          <pb n="59" facs="#F31059"/>
+        <l n="42">Indomito scrollando si pompeggia,</l>
+        <l n="43">Quando <app><lem wit="#F31">ne l’alto</lem><rdg wit="#B24 #N35">Nell’alto</rdg></app> lato</l>
+        <l n="44">L’amaro ferro intride,</l>
+        <l n="45">E maligno <app><lem wit="#F31">a le</lem><rdg wit="#B24 #N35">Alle</rdg></app> nere ombre sorride.</l>
+        <l n="46" rend="indent">Spiace <app><lem wit="#F31">a gli</lem><rdg wit="#B24 #N35">Agli</rdg></app> Dei chi violento <app><lem wit="#F31">irrompe</lem><rdg wit="#B24 #N35">Irrompe</rdg></app></l>
+        <l n="47">Nel Tartaro. Non <app><lem wit="#F31">fora</lem><rdg wit="#B24 #N35">Non fora</rdg></app></l>
+        <l n="48">Tanto valor ne’ molli eterni petti.</l>
+        <l n="49">Forse <app><lem wit="#F31">i travagli nostri</lem><rdg wit="#B24 #N35">I travagli nostri</rdg></app>, e forse il <app><lem wit="#F31">cielo</lem><rdg wit="#B24 #N35">Forse il cielo</rdg></app></l>
+        <l n="50">I casi acerbi e gl’infelici affetti</l>
+        <l n="51">Giocondo <app><lem wit="#F31">a gli</lem><rdg wit="#B24 #N35">Agli</rdg></app> ozi suoi spettacol pose?</l>
+        <l n="52">Non fra <app><lem wit="#F31">sciaure</lem><rdg wit="#B24 #N35">Sciagure</rdg></app> e colpe,</l>
+        <l n="53">Ma libera ne’ boschi e pura etade</l>
+        <l n="54">Natura a noi prescrisse,</l>
+        <l n="55">Reina un tempo e Diva. Or poi ch’a terra</l>
+        <l n="56">Sparse i regni beati empio costume,</l>
+        <l n="57">E <app><lem wit="#F31">’l</lem><rdg wit="#B24 #N35">Il</rdg></app> viver macro <app><lem wit="#F31">a nove leggi</lem><rdg wit="#B24 #N35">Ad altre leggi</rdg></app> addisse;</l>
+        <l n="58">Quando <app><lem wit="#F31">gl’infausti giorni</lem><rdg wit="#B24 #N35">Gl’infausti giorni</rdg></app></l>
+        <l n="59">Virile alma ricusa,</l>
+        <l n="60">Riede <app><lem wit="#F31">natura</lem><rdg wit="#B24 #N35">Riede natura</rdg></app>, e <app><lem wit="#F31">’l</lem><rdg wit="#B24 #N35">Il</rdg></app> non suo dardo accusa?</l>
+        <l n="61" rend="indent">Di colpa ignare e <app><lem wit="#F31">di</lem><rdg wit="#B24 #N35">De’</rdg></app> lor <app><lem wit="#F31">proprii</lem><rdg wit="#B24 #N35">Propri</rdg></app> danni</l>
+        <l n="62">Le fortunate belve</l>
+        <l n="63">Serena adduce al non previsto passo</l>
+        <l n="64">La tarda età. Ma se spezzar la fronte</l>
+          <pb n="60" facs="#F31060"/>
+        <l n="65">Ne’ rudi tronchi, o da montano sasso</l>
+        <l n="66">Dare al vento precipiti le membra,</l>
+        <l n="67">Lor suadesse affanno;</l>
+        <l n="68">Al <app><lem wit="#F31">misero</lem><rdg wit="#B24 #N35">Misero</rdg></app> desio nulla contesa</l>
+        <l n="69">Legge arcana farebbe</l>
+        <l n="70">O tenebroso ingegno. A voi, fra quante</l>
+        <l n="71">Stirpi il cielo avvivò, <app><lem wit="#F31">soli fra tutte,</lem><rdg wit="#B24 #N35">Soli fra... increbbe;</rdg></app></l>
+        <l n="72"><app><lem wit="#F31">Figli di Prometéo, la vita increbbe;</lem><rdg wit="#B24 #N35">Soli fra... increbbe;</rdg></app></l>
+        <l n="73">A voi le morte ripe,</l>
+        <l n="74"><app><lem wit="#F31">Se ’l fato ignavo pende</lem><rdg wit="#B24 #N35">Se il fato ignavo pende</rdg></app>,</l>
+        <l n="75">Soli, o miseri, a voi Giove contende.</l>
+        <l n="76" rend="indent">E tu <app><lem wit="#F31">dal</lem><rdg wit="#B24 #N35">Dal</rdg></app> mar cui nostro sangue irriga,</l>
+        <l n="77">Candida luna, sorgi,</l>
+        <l n="78">E l’inquieta notte e la funesta</l>
+        <l n="79"><app><lem wit="#F31">A l’ausonio</lem><rdg wit="#B24 #N35">All’ausonio</rdg></app> valor campagna esplori.</l>
+        <l n="80">Cognati petti il vincitor calpesta,</l>
+        <l n="81">Fremono i poggi, <app><lem wit="#F31">da le</lem><rdg wit="#B24 #N35">Dalle</rdg></app> somme vette</l>
+        <l n="82">Roma antica ruina;</l>
+        <l n="83">Tu sì placida sei? Tu la nascente</l>
+        <l n="84">Lavinia prole, e gli anni</l>
+        <l n="85">Lieti vedesti, e i memorandi allori;</l>
+        <l n="86">E tu su l’alpe l’immutato raggio</l>
+        <l n="87">Tacita verserai, quando, ne’ danni</l>
+        <l n="88">Del servo italo nome,</l>
+          <pb n="61" facs="#F31061"/>
+        <l n="89">Sotto barbaro piede</l>
+        <l n="90">Rintronerà <app><lem wit="#F31">quella solinga</lem><rdg wit="#B24 #N35">Quella solinga</rdg></app> sede.</l>
+        <l n="91" rend="indent">Ecco, tra nudi sassi o in verde ramo</l>
+        <l n="92">E la fera e l’augello,</l>
+        <l n="93">Del consueto obblio gravido il petto,</l>
+        <l n="94">L’alta ruina ignora e le mutate</l>
+        <l n="95">Sorti del mondo: e come prima il tetto</l>
+        <l n="96">Rosseggerà del villanello industre,</l>
+        <l n="97">Al mattutino canto</l>
+        <l n="98">Quel desterà le valli, e per le balze</l>
+        <l n="99">Quella l’inferma plebe</l>
+        <l n="100">Agiterà <app><lem wit="#F31">de le</lem><rdg wit="#B24 #N35">Delle</rdg></app> minori belve.</l>
+        <l n="101">Oh casi! <app><lem wit="#F31">oh</lem><rdg wit="#B24 #N35">Oh</rdg></app> gener <app><lem wit="#F31">frale</lem><rdg wit="#B24 #N35">Vano</rdg></app>! abbietta parte</l>
+        <l n="102">Siam <app><lem wit="#F31">de le</lem><rdg wit="#B24 #N35">Siam delle</rdg></app> cose; e non le tinte glebe,</l>
+        <l n="103">Non gli ululati spechi</l>
+        <l n="104">Turbò nostra <app><lem wit="#F31">sciaura</lem><rdg wit="#B24 #N35">Sciagura</rdg></app>,</l>
+        <l n="105">Né scolorò le stelle umana cura.</l>
+        <l n="106" rend="indent">Non io d’Olimpo o di Cocito i sordi</l>
+        <l n="107">Regi, o la terra indegna,</l>
+        <l n="108">E non la notte moribondo appello;</l>
+        <l n="109">Non te, <app><lem wit="#F31">de l’atra</lem><rdg wit="#B24 #N35">Dell’atra</rdg></app> morte ultimo raggio,</l>
+        <l n="110">Conscia futura età. Sdegnoso avello</l>
+        <l n="111">Placàr <app><lem wit="#F31">singulti, ornàr parole e doni</lem><rdg wit="#B24 #N35">Singulti, ornar parole e doni</rdg></app></l>
+          <pb n="62" facs="#F31062"/>
+        <l n="112">Di vil caterva? In peggio</l>
+        <l n="113">Precipitano i tempi; e mal s’affida</l>
+        <l n="114"><app><lem wit="#F31">A</lem><rdg wit="#B24 #N35">A</rdg></app> putridi nepoti</l>
+        <l n="115">L’onor d’egregie menti e la suprema</l>
+        <l n="116">De’ miseri vendetta. A me dintorno</l>
+        <l n="117">Le penne il bruno augello avido roti;</l>
+        <l n="118">Prema la fera, e <app><lem wit="#F31">’l</lem><rdg wit="#B24 #N35">Il</rdg></app> nembo</l>
+        <l n="119">Tratti l’ignota spoglia;</l>
+        <l n="120">E l’aura il nome e la memoria accoglia.</l>
+          <pb n="63" facs="#F31063"/>
+        <l rend="indent">Si usa qui la licenza usata da parec<lb break="no"/>chi scrittori antichi, di attribuire alla Tra<lb break="no"/>cia la città e la battaglia di Filippi, che</l>
+        <l>veramente furono nella Macedonia.</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

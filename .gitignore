@@ -1,0 +1,6 @@
+# TEI schema cache downloaded by scripts/validator.py (large, regenerable)
+tei_all.rng
+
+# Python
+__pycache__/
+*.pyc

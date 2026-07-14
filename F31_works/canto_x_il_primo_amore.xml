@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>X. Il primo amore.</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoding and conversion by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>LeopardiTEIConversion project</publisher>
+          <date when="2026">2026</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <title>Wikileopardi</title>
+            <date>2020</date>
+            <note>Corpus of Canti extracted from Wikileopardi's platform.</note>
+          </bibl>
+        <listWit>
+          <witness xml:id="B26">B26</witness>
+          <witness xml:id="F31">F31</witness>
+          <witness xml:id="N35">N35</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <projectDesc>
+            <p>This project aims at standardizing the text and critical apparatus of Leopardi's Canti.</p>
+        </projectDesc>
+      </encodingDesc>
+    </teiHeader>
+
+  <facsimile>
+    <surface xml:id="F31085">
+      <graphic url="./assets/img/F31085.JPG"/>
+    </surface>
+    <surface xml:id="F31086">
+      <graphic url="./assets/img/F31086.JPG"/>
+    </surface>
+    <surface xml:id="F31087">
+      <graphic url="./assets/img/F31087.JPG"/>
+    </surface>
+    <surface xml:id="F31088">
+      <graphic url="./assets/img/F31088.JPG"/>
+    </surface>
+    <surface xml:id="F31089">
+      <graphic url="./assets/img/F31089.JPG"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="poem" xml:id="canto_x_il_primo_amore">
+        <head>X. Il primo amore.</head>
+        <lg>
+          <pb n="85" facs="#F31085"/>
+        <l>IL PRIMO AMORE.</l>
+        <l n="1">Tornami a mente il dì che la battaglia</l>
+        <l n="2" rend="indent">D’amor sentii la prima volta, e dissi:</l>
+        <l n="3" rend="indent"><app><lem wit="#F31">Oimè,</lem><rdg wit="#B26 #N35">Oimè,</rdg></app> se quest’è amor, com’ei travaglia!</l>
+        <l n="4">Che gli occhi al suol tuttora intenti e fissi,</l>
+        <l n="5" rend="indent">Io mirava colei ch’a questo core</l>
+        <l n="6" rend="indent">Primiera il varco ed innocente aprissi.</l>
+        <l n="7">Ahi come mal mi governasti, amore!</l>
+        <l n="8" rend="indent">Perchè seco dovea sì dolce affetto</l>
+        <l n="9" rend="indent">Recar tanto desio, tanto dolore?</l>
+        <l n="10">E non sereno, e non intero e schietto</l>
+        <l n="11" rend="indent">Anzi pien di travaglio e di lamento</l>
+        <l n="12" rend="indent">Al cor mi discendea tanto diletto?</l>
+        <l n="13"><app><lem wit="#F31">Dimmi,</lem><rdg wit="#B26 #N35">Dimmi,</rdg></app> tenero core, or che spavento,</l>
+        <l n="14" rend="indent">Che angoscia era la tua fra quel pensiero</l>
+        <l n="15" rend="indent">Presso al qual t’era noia ogni contento?</l>
+        <l n="16">Quel pensier che nel dì, che lusinghiero</l>
+        <l n="17" rend="indent">Ti si offeriva <app><lem wit="#F31">ne la</lem><rdg wit="#B26 #N35">nella</rdg></app> notte, quando</l>
+        <l n="18" rend="indent">Tutto <app><lem wit="#F31">queto</lem><rdg wit="#B26 #N35">queto</rdg></app> parea <app><lem wit="#F31">ne l’emisfero:</lem><rdg wit="#B26 #N35">nell’emisfero:</rdg></app></l>
+          <pb n="86" facs="#F31086"/>
+        <l n="19"><app><lem wit="#F31">Tu</lem><rdg wit="#B26 #N35">Tu</rdg></app> inquieto, e felice e miserando,</l>
+        <l n="20" rend="indent">M’affaticavi in su le piume il fianco,</l>
+        <l n="21" rend="indent">Ad ogni or fortemente palpitando.</l>
+        <l n="22">E dove io tristo ed affannato e stanco</l>
+        <l n="23" rend="indent">Gli occhi al sonno <app><lem wit="#F31">chiudea</lem><rdg wit="#B26 #N35">chiudea,</rdg></app> come per febre</l>
+        <l n="24" rend="indent">Rotto e deliro il sonno venia manco.</l>
+        <l n="25">Oh come viva in mezzo <app><lem wit="#F31">a le</lem><rdg wit="#B26 #N35">alle</rdg></app> tenebre</l>
+        <l n="26" rend="indent">Sorgea la dolce imago, e gli occhi chiusi</l>
+        <l n="27" rend="indent">La contemplavan sotto <app><lem wit="#F31">a le</lem><rdg wit="#B26 #N35">alle</rdg></app> palpebre!</l>
+        <l n="28">Oh come soavissimi diffusi</l>
+        <l n="29" rend="indent">Moti per l’ossa mi serpeano, oh come</l>
+        <l n="30" rend="indent">Mille <app><lem wit="#F31">ne l’alma instabili</lem><rdg wit="#B26 #N35">nell’alma instabili</rdg></app>, confusi</l>
+        <l n="31"><app><lem wit="#F31">Pensier mi si volgean!</lem><rdg wit="#B26 #N35">Pensieri si volgean</rdg></app> qual tra le chiome</l>
+        <l n="32" rend="indent">D’antica selva zefiro scorrendo,</l>
+        <l n="33" rend="indent">Un lungo, incerto <app><lem wit="#F31">susurrar</lem><rdg wit="#B26 #N35">mormorar</rdg></app> ne prome.</l>
+        <l n="34">E mentre io taccio, e mentre io non contendo,</l>
+        <l n="35" rend="indent">Che dicevi o mio cor, che si partia</l>
+        <l n="36" rend="indent">Quella per che penando ivi e battendo?</l>
+        <l n="37">Il cuocer non più tosto io mi sentia</l>
+        <l n="38" rend="indent"><app><lem wit="#F31">De la</lem><rdg wit="#B26 #N35">Della</rdg></app> vampa d’amor, che <app><lem wit="#F31">’l</lem><rdg wit="#B26 #N35">il</rdg></app> venticello</l>
+        <l n="39" rend="indent">Che l’aleggiava, volossene via.</l>
+        <l n="40">Senza sonno <app><lem wit="#F31">i’</lem><rdg wit="#B26 #N35">io</rdg></app> giacea sul dì novello,</l>
+        <l n="41" rend="indent">E i destrier che dovean farmi deserto,</l>
+        <l n="42" rend="indent">Battean la zampa sotto al patrio ostello.</l>
+          <pb n="87" facs="#F31087"/>
+        <l n="43">Ed io timido e cheto ed inesperto,</l>
+        <l n="44" rend="indent">Ver lo balcone al buio protendea</l>
+        <l n="45" rend="indent">L’orecchio avido e l’occhio indarno aperto,</l>
+        <l n="46">La voce ad ascoltar, se ne dovea</l>
+        <l n="47" rend="indent">Di quelle labbra uscir, ch’ultima fosse;</l>
+        <l n="48" rend="indent">La voce, ch’altro il <app><lem wit="#F31">fato,</lem><rdg wit="#B26 #N35">cielo,</rdg></app> ahi, mi togliea.</l>
+        <l n="49">Quante volte plebea voce percosse</l>
+        <l n="50" rend="indent">Il dubitoso orecchio, e un gel mi prese,</l>
+        <l n="51" rend="indent">E <app><lem wit="#F31">’l</lem><rdg wit="#B26 #N35">e il</rdg></app> core in forse a palpitar si mosse!</l>
+        <l n="52">E poi che finalmente mi discese</l>
+        <l n="53" rend="indent">La cara voce al core, e de’ cavai</l>
+        <l n="54" rend="indent">E <app><lem wit="#F31">de le</lem><rdg wit="#B26 #N35">delle</rdg></app> rote il <app><lem wit="#F31">fragorio</lem><rdg wit="#B26 #N35">romorio</rdg></app> s’intese;</l>
+        <l n="55">Orbo rimaso allor, mi rannicchiai</l>
+        <l n="56" rend="indent">Palpitando nel letto e, chiusi gli occhi,</l>
+        <l n="57" rend="indent">Strinsi il cor con la mano, e sospirai.</l>
+        <l n="58">Poscia traendo i tremuli ginocchi</l>
+        <l n="59" rend="indent">Stupidamente per la muta stanza,</l>
+        <l n="60" rend="indent">Ch’altro sarà, dicea, che <app><lem wit="#F31">’l</lem><rdg wit="#B26 #N35">che il</rdg></app> cor mi tocchi?</l>
+        <l n="61">Amarissima allor la ricordanza</l>
+        <l n="62" rend="indent">Locommisi nel petto, e mi serrava</l>
+        <l n="63" rend="indent">Ad ogni voce il core, a ogni sembianza.</l>
+        <l n="64">E lunga doglia il sen mi ricercava,</l>
+        <l n="65" rend="indent">Com’è quando a distesa Olimpo piove</l>
+        <l n="66" rend="indent">Malinconicamente e i campi lava.</l>
+          <pb n="88" facs="#F31088"/>
+        <l n="67"><app><lem wit="#F31">Ned’io</lem><rdg wit="#B26 #N35">Ned io</rdg></app> ti conoscea, garzon di nove</l>
+        <l n="68" rend="indent">E nove Soli, in questo a pianger nato</l>
+        <l n="69" rend="indent">Quando facevi, amor, le prime prove.</l>
+        <l n="70">Quando in ispregio ogni piacer, nè grato</l>
+        <l n="71" rend="indent">M’era <app><lem wit="#F31">de gli astri</lem><rdg wit="#B26 #N35">degli astri</rdg></app> il riso, o <app><lem wit="#F31">de l’aurora</lem><rdg wit="#B26 #N35">dell’aurora</rdg></app></l>
+        <l n="72" rend="indent">Queta il silenzio, o il verdeggiar del prato.</l>
+        <l n="73">Anche di gloria amor taceami allora</l>
+        <l n="74" rend="indent">Nel petto, cui scaldar tanto solea,</l>
+        <l n="75" rend="indent"><app><lem wit="#F31">Chè di beltade</lem><rdg wit="#B26 #N35">Che di beltade</rdg></app> amor vi fea dimora.</l>
+        <l n="76">Nè <app><lem wit="#F31">gli occhi a i noti</lem><rdg wit="#B26 #N35">gli occhi ai noti</rdg></app> studi io rivolgea,</l>
+        <l n="77" rend="indent">E quelli m’apparian vani per cui</l>
+        <l n="78" rend="indent">Vano ogni altro desir creduto avea.</l>
+        <l n="79">Deh come mai da me sì vario <app><lem wit="#F31">fui;</lem><rdg wit="#B26 #N35">sì vario fui,</rdg></app></l>
+        <l n="80" rend="indent">E tanto amor mi tolse un altro amore?</l>
+        <l n="81" rend="indent">Deh quanto, in verità, vani siam nui!</l>
+        <l n="82">Solo il mio cor piaceami, e col mio <app><lem wit="#F31">core,</lem><rdg wit="#B26 #N35">e col mio core</rdg></app></l>
+        <l n="83" rend="indent">In un <app><lem wit="#F31">perenne</lem><rdg wit="#B26 #N35">perenne</rdg></app> ragionar sepolto</l>
+        <l n="84" rend="indent"><app><lem wit="#F31">A la</lem><rdg wit="#B26 #N35">Alla</rdg></app> guardia seder del mio dolore.</l>
+        <l n="85">E l’occhio a terra chino o in se raccolto</l>
+        <l n="86" rend="indent">Di riscontrarsi fuggitivo e vago</l>
+        <l n="87" rend="indent">Nè in leggiadro soffria nè in turpe volto:</l>
+        <l n="88"><app><lem wit="#F31">Chè la illibata,</lem><rdg wit="#B26 #N35">Che la illibata,</rdg></app> la candida imago</l>
+        <l n="89" rend="indent"><app><lem wit="#F31">Contaminar temea sculta</lem><rdg wit="#B26 #N35">Turbare egli temea pinta</rdg></app> nel <app><lem wit="#F31">seno;</lem><rdg wit="#B26 #N35">nel seno,</rdg></app></l>
+        <l n="90" rend="indent">Come <app><lem wit="#F31">per soffio tersa</lem><rdg wit="#B26 #N35">all’aure si turba</rdg></app> onda di lago.</l>
+          <pb n="89" facs="#F31089"/>
+        <l n="91">E quel di non aver goduto appieno</l>
+        <l n="92" rend="indent">Pentimento, che l’anima ci grava,</l>
+        <l n="93" rend="indent">E <app><lem wit="#F31">’l</lem><rdg wit="#B26 #N35">e il</rdg></app> piacer che passò cangia in veleno,</l>
+        <l n="94">Per li fuggiti dì mi stimolava</l>
+        <l n="95" rend="indent">Tuttora il sen: <app><lem wit="#F31">chè la vergogna</lem><rdg wit="#B26 #N35">che la vergogna</rdg></app> il duro</l>
+        <l n="96" rend="indent">Suo morso in questo cor già non oprava.</l>
+        <l n="97">Al cielo, a voi, gentili anime, io giuro</l>
+        <l n="98" rend="indent">Che voglia non m’entrò bassa nel petto,</l>
+        <l n="99" rend="indent">Ch’arsi di foco intaminato e puro.</l>
+        <l n="100">Vive quel foco ancor, vive l’affetto,</l>
+        <l n="101" rend="indent">Spira nel pensier mio la bella imago,</l>
+        <l n="102" rend="indent">Da cui, se non celeste, altro diletto</l>
+        <l n="103">Giammai non ebbi, e sol di lei m’appago.</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

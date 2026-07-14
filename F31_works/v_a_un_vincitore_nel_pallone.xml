@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>V. A UN VINCITORE NEL PALLONE.</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoding and conversion by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>LeopardiTEIConversion project</publisher>
+          <date when="2026">2026</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <title>Wikileopardi</title>
+            <date>2020</date>
+            <note>Corpus of Canti extracted from Wikileopardi's platform.</note>
+          </bibl>
+        <listWit>
+          <witness xml:id="B20">B20</witness>
+          <witness xml:id="B24">B24</witness>
+          <witness xml:id="B26">B26</witness>
+          <witness xml:id="F31">F31</witness>
+          <witness xml:id="N35">N35</witness>
+          <witness xml:id="R18">R18</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <projectDesc>
+            <p>This project aims at standardizing the text and critical apparatus of Leopardi's Canti.</p>
+        </projectDesc>
+      </encodingDesc>
+    </teiHeader>
+
+  <facsimile>
+    <surface xml:id="F31053">
+      <graphic url="./assets/img/F31053.JPG"/>
+    </surface>
+    <surface xml:id="F31054">
+      <graphic url="./assets/img/F31054.JPG"/>
+    </surface>
+    <surface xml:id="F31055">
+      <graphic url="./assets/img/F31055.JPG"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="poem" xml:id="v_a_un_vincitore_nel_pallone">
+        <head>V. A UN VINCITORE NEL PALLONE.</head>
+        <lg>
+          <pb n="53" facs="#F31053"/>
+        <l n="1">Di gloria il viso e la gioconda voce,</l>
+        <l n="2">Garzon bennato, apprendi,</l>
+        <l n="3">E quanto al femminile ozio sovrasti</l>
+        <l n="4">La sudata virtude. Attendi attendi,</l>
+        <l n="5">Magnanimo campion (s’<app><lem wit="#F31">a la</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">s’alla</rdg></app> veloce</l>
+        <l n="6">Piena <app><lem wit="#F31">de gli</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">degli</rdg></app> anni il tuo valor contrasti</l>
+        <l n="7">La spoglia di tuo nome), attendi <app><lem wit="#F31">e ’l</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">attendi e il</rdg></app> core</l>
+        <l n="8">Movi ad alto desio. Te l’echeggiante</l>
+        <l n="9">Arena <app><lem wit="#F31">e ’l</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">e il</rdg></app> circo, e te fremendo appella</l>
+        <l n="10"><app><lem wit="#F31">A i</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">Ai</rdg></app> fatti illustri il popolar favore;</l>
+        <l n="11">Te rigoglioso <app><lem wit="#F31">de l’età novella</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">dell’età novella</rdg></app></l>
+        <l n="12">Oggi la patria cara</l>
+        <l n="13">Gli antichi esempi a rinnovar prepara.</l>
+        <l n="14" rend="indent"><app><lem wit="#F31">Non del barbaro</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">Del barbarico</rdg></app> sangue in Maratona</l>
+        <l n="15"><app><lem wit="#F31">Tinse l’invitta</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">Non colorò la</rdg></app> destra</l>
+        <l n="16"><app><lem wit="#F31">Que’</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">Quei</rdg></app> che gli atleti ignudi <app><lem wit="#F31">e ’l</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">e il</rdg></app> campo eleo,</l>
+          <pb n="54" facs="#F31054"/>
+        <l n="17">Che stupido mirò l’ardua palestra,</l>
+        <l n="18">Nè la palma beata e la corona</l>
+        <l n="19">D’emula brama il punse. E <app><lem wit="#F31">ne l’Alfeo</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">nell’Alfeo</rdg></app></l>
+        <l n="20">Forse le chiome polverose e i fianchi</l>
+        <l n="21"><app><lem wit="#F31">De le</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">Delle</rdg></app> cavalle vincitrici asterse</l>
+        <l n="22">Tal che le greche insegne <app><lem wit="#F31">e ’l</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">e il</rdg></app> greco acciaro</l>
+        <l n="23">Guidò de’ Medi fuggitivi e stanchi</l>
+        <l n="24"><app><lem wit="#F31">Ne le</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">Nelle</rdg></app> pallide torme; onde sonaro</l>
+        <l n="25">Di sconsolato grido</l>
+        <l n="26"><app><lem wit="#F31">Gli alti gorghi d’</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">L’alto sen dell’</rdg></app> Eufrate <app><lem wit="#F31">e ’l</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">e il</rdg></app> servo lido.</l>
+        <l n="27" rend="indent">Vano dirai quel che disserra e scote</l>
+        <l n="28"><app><lem wit="#F31">De la</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">Della</rdg></app> virtù nativa</l>
+        <l n="29">Le riposte faville? e che del fioco</l>
+        <l n="30">Spirto vital <app><lem wit="#F31">ne gli</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">negli</rdg></app> egri petti avviva</l>
+        <l n="31">Il caduco fervor? Le meste rote</l>
+        <l n="32">Da poi che Febo instiga, altro che gioco</l>
+        <l n="33">Son <app><lem wit="#F31">le cure</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">l’opre de’</rdg></app> mortali? ed è men vano</l>
+        <l n="34"><app><lem wit="#F31">De la</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">Della</rdg></app> menzogna il vero? A noi di lieti</l>
+        <l n="35">Inganni e di felici ombre soccorse</l>
+        <l n="36">Natura <app><lem wit="#F31">istessa;</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">stessa:</rdg></app> e là dove l’insano</l>
+        <l n="37">Costume <app><lem wit="#F31">a i</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">ai</rdg></app> forti errori esca non porse,</l>
+        <l n="38"><app><lem wit="#F31">Ne gli</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">Negli</rdg></app> ozi <app><lem wit="#F31">infermi</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">oscuri</rdg></app> e nudi</l>
+        <l n="39">Mutò la gente i gloriosi studi.</l>
+        <l n="40" rend="indent">Tempo forse verrà ch’<app><lem wit="#F31">a le</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">ch’alle</rdg></app> ruine</l>
+          <pb n="55" facs="#F31055"/>
+        <l n="41"><app><lem wit="#F31">De le</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">Delle</rdg></app> italiche moli</l>
+        <l n="42">Insultino gli armenti, <app><lem wit="#F31">e ’l greve</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">e che l’</rdg></app> aratro</l>
+        <l n="43">Sentano i sette colli; e pochi Soli</l>
+        <l n="44"><app><lem wit="#F31">Forse fien vòlti,</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">Forse fien volti,</rdg></app> e le città latine</l>
+        <l n="45">Abiterà la cauta volpe, e l’atro</l>
+        <l n="46">Bosco mormorerà fra <app><lem wit="#F31">le</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">le</rdg></app> alte mura;</l>
+        <l n="47">Se la funesta <app><lem wit="#F31">de le</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">delle</rdg></app> patrie cose</l>
+        <l n="48">Obblivion <app><lem wit="#F31">da le</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">dalle</rdg></app> perverse menti</l>
+        <l n="49">Non <app><lem wit="#F31">isvelgono</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">isgombrano</rdg></app> i fati, e la matura</l>
+        <l n="50">Clade non <app><lem wit="#F31">torce da le abbiette</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">torce dalle abbiette</rdg></app> genti</l>
+        <l n="51">Il <app><lem wit="#F31">ciel</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">ciel</rdg></app> fatto cortese</l>
+        <l n="52"><app><lem wit="#F31">Dal sovvenir</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">Dal rimembrar</rdg></app> <app><lem wit="#F31">de le</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">delle</rdg></app> passate imprese.</l>
+        <l n="53" rend="indent"><app><lem wit="#F31">A la</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">Alla</rdg></app> patria infelice, o buon garzone,</l>
+        <l n="54">Sopravviver ti doglia.</l>
+        <l n="55">Chiaro per lei stato saresti allora</l>
+        <l n="56">Che del serto <app><lem wit="#F31">fulgea</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">fulgea,</rdg></app> di ch’ella è spoglia,</l>
+        <l n="57">Nostra colpa e fatal. Passò <app><lem wit="#F31">stagione,</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">stagione;</rdg></app></l>
+        <l n="58"><app><lem wit="#F31">Chè</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">Che</rdg></app> nullo di tal madre oggi s’onora:</l>
+        <l n="59">Ma per te stesso al polo ergi la mente.</l>
+        <l n="60">Nostra vita a che val? solo a <app><lem wit="#F31">spregiarla;</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">spregiarla:</rdg></app></l>
+        <l n="61">Beata allor che ne’ perigli avvolta,</l>
+        <l n="62">Se stessa <app><lem wit="#F31">obblia</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">obblia,</rdg></app> nè <app><lem wit="#F31">de le</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">delle</rdg></app> putri e lente</l>
+        <l n="63">Ore il danno misura e <app><lem wit="#F31">’l</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">e il</rdg></app> flutto ascolta;</l>
+        <l n="64">Beata allor che <app><lem wit="#F31">’l</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">il</rdg></app> piede</l>
+        <l n="65">Spinto al varco leteo, più grata riede.</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

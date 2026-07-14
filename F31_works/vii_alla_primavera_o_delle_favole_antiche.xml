@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>VII. ALLA PRIMAVERA, O DELLE FAVOLE ANTICHE.</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoding and conversion by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>LeopardiTEIConversion project</publisher>
+          <date when="2026">2026</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <title>Wikileopardi</title>
+            <date>2020</date>
+            <note>Corpus of Canti extracted from Wikileopardi's platform.</note>
+          </bibl>
+        <listWit>
+          <witness xml:id="B24">B24</witness>
+          <witness xml:id="F31">F31</witness>
+          <witness xml:id="N35">N35</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <projectDesc>
+            <p>This project aims at standardizing the text and critical apparatus of Leopardi's Canti.</p>
+        </projectDesc>
+      </encodingDesc>
+    </teiHeader>
+
+  <facsimile>
+    <surface xml:id="F31065">
+      <graphic url="./assets/img/F31065.JPG"/>
+    </surface>
+    <surface xml:id="F31066">
+      <graphic url="./assets/img/F31066.JPG"/>
+    </surface>
+    <surface xml:id="F31067">
+      <graphic url="./assets/img/F31067.JPG"/>
+    </surface>
+    <surface xml:id="F31068">
+      <graphic url="./assets/img/F31068.JPG"/>
+    </surface>
+    <surface xml:id="F31069">
+      <graphic url="./assets/img/F31069.JPG"/>
+    </surface>
+    <surface xml:id="F31071">
+      <graphic url="./assets/img/F31071.JPG"/>
+    </surface>
+    <surface xml:id="F31072">
+      <graphic url="./assets/img/F31072.JPG"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="poem" xml:id="vii_alla_primavera_o_delle_favole_antiche">
+        <head>VII. ALLA PRIMAVERA, O DELLE FAVOLE ANTICHE.</head>
+        <lg>
+          <pb n="65" facs="#F31065"/>
+        <l n="1"><app><lem wit="#F31">Per che</lem><rdg wit="#B24 #N35">Perchè</rdg></app> i celesti danni</l>
+        <l n="2">Ristori <app><lem wit="#F31">il sole, e per che</lem><rdg wit="#B24 #N35">il sole, e perchè</rdg></app> l’aure inferme</l>
+        <l n="3">Zefiro avvivi, onde fugata e sparta</l>
+        <l n="4"><app><lem wit="#F31">De le</lem><rdg wit="#B24 #N35">Delle</rdg></app> nubi la grave ombra s’avvalla;</l>
+        <l n="5">Credano il petto inerme</l>
+        <l n="6">Gli augelli al vento, e la diurna luce</l>
+        <l n="7">Novo d’amor <app><lem wit="#F31">desio</lem><rdg wit="#B24 #N35">desio,</rdg></app> nova speranza</l>
+        <l n="8">Ne’ penetrati boschi e fra le sciolte</l>
+        <l n="9">Pruine induca <app><lem wit="#F31">a le</lem><rdg wit="#B24 #N35">alle</rdg></app> commosse belve;</l>
+        <l n="10">Forse <app><lem wit="#F31">a le</lem><rdg wit="#B24 #N35">alle</rdg></app> stanche e nel dolor sepolte</l>
+        <l n="11">Umane menti riede</l>
+        <l n="12">La bella età, cui la sciagura e l’atra</l>
+        <l n="13">Face del ver consunse</l>
+        <l n="14">Innanzi tempo? Ottenebrati e spenti</l>
+          <pb n="66" facs="#F31066"/>
+        <l n="15"><app><lem wit="#F31">Di Febo i raggi al misero non sono</lem><rdg wit="#B24 #N35">Di febo i raggi al misero non sono In sempiterno</rdg></app></l>
+        <l n="16"><app><lem wit="#F31">In sempiterno?</lem><rdg wit="#B24 #N35">Di febo i raggi al misero non sono In sempiterno</rdg></app> ed anco,</l>
+        <l n="17">Primavera odorata, <app><lem wit="#F31">ispiri</lem><rdg wit="#B24 #N35">inspiri</rdg></app> e tenti</l>
+        <l n="18">Questo gelido cor, questo ch’amara</l>
+        <l n="19">Nel fior <app><lem wit="#F31">de gli</lem><rdg wit="#B24 #N35">degli</rdg></app> anni suoi vecchiezza impara?</l>
+        <l n="20" rend="indent"><app><lem wit="#F31">Vivi tu, vivi</lem><rdg wit="#B24 #N35">Vivi tu, vivi,</rdg></app> o santa</l>
+        <l n="21">Natura? <app><lem wit="#F31">vivi, e ’l</lem><rdg wit="#B24 #N35">vivi e il</rdg></app> dissueto orecchio</l>
+        <l n="22"><app><lem wit="#F31">De la</lem><rdg wit="#B24 #N35">Della</rdg></app> materna voce il suono accoglie?</l>
+        <l n="23">Già di candide ninfe i rivi albergo,</l>
+        <l n="24">Placido albergo e specchio</l>
+        <l n="25">Furo i liquidi fonti. Arcane danze</l>
+        <l n="26">D’immortal piede i ruinosi gioghi</l>
+        <l n="27">Scossero e l’ardue selve (oggi <app><lem wit="#F31">romita</lem><rdg wit="#B24 #N35">Romito Nido</rdg></app></l>
+        <l n="28"><app><lem wit="#F31">Stanza</lem><rdg wit="#B24 #N35">Romito Nido</rdg></app> de’ venti): <app><lem wit="#F31">e il</lem><rdg wit="#B24 #N35">e il</rdg></app> pastorel <app><lem wit="#F31">ch’a l’ombre</lem><rdg wit="#B24 #N35">ch’all’ombre</rdg></app></l>
+        <l n="29">Meridiane incerte (1) <app><lem wit="#F31">e a la fiorita</lem><rdg wit="#B24 #N35">ed al fiorito</rdg></app></l>
+        <l n="30">Margo adducea de’ fiumi</l>
+        <l n="31">Le sitibonde agnelle, arguto carme</l>
+        <l n="32">Sonar d’agresti Pani</l>
+        <l n="33">Udì lungo le ripe; e tremar l’onda</l>
+        <l n="34">Vide, e stupì, <app><lem wit="#F31">chè</lem><rdg wit="#B24 #N35">che</rdg></app> non palese al guardo</l>
+        <l n="35">La faretrata Diva</l>
+        <l n="36">Scendea ne’ caldi flutti, e <app><lem wit="#F31">da l’immonda</lem><rdg wit="#B24 #N35">dall’immonda</rdg></app></l>
+        <l n="37">Polve tergea <app><lem wit="#F31">de la</lem><rdg wit="#B24 #N35">della</rdg></app> sanguigna caccia</l>
+        <l n="38">Il niveo lato e le verginee braccia.</l>
+          <pb n="67" facs="#F31067"/>
+        <l n="39" rend="indent">Vissero i fiori e l’erbe,</l>
+        <l n="40">Vissero i boschi un dì. Conscie le molli</l>
+        <l n="41">Aure, le nubi e la titania lampa</l>
+        <l n="42">Fur <app><lem wit="#F31">de l’umana</lem><rdg wit="#B24 #N35">dell’umana</rdg></app> gente, allor che ignuda</l>
+        <l n="43">Te per le piagge e i colli,</l>
+        <l n="44">Ciprigna luce, <app><lem wit="#F31">a la</lem><rdg wit="#B24 #N35">alla</rdg></app> deserta notte</l>
+        <l n="45">Con gli occhi intenti il viator seguendo,</l>
+        <l n="46">Te compagna <app><lem wit="#F31">a la</lem><rdg wit="#B24 #N35">alla</rdg></app> via, te de’ mortali</l>
+        <l n="47">Pensosa immaginò. Che se gl’impuri</l>
+        <l n="48">Cittadini consorzi e le fatali</l>
+        <l n="49">Ire fuggendo e l’onte,</l>
+        <l n="50">Gl’ispidi tronchi al petto altri <app><lem wit="#F31">ne l’ime</lem><rdg wit="#B24 #N35">nell’ime</rdg></app></l>
+        <l n="51">Selve remoto accolse,</l>
+        <l n="52">Viva fiamma agitar l’esangui vene,</l>
+        <l n="53">Spirar le foglie, e palpitar segreta</l>
+        <l n="54">Nel doloroso amplesso</l>
+        <l n="55">Dafne o la mesta <app><lem wit="#F31">Filli</lem><rdg wit="#B24 #N35">Filli,</rdg></app> o di Climene</l>
+        <l n="56">Pianger credè la sconsolata prole</l>
+        <l n="57">Quel che sommerse in Eridano il sole.</l>
+        <l n="58" rend="indent">Nè <app><lem wit="#F31">de l’umano</lem><rdg wit="#B24 #N35">dell’umano</rdg></app> affanno,</l>
+        <l n="59">Rigide balze, i luttuosi accenti</l>
+        <l n="60">Voi negletti ferìr mentre le vostre</l>
+        <l n="61">Paurose latebre Eco solinga,</l>
+        <l n="62">Non vano error de’ venti,</l>
+          <pb n="68" facs="#F31068"/>
+        <l n="63">Ma di ninfa abitò misero spirto,</l>
+        <l n="64">Cui grave amor, cui duro fato escluse</l>
+        <l n="65"><app><lem wit="#F31">De le</lem><rdg wit="#B24 #N35">Delle</rdg></app> tenere membra. Ella per grotte,</l>
+        <l n="66">Per nudi scogli <app><lem wit="#F31">e desolati alberghi</lem><rdg wit="#B24 #N35">e desolati alberghi,</rdg></app></l>
+        <l n="67">Le non ignote ambasce e l’alte e rotte</l>
+        <l n="68">Nostre querele al curvo</l>
+        <l n="69">Etra insegnava. E te d’umani eventi</l>
+        <l n="70">Disse la fama esperto,</l>
+        <l n="71">Musico augel che tra chiomato bosco</l>
+        <l n="72">Or vieni il rinascente anno cantando,</l>
+        <l n="73">E lamentar <app><lem wit="#F31">ne l’alto</lem><rdg wit="#B24 #N35">nell’alto</rdg></app></l>
+        <l n="74">Ozio de’ campi, <app><lem wit="#F31">e l’aer</lem><rdg wit="#B24 #N35">all’aer</rdg></app> muto e fosco,</l>
+        <l n="75">Antichi danni e <app><lem wit="#F31">scelerato</lem><rdg wit="#B24 #N35">scellerato</rdg></app> scorno,</l>
+        <l n="76">E d’ira e di pietà pallido il giorno.</l>
+        <l n="77" rend="indent">Ma non cognato <app><lem wit="#F31">al nostro</lem><rdg wit="#B24 #N35">Al nostro Il gener tuo; quelle tue</rdg></app></l>
+        <l n="78"><app><lem wit="#F31">Il gener tuo; quelle tue</lem><rdg wit="#B24 #N35">Al nostro Il gener tuo; quelle tue</rdg></app> varie note</l>
+        <l n="79">Dolor non forma, e te di colpa ignudo,</l>
+        <l n="80">Men caro assai la bruna valle asconde.</l>
+        <l n="81">Ahi ahi, poscia che vote</l>
+        <l n="82">Son le stanze d’Olimpo, e cieco il tuono</l>
+        <l n="83">Per l’atre nubi e le montagne errando,</l>
+        <l n="84">Gl’iniqui petti e gl’innocenti a paro</l>
+        <l n="85">In freddo orror dissolve; e poi ch’estrano</l>
+        <l n="86">Il suol nativo, e di sua prole ignaro</l>
+          <pb n="69" facs="#F31069"/>
+        <l n="87">Le meste anime educa;</l>
+        <l n="88">Tu le cure infelici e i fati indegni</l>
+        <l n="89">Tu de’ mortali ascolta,</l>
+        <l n="90">Vaga <app><lem wit="#F31">natura,</lem><rdg wit="#B24 #N35">Vaga natura,</rdg></app> e la favilla antica</l>
+        <l n="91">Rendi <app><lem wit="#F31">a lo spirto</lem><rdg wit="#B24 #N35">allo spirto</rdg></app> mio; se tu pur vivi,</l>
+        <l n="92">E se de’ nostri affanni</l>
+        <l n="93">Cosa veruna in ciel, se <app><lem wit="#F31">ne l’aprica</lem><rdg wit="#B24 #N35">nell’aprica</rdg></app></l>
+        <l n="94">Terra s’alberga o <app><lem wit="#F31">ne l’equoreo</lem><rdg wit="#B24 #N35">nell’equoreo</rdg></app> seno,</l>
+        <l n="95">Pietosa no, ma spettatrice almeno.</l>
+        </lg>
+        <div type="note" xml:id="f31_vii_alla_primavera_o_delle_favole_antiche_nota_p_71" corresp="#vii_alla_primavera_o_delle_favole_antiche">
+          <pb n="71" facs="#F31071"/>
+          <head>NOTA</head>
+          <p>(1) “Anticamente correvano parecchie false immaginazioni appartenenti all’ora del mezzogiorno, e fra l’altre, che gli Dei, le ninfe, i silvani, i fauni e simili, aggiunto le anime de’ morti, si lasciassero vedere o sentire particolarmente su quell’ora; secondo che si raccoglie da Teocrito (1), Lucano (2), Filostrato (3), Porfirio (4), Servio (5) ed altri, e dalla Vita di san Paolo primo eremita (6) che va con quelle de’ Padri e fra le cose di san Girolamo. Anche puoi vedere il Meur- (1) Idyll. 1, v. 15 e sequent. (2) l. 3, v. 422 et sequent. (3) Heroic. c. 1, art. 4; op. Philostr. ed Olear. p. 671. (4) De antro nymph. c. 26 et 27. (5) ad Georg. l. 4, v. 401. (6) c. 6; in Vit. Patr. Rosveydi, Antuerp. 1615, l. 1, p. 18.</p>
+        </div>
+        <div type="note" xml:id="f31_vii_alla_primavera_o_delle_favole_antiche_nota_p_72" corresp="#vii_alla_primavera_o_delle_favole_antiche">
+          <pb n="72" facs="#F31072"/>
+          <head>NOTA</head>
+          <p>sio (1) colle del Lami (2), il Barth (3), e le cose disputate dai comentatori, e specificatamente dal Calmet, in proposito del demonio meridiano detto nella Scrittura (4). Circa all’opinione che le ninfe e le dee sull’ora del mezzogiorno si scendessero a lavare ne’ fiumi o ne’ fonti, vedi l’Elegia di Callimaco sopra i Lavacri di Pallade (5), e in particolare quanto a Diana, il terzo delle Metamorfosi (6).” <hi rend="italic">Dall’edizione di Bologna.</hi> (1) Auctar. Philologic. c. 6. (2) op. Meurs. Florent. 1741-1763, vol. 5, col. 733. (3) Animadversion. ad Stat. par. 2, p. 1081. (4) Psal. 90, v. 6. (5) v. 71 et sequent. (6) v. 144 et sequent.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

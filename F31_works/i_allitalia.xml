@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>I. ALL'ITALIA.</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoding and conversion by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>LeopardiTEIConversion project</publisher>
+          <date when="2026">2026</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <title>Wikileopardi</title>
+            <date>2020</date>
+            <note>Corpus of Canti extracted from Wikileopardi's platform.</note>
+          </bibl>
+        <listWit>
+          <witness xml:id="B24">B24</witness>
+          <witness xml:id="F31">F31</witness>
+          <witness xml:id="N35">N35</witness>
+          <witness xml:id="R18">R18</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <projectDesc>
+            <p>This project aims at standardizing the text and critical apparatus of Leopardi's Canti.</p>
+        </projectDesc>
+      </encodingDesc>
+    </teiHeader>
+
+  <facsimile>
+    <surface xml:id="F31011">
+      <graphic url="./assets/img/F31011.JPG"/>
+    </surface>
+    <surface xml:id="F31012">
+      <graphic url="./assets/img/F31012.JPG"/>
+    </surface>
+    <surface xml:id="F31013">
+      <graphic url="./assets/img/F31013.JPG"/>
+    </surface>
+    <surface xml:id="F31014">
+      <graphic url="./assets/img/F31014.JPG"/>
+    </surface>
+    <surface xml:id="F31015">
+      <graphic url="./assets/img/F31015.JPG"/>
+    </surface>
+    <surface xml:id="F31016">
+      <graphic url="./assets/img/F31016.JPG"/>
+    </surface>
+    <surface xml:id="F31017">
+      <graphic url="./assets/img/F31017.JPG"/>
+    </surface>
+    <surface xml:id="F31019">
+      <graphic url="./assets/img/F31019.JPG"/>
+    </surface>
+    <surface xml:id="F31020">
+      <graphic url="./assets/img/F31020.JPG"/>
+    </surface>
+    <surface xml:id="F31021">
+      <graphic url="./assets/img/F31021.JPG"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="poem" xml:id="i_allitalia">
+        <head>I. ALL'ITALIA.</head>
+        <lg>
+          <pb n="11" facs="#F31011"/>
+        <l n="1">O patria mia, vedo le mura e gli archi</l>
+        <l n="2">E le colonne e i simulacri e l’erme</l>
+        <l n="3">Torri <app><lem wit="#F31">de gli</lem><rdg wit="#B24 #N35 #R18">degli</rdg></app> avi nostri,</l>
+        <l n="4">Ma la gloria non vedo,</l>
+        <l n="5">Non vedo il lauro <app><lem wit="#F31">e ’l</lem><rdg wit="#B24 #N35 #R18">e il</rdg></app> ferro ond’eran carchi</l>
+        <l n="6">I nostri padri antichi. Or fatta inerme,</l>
+        <l n="7">Nuda la fronte e nudo il petto mostri.</l>
+        <l n="8">Oimè quante ferite,</l>
+        <l n="9"><app><lem wit="#F31">Che lividor, che sangue:</lem><rdg wit="#B24 #N35 #R18">Che lividor, che sangue!</rdg></app> oh qual ti veggio,</l>
+        <l n="10">Formosissima <app><lem wit="#F31">donna.</lem><rdg wit="#B24 #N35 #R18">donna!</rdg></app> Io chiedo al cielo</l>
+        <l n="11">E al mondo: dite dite;</l>
+        <l n="12">Chi la ridusse a tale? E questo <app><lem wit="#F31">è peggio</lem><rdg wit="#B24 #N35 #R18">è peggio,</rdg></app></l>
+        <l n="13">Che di catene ha carche ambe le braccia;</l>
+        <l n="14">Sì che sparte le chiome e senza velo</l>
+        <l n="15">Siede in terra negletta e sconsolata,</l>
+        <l n="16">Nascondendo la faccia</l>
+          <pb n="12" facs="#F31012"/>
+        <l n="17">Tra le ginocchia, e piange.</l>
+        <l n="18">Piangi, <app><lem wit="#F31">chè</lem><rdg wit="#B24 #N35 #R18">che</rdg></app> ben hai donde, Italia mia,</l>
+        <l n="19">Le genti a vincer nata</l>
+        <l n="20">E <app><lem wit="#F31">ne la</lem><rdg wit="#B24 #N35 #R18">nella</rdg></app> fausta sorte e <app><lem wit="#F31">ne la</lem><rdg wit="#B24 #N35 #R18">nella</rdg></app> ria.</l>
+        <l n="21" rend="indent">Se fosser gli occhi <app><lem wit="#F31">miei</lem><rdg wit="#B24 #N35 #R18">tuoi</rdg></app> due fonti vive,</l>
+        <l n="22"><app><lem wit="#F31">Non potrei pianger tanto</lem><rdg wit="#B24 #N35 #R18">Mai non potrebbe il pianto Adeguarsi al tuo danno ed allo scorno;</rdg></app></l>
+        <l n="23"><app><lem wit="#F31">Ch’adeguassi il tuo danno e men lo scorno;</lem><rdg wit="#B24 #N35 #R18">Mai non potrebbe il pianto Adeguarsi al tuo danno ed allo scorno;</rdg></app></l>
+        <l n="24"><app><lem wit="#F31">Chè</lem><rdg wit="#B24 #N35 #R18">Che</rdg></app> fosti donna, or se’ povera ancella.</l>
+        <l n="25">Chi di te parla o scrive,</l>
+        <l n="26">Che, rimembrando il tuo passato vanto,</l>
+        <l n="27">Non <app><lem wit="#F31">dica;</lem><rdg wit="#B24 #N35 #R18">dica:</rdg></app> già fu grande, or non è quella?</l>
+        <l n="28">Perchè, perchè? dov’è la forza antica,</l>
+        <l n="29">Dove l’armi e ’l valore e la costanza?</l>
+        <l n="30">Chi ti discinse il brando?</l>
+        <l n="31">Chi ti tradì? qual arte o qual fatica</l>
+        <l n="32">O qual tanta possanza</l>
+        <l n="33">Valse a spogliarti il manto e l’auree bende?</l>
+        <l n="34">Come cadesti o quando</l>
+        <l n="35">Da tanta altezza in così basso loco?</l>
+        <l n="36">Nessun pugna per te? non ti difende</l>
+        <l n="37">Nessun de’ tuoi? L’armi, qua l’armi: io solo</l>
+        <l n="38">Combatterò, procomberò sol io.</l>
+        <l n="39">Dammi, o ciel, che sia foco</l>
+        <l n="40"><app><lem wit="#F31">A gl’italici</lem><rdg wit="#B24 #N35 #R18">Agl’italici</rdg></app> petti il sangue mio.</l>
+          <pb n="13" facs="#F31013"/>
+        <l n="41" rend="indent">Dove sono i tuoi figli? Odo suon d’armi</l>
+        <l n="42">E di carri e di voci e di timballi:</l>
+        <l n="43">In estranie contrade</l>
+        <l n="44">Pugnano i tuoi figliuoli.</l>
+        <l n="45">Attendi, Italia, attendi. Io veggio, o parmi,</l>
+        <l n="46">Un fluttuar di fanti e di cavalli,</l>
+        <l n="47">E fumo e polve, e luccicar di spade</l>
+        <l n="48">Come tra nebbia lampi.</l>
+        <l n="49"><app><lem wit="#F31">E taci, e piangi, e i tremebondi lumi</lem><rdg wit="#B24 #N35 #R18">Nè ti conforti? e i tremebondi lumi Piegar non soffri al dubitoso evento?</rdg></app></l>
+        <l n="50"><app><lem wit="#F31">Piegar non soffri al dubitoso evento?</lem><rdg wit="#B24 #N35 #R18">Nè ti conforti? e i tremebondi lumi Piegar non soffri al dubitoso evento?</rdg></app></l>
+        <l n="51">A che <app><lem wit="#F31">pugna</lem><rdg wit="#B24 #N35 #R18">pugna</rdg></app> in quei campi</l>
+        <l n="52">L’itala gioventude? O numi, o numi:</l>
+        <l n="53">Pugnan per altra terra itali acciari.</l>
+        <l n="54">Oh misero colui che in guerra è spento,</l>
+        <l n="55">Non per li patrii lidi e per la pia</l>
+        <l n="56">Consorte e i figli cari,</l>
+        <l n="57">Ma da nemici altrui</l>
+        <l n="58">Per altra gente, e non può dir <app><lem wit="#F31">morendo:</lem><rdg wit="#B24 #N35 #R18">Morendo:</rdg></app></l>
+        <l n="59">Alma terra natia,</l>
+        <l n="60">La vita che mi <app><lem wit="#F31">désti</lem><rdg wit="#B24 #N35 #R18">desti</rdg></app> ecco ti rendo.</l>
+        <l n="61" rend="indent">Oh venturose e care e benedette</l>
+        <l n="62"><app><lem wit="#F31">Le antich’età,</lem><rdg wit="#B24 #N35 #R18">L’antiche età,</rdg></app> che a morte</l>
+        <l n="63">Per la patria correan le genti a <app><lem wit="#F31">squadre;</lem><rdg wit="#B24 #N35 #R18">Squadre;</rdg></app></l>
+        <l n="64">E voi sempre onorate e <app><lem wit="#F31">gloriose,</lem><rdg wit="#B24 #N35 #R18">Gloriose,</rdg></app></l>
+          <pb n="14" facs="#F31014"/>
+        <l n="65">O <app><lem wit="#F31">tessaliche strette,</lem><rdg wit="#B24 #N35 #R18">Tessaliche strette,</rdg></app></l>
+        <l n="66">Dove la Persia <app><lem wit="#F31">e ’l</lem><rdg wit="#B24 #N35 #R18">E il</rdg></app> fato assai men forte</l>
+        <l n="67">Fu di poch’alme franche e <app><lem wit="#F31">generose.</lem><rdg wit="#B24 #N35 #R18">Generose!</rdg></app></l>
+        <l n="68">Io credo che le piante e i sassi e l’<app><lem wit="#F31">onda</lem><rdg wit="#B24 #N35 #R18">Onda</rdg></app></l>
+        <l n="69">E le montagne vostre al passeggere</l>
+        <l n="70">Con indistinta voce</l>
+        <l n="71">Narrin siccome tutta quella sponda</l>
+        <l n="72">Coprìr le invitte schiere</l>
+        <l n="73">De’ corpi ch’<app><lem wit="#F31">a la</lem><rdg wit="#B24 #N35 #R18">Alla</rdg></app> Grecia eran devoti.</l>
+        <l n="74">Allor, vile e feroce,</l>
+        <l n="75">Serse per l’Ellesponto si <app><lem wit="#F31">fuggia,</lem><rdg wit="#B24 #N35 #R18">Fuggia,</rdg></app></l>
+        <l n="76">Fatto ludibrio <app><lem wit="#F31">a gli</lem><rdg wit="#B24 #N35 #R18">Agli</rdg></app> ultimi <app><lem wit="#F31">nepoti;</lem><rdg wit="#B24 #N35 #R18">Nepoti;</rdg></app></l>
+        <l n="77">E sul colle d’Antela, ove morendo</l>
+        <l n="78">Si sottrasse da morte il santo <app><lem wit="#F31">stuolo,</lem><rdg wit="#B24 #N35 #R18">Stuolo,</rdg></app></l>
+        <l n="79">Simonide (<app><lem wit="#F31">salia,</lem><rdg wit="#B24 #N35 #R18">Salia,</rdg></app></l>
+        <l n="80">Guardando l’etra e la marina <app><lem wit="#F31">e ’l</lem><rdg wit="#B24 #N35 #R18">E il</rdg></app> suolo.</l>
+        <l n="81" rend="indent">E di <app><lem wit="#F31">lagrime</lem><rdg wit="#B24 #N35 #R18">Lacrime</rdg></app> sparso ambe le <app><lem wit="#F31">guance,</lem><rdg wit="#B24 #N35 #R18">Guance,</rdg></app></l>
+        <l n="82"><app><lem wit="#F31">E ’l petto ansante,</lem><rdg wit="#B24 #N35 #R18">E il petto ansante</rdg></app> e vacillante il piede,</l>
+        <l n="83">Toglieasi in man la lira:</l>
+        <l n="84">Beatissimi <app><lem wit="#F31">voi,</lem><rdg wit="#B24 #N35 #R18">Voi,</rdg></app></l>
+        <l n="85">Ch’offriste il petto <app><lem wit="#F31">a le</lem><rdg wit="#B24 #N35 #R18">Alle</rdg></app> nemiche lance</l>
+        <l n="86">Per amor di costei ch’al <app><lem wit="#F31">Sol</lem><rdg wit="#B24 #N35 #R18">Sol</rdg></app> vi <app><lem wit="#F31">diede;</lem><rdg wit="#B24 #N35 #R18">Diede;</rdg></app></l>
+        <l n="87">Voi che la Grecia cole, <app><lem wit="#F31">e ’l</lem><rdg wit="#B24 #N35 #R18">E il</rdg></app> mondo <app><lem wit="#F31">ammira.</lem><rdg wit="#B24 #N35 #R18">Ammira.</rdg></app></l>
+        <l n="88"><app><lem wit="#F31">Ne l’armi e ne’ perigli</lem><rdg wit="#B24 #N35 #R18">Nell’armi e ne’ perigli</rdg></app></l>
+          <pb n="15" facs="#F31015"/>
+        <l n="89"><app><lem wit="#F31">Qual tanto amor le giovanette menti;</lem><rdg wit="#B24 #N35 #R18">Nell’armi e ne’ perigli</rdg></app></l>
+        <l n="90"><app><lem wit="#F31">Qual ne l’acerbo fato amor vi trasse?</lem><rdg wit="#B24 #N35 #R18">Nell’armi e ne’ perigli</rdg></app></l>
+        <l n="91">Come <app><lem wit="#F31">sì lieta, o figli,</lem><rdg wit="#B24 #N35 #R18">Sì lieta, o figli,</rdg></app></l>
+        <l n="92">L’ora estrema <app><lem wit="#F31">vi parve,</lem><rdg wit="#B24 #N35 #R18">Vi parve,</rdg></app> onde ridenti</l>
+        <l n="93">Correste al <app><lem wit="#F31">passo lagrimoso</lem><rdg wit="#B24 #N35 #R18">Passo lacrimoso</rdg></app> e duro?</l>
+        <l n="94">Parea ch’a danza e non a morte andasse</l>
+        <l n="95">Ciascun de’ <app><lem wit="#F31">vostri</lem><rdg wit="#B24 #N35 #R18">Vostri,</rdg></app> o a splendido convito:</l>
+        <l n="96">Ma v’attendea lo scuro</l>
+        <l n="97">Tartaro, e l’onda morta;</l>
+        <l n="98">Nè le spose vi <app><lem wit="#F31">fòro</lem><rdg wit="#B24 #N35 #R18">Foro</rdg></app> o i figli accanto</l>
+        <l n="99">Quando su l’aspro lito</l>
+        <l n="100">Senza baci moriste e senza pianto.</l>
+        <l n="101" rend="indent">Ma non senza de’ Persi orrida pena</l>
+        <l n="102">Ed immortale angoscia.</l>
+        <l n="103">Come lion di tori entro una mandra</l>
+        <l n="104">Or salta a quello in tergo e sì gli scava</l>
+        <l n="105">Con le zanne la schiena,</l>
+        <l n="106">Or questo fianco addenta or quella coscia;</l>
+        <l n="107">Tal fra le <app><lem wit="#F31">pérse</lem><rdg wit="#B24 #N35 #R18">Perse</rdg></app> torme infuriava</l>
+        <l n="108">L’ira de’ greci petti e la virtute.</l>
+        <l n="109">Ve’ cavalli supini e <app><lem wit="#F31">cavalieri;</lem><rdg wit="#B24 #N35 #R18">Cavalieri;</rdg></app></l>
+        <l n="110">Vedi <app><lem wit="#F31">ingombrar de’ vinti</lem><rdg wit="#B24 #N35 #R18">Intralciare ai vinti</rdg></app></l>
+        <l n="111">La fuga i carri e le tende cadute,</l>
+        <l n="112">E correr fra’ primieri</l>
+          <pb n="16" facs="#F31016"/>
+        <l n="113">Pallido e scapigliato esso tiranno;</l>
+        <l n="114">Ve’ come <app><lem wit="#F31">infusi e tinti</lem><rdg wit="#B24 #N35 #R18">Infusi e tinti</rdg></app></l>
+        <l n="115">Del barbarico sangue i greci <app><lem wit="#F31">eroi,</lem><rdg wit="#B24 #N35 #R18">Eroi,</rdg></app></l>
+        <l n="116">Cagione <app><lem wit="#F31">a i</lem><rdg wit="#B24 #N35 #R18">Ai</rdg></app> Persi d’infinito affanno,</l>
+        <l n="117">A poco a poco vinti <app><lem wit="#F31">da le</lem><rdg wit="#B24 #N35 #R18">Dalle</rdg></app> piaghe,</l>
+        <l n="118">L’un sopra l’altro cade. Oh viva, oh viva:</l>
+        <l n="119">Beatissimi voi</l>
+        <l n="120">Mentre nel mondo si favelli o scriva.</l>
+        <l n="121" rend="indent">Prima divelte, in mar precipitando,</l>
+        <l n="122">Spente <app><lem wit="#F31">ne l’imo</lem><rdg wit="#B24 #N35 #R18">Nell’imo</rdg></app> strideran le stelle,</l>
+        <l n="123">Che la memoria <app><lem wit="#F31">e ’l</lem><rdg wit="#B24 #N35 #R18">E il</rdg></app> vostro</l>
+        <l n="124">Amor trascorra o scemi.</l>
+        <l n="125"><app><lem wit="#F31">La tomba vostra è un’ara;</lem><rdg wit="#B24 #N35 #R18">La vostra tomba è un’ara;</rdg></app> e qua mostrando</l>
+        <l n="126">Verran le madri <app><lem wit="#F31">a i</lem><rdg wit="#B24 #N35 #R18">Ai</rdg></app> parvoli le belle</l>
+        <l n="127">Orme del vostro sangue. Ecco <app><lem wit="#F31">i’</lem><rdg wit="#B24 #N35 #R18">Io</rdg></app> mi <app><lem wit="#F31">prostro,</lem><rdg wit="#B24 #N35 #R18">Prostro,</rdg></app></l>
+        <l n="128">O benedetti, al suolo,</l>
+        <l n="129">E bacio questi sassi e queste <app><lem wit="#F31">zolle,</lem><rdg wit="#B24 #N35 #R18">Zolle,</rdg></app></l>
+        <l n="130">Che fien lodate e chiare eternamente</l>
+        <l n="131"><app><lem wit="#F31">Da l’uno a l’altro</lem><rdg wit="#B24 #N35 #R18">Dall’uno all’altro</rdg></app> polo.</l>
+        <l n="132">Deh foss’io pur con voi qui sotto, e molle</l>
+        <l n="133">Fosse del sangue mio quest’alma <app><lem wit="#F31">terra.</lem><rdg wit="#B24 #N35 #R18">Terra.</rdg></app></l>
+        <l n="134">Che se <app><lem wit="#F31">’l fato è diverso,</lem><rdg wit="#B24 #N35 #R18">Il fato è diverso,</rdg></app> e non consente</l>
+        <l n="135">Ch’io per la Grecia i moribondi lumi</l>
+        <l n="136">Chiuda prostrato in guerra,</l>
+          <pb n="17" facs="#F31017"/>
+        <l n="137">Così la vereconda</l>
+        <l n="138">Fama del vostro vate appo i futuri</l>
+        <l n="139">Possa, volendo i numi,</l>
+        <l n="140">Tanto durar quanto la vostra duri.</l>
+        </lg>
+        <div type="note" xml:id="f31_i_allitalia_nota_p_19" corresp="#i_allitalia">
+          <pb n="19" facs="#F31019"/>
+          <head>NOTA</head>
+          <p>"Il successo delle Termopile fu celebrato veramente da quello che in essa Canzone s’introduce a poetare, cioè da Simonide, tenuto dall’antichità fra gli ottimi poeti lirici, vissuto, che più rileva, ai medesimi tempi della scesa di Serse, e greco di patria. Questo suo fatto, lasciando l’epitaffio riportato da Cicerone e da altri, si dimostra da quello che scrive Diodoro nell’undecimo libro, dove recita anche certe parole d’esso poeta in questo proposito, due o tre delle quali sono espresse nel quinto verso dell’ultima strofe. Rispetto dunque alle predette circostanze del tempo e della persona, e d’altra parte riguardando alle qualità della materia per se medesima, io non credo che mai si trovasse argomento più degno di poema lirico e più fortunato di questo che fu scelto o più veramente sortito da Simonide. Perocchè se l’impresa delle Termo</p>
+        </div>
+        <div type="note" xml:id="f31_i_allitalia_nota_p_20" corresp="#i_allitalia">
+          <pb n="20" facs="#F31020"/>
+          <head>NOTA</head>
+          <p>pile fa tanta forza a noi che siamo stranieri verso quelli che l’operarono, e con tutto questo non possiamo tener le lagrime a leggerla semplicemente come passasse, e ventitrè secoli dopo ch’ell’è seguita; abbiamo a far congettura di quello che la sua ricordanza dovesse potere in un greco, e poeta, e de’ principali, avendo veduto il fatto si può dire, cogli occhi propri, andando per le stesse città vincitrici d’un esercito molto maggiore di quanti altri si ricorda la storia d’Europa, venendo a parte delle feste, delle meraviglie, del fervore di tutta una eccellentissima nazione, fatta anche più magnanima della sua natura dalla coscienza della gloria acquistata, e dall’emulazione di tanta virtù dimostrata pur allora dai suoi. Per queste considerazioni riputando a molta disavventura che le cose scritte da Simonide in quella occorrenza fossero perdute, non ch’io presumessi di riparare a questo danno, ma come per ingannare il desiderio, procurai di rappresentarmi alla mente le disposizioni dell’animo del poeta in quel</p>
+        </div>
+        <div type="note" xml:id="f31_i_allitalia_nota_p_21" corresp="#i_allitalia">
+          <pb n="21" facs="#F31021"/>
+          <head>NOTA</head>
+          <p>tempo, e con questo mezzo, salva la disuguaglianza degl’ingegni, tornare a fare la sua canzone; della quale io porto questo parere, che o fosse maravigliosa, o la fama di Simonide fosse vana e gli scritti perissero con poca ingiuria." <hi rend="italic">Lettera de-</hi> <hi rend="italic">dicatoria premessa alle edizioni di Roma</hi> <hi rend="italic">e di Bologna.</hi></p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

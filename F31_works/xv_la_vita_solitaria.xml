@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>XV. LA VITA SOLITARIA.</title>
+          <author>Giacomo Leopardi</author>
+          <respStmt>
+            <resp>Encoding and conversion by</resp>
+            <persName>Chiara Picardi</persName>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>LeopardiTEIConversion project</publisher>
+          <date when="2026">2026</date>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <title>Wikileopardi</title>
+            <date>2020</date>
+            <note>Corpus of Canti extracted from Wikileopardi's platform.</note>
+          </bibl>
+        <listWit>
+          <witness xml:id="B20">B20</witness>
+          <witness xml:id="B24">B24</witness>
+          <witness xml:id="B26">B26</witness>
+          <witness xml:id="F31">F31</witness>
+          <witness xml:id="N35">N35</witness>
+          <witness xml:id="R18">R18</witness>
+        </listWit>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <projectDesc>
+            <p>This project aims at standardizing the text and critical apparatus of Leopardi's Canti.</p>
+        </projectDesc>
+      </encodingDesc>
+    </teiHeader>
+
+  <facsimile>
+    <surface xml:id="F31105">
+      <graphic url="./assets/img/F31105.JPG"/>
+    </surface>
+    <surface xml:id="F31106">
+      <graphic url="./assets/img/F31106.JPG"/>
+    </surface>
+    <surface xml:id="F31107">
+      <graphic url="./assets/img/F31107.JPG"/>
+    </surface>
+    <surface xml:id="F31108">
+      <graphic url="./assets/img/F31108.JPG"/>
+    </surface>
+    <surface xml:id="F31109">
+      <graphic url="./assets/img/F31109.JPG"/>
+    </surface>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="poem" xml:id="xv_la_vita_solitaria">
+        <head>XV. LA VITA SOLITARIA.</head>
+        <lg>
+          <pb n="105" facs="#F31105"/>
+        <l n="1">La mattutina pioggia, allor che l’ale</l>
+        <l n="2">Battendo esulta <app><lem wit="#F31">ne la</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">nella</rdg></app> chiusa stanza</l>
+        <l n="3">La gallinella, ed al balcon s’affaccia</l>
+        <l n="4">L’abitator de’ campi, e il <app><lem wit="#F31">Sol</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">Sol</rdg></app> che nasce</l>
+        <l n="5">I suoi tremuli rai fra le cadenti</l>
+        <l n="6">Stille <app><lem wit="#F31">tramanda, a la</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">saetta, alla</rdg></app> capanna mia</l>
+        <l n="7">Dolcemente picchiando, mi risveglia;</l>
+        <l n="8">E sorgo, e i lievi nugoletti, e <app><lem wit="#F31">’l</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">il</rdg></app> primo</l>
+        <l n="9"><app><lem wit="#F31">De gli</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">Degli</rdg></app> augelli susurro, e l’aura fresca,</l>
+        <l n="10">E le ridenti piagge <app><lem wit="#F31">benedico;</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">benedico:</rdg></app></l>
+        <l n="11">Poichè voi, cittadine infauste mura,</l>
+        <l n="12">Vidi e conobbi assai, <app><lem wit="#F31">dove si prende</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">là dove segue</rdg></app></l>
+        <l n="13"><app><lem wit="#F31">Lo sventurato a scherno; e sventurato</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">Odio al dolor compagno; e doloroso</rdg></app></l>
+        <l n="14">Io vivo, e tal morrò, deh tosto! Alcuna</l>
+        <l n="15">Benchè scarsa pietà pur mi <app><lem wit="#F31">concede</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">dimostra</rdg></app></l>
+        <l n="16">Natura in questi lochi, un giorno oh quanto</l>
+        <l n="17">Verso me più <app><lem wit="#F31">cortese.</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">cortese!</rdg></app> E tu pur <app><lem wit="#F31">volgi</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">volgi Dai miseri lo sguardo; e tu, sdegnando</rdg></app></l>
+        <l n="18"><app><lem wit="#F31">Da i miseri lo sguardo; e tu, sdegnando</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">volgi Dai miseri lo sguardo; e tu, sdegnando</rdg></app></l>
+          <pb n="106" facs="#F31106"/>
+        <l n="19">Le <app><lem wit="#F31">sciaure</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">sciagure</rdg></app> e gli affanni, <app><lem wit="#F31">a la</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">alla</rdg></app> reina</l>
+        <l n="20">Felicità <app><lem wit="#F31">servi o natura.</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">servi, o natura.</rdg></app> In cielo,</l>
+        <l n="21">In terra amico <app><lem wit="#F31">a gl’infelici</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">Agl’infelici</rdg></app> alcuno</l>
+        <l n="22">E rifugio non resta altro che il ferro.</l>
+        <l n="23">Talor m’assido in solitaria parte,</l>
+        <l n="24">Sovra un rialto, al margine d’un lago</l>
+        <l n="25">Di taciturne piante incoronato.</l>
+        <l n="26">Ivi, quando il meriggio in ciel si volve,</l>
+        <l n="27">La sua tranquilla imago il <app><lem wit="#F31">Sol</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">Sol</rdg></app> dipinge,</l>
+        <l n="28">Ed erba o foglia non si crolla al vento,</l>
+        <l n="29">E non onda incresparsi, e non cicala</l>
+        <l n="30">Strider, nè batter penna augello in ramo,</l>
+        <l n="31">Nè farfalla ronzar, nè voce o moto</l>
+        <l n="32">Da presso nè da lunge odi nè vedi.</l>
+        <l n="33">Tien quelle rive altissima quiete;</l>
+        <l n="34">Ond’io quasi me stesso e <app><lem wit="#F31">’l</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">il</rdg></app> mondo obblio</l>
+        <l n="35">Sedendo immoto; e già mi par che sciolte</l>
+        <l n="36">Giaccian le membra mie, nè spirto o senso</l>
+        <l n="37">Più le commova, e lor quiete antica</l>
+        <l n="38">Co’ silenzi del loco si confonda.</l>
+        <l n="39"><app><lem wit="#F31">Amore</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">Amore,</rdg></app> amore, assai lungi volasti</l>
+        <l n="40">Dal petto <app><lem wit="#F31">mio,</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">mio,</rdg></app> che fu sì caldo un giorno,</l>
+        <l n="41">Anzi rovente. Con sua fredda mano</l>
+        <l n="42">Lo strinse la sciaura, e in ghiaccio è <app><lem wit="#F31">volto</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">Volto Nel fior</rdg></app></l>
+        <l n="43">Nel fior <app><lem wit="#F31">de gli</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">degli</rdg></app> anni. Mi <app><lem wit="#F31">sovviene il</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">sovvien del</rdg></app> tempo</l>
+          <pb n="107" facs="#F31107"/>
+        <l n="44">Che mi scendesti in seno. Era quel dolce</l>
+        <l n="45">E irrevocabil <app><lem wit="#F31">tempo,</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">tempo,</rdg></app> allor che s’apre</l>
+        <l n="46">Al guardo <app><lem wit="#F31">giovenil</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">giovanil</rdg></app> questa infelice</l>
+        <l n="47">Scena del mondo, e gli sorride in vista</l>
+        <l n="48">Di paradiso. Al garzoncello il core</l>
+        <l n="49">Di vergine speranza e di desio</l>
+        <l n="50">Balza nel petto; e già s’accinge <app><lem wit="#F31">a l’opra</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">all’opra</rdg></app></l>
+        <l n="51">Di questa vita come a danza o gioco</l>
+        <l n="52">Il misero mortal. Ma non sì tosto,</l>
+        <l n="53">Amor, di te m’accorsi, e <app><lem wit="#F31">’l</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">il</rdg></app> viver mio</l>
+        <l n="54">Fortuna avea già rotto, ed a questi occhi</l>
+        <l n="55">Non altro convenia che <app><lem wit="#F31">’l</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">il</rdg></app> pianger sempre.</l>
+        <l n="56">Pur se talvolta per le piagge apriche,</l>
+        <l n="57">Su la tacita aurora o quando al sole</l>
+        <l n="58">Brillano i tetti e i poggi e le campagne,</l>
+        <l n="59">Scontro di vaga donzelletta il viso;</l>
+        <l n="60">O qualor <app><lem wit="#F31">ne la</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">nella</rdg></app> placida quiete</l>
+        <l n="61">D’estiva notte, il vagabondo passo</l>
+        <l n="62">Di rincontro <app><lem wit="#F31">a le</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">alle</rdg></app> ville soffermando,</l>
+        <l n="63">L’erma terra contemplo, e di fanciulla</l>
+        <l n="64">Che <app><lem wit="#F31">a l’opre</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">all’opre</rdg></app> di sua man la notte aggiunge</l>
+        <l n="65">Odo sonar <app><lem wit="#F31">ne le</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">nelle</rdg></app> romite stanze</l>
+        <l n="66">L’arguto canto; a palpitar si move</l>
+        <l n="67">Questo mio cor di sasso: ahi, ma ritorna</l>
+        <l n="68">Tosto al ferreo sopor; ch’è fatto estrano</l>
+          <pb n="108" facs="#F31108"/>
+        <l n="69">Ogni moto soave al petto mio.</l>
+        <l n="70" rend="indent">O cara luna, al cui tranquillo raggio</l>
+        <l n="71">Danzan le lepri <app><lem wit="#F31">ne le</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">nelle</rdg></app> selve; e duolsi</l>
+        <l n="72"><app><lem wit="#F31">A la</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">Alla</rdg></app> mattina il cacciator, che trova</l>
+        <l n="73">L’orme intricate e false, e <app><lem wit="#F31">da i</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">dai</rdg></app> covili</l>
+        <l n="74">Error vario lo svia; salve, o benigna</l>
+        <l n="75"><app><lem wit="#F31">De le</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">Delle</rdg></app> notti reina. Infesto scende</l>
+        <l n="76">Il raggio tuo fra macchie e balze o dentro</l>
+        <l n="77">A deserti edifici, in su l’acciaro</l>
+        <l n="78">Del pallido ladron <app><lem wit="#F31">ch’a</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">Ch’a</rdg></app> teso orecchio</l>
+        <l n="79">Il fragor <app><lem wit="#F31">de le</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">delle</rdg></app> rote e de’ cavalli</l>
+        <l n="80">Da lungi osserva o il calpestio de’ piedi</l>
+        <l n="81">Su la tacita via; poscia improvviso</l>
+        <l n="82">Col suon <app><lem wit="#F31">de l’armi</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">dell’armi</rdg></app> e con la rauca voce</l>
+        <l n="83">E col funereo ceffo il core agghiaccia</l>
+        <l n="84">Al passegger, cui semivivo e nudo</l>
+        <l n="85">Lascia in breve tra’ sassi. Infesto occorre</l>
+        <l n="86">Per le contrade cittadine il bianco</l>
+        <l n="87">Tuo lume al drudo <app><lem wit="#F31">vil</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">vil,</rdg></app> che de gli alberghi</l>
+        <l n="88">Va radendo le mura e la secreta</l>
+        <l n="89">Ombra seguendo, e resta, e si spaura</l>
+        <l n="90"><app><lem wit="#F31">De le</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">Delle</rdg></app> ardenti lucerne e <app><lem wit="#F31">de gli</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">degli</rdg></app> aperti</l>
+        <l n="91">Balconi. Infesto <app><lem wit="#F31">a le</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">alle</rdg></app> malvage menti,</l>
+        <l n="92">A me sempre benigno il tuo cospetto</l>
+        <l n="93">Sarà per queste piagge, ove non altro</l>
+          <pb n="109" facs="#F31109"/>
+        <l n="94">Che lieti colli e spaziosi campi</l>
+        <l n="95">M’apri <app><lem wit="#F31">a la</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">alla</rdg></app> vista. Ed <app><lem wit="#F31">io soleva ancora</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">ancor io soleva</rdg></app>,</l>
+        <l n="96">Bench’innocente io fossi, il tuo vezzoso</l>
+        <l n="97">Raggio accusar <app><lem wit="#F31">ne gli</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">negli</rdg></app> abitati lochi,</l>
+        <l n="98">Quand’ei m’offriva al guardo <app><lem wit="#F31">umano</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">umano,</rdg></app> e quando</l>
+        <l n="99">Scopriva umani aspetti al guardo mio.</l>
+        <l n="100">Or sempre loderollo, o ch’io ti miri</l>
+        <l n="101">Veleggiar tra le nubi, o che serena</l>
+        <l n="102">Dominatrice <app><lem wit="#F31">de l’etereo</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">dell’etereo</rdg></app>campo,</l>
+        <l n="103">Questa flebil riguardi umana sede.</l>
+        <l n="104">Me spesso rivedrai solingo e muto</l>
+        <l n="105">Errar pe’ boschi e per le verdi rive,</l>
+        <l n="106">O seder sovra l’erbe, assai contento</l>
+        <l n="107">Se <app><lem wit="#F31">lena e core</lem><rdg wit="#B20 #B24 #B26 #N35 #R18">core e lena</rdg></app> a sospirar m’avanza.</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>
